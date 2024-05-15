@@ -1,0 +1,87 @@
+{
+    "socketid": "0ef1eb03-3cc6-48fc-91e9-38a74918dc72",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": null,
+    "documentkey": "diego:96bb3e8c-b6ca-4f77-88c4-10473e1b9a02:f51ac756-288c-4e83-94df-94afb3f85319:metadata",
+    "data": {
+        "dataset": {
+            "cas": "7732-18-5",
+            "cwNo": "10000",
+            "unit": "",
+            "hCodes": null,
+            "rCodes": null,
+            "vendor": "Fisher Scientific",
+            "volume": "",
+            "annexXIV": null,
+            "msdsType": "",
+            "dateAdded": 1710893995562,
+            "issueDate": "2008-04-22T00:00:00.000Z",
+            "countryCode": "GBR",
+            "ingredients": [],
+            "partNumbers": [],
+            "hazardRating": null,
+            "languageCode": "EN",
+            "materialName": "Water",
+            "vendorAddress": null,
+            "isReducingAgent": false,
+            "regulatoryBurden": null,
+            "rootMaterialName": "water",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": null,
+            "riskAssessmentHazardRatingDg": null
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 11,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 11,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [],
+                    "completed": true,
+                    "considered": [],
+                    "protectiveEquipment": null
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "riskBand": {
+                    "text": "No data",
+                    "rating": null,
+                    "isActive": false
+                },
+                "dustiness": "powder",
+                "statusCode": 200,
+                "volatility": "high",
+                "hazardRating": null,
+                "scaleOfUseSolids": "micrograms",
+                "scaleOfUseLiquids": "microlitres",
+                "frequencyOfUseLong": "daily",
+                "frequencyOfUseShort": 1,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": null,
+                "riskAssessmentHazardRatingDg": null
+            }
+        ]
+    },
+    "filekey": "diego:pd11008999.pdf:f51ac756-288c-4e83-94df-94afb3f85319"
+}

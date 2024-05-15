@@ -1,0 +1,160 @@
+{
+    "socketid": "9842c24b-361b-462d-acc1-196f328271ef",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/c6a0daf8-6c45-4ecb-8e0b-3e8eb86c8178:665fe46d-3781-46e2-8089-7a43df9ae99b",
+    "documentkey": "diego:c6a0daf8-6c45-4ecb-8e0b-3e8eb86c8178:665fe46d-3781-46e2-8089-7a43df9ae99b:metadata",
+    "data": {
+        "dataset": {
+            "un": "Not Applicable",
+            "cas": "Not Applicable",
+            "dgc": "Not Applicable",
+            "dgs": "Not Applicable",
+            "pkg": "Not Applicable",
+            "cwNo": "10000",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [],
+            "rCodes": [],
+            "vendor": "Life Technologies (a part of Thermo Fisher Scientific)",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "Not Applicable",
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710894001597,
+            "issueDate": "2018-08-27T00:00:00.000Z",
+            "countryCode": "AUS",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "Not Applicable",
+                    "dgc": "Not Applicable",
+                    "dgs": "Not Applicable",
+                    "cwNo": "10000",
+                    "hCodes": [],
+                    "vendor": "-1",
+                    "ecNumber": "231-791-2",
+                    "casNumber": "7732-18-5",
+                    "proportion": "100",
+                    "hazardRating": 0,
+                    "materialName": "No Classified Ingredients",
+                    "packingGroup": "Not Applicable",
+                    "poisonSchedule": "Not Applicable",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [],
+            "boilingPoint": 100,
+            "hazardRating": 0,
+            "languageCode": "EN",
+            "materialName": "WATER",
+            "meltingPoint": 0,
+            "shippingName": "Not Applicable",
+            "personsAtRisk": [],
+            "physicalState": "Liquid",
+            "vendorAddress": null,
+            "extractionDate": "2023-01-13T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "1.00",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.svg",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGLS.svg",
+                    "Translation": "Safety Glasses"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSLBC.svg",
+                    "Translation": "Laboratory Coat"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 23,
+                "color": 1,
+                "level": 1
+            },
+            "rootMaterialName": "water",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 0,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 0,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 12,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 12,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [],
+                    "completed": true,
+                    "considered": [],
+                    "protectiveEquipment": {}
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "liquid",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": false
+                },
+                "volatility": "medium",
+                "iloRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": false,
+                    "riskClass": 0
+                },
+                "hazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "micrograms",
+                "scaleOfUseLiquids": "microlitres",
+                "frequencyOfUseLong": "daily",
+                "frequencyOfUseShort": 1,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 0,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd19363448.pdf:665fe46d-3781-46e2-8089-7a43df9ae99b"
+}

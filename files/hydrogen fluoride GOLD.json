@@ -1,0 +1,359 @@
+{
+    "socketid": "789f7180-72c9-4c30-9556-5f2ba63b04d4",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/gold/1052_AUS_EN:bd1d054e-0a0f-40dd-b66e-5a05c2df3f3b",
+    "documentkey": "diego:da44f1e0-c067-08f9-e053-0100007f3533:bd1d054e-0a0f-40dd-b66e-5a05c2df3f3b:metadata",
+    "data": {
+        "dataset": {
+            "un": "1052",
+            "cas": "7664-39-3",
+            "dgc": "8",
+            "dgs": "6.1",
+            "pkg": "I",
+            "cwNo": "1052",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H300",
+                    "phrase": "Fatal if swallowed."
+                },
+                {
+                    "code": "H310",
+                    "phrase": "Fatal in contact with skin."
+                },
+                {
+                    "code": "H314",
+                    "phrase": "Causes severe skin burns and eye damage."
+                },
+                {
+                    "code": "H317",
+                    "phrase": "May cause an allergic skin reaction."
+                },
+                {
+                    "code": "H318",
+                    "phrase": "Causes serious eye damage."
+                },
+                {
+                    "code": "H330",
+                    "phrase": "Fatal if inhaled."
+                },
+                {
+                    "code": "H335",
+                    "phrase": "May cause respiratory irritation."
+                },
+                {
+                    "code": "H341",
+                    "phrase": "Suspected of causing genetic defects."
+                },
+                {
+                    "code": "H373",
+                    "phrase": "May cause damage to organs through prolonged or repeated exposure."
+                }
+            ],
+            "rCodes": [
+                {
+                    "code": "R26/27/28",
+                    "phrase": "Very toxic by inhalation, in contact with skin and if swallowed."
+                },
+                {
+                    "code": "R35",
+                    "phrase": "Causes severe burns."
+                },
+                {
+                    "code": "R37",
+                    "phrase": "Irritating to respiratory system."
+                },
+                {
+                    "code": "R68(3)",
+                    "phrase": "Possible risk of irreversible effects."
+                },
+                {
+                    "code": "R43",
+                    "phrase": "May cause SENSITISATION by skin contact."
+                },
+                {
+                    "code": "R41",
+                    "phrase": "Risk of serious damage to eyes."
+                },
+                {
+                    "code": "R48/20",
+                    "phrase": "Harmful: danger of serious damage to health by prolonged exposure through inhalation."
+                },
+                {
+                    "code": "R33?",
+                    "phrase": "Cumulative effects may result following exposure*."
+                },
+                {
+                    "code": "R39?",
+                    "phrase": "Danger of very serious irreversible effects."
+                }
+            ],
+            "vendor": "Chemwatch",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "231-634-8",
+            "msdsType": "",
+            "phaseOut": false,
+            "dateAdded": 1710890587316,
+            "issueDate": "2022-12-23T00:00:00.000Z",
+            "countryCode": "AUS",
+            "datasetType": 0,
+            "ingredients": [
+                {
+                    "un": "1052",
+                    "dgc": "8",
+                    "dgs": "6.1",
+                    "cwNo": "1052",
+                    "hCodes": [
+                        {
+                            "code": "H300",
+                            "phrase": "Fatal if swallowed."
+                        },
+                        {
+                            "code": "H310",
+                            "phrase": "Fatal in contact with skin."
+                        },
+                        {
+                            "code": "H314",
+                            "phrase": "Causes severe skin burns and eye damage."
+                        },
+                        {
+                            "code": "H317",
+                            "phrase": "May cause an allergic skin reaction."
+                        },
+                        {
+                            "code": "H318",
+                            "phrase": "Causes serious eye damage."
+                        },
+                        {
+                            "code": "H330",
+                            "phrase": "Fatal if inhaled."
+                        },
+                        {
+                            "code": "H335",
+                            "phrase": "May cause respiratory irritation."
+                        },
+                        {
+                            "code": "H341",
+                            "phrase": "Suspected of causing genetic defects."
+                        },
+                        {
+                            "code": "H373",
+                            "phrase": "May cause damage to organs through prolonged or repeated exposure."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "231-634-8",
+                    "casNumber": "7664-39-3",
+                    "proportion": "> 99.9",
+                    "hazardRating": 4,
+                    "materialName": "hydrogen fluoride",
+                    "packingGroup": "I",
+                    "poisonSchedule": "AS7/",
+                    "healthSurveillances": [
+                        {
+                            "name": "Occupational Asthma",
+                            "type": 3
+                        },
+                        {
+                            "name": "Occupational Dermatitis",
+                            "type": 4
+                        }
+                    ],
+                    "biologicalMonitorings": [
+                        {
+                            "bei": "2mg/litre",
+                            "source": "New Zealand Workplace Exposure Standards(WES) - Biological Exposure Indices",
+                            "notation": "– The BEI is not applicable to non- metal fluorides and organic fluoride-containing compounds\r\n\r\n– As dietary and environmental factors can vary the fluoride body concentrations, repeated measurements are necessary\r\n\r\n– Biological levels of fluorides are indicators of the potential risk of systemic toxicity and cannot be used for the evaluation of irritative effects",
+                            "determinant": "Fluoride in urine"
+                        },
+                        {
+                            "bei": "3mg/litre",
+                            "source": "New Zealand Workplace Exposure Standards(WES) - Biological Exposure Indices",
+                            "notation": "– The BEI is not applicable to non- metal fluorides and organic fluoride-containing compounds\r\n\r\n– As dietary and environmental factors can vary the fluoride body concentrations, repeated measurements are necessary\r\n\r\n– Biological levels of fluorides are indicators of the potential risk of systemic toxicity and cannot be used for the evaluation of irritative effects",
+                            "determinant": "Fluoride in urine"
+                        }
+                    ]
+                }
+            ],
+            "partNumbers": [],
+            "boilingPoint": 19.4,
+            "hazardRating": 4,
+            "languageCode": "EN",
+            "materialName": "hydrogen fluoride",
+            "meltingPoint": -83.3,
+            "shippingName": "HYDROGEN FLUORIDE, ANHYDROUS",
+            "personsAtRisk": [
+                "Those with allergic conditions including asthmatics",
+                "Those with respiratory complaints",
+                "Those with eye complaints",
+                "Offspring of and or Pregnant workers or workers who have recently given birth or are breastfeeding",
+                "Persons suffering from acute or chronic illness",
+                "Those with respiratory complaints (such as asthma), skin conditions (such as dermatitis) and eye conditions",
+                "Young Persons"
+            ],
+            "physicalState": "Liquid",
+            "vendorAddress": null,
+            "extractionDate": "2024-03-19T00:00:00Z",
+            "poisonSchedule": "AS7/",
+            "isReducingAgent": false,
+            "specificGravity": "0.988 @ 14 C",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSLGV.svg",
+                    "Translation": "Long Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.svg",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSBTS.svg",
+                    "Translation": "Boots"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSRES.svg",
+                    "Translation": "Full-Face Respirator"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 0,
+                "color": 1,
+                "level": 1
+            },
+            "rootMaterialName": "hydrogen fluoride",
+            "healthSurveillances": [
+                {
+                    "name": "Occupational Asthma",
+                    "type": 3
+                },
+                {
+                    "name": "Occupational Dermatitis",
+                    "type": 4
+                }
+            ],
+            "riskAssessmentHazardRating": {
+                "rating": 4,
+                "isSGroup": true
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 4,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 18,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 18,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        316,
+                        320,
+                        321,
+                        322,
+                        323,
+                        253,
+                        256,
+                        257,
+                        258,
+                        259,
+                        260,
+                        261,
+                        262,
+                        264,
+                        266,
+                        267,
+                        271,
+                        272,
+                        274,
+                        275,
+                        276,
+                        277,
+                        278,
+                        279,
+                        280,
+                        281,
+                        282,
+                        283,
+                        284,
+                        285,
+                        288,
+                        289,
+                        290,
+                        291,
+                        292,
+                        293,
+                        441,
+                        448
+                    ],
+                    "completed": true,
+                    "considered": [
+                        7,
+                        12,
+                        16
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "ilo": {
+                    "controls": [
+                        4
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "liquid",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Low",
+                    "rating": "2",
+                    "isActive": true
+                },
+                "volatility": "medium",
+                "iloRiskBand": {
+                    "text": "Low",
+                    "rating": "2",
+                    "isActive": true,
+                    "riskClass": 4
+                },
+                "hazardRating": {
+                    "rating": 4,
+                    "isSGroup": true
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 4,
+                    "isSGroup": true
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 4,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": null
+}
