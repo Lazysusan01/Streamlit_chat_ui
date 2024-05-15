@@ -4,43 +4,49 @@ import os
 from anthropic import AnthropicBedrock
 from dotenv import load_dotenv
 import boto3
+from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 
 def load_json(file_path):
     with open(file_path, 'r') as f:
         return json.load(f)
 
-load_dotenv('.env')
+# load_dotenv('.env')
 
-aws_access_key=os.getenv('aws_access_key_id')
-aws_secret_access_key = os.getenv('aws_secret_access_key')
-aws_session_token = os.getenv('aws_session_token')
-region = 'us-east-1'
+# aws_access_key=os.getenv('aws_access_key_id')
+# aws_secret_access_key = os.getenv('aws_secret_access_key')
+# aws_session_token = os.getenv('aws_session_token')
+# region = 'us-east-1'
 
-# session = boto3.Session(profile_name='nicomcgill')
-# session.resource('Bedrock'  , region_name='us-east-1')
+session = boto3.Session(profile_name='nicomcgill')
 
 def ask_claude(messages):
-       
-    client = AnthropicBedrock(aws_access_key=aws_access_key,
-                              aws_region=region, 
-                              aws_secret_key=aws_secret_access_key, 
-                              aws_session_token=aws_session_token)
+    try:
+        # Retrieve temporary credentials from the session
+        credentials = session.get_credentials()
+        current_credentials = credentials.get_frozen_credentials()
+        aws_access_key = current_credentials.access_key
+        aws_secret_key = current_credentials.secret_key
+        aws_session_token = current_credentials.token
 
-    with client.messages.stream(
-        model="anthropic.claude-3-sonnet-20240229-v1:0",
-        max_tokens=1024,
-        messages=messages,
-    ) as stream:
-        for chunk in stream.text_stream:
-            yield chunk
-    
+        # Create the AnthropicBedrock client using the retrieved credentials
+        client = AnthropicBedrock(
+            aws_access_key=aws_access_key,
+            aws_secret_key=aws_secret_key,
+            aws_session_token=aws_session_token,
+            aws_region='us-east-1'
+        )
 
-          
-    # input_tokens = completion.usage.input_tokens
-    # output_tokens = completion.usage.output_tokens
-    
-    # total_cost = total_cost = input_tokens*0.000003 + output_tokens*0.000015
-    # print(total_cost)
+        # Stream messages
+        with client.messages.stream(
+            model="anthropic.claude-3-sonnet-20240229-v1:0",
+            max_tokens=1024,
+            messages=messages,
+        ) as stream:
+            for chunk in stream.text_stream:
+                yield chunk
+
+    except (NoCredentialsError, PartialCredentialsError) as e:
+        print(f"Error retrieving credentials: {e}")
 
 def main():
     st.set_page_config(page_title="Chemwatch SDS Chatbot", page_icon=":robot_face:")
