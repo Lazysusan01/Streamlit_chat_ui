@@ -5,10 +5,11 @@ from anthropic import AnthropicBedrock
 from dotenv import load_dotenv
 import boto3
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError
+from PIL import Image
 
 session = boto3.Session(profile_name='nicomcgill')
 
-def ask_claude(messages):
+def ask_claude(system_prompt,messages):
     try:
         # Retrieve temporary credentials from the session
         credentials = session.get_credentials()
@@ -29,7 +30,8 @@ def ask_claude(messages):
         with client.messages.stream(
             model="anthropic.claude-3-sonnet-20240229-v1:0",
             max_tokens=1024,
-            messages=messages,
+            system=system_prompt,
+            messages=messages
         ) as stream:
             for chunk in stream.text_stream:
                 yield chunk
@@ -39,15 +41,30 @@ def ask_claude(messages):
 
 def main():
     st.set_page_config(page_title="Chemwatch SDS Chatbot", page_icon=":robot_face:")
-    st.title("Chemwatch SDS Chatbot")
+    sidebar_image = Image.open("CW_logo.png")
+    st.sidebar.image(sidebar_image)
+    st.title("Chemwatch SDS Chatbot :robot_face:")
     
+    language = st.sidebar.selectbox("Select a language", ["English", "French", "Spanish", "Uwu","Pirate"])
     st.sidebar.title("Select a chemical or select two to compare:")
-    # st.sidebar.
+    sidebar_styles = """
+    /* Sidebar styles */
+    [data-testid="stSidebar"] > div {
+        background-color: #C2DBFF;
+        color: white;
+    }
+        [data-testid="stSidebar"] img {
+        width: 200px;
+        height: auto;
+        align: center;
+    }
+    """
     
+    st.markdown(f"<style>{sidebar_styles}</style>", unsafe_allow_html=True)
     
     # List all the files in the files directory
     files = os.listdir("files")
-    filenames = [file.split(".")[0] for file in files]
+    filenames = [file.split(".")[0] for file in files if file.endswith(".json")]
     
     # create a dictionary to store the chemical name and its content
     chemical_content = {}
@@ -61,7 +78,7 @@ def main():
             chemical_content[filename] = content    
     
     with st.chat_message("assistant"):
-        st.write("Welcome to the Chemwatch SDS Chatbot. Please select a chemical(s) in the sidebar to compare.")
+        st.write("Welcome to the Chemwatch SDS Chatbot. Please select a chemical(s).")
         
     selected_chemical = st.sidebar.multiselect("Chemical(s)", filenames, max_selections=2)
     
@@ -75,21 +92,21 @@ def main():
             
         if len(selected_chemical) == 1:
             context = chemical_content[selected_chemical[0]]
-            st.session_state.messages.append({"role": "user", "content": f"This is an SDS for {selected_chemical}, you will be asked questions about it, please do not answer any questions outside of the sds, please keep your answer brief but not truncated. SDS: {context}"})
+            system_prompt = f"This is an SDS for {selected_chemical}, you will be asked questions about it, please do not answer any questions outside of the sds, please keep your answer brief but not truncated, respond only in {language}. <SDS>{context}</SDS>"
             query = st.chat_input(f"Ask me anything about {selected_chemical[0]}")
-            st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical}"})
+            # st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical}"})
         elif len(selected_chemical) == 2:
             chemical1 = chemical_content[selected_chemical[0]]
             chemical2 = chemical_content[selected_chemical[1]]
-            st.session_state.messages.append({"role": "user", "content": f"These are SDS for {selected_chemical[0]} and {selected_chemical[1]}, you will be asked questions about them, please do not answer any questions outside of the sds, please keep your answer brief but not truncated. SDS 1: {chemical1}, SDS 2: {chemical2}"})
+            system_prompt = f"These are SDS for {selected_chemical[0]} and {selected_chemical[1]}, you will be asked questions about them, please do not answer any questions outside of the sds, please keep your answer brief but not truncated, respond only in {language}. <SDS1>{chemical1}</SDS1> <SDS2>{chemical2}</SDS2>"
             query = st.chat_input(f"Ask me anything about {selected_chemical[0]} and {selected_chemical[1]}")
-            st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical[0]} and {selected_chemical[1]}"})
+            # st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical[0]} and {selected_chemical[1]}"})
         
         if query:
             st.session_state.messages.append({"role": "user", "content": query})
             with st.chat_message("user"):
                 st.markdown(query)
-            response = st.write_stream(ask_claude(st.session_state.messages))
+            response = st.write_stream(ask_claude(system_prompt, st.session_state.messages))
             st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
