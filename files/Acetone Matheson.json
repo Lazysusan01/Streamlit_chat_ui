@@ -1,0 +1,87 @@
+{
+    "socketid": "e73d175b-8571-46f7-b512-71b2c22caf16",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": null,
+    "documentkey": "diego:e5c12821-20de-3ef2-e053-0100007f4709:fe9ac533-d0dc-45ab-af39-998486bf3e57:metadata",
+    "data": {
+        "dataset": {
+            "cas": "67-64-1",
+            "cwNo": "1090",
+            "unit": "",
+            "hCodes": null,
+            "rCodes": null,
+            "vendor": "Matheson Tri-Gas",
+            "volume": "",
+            "annexXIV": null,
+            "msdsType": "",
+            "dateAdded": 1710893638645,
+            "issueDate": "2013-03-13T00:00:00.000Z",
+            "countryCode": "USA",
+            "ingredients": [],
+            "partNumbers": [],
+            "hazardRating": null,
+            "languageCode": "ES",
+            "materialName": "acetona",
+            "vendorAddress": null,
+            "isReducingAgent": false,
+            "regulatoryBurden": null,
+            "rootMaterialName": "acetone",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": null,
+            "riskAssessmentHazardRatingDg": null
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 24,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 24,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [],
+                    "completed": true,
+                    "considered": [],
+                    "protectiveEquipment": null
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "riskBand": {
+                    "text": "No data",
+                    "rating": null,
+                    "isActive": false
+                },
+                "dustiness": "powder",
+                "statusCode": 200,
+                "volatility": "high",
+                "hazardRating": null,
+                "scaleOfUseSolids": "micrograms",
+                "scaleOfUseLiquids": "microlitres",
+                "frequencyOfUseLong": "daily",
+                "frequencyOfUseShort": 1,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": null,
+                "riskAssessmentHazardRatingDg": null
+            }
+        ]
+    },
+    "filekey": "diego:pd101556263.pdf:fe9ac533-d0dc-45ab-af39-998486bf3e57"
+}

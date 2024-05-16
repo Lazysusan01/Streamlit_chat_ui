@@ -1,0 +1,255 @@
+{
+    "socketid": "c2e7692e-ff22-477b-9826-104933a59c96",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/325a62b0-0009-443f-981a-2a67ef74f908:29f0e9ce-03d9-451c-855f-40f4ed7837ea",
+    "documentkey": "diego:325a62b0-0009-443f-981a-2a67ef74f908:29f0e9ce-03d9-451c-855f-40f4ed7837ea:metadata",
+    "data": {
+        "dataset": {
+            "un": "1002",
+            "cas": "N'est pas applicable",
+            "dgc": "2.2",
+            "dgs": "N'est pas applicable",
+            "pkg": "N'est pas applicable",
+            "cwNo": "1002-1",
+            "dgs2": "N'est pas applicable",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H280",
+                    "phrase": "Contient un gaz sous pression; peut exploser sous l'effet de la chaleur."
+                }
+            ],
+            "rCodes": [],
+            "vendor": "Air Liquide",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "<p>N'est pas applicable</p>",
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710889312993,
+            "issueDate": "2017-09-01T00:00:00.000Z",
+            "countryCode": "FRA",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "1066",
+                    "dgc": "2.2",
+                    "dgs": "N'est pas applicable",
+                    "cwNo": "1066",
+                    "hCodes": [
+                        {
+                            "code": "H280",
+                            "phrase": "Contient un gaz sous pression; peut exploser sous l'effet de la chaleur."
+                        },
+                        {
+                            "code": "EUH044",
+                            "phrase": "Risque d'explosion si chauffé en ambiance confinée"
+                        }
+                    ],
+                    "vendor": "-1",
+                    "casNumber": "7727-37-9.",
+                    "proportion": "50-80",
+                    "hazardRating": 1,
+                    "materialName": "azote",
+                    "packingGroup": "N'est pas applicable",
+                    "poisonSchedule": "<p>N'est pas applicable</p>",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                },
+                {
+                    "un": "1072",
+                    "dgc": "2.2",
+                    "dgs": "5.1",
+                    "cwNo": "1072",
+                    "hCodes": [],
+                    "vendor": "26281",
+                    "ecNumber": "<p>N'est pas applicable</p>",
+                    "casNumber": "N'est pas applicable",
+                    "proportion": "20-25",
+                    "hazardRating": 0,
+                    "materialName": "oxygen",
+                    "packingGroup": "N'est pas applicable",
+                    "poisonSchedule": "<p>N'est pas applicable</p>",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [],
+            "hazardRating": 0,
+            "languageCode": "FR",
+            "materialName": "Air comprimé",
+            "shippingName": "AIR, COMPRESSED ",
+            "personsAtRisk": [],
+            "physicalState": "Gas",
+            "vendorAddress": null,
+            "extractionDate": "2023-04-07T00:00:00",
+            "poisonSchedule": "<p>N'est pas applicable</p>",
+            "isReducingAgent": false,
+            "specificGravity": "<p>N'est pas applicable</p>",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.svg",
+                    "Translation": "gants courts"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGGL.svg",
+                    "Translation": "lunettes protectrices"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSLBC.svg",
+                    "Translation": "Blouse de laboratoire"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 405,
+                "color": 2,
+                "level": 2
+            },
+            "rootMaterialName": "air, compressed",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 0,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 2,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 14,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 14,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        153,
+                        161,
+                        162,
+                        166,
+                        167,
+                        169,
+                        112,
+                        114,
+                        118,
+                        183,
+                        184,
+                        185,
+                        186,
+                        187,
+                        188,
+                        189,
+                        415,
+                        416,
+                        417,
+                        418,
+                        419,
+                        420,
+                        421,
+                        422,
+                        423,
+                        424,
+                        425,
+                        426,
+                        427,
+                        428,
+                        429,
+                        430,
+                        431,
+                        432,
+                        433,
+                        434,
+                        435,
+                        436,
+                        437,
+                        438,
+                        439,
+                        440,
+                        390,
+                        391,
+                        393,
+                        394,
+                        395,
+                        396,
+                        397,
+                        398,
+                        399,
+                        400,
+                        402,
+                        403,
+                        405,
+                        407,
+                        408,
+                        409,
+                        410,
+                        411,
+                        413,
+                        414
+                    ],
+                    "completed": true,
+                    "considered": [
+                        3,
+                        10,
+                        14
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Minimum",
+                    "rating": "1",
+                    "isActive": true
+                },
+                "volatility": "high",
+                "iloRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": false,
+                    "riskClass": 0
+                },
+                "hazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 2,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd102490011.pdf:29f0e9ce-03d9-451c-855f-40f4ed7837ea"
+}

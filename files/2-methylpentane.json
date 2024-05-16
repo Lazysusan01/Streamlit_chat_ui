@@ -1,0 +1,318 @@
+{
+    "socketid": "b193a29a-0b8e-4383-bbd5-4ef5f246d1d2",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/e5c12821-db5b-3ef2-e053-0100007f4709:2c2fe931-4bbe-4525-80f7-b89ef66baef7",
+    "documentkey": "diego:e5c12821-db5b-3ef2-e053-0100007f4709:2c2fe931-4bbe-4525-80f7-b89ef66baef7:metadata",
+    "data": {
+        "dataset": {
+            "un": "3393",
+            "cas": "Not Applicable",
+            "dgc": "4.2",
+            "dgs": "4.3",
+            "pkg": "I",
+            "cwNo": "85-3462",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [],
+            "rCodes": [
+                {
+                    "code": "R14/15",
+                    "phrase": "     Reacts violently with water liberating extremely flammable gases.  "
+                },
+                {
+                    "code": "R17",
+                    "phrase": "    Spontaneously flammable in air.   "
+                },
+                {
+                    "code": "R35",
+                    "phrase": "    Causes severe burns.   "
+                }
+            ],
+            "vendor": "Albemarle",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "Not Applicable",
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710889972782,
+            "issueDate": "2013-07-05T00:00:00.000Z",
+            "countryCode": "BEL",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "1208",
+                    "dgc": "3",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1208-2",
+                    "hCodes": [
+                        {
+                            "code": "H225",
+                            "phrase": "Highly flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H315",
+                            "phrase": "Causes skin irritation."
+                        },
+                        {
+                            "code": "H336",
+                            "phrase": "May cause drowsiness or dizziness."
+                        },
+                        {
+                            "code": "H304",
+                            "phrase": "May be fatal if swallowed and enters airways."
+                        },
+                        {
+                            "code": "H411",
+                            "phrase": "Toxic to aquatic life with long lasting effects."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "203-523-4",
+                    "casNumber": "107-83-5",
+                    "proportion": "<2.5",
+                    "hazardRating": 3,
+                    "materialName": "2-methylpentane",
+                    "packingGroup": "II",
+                    "poisonSchedule": "S5",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": [
+                        {
+                            "bei": "3 mg/g·Cr (after acid hydrolysis)",
+                            "source": "Japan Occupational Exposure Limit based on Biological Monitoring(OEL-B)",
+                            "determinant": "2,5-Hexanedione urine"
+                        },
+                        {
+                            "bei": "0.3 mg/g·Cr (without acid hydrolysis)",
+                            "source": "Japan Occupational Exposure Limit based on Biological Monitoring(OEL-B)",
+                            "determinant": "2,5-Hexanedione urine"
+                        }
+                    ]
+                },
+                {
+                    "un": "1294",
+                    "dgc": "3",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1294",
+                    "hCodes": [
+                        {
+                            "code": "H225",
+                            "phrase": "Highly flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H315",
+                            "phrase": "Causes skin irritation."
+                        },
+                        {
+                            "code": "H361d",
+                            "phrase": "Suspected of damaging the unborn child."
+                        },
+                        {
+                            "code": "H336",
+                            "phrase": "May cause drowsiness or dizziness."
+                        },
+                        {
+                            "code": "H373",
+                            "phrase": "May cause damage to organs through prolonged or repeated exposure."
+                        },
+                        {
+                            "code": "H304",
+                            "phrase": "May be fatal if swallowed and enters airways."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "203-625-9",
+                    "casNumber": "108-88-3",
+                    "proportion": "<2",
+                    "hazardRating": 3,
+                    "materialName": "toluene",
+                    "packingGroup": "II",
+                    "poisonSchedule": "S6",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [],
+            "hazardRating": 4,
+            "languageCode": "EN",
+            "materialName": "ActivCat Z6",
+            "shippingName": "Organometallic substance, solid, pyrophoric, water-reactive * ",
+            "personsAtRisk": [],
+            "physicalState": "Solid",
+            "vendorAddress": null,
+            "extractionDate": "2019-04-06T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "Not Available",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.gif",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGGL.gif",
+                    "Translation": "Goggles"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSFFS.gif",
+                    "Translation": "Full-Face Shield"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.gif",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSBTS.gif",
+                    "Translation": "Boots"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 0,
+                "color": 1,
+                "level": 1
+            },
+            "rootMaterialName": "ActivCat Z6",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 0,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 4,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "kg",
+                "volume": 80,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "kg",
+                "volume": 80,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        152,
+                        155,
+                        117,
+                        120,
+                        333,
+                        336,
+                        337,
+                        338,
+                        344,
+                        240,
+                        242,
+                        234,
+                        236,
+                        238,
+                        190,
+                        191,
+                        192,
+                        193,
+                        171,
+                        173,
+                        176,
+                        177,
+                        179,
+                        503,
+                        506,
+                        508,
+                        510,
+                        517,
+                        523,
+                        470,
+                        471,
+                        463,
+                        464,
+                        465,
+                        466,
+                        467,
+                        468,
+                        469,
+                        384,
+                        385,
+                        386,
+                        387,
+                        388,
+                        389,
+                        353,
+                        355,
+                        356,
+                        357,
+                        359,
+                        360,
+                        361,
+                        362,
+                        363
+                    ],
+                    "completed": true,
+                    "considered": [
+                        1,
+                        5,
+                        9,
+                        13,
+                        16
+                    ],
+                    "protectiveEquipment": {
+                        "coat": "overall",
+                        "boots": "boots",
+                        "gloves": "gloves",
+                        "glasses": "goggless"
+                    }
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "solid",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Low",
+                    "rating": "2",
+                    "isActive": true
+                },
+                "volatility": "medium",
+                "iloRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": false,
+                    "riskClass": 0
+                },
+                "hazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 4,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd15423415.pdf:2c2fe931-4bbe-4525-80f7-b89ef66baef7"
+}

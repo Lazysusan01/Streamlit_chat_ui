@@ -1,0 +1,267 @@
+{
+    "socketid": "f0fc706b-bbbe-41dd-907a-c0ee072630c0",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/e5c12821-9568-3ef2-e053-0100007f4709:a06a159e-1225-4d09-9fbf-ccc8d53fa609",
+    "documentkey": "diego:e5c12821-9568-3ef2-e053-0100007f4709:a06a159e-1225-4d09-9fbf-ccc8d53fa609:metadata",
+    "data": {
+        "dataset": {
+            "un": "2813",
+            "cas": "Not Applicable",
+            "dgc": "4.3",
+            "dgs": "Not Applicable",
+            "pkg": "III",
+            "cwNo": "45661",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H315",
+                    "phrase": "Causes skin irritation."
+                },
+                {
+                    "code": "H335",
+                    "phrase": "May cause respiratory irritation."
+                },
+                {
+                    "code": "H319",
+                    "phrase": "Causes serious eye irritation."
+                }
+            ],
+            "rCodes": [],
+            "vendor": "ESPI Metals",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "Not Applicable",
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710890104196,
+            "issueDate": "2016-02-01T00:00:00.000Z",
+            "countryCode": "USA",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "3131",
+                    "dgc": "4.3",
+                    "dgs": "8",
+                    "cwNo": "45661",
+                    "hCodes": [
+                        {
+                            "code": "H228",
+                            "phrase": "Flammable solid."
+                        },
+                        {
+                            "code": "H261",
+                            "phrase": "In contact with water releases flammable gases."
+                        },
+                        {
+                            "code": "H303",
+                            "phrase": "May be harmful if swallowed."
+                        },
+                        {
+                            "code": "H314",
+                            "phrase": "Causes severe skin burns and eye damage."
+                        },
+                        {
+                            "code": "H318",
+                            "phrase": "Causes serious eye damage."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "246-140-8",
+                    "casNumber": "24304-00-5",
+                    "proportion": "100",
+                    "hazardRating": 3,
+                    "materialName": "aluminium nitride",
+                    "packingGroup": "III",
+                    "poisonSchedule": "Not Applicable",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [],
+            "boilingPoint": 2000,
+            "hazardRating": 2,
+            "languageCode": "EN",
+            "materialName": "Aluminum Nitride",
+            "meltingPoint": 2201,
+            "shippingName": "WATER-REACTIVE SOLID, N.O.S. ",
+            "personsAtRisk": [
+                "Those with respiratory complaints",
+                "Those with skin conditions including dermatitis",
+                "Those with eye complaints"
+            ],
+            "physicalState": "Unknown",
+            "vendorAddress": null,
+            "extractionDate": "2020-02-27T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "3.26",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.gif",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGLS.gif",
+                    "Translation": "Safety Glasses"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.gif",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSBTS.gif",
+                    "Translation": "Boots"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 437,
+                "color": 2,
+                "level": 2
+            },
+            "rootMaterialName": "aluminium nitride",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 3,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 2,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 63,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 63,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        152,
+                        155,
+                        117,
+                        120,
+                        333,
+                        336,
+                        337,
+                        338,
+                        344,
+                        240,
+                        242,
+                        234,
+                        236,
+                        238,
+                        190,
+                        191,
+                        192,
+                        193,
+                        171,
+                        173,
+                        176,
+                        177,
+                        179,
+                        503,
+                        506,
+                        508,
+                        510,
+                        517,
+                        523,
+                        470,
+                        471,
+                        463,
+                        464,
+                        465,
+                        466,
+                        467,
+                        468,
+                        469,
+                        384,
+                        385,
+                        386,
+                        387,
+                        388,
+                        389,
+                        353,
+                        355,
+                        356,
+                        357,
+                        359,
+                        360,
+                        361,
+                        362,
+                        363
+                    ],
+                    "completed": true,
+                    "considered": [
+                        1,
+                        13,
+                        16
+                    ],
+                    "protectiveEquipment": {
+                        "coat": "overall",
+                        "boots": "boots",
+                        "gloves": "gloves",
+                        "glasses": "glassess"
+                    }
+                },
+                "ilo": {
+                    "controls": [
+                        4
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Minimum",
+                    "rating": "1",
+                    "isActive": true
+                },
+                "volatility": "high",
+                "iloRiskBand": {
+                    "text": "Low",
+                    "rating": "2",
+                    "isActive": true,
+                    "riskClass": 4
+                },
+                "hazardRating": {
+                    "rating": 3,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 3,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 2,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd18244369.pdf:a06a159e-1225-4d09-9fbf-ccc8d53fa609"
+}

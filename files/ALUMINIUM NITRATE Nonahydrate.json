@@ -1,0 +1,296 @@
+{
+    "socketid": "1292d850-3ab0-4e0e-9657-a8b3bba4f96a",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/a93d4e31-b23c-463c-b7ad-9ba552d5890a:4823dba0-5909-4ec7-89c2-946c94c2123c",
+    "documentkey": "diego:a93d4e31-b23c-463c-b7ad-9ba552d5890a:4823dba0-5909-4ec7-89c2-946c94c2123c:metadata",
+    "data": {
+        "dataset": {
+            "un": "1438",
+            "cas": "7784-27-2",
+            "dgc": "5.1",
+            "dgs": "Not Applicable",
+            "pkg": "III",
+            "cwNo": "1438",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H318",
+                    "phrase": "Causes serious eye damage."
+                }
+            ],
+            "rCodes": [],
+            "vendor": "CHEMSUPPLY AUSTRALIA PTY LTD",
+            "volume": "",
+            "annexXIV": {},
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710890241720,
+            "issueDate": "2021-01-01T00:00:00.000Z",
+            "countryCode": "AUS",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "1438",
+                    "dgc": "5.1",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1438",
+                    "hCodes": [
+                        {
+                            "code": "H272",
+                            "phrase": "May intensify fire; oxidiser."
+                        },
+                        {
+                            "code": "H401",
+                            "phrase": "Toxic to aquatic life."
+                        },
+                        {
+                            "code": "H361",
+                            "phrase": "Suspected of damaging fertility or the unborn child."
+                        },
+                        {
+                            "code": "H319",
+                            "phrase": "Causes serious eye irritation."
+                        },
+                        {
+                            "code": "H315",
+                            "phrase": "Causes skin irritation."
+                        },
+                        {
+                            "code": "H302",
+                            "phrase": "Harmful if swallowed."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "236-751-8",
+                    "casNumber": "13473-90-0",
+                    "proportion": "100",
+                    "hazardRating": 2,
+                    "materialName": "aluminium nitrate",
+                    "packingGroup": "III",
+                    "poisonSchedule": "Not Applicable",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [
+                "AA056",
+                "1CH0N"
+            ],
+            "hazardRating": 3,
+            "languageCode": "EN",
+            "materialName": "ALUMINIUM NITRATE Nonahydrate",
+            "meltingPoint": 73,
+            "shippingName": "ALUMINIUM NITRATE ",
+            "personsAtRisk": [
+                "Those with eye complaints"
+            ],
+            "physicalState": "Solid",
+            "vendorAddress": null,
+            "extractionDate": "2023-10-04T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "Not Available",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.svg",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGGL.svg",
+                    "Translation": "Goggles"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSFFS.svg",
+                    "Translation": "Full-Face Shield"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.svg",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSBTS.svg",
+                    "Translation": "Boots"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 252,
+                "color": 2,
+                "level": 2
+            },
+            "rootMaterialName": "aluminium nitrate",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 3,
+                "isSGroup": true
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 2,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "kg",
+                "volume": 32,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "kg",
+                "volume": 32,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        156,
+                        159,
+                        163,
+                        165,
+                        137,
+                        142,
+                        145,
+                        123,
+                        124,
+                        125,
+                        129,
+                        130,
+                        131,
+                        132,
+                        113,
+                        115,
+                        121,
+                        105,
+                        107,
+                        109,
+                        307,
+                        308,
+                        309,
+                        310,
+                        311,
+                        312,
+                        313,
+                        314,
+                        317,
+                        318,
+                        324,
+                        326,
+                        329,
+                        331,
+                        303,
+                        252,
+                        254,
+                        255,
+                        263,
+                        265,
+                        268,
+                        269,
+                        270,
+                        273,
+                        286,
+                        287,
+                        294,
+                        227,
+                        229,
+                        231,
+                        224,
+                        226,
+                        174,
+                        180,
+                        182,
+                        511,
+                        512,
+                        515,
+                        519,
+                        520,
+                        525,
+                        526,
+                        541,
+                        543,
+                        546,
+                        548,
+                        551,
+                        553,
+                        555,
+                        557,
+                        559,
+                        561,
+                        455,
+                        456,
+                        457,
+                        458,
+                        459,
+                        460,
+                        461,
+                        462,
+                        392,
+                        401,
+                        404,
+                        406,
+                        412,
+                        346,
+                        348,
+                        350
+                    ],
+                    "completed": true,
+                    "considered": [
+                        13,
+                        15,
+                        16
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "ilo": {
+                    "controls": [
+                        3
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "solid",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": true
+                },
+                "volatility": "medium",
+                "iloRiskBand": {
+                    "text": "Minimum",
+                    "rating": "1",
+                    "isActive": true,
+                    "riskClass": 3
+                },
+                "hazardRating": {
+                    "rating": 3,
+                    "isSGroup": true
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 3,
+                    "isSGroup": true
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 2,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd67900646.pdf:4823dba0-5909-4ec7-89c2-946c94c2123c"
+}

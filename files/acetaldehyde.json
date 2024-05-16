@@ -1,0 +1,319 @@
+{
+    "socketid": "dfc24920-a266-4052-ad38-f092b20eb3d4",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/e5c12821-2021-3ef2-e053-0100007f4709:8ab5fe34-bdce-4c3f-8f5b-3665b3d59ecd",
+    "documentkey": "diego:e5c12821-2021-3ef2-e053-0100007f4709:8ab5fe34-bdce-4c3f-8f5b-3665b3d59ecd:metadata",
+    "data": {
+        "dataset": {
+            "un": "1089",
+            "cas": "Not Applicable",
+            "dgc": "3",
+            "dgs": "Not Applicable",
+            "pkg": "I",
+            "cwNo": "1089",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [],
+            "rCodes": [],
+            "vendor": "Avantor Performance Materials",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "Not Applicable",
+            "msdsType": "NON_GHS_DSD",
+            "phaseOut": false,
+            "dateAdded": 1710889666666,
+            "issueDate": "2011-03-31T00:00:00.000Z",
+            "countryCode": "USA",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "1089",
+                    "dgc": "3",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1089",
+                    "hCodes": [
+                        {
+                            "code": "H224",
+                            "phrase": "Extremely flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H302",
+                            "phrase": "Harmful if swallowed."
+                        },
+                        {
+                            "code": "H319",
+                            "phrase": "Causes serious eye irritation."
+                        },
+                        {
+                            "code": "H341",
+                            "phrase": "Suspected of causing genetic defects."
+                        },
+                        {
+                            "code": "H351",
+                            "phrase": "Suspected of causing cancer."
+                        },
+                        {
+                            "code": "H361",
+                            "phrase": "Suspected of damaging fertility or the unborn child."
+                        },
+                        {
+                            "code": "H335",
+                            "phrase": "May cause respiratory irritation."
+                        },
+                        {
+                            "code": "H373",
+                            "phrase": "May cause damage to organs through prolonged or repeated exposure."
+                        },
+                        {
+                            "code": "H413",
+                            "phrase": "May cause long lasting harmful effects to aquatic life."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "200-836-8",
+                    "casNumber": "75-07-0",
+                    "proportion": "100",
+                    "hazardRating": 4,
+                    "materialName": "acetaldehyde",
+                    "packingGroup": "I",
+                    "poisonSchedule": "Not Applicable",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [
+                "A0060"
+            ],
+            "boilingPoint": 21,
+            "hazardRating": 4,
+            "languageCode": "EN",
+            "materialName": "ACETALDEHYDE",
+            "meltingPoint": -123.5,
+            "shippingName": "Acetaldehyde ",
+            "personsAtRisk": [],
+            "physicalState": "Unknown",
+            "vendorAddress": null,
+            "extractionDate": "2017-08-23T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "0.79 @ 16C/4C",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.gif",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGGL.gif",
+                    "Translation": "Goggles"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.gif",
+                    "Translation": "Overalls"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 606,
+                "color": 2,
+                "level": 2
+            },
+            "rootMaterialName": "acetaldehyde",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 0,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 4,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 23,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 23,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        151,
+                        154,
+                        168,
+                        133,
+                        135,
+                        139,
+                        140,
+                        141,
+                        143,
+                        147,
+                        148,
+                        149,
+                        150,
+                        116,
+                        119,
+                        332,
+                        334,
+                        335,
+                        339,
+                        340,
+                        341,
+                        342,
+                        343,
+                        345,
+                        295,
+                        296,
+                        297,
+                        298,
+                        299,
+                        300,
+                        301,
+                        302,
+                        244,
+                        245,
+                        246,
+                        247,
+                        248,
+                        249,
+                        250,
+                        239,
+                        241,
+                        243,
+                        233,
+                        235,
+                        237,
+                        222,
+                        170,
+                        172,
+                        178,
+                        564,
+                        500,
+                        501,
+                        502,
+                        504,
+                        505,
+                        507,
+                        509,
+                        514,
+                        518,
+                        522,
+                        491,
+                        492,
+                        493,
+                        494,
+                        495,
+                        496,
+                        497,
+                        498,
+                        499,
+                        472,
+                        473,
+                        474,
+                        475,
+                        476,
+                        477,
+                        478,
+                        479,
+                        480,
+                        481,
+                        482,
+                        483,
+                        484,
+                        485,
+                        486,
+                        487,
+                        488,
+                        489,
+                        490,
+                        381,
+                        382,
+                        383,
+                        377,
+                        378,
+                        379,
+                        380,
+                        373,
+                        374,
+                        375,
+                        376,
+                        372,
+                        371,
+                        352,
+                        354,
+                        358,
+                        364,
+                        365,
+                        366,
+                        367,
+                        368,
+                        369,
+                        370
+                    ],
+                    "completed": true,
+                    "considered": [
+                        1,
+                        2,
+                        5
+                    ],
+                    "protectiveEquipment": {
+                        "coat": "overall",
+                        "gloves": "gloves",
+                        "glasses": "goggless"
+                    }
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Moderate",
+                    "rating": "3",
+                    "isActive": true
+                },
+                "volatility": "high",
+                "iloRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": false,
+                    "riskClass": 0
+                },
+                "hazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 4,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd9317586.pdf:8ab5fe34-bdce-4c3f-8f5b-3665b3d59ecd"
+}

@@ -1,0 +1,394 @@
+{
+    "socketid": "3eb4faf1-1128-46dd-b9cc-1120051837f4",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/e5c12821-6005-3ef2-e053-0100007f4709:5ebaa4af-4ed0-47b9-8d1a-e569421dca37",
+    "documentkey": "diego:e5c12821-6005-3ef2-e053-0100007f4709:5ebaa4af-4ed0-47b9-8d1a-e569421dca37:metadata",
+    "data": {
+        "dataset": {
+            "un": "1099",
+            "cas": "Not Applicable",
+            "dgc": "3",
+            "dgs": "6.1",
+            "pkg": "I",
+            "cwNo": "1099",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H225",
+                    "phrase": "Highly flammable liquid and vapour."
+                },
+                {
+                    "code": "H400",
+                    "phrase": "Very toxic to aquatic life."
+                },
+                {
+                    "code": "H350",
+                    "phrase": "May cause cancer."
+                },
+                {
+                    "code": "H340",
+                    "phrase": "May cause genetic defects."
+                },
+                {
+                    "code": "H314",
+                    "phrase": "Causes severe skin burns and eye damage."
+                },
+                {
+                    "code": "H301",
+                    "phrase": "Toxic if swallowed."
+                }
+            ],
+            "rCodes": [],
+            "vendor": "Merck Life Science OY (Sigma-Aldrich)",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "Not Applicable",
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710889683263,
+            "issueDate": "2016-03-30T00:00:00.000Z",
+            "countryCode": "FIN",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "1099",
+                    "dgc": "3",
+                    "dgs": "6.1",
+                    "cwNo": "1099",
+                    "hCodes": [
+                        {
+                            "code": "H224",
+                            "phrase": "Extremely flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H301+H331",
+                            "phrase": "Toxic if swallowed or if inhaled."
+                        },
+                        {
+                            "code": "H313",
+                            "phrase": "May be harmful in contact with skin."
+                        },
+                        {
+                            "code": "H314",
+                            "phrase": "Causes severe skin burns and eye damage."
+                        },
+                        {
+                            "code": "H318",
+                            "phrase": "Causes serious eye damage."
+                        },
+                        {
+                            "code": "H400",
+                            "phrase": "Very toxic to aquatic life."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "203-446-6",
+                    "casNumber": "106-95-6",
+                    "proportion": "<=99.92",
+                    "hazardRating": 4,
+                    "materialName": "allyl bromide",
+                    "packingGroup": "I",
+                    "poisonSchedule": "Not Applicable",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                },
+                {
+                    "un": "1280",
+                    "dgc": "3",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1280",
+                    "hCodes": [
+                        {
+                            "code": "H224",
+                            "phrase": "Extremely flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H302",
+                            "phrase": "Harmful if swallowed."
+                        },
+                        {
+                            "code": "H311",
+                            "phrase": "Toxic in contact with skin."
+                        },
+                        {
+                            "code": "H331",
+                            "phrase": "Toxic if inhaled."
+                        },
+                        {
+                            "code": "H319",
+                            "phrase": "Causes serious eye irritation."
+                        },
+                        {
+                            "code": "H340",
+                            "phrase": "May cause genetic defects."
+                        },
+                        {
+                            "code": "H350",
+                            "phrase": "May cause cancer."
+                        },
+                        {
+                            "code": "H335",
+                            "phrase": "May cause respiratory irritation."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "200-879-2",
+                    "casNumber": "75-56-9",
+                    "proportion": "<=0.09",
+                    "hazardRating": 4,
+                    "materialName": "propylene oxide",
+                    "packingGroup": "I",
+                    "poisonSchedule": "S7",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [
+                "A29585"
+            ],
+            "boilingPoint": 70,
+            "hazardRating": 4,
+            "languageCode": "EN",
+            "materialName": "Allyl bromide",
+            "meltingPoint": -119,
+            "shippingName": "ALLYL BROMIDE ",
+            "personsAtRisk": [
+                "Offspring of and or Pregnant workers or workers who have recently given birth or are breastfeeding",
+                "Persons suffering from acute or chronic illness",
+                "Those with respiratory complaints (such as asthma), skin conditions (such as dermatitis) and eye conditions",
+                "Young Persons"
+            ],
+            "physicalState": "Liquid",
+            "vendorAddress": null,
+            "extractionDate": "2020-10-16T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "1.398 g/mL at 25 °C",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.gif",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.gif",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSBTS.gif",
+                    "Translation": "Boots"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSRES.gif",
+                    "Translation": "Full-Face Respirator"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 271,
+                "color": 2,
+                "level": 2
+            },
+            "rootMaterialName": "allyl bromide",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 5,
+                "isSGroup": true
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 5,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 25,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 25,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        151,
+                        154,
+                        168,
+                        133,
+                        135,
+                        139,
+                        140,
+                        141,
+                        143,
+                        147,
+                        148,
+                        149,
+                        150,
+                        116,
+                        119,
+                        332,
+                        334,
+                        335,
+                        339,
+                        340,
+                        341,
+                        342,
+                        343,
+                        345,
+                        295,
+                        296,
+                        297,
+                        298,
+                        299,
+                        300,
+                        301,
+                        302,
+                        244,
+                        245,
+                        246,
+                        247,
+                        248,
+                        249,
+                        250,
+                        239,
+                        241,
+                        243,
+                        233,
+                        235,
+                        237,
+                        222,
+                        170,
+                        172,
+                        178,
+                        564,
+                        500,
+                        501,
+                        502,
+                        504,
+                        505,
+                        507,
+                        509,
+                        514,
+                        518,
+                        522,
+                        491,
+                        492,
+                        493,
+                        494,
+                        495,
+                        496,
+                        497,
+                        498,
+                        499,
+                        472,
+                        473,
+                        474,
+                        475,
+                        476,
+                        477,
+                        478,
+                        479,
+                        480,
+                        481,
+                        482,
+                        483,
+                        484,
+                        485,
+                        486,
+                        487,
+                        488,
+                        489,
+                        490,
+                        381,
+                        382,
+                        383,
+                        377,
+                        378,
+                        379,
+                        380,
+                        373,
+                        374,
+                        375,
+                        376,
+                        372,
+                        371,
+                        352,
+                        354,
+                        358,
+                        364,
+                        365,
+                        366,
+                        367,
+                        368,
+                        369,
+                        370
+                    ],
+                    "completed": true,
+                    "considered": [
+                        1,
+                        2,
+                        5
+                    ],
+                    "protectiveEquipment": {
+                        "coat": "overall",
+                        "boots": "boots",
+                        "gloves": "gloves",
+                        "respirator": "respirator"
+                    }
+                },
+                "ilo": {
+                    "controls": [
+                        5
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "liquid",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Moderate",
+                    "rating": "3",
+                    "isActive": true
+                },
+                "volatility": "medium",
+                "iloRiskBand": {
+                    "text": "Moderate",
+                    "rating": "3",
+                    "isActive": true,
+                    "riskClass": 5
+                },
+                "hazardRating": {
+                    "rating": 5,
+                    "isSGroup": true
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 5,
+                    "isSGroup": true
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 5,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd28120446.pdf:5ebaa4af-4ed0-47b9-8d1a-e569421dca37"
+}

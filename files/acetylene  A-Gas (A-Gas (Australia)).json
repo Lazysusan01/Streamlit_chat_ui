@@ -1,0 +1,406 @@
+{
+    "socketid": "7e662ff3-d0fd-40f6-b989-9df4b33e8816",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/wewrite/1001_defaultWewriteDomain_e5c12821-3c33-3ef2-e053-0100007f4709_AUS_EN:c79362af-c4c9-4bca-b262-24371ae9b3b2",
+    "documentkey": "diego:e5c12821-3c33-3ef2-e053-0100007f4709:c79362af-c4c9-4bca-b262-24371ae9b3b2:metadata",
+    "data": {
+        "dataset": {
+            "un": "1001",
+            "cas": "74-86-2",
+            "dgc": "2.1",
+            "dgs": "Not Applicable",
+            "pkg": "Not Applicable",
+            "cwNo": "1001",
+            "dgs2": "Not Applicable",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H220",
+                    "phrase": "Extremely flammable gas."
+                },
+                {
+                    "code": "H224",
+                    "phrase": "Extremely flammable liquid and vapour."
+                },
+                {
+                    "code": "H240",
+                    "phrase": "Heating may cause an explosion."
+                },
+                {
+                    "code": "H280",
+                    "phrase": "Contains gas under pressure; may explode if heated."
+                },
+                {
+                    "code": "AUH001",
+                    "phrase": "Explosive when dry."
+                },
+                {
+                    "code": "AUH006",
+                    "phrase": "Explosive with or without contact with air."
+                },
+                {
+                    "code": "AUH019",
+                    "phrase": "May form explosive peroxides."
+                },
+                {
+                    "code": "AUH044",
+                    "phrase": "Risk of explosion if heated under confinement."
+                }
+            ],
+            "rCodes": [
+                {
+                    "code": "R1",
+                    "phrase": "Explosive when dry."
+                },
+                {
+                    "code": "R2",
+                    "phrase": "Risk of explosion by shock, friction, fire or other sources of ignition."
+                },
+                {
+                    "code": "R5",
+                    "phrase": "Heating may cause an explosion."
+                },
+                {
+                    "code": "R6",
+                    "phrase": "Explosive with or without contact with air."
+                },
+                {
+                    "code": "R12",
+                    "phrase": "Extremely flammable."
+                },
+                {
+                    "code": "R19",
+                    "phrase": "May form explosive peroxides."
+                },
+                {
+                    "code": "R20/22?",
+                    "phrase": "Inhalation and/or ingestion may produce health damage*."
+                },
+                {
+                    "code": "R37?",
+                    "phrase": "May produce discomfort of the respiratory system*."
+                },
+                {
+                    "code": "R44",
+                    "phrase": "Risk of explosion if heated under confinement."
+                },
+                {
+                    "code": "R66?",
+                    "phrase": "Repeated exposure potentially causes skin dryness and cracking*."
+                },
+                {
+                    "code": "R67?",
+                    "phrase": "Vapours potentially cause drowsiness and dizziness*."
+                },
+                {
+                    "code": "R99",
+                    "phrase": ""
+                }
+            ],
+            "vendor": "A-Gas (A-Gas (Australia))",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "200-816-9",
+            "msdsType": "",
+            "phaseOut": false,
+            "dateAdded": 1710889135200,
+            "issueDate": "2021-12-09T00:00:00.000Z",
+            "countryCode": "AUS",
+            "datasetType": 5,
+            "ingredients": [
+                {
+                    "un": "1001",
+                    "dgc": "2.1",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1001",
+                    "hCodes": [
+                        {
+                            "code": "H220",
+                            "phrase": "Extremely flammable gas."
+                        },
+                        {
+                            "code": "H224",
+                            "phrase": "Extremely flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H240",
+                            "phrase": "Heating may cause an explosion."
+                        },
+                        {
+                            "code": "H280",
+                            "phrase": "Contains gas under pressure; may explode if heated."
+                        },
+                        {
+                            "code": "AUH001",
+                            "phrase": "Explosive when dry."
+                        },
+                        {
+                            "code": "AUH006",
+                            "phrase": "Explosive with or without contact with air."
+                        },
+                        {
+                            "code": "AUH019",
+                            "phrase": "May form explosive peroxides."
+                        },
+                        {
+                            "code": "AUH044",
+                            "phrase": "Risk of explosion if heated under confinement."
+                        }
+                    ],
+                    "vendor": "A-Gas (A-Gas (Australia))",
+                    "ecNumber": "200-816-9",
+                    "casNumber": "74-86-2",
+                    "proportion": "98-99",
+                    "hazardRating": 4,
+                    "materialName": "acetylene",
+                    "packingGroup": "Not Applicable",
+                    "poisonSchedule": "Not Applicable",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                },
+                {
+                    "un": "1090",
+                    "dgc": "3",
+                    "dgs": "Not Applicable",
+                    "cwNo": "1090",
+                    "hCodes": [
+                        {
+                            "code": "H225",
+                            "phrase": "Highly flammable liquid and vapour."
+                        },
+                        {
+                            "code": "H319",
+                            "phrase": "Causes serious eye irritation."
+                        },
+                        {
+                            "code": "H336",
+                            "phrase": "May cause drowsiness or dizziness."
+                        },
+                        {
+                            "code": "AUH066",
+                            "phrase": "Repeated exposure may cause skin dryness and cracking."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "200-662-2",
+                    "casNumber": "67-64-1",
+                    "proportion": "",
+                    "hazardRating": 3,
+                    "materialName": "acetone",
+                    "packingGroup": "II",
+                    "poisonSchedule": "S5",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": [
+                        {
+                            "bei": "80 mg/l",
+                            "source": "Bulgaria Biological limit values for chemical agents and its metabolites(indicators for exposure) or indicators for effect",
+                            "determinant": "Acetone urine",
+                            "samplingTime": "After the end of the exposure or the end of the work shift"
+                        },
+                        {
+                            "source": "South Africa Biological Exposure Indices",
+                            "notation": "Ns",
+                            "determinant": "Acetone"
+                        },
+                        {
+                            "bei": "50mg/litre",
+                            "source": "New Zealand Workplace Exposure Standards(WES) - Biological Exposure Indices",
+                            "determinant": "Acetone in urine"
+                        },
+                        {
+                            "bei": "40 mg/l",
+                            "source": "Japan Occupational Exposure Limit based on Biological Monitoring(OEL-B)",
+                            "determinant": "Acetone urine"
+                        }
+                    ]
+                }
+            ],
+            "partNumbers": [],
+            "boilingPoint": -75,
+            "hazardRating": 4,
+            "languageCode": "EN",
+            "materialName": "acetylene",
+            "meltingPoint": -84,
+            "shippingName": "ACETYLENE, DISSOLVED",
+            "personsAtRisk": [],
+            "physicalState": "Gas",
+            "vendorAddress": null,
+            "extractionDate": "2021-12-09T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "Not Available",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSGLV.svg",
+                    "Translation": "Short Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.svg",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSHR.svg",
+                    "Translation": "Half-Face Respirator"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSGGL.svg",
+                    "Translation": "Goggles"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 529,
+                "color": 2,
+                "level": 2
+            },
+            "rootMaterialName": "acetylene",
+            "weWriteOwnerDomain": "defaultWewriteDomain",
+            "healthSurveillances": [],
+            "weWriteOwnerProfile": "2031918b-f70a-47bb-9474-aad0f6089e6f",
+            "riskAssessmentHazardRating": {
+                "rating": 0,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 5,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 13,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 13,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        153,
+                        161,
+                        162,
+                        166,
+                        167,
+                        169,
+                        112,
+                        114,
+                        118,
+                        183,
+                        184,
+                        185,
+                        186,
+                        187,
+                        188,
+                        189,
+                        415,
+                        416,
+                        417,
+                        418,
+                        419,
+                        420,
+                        421,
+                        422,
+                        423,
+                        424,
+                        425,
+                        426,
+                        427,
+                        428,
+                        429,
+                        430,
+                        431,
+                        432,
+                        433,
+                        434,
+                        435,
+                        436,
+                        437,
+                        438,
+                        439,
+                        440,
+                        390,
+                        391,
+                        393,
+                        394,
+                        395,
+                        396,
+                        397,
+                        398,
+                        399,
+                        400,
+                        402,
+                        403,
+                        405,
+                        407,
+                        408,
+                        409,
+                        410,
+                        411,
+                        413,
+                        414
+                    ],
+                    "completed": true,
+                    "considered": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "ilo": {
+                    "controls": [],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Moderate",
+                    "rating": "3",
+                    "isActive": true
+                },
+                "volatility": "high",
+                "iloRiskBand": {
+                    "text": "None",
+                    "rating": "0",
+                    "isActive": false,
+                    "riskClass": 0
+                },
+                "hazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 0,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 5,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": null
+}

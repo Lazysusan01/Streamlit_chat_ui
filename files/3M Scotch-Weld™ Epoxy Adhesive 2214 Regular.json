@@ -1,0 +1,307 @@
+{
+    "socketid": "919a7eef-0546-409a-9cbd-b3b5e2a96732",
+    "domain": "diego",
+    "location": "547b94b1-def2-41e0-b125-8d0c9d52a511",
+    "datasetkey": "diego:datasets/vgd/e5c12821-e251-3ef2-e053-0100007f4709:0559e2ef-3de3-4edd-b458-9841753d4d5d",
+    "documentkey": "diego:e5c12821-e251-3ef2-e053-0100007f4709:0559e2ef-3de3-4edd-b458-9841753d4d5d:metadata",
+    "data": {
+        "dataset": {
+            "un": "1746",
+            "cas": "Not Applicable",
+            "dgc": "5.1",
+            "dgs": "6.1",
+            "pkg": "I",
+            "cwNo": "1008",
+            "dgs2": "8",
+            "unit": "",
+            "hCodes": [
+                {
+                    "code": "H270",
+                    "phrase": "May cause or intensify fire; oxidiser."
+                },
+                {
+                    "code": "H330",
+                    "phrase": "Fatal if inhaled."
+                },
+                {
+                    "code": "H318",
+                    "phrase": "Causes serious eye damage."
+                },
+                {
+                    "code": "H314",
+                    "phrase": "Causes severe skin burns and eye damage."
+                }
+            ],
+            "rCodes": [],
+            "vendor": "Air Products (Air Products & Chemicals)",
+            "volume": "",
+            "annexXIV": {},
+            "ecNumber": "Not Applicable",
+            "msdsType": "GHS",
+            "phaseOut": false,
+            "dateAdded": 1710890287756,
+            "issueDate": "2015-01-26T00:00:00.000Z",
+            "countryCode": "USA",
+            "datasetType": 1,
+            "ingredients": [
+                {
+                    "un": "1746",
+                    "dgc": "5.1",
+                    "dgs": "6.1",
+                    "cwNo": "1746",
+                    "hCodes": [
+                        {
+                            "code": "H271",
+                            "phrase": "May cause fire or explosion; strong oxidiser."
+                        },
+                        {
+                            "code": "H313",
+                            "phrase": "May be harmful in contact with skin."
+                        },
+                        {
+                            "code": "H314",
+                            "phrase": "Causes severe skin burns and eye damage."
+                        },
+                        {
+                            "code": "H318",
+                            "phrase": "Causes serious eye damage."
+                        },
+                        {
+                            "code": "H400",
+                            "phrase": "Very toxic to aquatic life."
+                        }
+                    ],
+                    "vendor": "-1",
+                    "ecNumber": "232-132-1",
+                    "casNumber": "7787-71-5",
+                    "proportion": "100",
+                    "hazardRating": 4,
+                    "materialName": "bromine trifluoride",
+                    "packingGroup": "I",
+                    "poisonSchedule": "S6",
+                    "healthSurveillances": [],
+                    "biologicalMonitorings": []
+                }
+            ],
+            "partNumbers": [
+                "300000004651"
+            ],
+            "boilingPoint": 1257,
+            "hazardRating": 4,
+            "languageCode": "EN",
+            "materialName": "Boron Trifluoride",
+            "meltingPoint": 8.9,
+            "shippingName": "Bromine trifluoride ",
+            "personsAtRisk": [
+                "Those with eye complaints",
+                "Those with respiratory complaints (such as asthma), skin conditions (such as dermatitis) and eye conditions"
+            ],
+            "physicalState": "Unknown",
+            "vendorAddress": null,
+            "extractionDate": "2022-02-15T00:00:00",
+            "poisonSchedule": "Not Applicable",
+            "isReducingAgent": false,
+            "specificGravity": "175.423 lb/ft3 (2.81 g/cm3) at 70 °F (21 °C)",
+            "defaultPpeImages": [
+                {
+                    "ImageName": "PPE/GHS/GHSLGV.GIF",
+                    "Translation": "Long Gloves"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSOVE.gif",
+                    "Translation": "Overalls"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSBTS.gif",
+                    "Translation": "Boots"
+                },
+                {
+                    "ImageName": "PPE/GHS/GHSRES.gif",
+                    "Translation": "Full-Face Respirator"
+                }
+            ],
+            "regulatoryBurden": {
+                "x": 1168,
+                "color": 3,
+                "level": 3
+            },
+            "rootMaterialName": "boron trifluoride",
+            "healthSurveillances": [],
+            "riskAssessmentHazardRating": {
+                "rating": 4,
+                "isSGroup": false
+            },
+            "riskAssessmentHazardRatingDg": {
+                "rating": 4,
+                "isSGroup": false
+            }
+        },
+        "manifest": {
+            "cur": {
+                "unit": "L",
+                "volume": 15,
+                "mLValue": 0
+            },
+            "lic": {
+                "unit": null,
+                "volume": null
+            },
+            "max": {
+                "unit": "L",
+                "volume": 15,
+                "mLValue": 0
+            }
+        },
+        "riskassessment": [
+            {
+                "un": {
+                    "date": null,
+                    "comment": "",
+                    "controls": [
+                        156,
+                        159,
+                        163,
+                        165,
+                        137,
+                        142,
+                        145,
+                        123,
+                        124,
+                        125,
+                        129,
+                        130,
+                        131,
+                        132,
+                        113,
+                        115,
+                        121,
+                        105,
+                        107,
+                        109,
+                        307,
+                        308,
+                        309,
+                        310,
+                        311,
+                        312,
+                        313,
+                        314,
+                        317,
+                        318,
+                        324,
+                        326,
+                        329,
+                        331,
+                        303,
+                        252,
+                        254,
+                        255,
+                        263,
+                        265,
+                        268,
+                        269,
+                        270,
+                        273,
+                        286,
+                        287,
+                        294,
+                        227,
+                        229,
+                        231,
+                        224,
+                        226,
+                        174,
+                        180,
+                        182,
+                        511,
+                        512,
+                        515,
+                        519,
+                        520,
+                        525,
+                        526,
+                        541,
+                        543,
+                        546,
+                        548,
+                        551,
+                        553,
+                        555,
+                        557,
+                        559,
+                        561,
+                        455,
+                        456,
+                        457,
+                        458,
+                        459,
+                        460,
+                        461,
+                        462,
+                        392,
+                        401,
+                        404,
+                        406,
+                        412,
+                        346,
+                        348,
+                        350
+                    ],
+                    "completed": true,
+                    "considered": [
+                        13,
+                        15,
+                        16
+                    ],
+                    "protectiveEquipment": {
+                        "coat": "overall",
+                        "boots": "boots",
+                        "gloves": "longGloves",
+                        "respirator": "respirator"
+                    }
+                },
+                "ilo": {
+                    "controls": [
+                        5
+                    ],
+                    "protectiveEquipment": {}
+                },
+                "raid": 0,
+                "state": "gas",
+                "status": 2,
+                "dustiness": "powder",
+                "statusCode": 200,
+                "unRiskBand": {
+                    "text": "Moderate",
+                    "rating": "3",
+                    "isActive": true
+                },
+                "volatility": "high",
+                "iloRiskBand": {
+                    "text": "Moderate",
+                    "rating": "3",
+                    "isActive": true,
+                    "riskClass": 5
+                },
+                "hazardRating": {
+                    "rating": 4,
+                    "isSGroup": false
+                },
+                "scaleOfUseSolids": "grams",
+                "scaleOfUseLiquids": "mililitres",
+                "frequencyOfUseLong": "weekly",
+                "frequencyOfUseShort": 2,
+                "operatingTemperature": 20,
+                "riskAssessmentHazardRating": {
+                    "rating": 4,
+                    "isSGroup": false
+                },
+                "riskAssessmentHazardRatingDg": {
+                    "rating": 4,
+                    "isSGroup": false
+                }
+            }
+        ]
+    },
+    "filekey": "diego:pd12177630.pdf:0559e2ef-3de3-4edd-b458-9841753d4d5d"
+}
