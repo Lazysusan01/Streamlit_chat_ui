@@ -6,17 +6,6 @@ from dotenv import load_dotenv
 import boto3
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 
-def load_json(file_path):
-    with open(file_path, 'r') as f:
-        return json.load(f)
-
-# load_dotenv('.env')
-
-# aws_access_key=os.getenv('aws_access_key_id')
-# aws_secret_access_key = os.getenv('aws_secret_access_key')
-# aws_session_token = os.getenv('aws_session_token')
-# region = 'us-east-1'
-
 session = boto3.Session(profile_name='nicomcgill')
 
 def ask_claude(messages):
@@ -75,8 +64,15 @@ def main():
         st.write("Welcome to the Chemwatch SDS Chatbot. Please select a chemical(s) in the sidebar to compare.")
         
     selected_chemical = st.sidebar.multiselect("Chemical(s)", filenames, max_selections=2)
+    
     if selected_chemical:
-        st.session_state.messages = []
+        if "messages" not in st.session_state:
+            st.session_state.messages = []
+        
+        for message in st.session_state.messages:
+            with st.chat_message(message["role"]):
+                st.write(message["content"])
+            
         if len(selected_chemical) == 1:
             context = chemical_content[selected_chemical[0]]
             st.session_state.messages.append({"role": "user", "content": f"This is an SDS for {selected_chemical}, you will be asked questions about it, please do not answer any questions outside of the sds, please keep your answer brief but not truncated. SDS: {context}"})
@@ -90,10 +86,11 @@ def main():
             st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical[0]} and {selected_chemical[1]}"})
         
         if query:
+            st.session_state.messages.append({"role": "user", "content": query})
             with st.chat_message("user"):
                 st.markdown(query)
-            st.session_state.messages.append({"role": "user", "content": query})
-            st.write_stream(ask_claude(st.session_state.messages))
+            response = st.write_stream(ask_claude(st.session_state.messages))
+            st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
     main()
