@@ -7,37 +7,40 @@ import boto3
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 from PIL import Image
 
-session = boto3.Session(profile_name='nicomcgill')
+try:
+    session = boto3.Session(profile_name='nicomcgill')
+        # Retrieve temporary credentials from the session
+    credentials = session.get_credentials()
+    current_credentials = credentials.get_frozen_credentials()
+    aws_access_key = current_credentials.access_key
+    aws_secret_key = current_credentials.secret_key
+    aws_session_token = current_credentials.token
+    
+except:
+    load_dotenv()
+    aws_access_key = os.getenv("AWS_ACCESS_KEY_ID")
+    aws_secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
+    aws_session_token = os.getenv("AWS_SESSION_TOKEN")
 
 def ask_claude(system_prompt,messages):
-    try:
-        # Retrieve temporary credentials from the session
-        credentials = session.get_credentials()
-        current_credentials = credentials.get_frozen_credentials()
-        aws_access_key = current_credentials.access_key
-        aws_secret_key = current_credentials.secret_key
-        aws_session_token = current_credentials.token
 
-        # Create the AnthropicBedrock client using the retrieved credentials
-        client = AnthropicBedrock(
-            aws_access_key=aws_access_key,
-            aws_secret_key=aws_secret_key,
-            aws_session_token=aws_session_token,
-            aws_region='us-east-1'
-        )
+    # Create the AnthropicBedrock client using the retrieved credentials
+    client = AnthropicBedrock(
+        aws_access_key=aws_access_key,
+        aws_secret_key=aws_secret_key,
+        aws_session_token=aws_session_token,
+        aws_region='us-east-1'
+    )
 
-        # Stream messages
-        with client.messages.stream(
-            model="anthropic.claude-3-sonnet-20240229-v1:0",
-            max_tokens=1024,
-            system=system_prompt,
-            messages=messages
-        ) as stream:
-            for chunk in stream.text_stream:
-                yield chunk
-
-    except (NoCredentialsError, PartialCredentialsError) as e:
-        print(f"Error retrieving credentials: {e}")
+    # Stream messages
+    with client.messages.stream(
+        model="anthropic.claude-3-sonnet-20240229-v1:0",
+        max_tokens=1024,
+        system=system_prompt,
+        messages=messages
+    ) as stream:
+        for chunk in stream.text_stream:
+            yield chunk
 
 def main():
     st.set_page_config(page_title="Chemwatch SDS Chatbot", page_icon=":robot_face:")
