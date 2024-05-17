@@ -7,28 +7,38 @@ import boto3
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 from PIL import Image
 
-try:
-    session = boto3.Session(profile_name='nicomcgill')
+def get_credentials():
+    try:
+        #     try:
+        session = boto3.Session(profile_name='nicomcgill')
         # Retrieve temporary credentials from the session
-    credentials = session.get_credentials()
-    current_credentials = credentials.get_frozen_credentials()
-    aws_access_key = current_credentials.access_key
-    aws_secret_key = current_credentials.secret_key
-    aws_session_token = current_credentials.token
-    
-except:
-    load_dotenv()
-    aws_access_key = os.getenv("AWS_ACCESS_KEY_ID")
-    aws_secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
-    aws_session_token = os.getenv("AWS_SESSION_TOKEN")
+        credentials = session.get_credentials()
+        current_credentials = credentials.get_frozen_credentials()
+        return {
+            "aws_access_key": current_credentials.access_key,
+            "aws_secret_key": current_credentials.secret_key,
+            "aws_session_token": current_credentials.token,
+        }
+    except:
+        load_dotenv()
+        aws_access_key = os.getenv("aws_access_key_id")
+        aws_secret_key = os.getenv("aws_secret_access_key")
+        aws_session_token = os.getenv("aws_session_token")
 
-def ask_claude(system_prompt,messages):
+        return {
+            "aws_access_key": aws_access_key,
+            "aws_secret_key": aws_secret_key,
+            "aws_session_token": aws_session_token,
+        }
 
+def ask_claude(system_prompt, messages):
+#   get_boto3_credentials() or
+    credentials = get_credentials()
     # Create the AnthropicBedrock client using the retrieved credentials
     client = AnthropicBedrock(
-        aws_access_key=aws_access_key,
-        aws_secret_key=aws_secret_key,
-        aws_session_token=aws_session_token,
+        aws_access_key=credentials["aws_access_key"],
+        aws_secret_key=credentials["aws_secret_key"],
+        aws_session_token=credentials["aws_session_token"],
         aws_region='us-east-1'
     )
 
@@ -116,7 +126,7 @@ def main():
             chemical2 = chemical_content[selected_chemical[1]]
             system_prompt = f"These are SDS for {selected_chemical[0]} and {selected_chemical[1]}, you will be asked questions about them, please do not answer any questions outside of the sds, please keep your answer brief but not truncated, respond only in {language}. <SDS1>{chemical1}</SDS1> <SDS2>{chemical2}</SDS2>"
             query = st.chat_input(f"Ask me anything about {selected_chemical[0]} and {selected_chemical[1]}")
-            # st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical[0]} and {selected_chemical[1]}"})
+
         query_placeholder = st.empty()
         for question in suggested_queries: 
             if st.button(question):
@@ -124,10 +134,11 @@ def main():
                 
         if query:
             st.session_state.messages.append({"role": "user", "content": query})
-            with st.chat_message("user"):
+            with st.chat_message("user", avatar="avatar.jpeg"):
                 st.markdown(query)
             response = st.write_stream(ask_claude(system_prompt, st.session_state.messages))
             st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
     main()
+    
