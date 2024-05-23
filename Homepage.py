@@ -14,6 +14,8 @@ def get_credentials():
         # Retrieve temporary credentials from the session
         credentials = session.get_credentials()
         current_credentials = credentials.get_frozen_credentials()
+        if current_credentials:
+            print("Using AWS credentials from the session profile")
         return {
             "aws_access_key": current_credentials.access_key,
             "aws_secret_key": current_credentials.secret_key,
@@ -24,27 +26,27 @@ def get_credentials():
         aws_access_key = os.getenv("aws_access_key_id")
         aws_secret_key = os.getenv("aws_secret_access_key")
         aws_session_token = os.getenv("aws_session_token")
-
+        if aws_access_key:
+            print("Using AWS credentials from the environment variables")
         return {
             "aws_access_key": aws_access_key,
             "aws_secret_key": aws_secret_key,
             "aws_session_token": aws_session_token,
         }
 
-def ask_claude(system_prompt, messages):
+def ask_claude(system_prompt, messages, credentials):
 #   get_boto3_credentials() or
-    credentials = get_credentials()
     # Create the AnthropicBedrock client using the retrieved credentials
     client = AnthropicBedrock(
         aws_access_key=credentials["aws_access_key"],
         aws_secret_key=credentials["aws_secret_key"],
         aws_session_token=credentials["aws_session_token"],
-        aws_region='us-east-1'
+        aws_region='us-west-2'
     )
 
     # Stream messages
     with client.messages.stream(
-        model="anthropic.claude-3-sonnet-20240229-v1:0",
+        model="anthropic.claude-3-opus-20240229-v1:0",
         max_tokens=1024,
         system=system_prompt,
         messages=messages
@@ -100,20 +102,27 @@ def main():
         if "messages" not in st.session_state:
             st.session_state.messages = []
         
+        credentials = get_credentials()
+        
         for message in st.session_state.messages:
             with st.chat_message(message["role"]):
                 st.write(message["content"])
             
         if len(selected_chemical) == 1:
             
-            suggested_queries = ['What is the chemical formula of this chemical?', 
-                                'What are the hazards of this chemical?',
+            suggested_queries = ['What are the hazards of this chemical?',
                                 'What are the first aid measures for this chemical?',
                                 'What are the physical properties of this chemical?', 
                                 'What are the storage and handling instructions for this chemical?']
             
             context = chemical_content[selected_chemical[0]]
-            system_prompt = f"This is an SDS for {selected_chemical}, you will be asked questions about it, please do not answer any questions outside of the sds, please keep your answer brief but not truncated, respond only in {language}. <SDS>{context}</SDS>"
+            system_prompt = f"""This is an SDS for {selected_chemical}, you will be asked questions about it, please do not answer any questions outside of the sds,
+                                Do not mention the R codes directly as they are internal codes, just give the description please.
+                                Regulatory burdens translate to: 1: Lightly regulated, 2: Moderately regulated, 3: Highly regulated, 4: Highly regulated, 5: Extremely regulated.
+                                Handling instructions can be inferred from defaultPpeimages but do not mention the images directly.
+                                The current inventory status is in 'manifest' under 'cur'.
+                                Where applicable, please provide the information as a table.                                 
+                                Please respond only in {language}. <SDS>{context}</SDS>"""
             query = st.chat_input(f"Ask me anything about {selected_chemical[0]}")
             # st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical}"})
         elif len(selected_chemical) == 2:
@@ -134,11 +143,11 @@ def main():
                 
         if query:
             st.session_state.messages.append({"role": "user", "content": query})
-            with st.chat_message("user", avatar="avatar.jpeg"):
+            with st.chat_message("user"):
                 st.markdown(query)
-            response = st.write_stream(ask_claude(system_prompt, st.session_state.messages))
+                
+            response = st.write_stream(ask_claude(system_prompt, st.session_state.messages, credentials=credentials))
             st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
     main()
-    
