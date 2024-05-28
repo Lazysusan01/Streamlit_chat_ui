@@ -1,0 +1,626 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "35786",
+                "IsFullDataset": false,
+                "Vendor": "-1",
+                "DocumentNumber": "a35786",
+                "Version": "637487347699524566",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "35786",
+                "Key": "35786_AUS_EN",
+                "AiteLogKey": "35786",
+                "ChemKey": {},
+                "Name": "bisphenol A/ diglycidyl ether polymer, high molecular weight",
+                "CasNumber": "25068-38-6",
+                "Dgc": "9",
+                "EcNumber": "500-033-5",
+                "PackingGroup": "III",
+                "Un": "3077",
+                "GhsEntities": [
+                    {
+                        "Category": "Skin Corrosion/Irritation Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H315",
+                        "Phrase": "Causes skin irritation."
+                    },
+                    {
+                        "Category": "Chronic Aquatic Hazard Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H411",
+                        "Phrase": "Toxic to aquatic life with long lasting effects."
+                    },
+                    {
+                        "Category": "Eye Irritation Category 2A",
+                        "CategoryCode": "Cat 2A",
+                        "Code": "H319",
+                        "Phrase": "Causes serious eye irritation."
+                    },
+                    {
+                        "Category": "Skin Sensitizer Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H317",
+                        "Phrase": "May cause an allergic skin reaction."
+                    }
+                ],
+                "CombustibleLiquidsClass": "Class 1",
+                "FlashPoint": 94.0,
+                "PhysicalState": "Divided Solid",
+                "WaterSolubility": 2,
+                "BoilingPoint": 261.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>General Exhaust Ventilation adequate.</p>",
+                "MiniResp": "Type A-P Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 & 149:2001, ANSI Z88 or national equivalent)",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p> <p>Restrictions on Storage apply. Refer to Full Report.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Vapours/gas heavier than air.</p> <p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Solid.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Sinks in water.</p>",
+                "MiniFlammability": "<p>Combustible.</p>",
+                "MiniFirstAidSwallow": "<p>Rinse mouth with water.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water.</p>",
+                "MiniFirstAidSkin": "<p>Remove contaminated clothing. Wash with soap &amp; water.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm.</p>",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Keep containers cool.</p> <p>Water spray/ fog.\u00a0</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Pollutant.</p> <p>Avoid dust.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <p>Sweep shovel to safe place.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water and detergent.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Reactivity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "BodyContact": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Chronic": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "AlertCode": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "2X",
+                    "Value": "2X"
+                },
+                "InternationalHazardGraphics": [
+                    "IRRITANT.gif"
+                ],
+                "RiskCodes": [],
+                "SpecificGravity": "1.19",
+                "IssueDate": "2019-10-11T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                "Use": "High molecular weight epoxy resin, used as component of adhesive and coating formulations.",
+                "ChemicalFormula": [],
+                "FirstAidIngestion": "<ul> <li>Immediately give a glass of water.\u00a0</li> <li>First aid is not generally required. If in doubt, contact a Poisons Information Centre or a doctor.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes, aerosols or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Other measures are usually unnecessary.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Wash out immediately with fresh running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin contact occurs:</p> <ul> <li>Immediately remove all contaminated clothing, including footwear.\u00a0</li> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<ul> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> <li>Water spray or fog - Large fires only.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul>\n<li>Combustible solid which burns but propagates flame with difficulty; it is estimated that most organic dusts are combustible (circa 70%) - according to the circumstances under which the combustion process occurs, such materials may cause fires and / or dust explosions. </li>\n<li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions). </li>\n<li>Avoid generating dust, particularly clouds of dust in a confined or unventilated space as dusts may form an explosive mixture with air, and any source of ignition, i.e. flame or spark, will cause fire or explosion. Dust clouds generated by the fine grinding of the solid are a particular hazard; accumulations of fine dust (420 micron or less) may burn rapidly and fiercely if ignited - particles exceeding this limit will generally not form flammable dust clouds; once initiated, however, larger particles up to 1400 microns diameter will contribute to the propagation of an explosion. </li>\n<li>In the same way as gases and vapours, dusts in the form of a cloud are only ignitable over a range of concentrations; in principle, the concepts of lower explosive limit (LEL) and upper explosive limit (UEL) are applicable to dust clouds but only the LEL is of practical use; - this is because of the inherent difficulty of achieving homogeneous dust clouds at high temperatures (for dusts the LEL is often called the \"Minimum Explosible Concentration\", MEC). </li>\n<li>When processed with flammable liquids/vapors/mists,ignitable (hybrid) mixtures may be formed with combustible dusts. Ignitable mixtures will increase the rate of explosion pressure rise and the Minimum Ignition Energy (the minimum amount of energy required to ignite dust clouds - MIE) will be lower than the pure dust in air mixture. The Lower Explosive Limit (LEL) of the vapour/dust mixture will be lower than the individual LELs for the vapors/mists or dusts. </li>\n<li>A dust explosion may release of large quantities of gaseous products; this in turn creates a subsequent pressure rise of explosive force capable of damaging plant and buildings and injuring people. </li>\n<li>Usually the initial or primary explosion takes place in a confined space such as plant or machinery, and can be of sufficient force to damage or rupture the plant. If the shock wave from the primary explosion enters the surrounding area, it will disturb any settled dust layers, forming a second dust cloud, and often initiate a much larger secondary explosion. All large scale explosions have resulted from chain reactions of this type. </li>\n<li>Dry dust can be charged electrostatically by turbulence, pneumatic transport, pouring, in exhaust ducts and during transport. </li>\n<li>Build-up of electrostatic charge may be prevented by bonding and grounding. </li>\n<li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting. </li>\n<li>All movable parts coming in contact with this material should have a speed of less than 1-meter/sec.\u00a0 </li>\n<li>A sudden release of statically charged materials from storage or process equipment, particularly at elevated temperatures and/ or pressure, may result in ignition especially in the absence of an apparent ignition source. </li>\n<li>One important effect of the particulate nature of powders is that the surface area and surface structure (and often moisture content) can vary widely from sample to sample, depending of how the powder was manufactured and handled; this means that it is virtually impossible to use flammability data published in the literature for dusts (in contrast to that published for gases and vapours). </li>\n<li>Autoignition temperatures are often quoted for dust clouds (minimum ignition temperature (MIT)) and dust layers (layer ignition temperature (LIT)); LIT generally falls as the thickness of the layer increases.</li>\n</ul> <p>Combustion products include:</p> <p>carbon monoxide (CO)</p> <p>carbon dioxide (CO2)</p> <p>aldehydes</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p><br /></p> <p><b>NOTE:</b>\u00a0Burns with intense heat. Produces melting, flowing, burning liquid and dense acrid black smoke.</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Environmental hazard - contain spillage.\u00a0</p> <p>Moderate hazard.</p> <ul> <li><font color=\"#ff0000\"><b>CAUTION</b></font><font color=\"#ff0000\">:\u00a0</font>Advise personnel in area.\u00a0</li> <li>Alert Emergency Services and tell them location and nature of hazard.\u00a0</li> <li>Control personal contact by wearing protective clothing.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Recover product wherever possible.\u00a0</li> <li><b>IF DRY:\u00a0</b>Use dry clean up procedures and avoid generating dust. \u00a0Collect residues and place in sealed plastic bags or other containers for disposal.\u00a0<b>IF WET:</b>\u00a0 Vacuum/shovel up and place in labelled containers for disposal.\u00a0</li> <li><b>ALWAYS:</b>\u00a0 Wash area down with large amounts of water and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise Emergency Services.\u00a0</li> </ul>",
+                "MinorSpills": "<p>Environmental hazard - contain spillage.\u00a0</p> <ul> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid contact with skin and eyes.\u00a0</li> <li>Wear impervious gloves and safety glasses.\u00a0</li> <li>Use dry clean up procedures and avoid generating dust.\u00a0</li> <li>Vacuum up (consider explosion-proof machines designed to be grounded during storage and use).\u00a0</li> <li>Do NOT use air hoses for cleaning\u00a0</li> <li>Place spilled material in clean, dry, sealable, labelled container.\u00a0</li> </ul> <p><br /></p> <p><br /></p> <p><br /></p>",
+                "MolecularWeight": "14-16000 Mn.",
+                "Appearance": "White translucent pellets; insoluble in water. Faint odour. Material contains residual processing solvents, Toluene and n-butanol Soluble only in very strong polar solvent mixes.",
+                "Taste": "Not Available",
+                "VolatileComponent": "< 2 residuals",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "180",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not available.",
+                "AutoIgnitionTemperature": "Not available.",
+                "RelativeVapourDensity": ">1",
+                "Lel": "Not applicable",
+                "BoilingRange": ">260",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "EvaporationRateUnit": "Not Available",
+                "Uel": "Not applicable",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "Not Available"
+                ],
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of exposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0allow material to contact humans, exposed food or food utensils.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately. Launder contaminated clothing before re-use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul> <ul> <li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions)\u00a0</li> <li>Minimise airborne dust and eliminate all ignition sources. Keep away from heat, hot surfaces, sparks, and flame.\u00a0</li> <li>Establish good housekeeping practices.\u00a0</li> <li>Remove dust accumulations on a regular basis by vacuuming or gentle sweeping to avoid creating dust clouds.\u00a0</li> <li>Use continuous suction at points of dust generation to capture and minimise the accumulation of dusts. Particular attention should be given to overhead and hidden horizontal surfaces to minimise the probability of a \"secondary\" explosion. According to NFPA Standard 654, dust layers 1/32 in.(0.8 mm) thick can be sufficient to warrant immediate cleaning of the area.\u00a0</li> <li>Do not use air hoses for cleaning.\u00a0</li> <li>Minimise dry sweeping to avoid generation of dust clouds. Vacuum dust-accumulating surfaces and remove to a chemical disposal area. Vacuums with explosion-proof motors should be used.\u00a0</li> <li>Control sources of static electricity. \u00a0Dusts or their packages may accumulate static charges, and static discharge can be a source of ignition.\u00a0</li> <li>Solids handling systems must be designed in accordance with applicable standards (e.g. NFPA including 654 and 77) and other national guidance.\u00a0</li> <li>Do not empty directly into flammable solvents or in the presence of flammable vapors.\u00a0</li> <li>The operator, the packaging container and all equipment must be grounded with electrical bonding and grounding systems. Plastic bags and plastics cannot be grounded, and antistatic bags do not completely protect against development of static charges.\u00a0</li> </ul> <p>Empty containers may contain residual dust which has the potential to accumulate following settling. Such dusts may explode in the presence of an appropriate ignition source.</p> <ul> <li><font color=\"#ff0000\">Do NOT cut, drill, grind or weld such containers.\u00a0</font></li> <li>In addition ensure such activity is not performed near full, partially empty or empty containers without appropriate workplace safety authorisation or permit.\u00a0</li> </ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry area protected from environmental extremes.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>\n<p><span style=\"color:#000000\">For major quantities:</span></p>\n<ul>\n<li><span style=\"color:#000000\">Consider storage in bunded \u00a0areas - ensure storage areas are isolated from sources of community water (including stormwater, ground water, lakes and streams}.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure that accidental discharge to air or water is the subject of a contingency disaster management plan; this may require consultation with local authorities.\u00a0</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Polyethylene or polypropylene container.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p>Glycidyl ethers:</p> <ul> <li>may form unstable peroxides on storage in air ,light, sunlight, UV light or other ionising radiation, trace metals - inhibitor should be maintained at adequate levels\u00a0</li> <li>may polymerise in contact with heat, organic and inorganic free radical producing initiators\u00a0</li> <li>may polymerise with evolution of heat in contact with oxidisers, strong acids, bases and amines\u00a0</li> <li>react violently with strong oxidisers, permanganates, peroxides, acyl halides, alkalis, ammonium persulfate, bromine dioxide\u00a0</li> <li>attack some forms of plastics, coatings, and rubber\u00a0</li> </ul> <ul> <li>Avoid reaction with oxidising agents\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC9.gif"
+                ],
+                "TransportIncompatibilities": "<p>Class 9 - Miscellaneous dangerous substances shall not be loaded in the same vehicle or packed in the same freight container with:</p> <p>Class 1 - Explosives;</p> <p>Class 5.1 - Oxidising agents (where the miscellaneous dangerous substances are capable of igniting and burning).</p> <p>Class 5.2 - Organic peroxides (where the miscellaneous dangerous substances are capable of igniting and burning).</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Generally compatible, however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1, 2.2, 2.2 (subrisk 5.1), 2.3, 3, 4.1, 4.2, 4.3 6.1,8, 9 <br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.&nbsp;</font></div> </font> </body></html> <p>Do NOT allow product to come in contact with surface waters or to intertidal areas below the mean high water mark. Do not contaminate water when cleaning equipment or disposing of equipment wash-waters.\u00a0</p> <p>Wastes resulting from use of the product must be disposed of on site or at approved waste sites.</p> <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>For bisphenol A and related bisphenols:</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Environmental fate:</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Biodegradability (28 d)\u00a0 89% - Easily biodegradable</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Bioconcentration factor (BCF) 7.8 mg/l</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Bisphenol A, its derivatives and analogues, can be released from\r\npolymers, resins and certain substances by metabolic products</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Substance does not meet the criteria for PBT or vPvB according to\r\nRegulation (EC) No 1907/2006, Annex XIII</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>As an environmental contaminant, bisphenol A interferes with\r\nnitrogen fixation at the roots of leguminous plants associated with the\r\nbacterial symbiont Sinorhizobium meliloti. Despite a half-life in the soil of\r\nonly 1-10 days, its ubiquity makes it an important pollutant. According to\r\nEnvironment Canada, &quot;initial assessment shows that at low levels,\r\nbisphenol A can harm fish and organisms over time. Studies also indicate that\r\nit can currently be found in municipal wastewater.&quot; However, a study\r\nconducted in the United States found that 91-98% of bisphenol A may be removed\r\nfrom water during treatment at municipal water treatment plants.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Ecotoxicity:</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Fish LC50 (96 h): 4.6 mg/l (freshwater fish); 11 mg/l (saltwater\r\nfish): NOEC 0.016 mg/l (freshwater fish- 144 d); 0.064 mg/l (saltwater fish 164\r\nd)</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Fresh water invertebrates EC50 (48 h): 10.2 mg/l: NOEC 0.025 mg/l\r\n- 328 d)</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Marine water invertebrate EC50 (96 h): 1.1 mg/l; NOEC 0.17 mg/l\r\n(28 d)</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Freshwater algae (96 h): 2.73 mg/l</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Marine water algae (96 h): 1.1 mg/l</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Fresh water plant EC50 (7 d): 20 mg/l: NOEC 7.8 mg/l</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>In general, studies have shown that bisphenol A can affect growth,\r\nreproduction and development in aquatic organisms.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Among freshwater organisms, fish appear to be the most sensitive\r\nspecies. Evidence of endocrine-related effects in fish, aquatic invertebrates,\r\namphibians and reptiles has been reported at environmentally relevant exposure\r\nlevels lower than those required for acute toxicity. There is a widespread\r\nvariation in reported values for endocrine-related effects, but many fall in\r\nthe range of 1 ug/L to 1 mg/L</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>A 2009 review of the biological impacts of plasticisers on\r\nwildlife published by the Royal Society with a focus on annelids (both aquatic\r\nand terrestrial), molluscs, crustaceans, insects, fish and amphibians concluded\r\nthat bisphenol A has been shown to affect reproduction in all studied animal\r\ngroups, to impair development in crustaceans and amphibians and to induce\r\ngenetic aberrations.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>A large 2010 study of two rivers in Canada found that areas\r\ncontaminated with hormone-like chemicals including bisphenol A showed females\r\nmade up 85 per cent of the population of a certain fish, while females made up\r\nonly 55 per cent in uncontaminated areas.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Although abundant data are available on the toxicity of\r\nbisphenol-A (2,2-bis (4-hydroxydiphenyl)propane;(BPA) A variety of BPs were\r\nexamined for their acute toxicity against Daphnia magna, mutagenicity, and\r\noestrogenic activity using the Daphtoxkit (Creasel Ltd.), the umu test system,\r\nand the yeast two-hybrid system, respectively, in comparison with BPA. BPA was\r\nmoderately toxic to D. magna (48-h EC50 was 10 mg/l) according to the current\r\nU.S. EPA acute toxicity evaluation standard, and it was weakly oestrogenic with\r\n5 orders of magnitude lower activity than that of the natural estrogen 17\r\nbeta-oestradiol in the yeast screen, while no mutagenicity was observed. All\r\nseven BPs tested here showed moderate to slight acute toxicity, no\r\nmutagenicity, and weak oestrogenic activity as well as BPA. Some of the BPs\r\nshowed considerably higher oestrogenic activity than BPA, and others exhibited\r\nmuch lower activity. Bisphenol S (bis(4-hydroxydiphenyl)sulfone) and\r\nbis(4-hydroxyphenyl)sulfide) showed oestrogenic activity.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Biodegradation is a major mechanism for eliminating various\r\nenvironmental pollutants. Studies on the biodegradation of bisphenols have\r\nmainly focused on\u00a0 bisphenol A. A number of BPA-degrading bacteria have been\r\nisolated from enrichments of sludge from wastewater treatment plants. The first\r\nstep in the biodegradation of BPA is the hydroxylation of the carbon atom of a\r\nmethyl group or the quaternary carbon in the BPA molecule. Judging from these\r\nfeatures of the biodegradation mechanisms, it is possible that the same\r\nmechanism used for BPA is used to biodegrade all bisphenols that have at least\r\none methyl or methylene group bonded at the carbon atom between the two phenol\r\ngroups. However, bisphenol F ([bis(4-hydroxyphenyl)methane; BPF), which has no\r\nsubstituent at the bridging carbon, is unlikely to be metabolised by such a\r\nmechanism.\u00a0 Nevertheless BPF is readily degraded by river water microorganisms\r\nunder aerobic conditions. From this evidence, it was clear that a specific\r\nmechanism for biodegradation of BPF does exist in the natural ecosystem,</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Algae can enhance the photodegradation of bisphenols. The\r\nphotodegradation rate of BPF increased with increasing algae concentration.\r\nHumic acid and Fe3+ ions also enhanced the photodegradation of BPF. The effect\r\nof pH value on the BPF photodegradation was also important.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>&nbsp;</span></p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<ul>\n<li><span style=\"color:#000000\">Containers may still present a chemical hazard/ danger when empty.\u00a0</span></li>\n<li><span style=\"color:#000000\">Return to supplier for reuse/ recycling if possible.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Otherwise:</span></p>\n<ul>\n<li><span style=\"color:#000000\">If container can not be cleaned sufficiently well to ensure that residuals do not remain or if the container cannot be used to store the same product, then puncture containers, to prevent re-use, and bury at an authorised landfill.\u00a0</span></li>\n<li><span style=\"color:#000000\">Where possible retain label warnings and SDS and observe all notices pertaining to the product.\u00a0</span></li>\n</ul> <p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul>",
+                "Ecotox": [],
+                "IsPure": true,
+                "Regulations": [],
+                "Tccl": [],
+                "ClInventories": [],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {},
+                "Teel": [],
+                "Idlh": {},
+                "ExposureStandards": "<p>For epichlorohydrin</p> <p>Odour Threshold Value: 0.08 ppm</p> <p>NOTE: Detector tubes for epichlorohydrin, measuring in excess of 5 ppm, are commercially available.</p> <p>Exposure at or below the recommended TLV-TWA is thought to minimise the potential for adverse respiratory, liver, kidney effects. Epichlorohydrin has been implicated as a human skin sensitiser, hence individuals who are hypersusceptible or otherwise unusually responsive to certain chemicals may NOT be adequately protected from adverse health effects.</p> <p>Odour Safety Factor (OSF)</p> <p>OSF=0.54 (EPICHLOROHYDRIN)</p> <p><br /></p> <p>For toluene:</p> <p>Odour Threshold Value: 0.16-6.7 (detection), 1.9-69 (recognition)</p> <p>NOTE: Detector tubes measuring in excess of 5 ppm, are available.</p> <p>High concentrations of toluene in the air produce depression of the central nervous system (CNS) in humans. Intentional toluene exposure (glue-sniffing) at maternally-intoxicating concentration has also produced birth defects. Foetotoxicity appears at levels associated with CNS narcosis and probably occurs only in those with chronic toluene-induced kidney failure. Exposure at or below the recommended TLV-TWA is thought to prevent transient headache and irritation, to provide a measure of safety for possible disturbances to human reproduction, the prevention of reductions in cognitive responses reported amongst humans inhaling greater than 40 ppm, and the significant risks of hepatotoxic, behavioural and nervous system effects (including impaired reaction time and incoordination). Although toluene/ethanol interactions are well recognised, the degree of protection afforded by the TLV-TWA among drinkers is not known.</p> <p>Odour Safety Factor(OSF)</p> <p>OSF=17 (TOLUENE)</p> <p><br /></p> <p>For n-butanol:</p> <p>Odour Threshold Value: 0.12-3.4 ppm (detection), 1.0-3.5 ppm (recognition)</p> <p>NOTE: Detector tubes for n-butanol, measuring in excess of 5 ppm are commercially available.</p> <p>Exposure at or below the TLV-TWA is thought to provide protection against hearing loss due to vestibular and auditory nerve damage in younger workers and to protect against the significant risk of headache and irritation.</p> <p>25 ppm may produce mild irritation of the respiratory tract 50 ppm may produce headache and vertigo.</p> <p>Higher concentrations may produce marked irritation, sore throat, coughing, nausea, shortness of breath, pulmonary injury and central nervous system depression characterised by headache, dizziness, dullness and drowsiness.</p> <p>6000 ppm may produce giddiness, prostration, narcosis, ataxia, and death.</p> <p>Odour Safety Factor (OSF)</p> <p>OSF=60 (n-BUTANOL)</p> <p><br /></p> <p><br /></p> <p>Exposed individuals are\u00a0<b>NOT</b>\u00a0reasonably expected to be warned, by smell, that the Exposure Standard is being exceeded.</p> <p><br /></p> <p>\u00a0Odour Safety Factor (OSF) is determined to fall into either Class C, D or E.</p> <p><br /></p> <p>\u00a0The Odour Safety Factor (OSF) is defined as:</p> <p><br /></p> <p>\u00a0OSF= Exposure Standard (TWA) ppm/ Odour Threshold Value (OTV) ppm</p> <p><br /></p> <p>\u00a0Classification into classes follows:</p> <p><table> <tr> <td> <p>Class</p>  </td> <td> <p>OSF</p>  </td> <td> <p>Description</p>  </td> </tr> <tr> <td> <p>A</p>  </td> <td> <p>550</p>  </td> <td> <p>Over 90% of exposed individuals are aware by smell that the Exposure Standard (TLV-TWA for example) is being reached, even when distracted by working activities</p>  </td> </tr> <tr> <td> <p>B</p>  </td> <td> <p>26-550</p>  </td> <td> <p>As \"A\" for 50-90% of persons being distracted</p>  </td> </tr> <tr> <td> <p>C</p>  </td> <td> <p>1-26</p>  </td> <td> <p>As \"A\" for less than 50% of persons being distracted</p>  </td> </tr> <tr> <td> <p>D</p>  </td> <td> <p>0.18-1</p>  </td> <td> <p>10-50% of persons aware of being tested perceive by smell that the Exposure Standard is being reached</p>  </td> </tr> <tr> <td> <p>E</p>  </td> <td> <p>&lt;0.18</p>  </td> <td> <p>As \"D\" for less than 10% of persons aware of being tested</p>  </td> </tr> </table> </p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Local exhaust ventilation is required where solids are handled as powders or crystals; even when particulates are relatively large, a certain proportion will be powdered by mutual friction.\u00a0</li> <li>Exhaust ventilation should be designed to prevent accumulation and recirculation of particulates in the workplace.\u00a0</li> <li>If in spite of local exhaust an adverse concentration of the substance in air could occur, respiratory protection should be considered. Such protection might consist of:\u00a0</li> </ul> <p>(a): particle dust respirators, if necessary, combined with an absorption cartridge;</p> <p>(b): filter respirators with absorption cartridge or canister of the right type;</p> <p>(c): fresh-air hoods or masks</p> <ul> <li>Build-up of electrostatic charge on the dust particle, may be prevented by bonding and grounding.\u00a0</li> <li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting.\u00a0</li> </ul> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to efficiently remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 4-10 m/s (800-2000 f/min) for extraction of crusher dusts generated 2 metres distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p> <p>Not normally a hazard due to non-volatile nature of product</p>",
+                "AcuteEye": "<p>Evidence exists, or practical experience predicts, that the material may cause severe eye irritation in a substantial number of individuals and/or may produce significant ocular lesions which are present twenty-four hours or more after instillation into the eye(s) of experimental animals. Eye contact may cause significant inflammation with pain. Corneal injury may occur; permanent impairment of vision may result unless treatment is prompt and adequate. Repeated or prolonged exposure to irritants may cause inflammation characterised by a temporary redness (similar to windburn) of the conjunctiva (conjunctivitis); temporary impairment of vision and/or other transient eye damage/ulceration may occur.</p>",
+                "AcuteSkin": "<p>The material produces moderate skin irritation; evidence exists, or practical experience predicts, that the material either</p> <ul> <li>\u00a0produces moderate inflammation of the skin in a substantial number of individuals following direct contact, and/or\u00a0</li> <li>produces significant, but moderate, inflammation when applied to the healthy intact skin of animals (for up to four hours), such inflammation being present twenty-four hours or more after the end of the exposure period.\u00a0</li> </ul> <p>\u00a0Skin irritation may also be present after prolonged or repeated exposure; this may result in a form of contact dermatitis (nonallergic). The dermatitis is often characterised by skin redness (erythema) and swelling (oedema) which may progress to blistering (vesiculation), scaling and thickening of the epidermis. At the microscopic level there may be intercellular oedema of the spongy layer of the skin (spongiosis) and intracellular oedema of the epidermis.</p> <p>Skin contact is not thought to have harmful health effects (as classified under EC Directives); the material may still produce health damage following entry through wounds, lesions or abrasions.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p><span style=\"color:black\">Although ingestion is not thought\r\nto produce harmful effects (as classified under EC Directives), the material\r\nmay still be damaging to the health of the individual, following ingestion,\r\nespecially where pre-existing organ (e.g liver, kidney) damage is evident.\r\nPresent definitions of harmful or toxic substances are generally based on doses\r\nproducing mortality rather than those producing morbidity (disease, ill-health).\r\nGastrointestinal tract discomfort may produce nausea and vomiting. In an\r\noccupational setting however, ingestion of insignificant quantities is not\r\nthought to be cause for concern.</span></p> <p>High molecular weight material; on single acute exposure would be expected to pass through gastrointestinal tract with little change / absorption. Occasionally accumulation of the solid material within the alimentary tract may result in formation of a bezoar (concretion), producing discomfort.</p> <p class=\"MsoNormal\" style='text-autospace:none'><span lang=\"X-NONE\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";color:black'>Male rats\r\nexposed to a single oral dose of bisphenol A diglycidyl ether (BADGE) at 750,\r\n1000, and 2000 mg/kg/day showed a significantly increase in the number of\r\nimmature and maturing sperm on the testis. There were no significant\r\ndifferences with respect to sperm head count, sperm motility, and sperm\r\nabnormality in the BADGE treatment groups</span></p>",
+                "ChronicHealthEffects": "<p><span style=\"color:black\">Practical experience shows that\r\nskin contact with the material is capable either of inducing a sensitisation\r\nreaction in a substantial number of individuals, and/or of producing a positive\r\nresponse in experimental animals.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Substances that can cause\r\noccupational asthma (also known as asthmagens and respiratory sensitisers) can\r\ninduce a state of specific airway hyper-responsiveness via an immunological,\r\nirritant or other mechanism. Once the airways have become hyper-responsive,\r\nfurther exposure to the substance, sometimes even to tiny quantities, may cause\r\nrespiratory symptoms. These symptoms can range in severity from a runny nose to\r\nasthma. Not all workers who are exposed to a sensitiser will become\r\nhyper-responsive and it is impossible to identify in advance who are likely to\r\nbecome hyper-responsive.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Substances than can cuase\r\noccupational asthma should be distinguished from substances which may trigger\r\nthe symptoms of asthma in people with pre-existing air-way\r\nhyper-responsiveness. The latter substances are not classified as asthmagens or\r\nrespiratory sensitisers</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Wherever\u00a0 it is reasonably\r\npracticable, exposure to substances that can cuase occupational asthma should\r\nbe prevented. Where this is not possible the primary aim is to apply adequate\r\nstandards of control to prevent workers from becoming hyper-responsive. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Activities giving rise to\r\nshort-term peak concentrations should receive particular attention when risk\r\nmanagement is being considered. Health surveillance is appropriate for all\r\nemployees exposed or liable to be exposed to a substance which may\u00a0 cause\r\noccupational asthma and there should be appropriate consultation with an\r\noccupational health professional over the degree of risk and level of\r\nsurveillance.</span></p> <p>On the basis, primarily, of animal experiments, concern has been expressed by at least one classification body that the material may produce carcinogenic or mutagenic effects; in respect of the available information, however, there presently exists inadequate data for making a satisfactory assessment.</p><p><br /></p> <p>Long term exposure to high dust concentrations may cause changes in lung function (i.e. pneumoconiosis) caused by particles less than 0.5 micron penetrating and remaining in the lung. A prime symptom is breathlessness. Lung shadows show on X-ray.</p> <p>All glycidyl ethers show genotoxic potential due their alkylating  properties. Those glycidyl ethers that have been investigated in long  term studies exhibit more or less marked carcinogenic potential.  Alkylating agents may damage the stem cell which acts as the precursor  to components of the blood. Loss of the stem cell may result in  pancytopenia (a reduction in the number of red and white blood cells and  platelets) with a latency period corresponding to the lifetime of the  individual blood cells. Granulocytopenia (a reduction in granular  leukocytes) develops within days and thrombocytopenia (a disorder  involving platelets), within 1-2 weeks, whilst loss of erythrocytes (red  blood cells) need months to become clinically manifest. Aplastic  anaemia develops due to complete destruction of the stem cells.<br />Reported  adverse effects in laboratory animals include sensitization, and skin  and eye irritation, as well as mutagenic and tumorigenic activity..<br />Testicular  abnormalities (including testicular atrophy with decreased  spermatogenic activity) following exposure to glycidyl ethers\u00a0 have been  reported. Haemopoietic abnormalities following exposure to glycidyl  ethers, including alteration of the leukocyte count, atrophy of lymphoid  tissue, and bone marrow cytotoxicity have also been reported. These  abnormalities were usually observed along with pneumonia and/or toxemia,  and therefore may be secondary effects. However, especially in light of  the generalized reduction in leukocytes and the atrophy of lymphoid  tissues, the observed haemopoietic abnormalities may have been  predisposing factors to pneumonia. While none of the individual research  reports are conclusive with respect to the ability of glycidyl ethers  to produce permanent changes to the testes or haemopoietic system in  laboratory animals, the pattern of displayed effects is reason for  concern<br />Glycidyl ethers have been shown to cause allergic contact  dermatitis in humans. Glycidyl ethers generally cause skin sensitization  in experimental animals. Necrosis of the mucous membranes of the nasal  cavities was induced in mice exposed to allyl glycidyl ether. \u00a0<br />A  study of workers with mixed exposures was inconclusive with regard to  the effects of specific glycidyl ethers. Phenyl glycidyl ether, but not  n-butyl glycidyl ether, induced morphological transformation in  mammalian cells in vitro. n-Butyl glycidyl ether induced micronuclei in  mice in vivo following intraperitoneal but not oral administration.  Phenyl glycidyl ether did not induce micronuclei or chromosomal  aberrations in vivo or chromosomal aberrations in animal cells in vitro.  Alkyl C12 or C14 glycidyl ether did not induce DNA damage in cultured  human cells or mutation in cultured animal cells. Allyl glycidyl ether  induced mutation in Drosophila. The glycidyl ethers were generally  mutagenic to bacteria.</p> <p><span style=\"color:black\">Bisphenol A exhibits hormone-like\r\nproperties that raise concern about its suitability in consumer products and\r\nfood containers.\u00a0 Bisphenol A is thought to be an endocrine disruptor which can\r\nmimic oestrogen and may lead to negative health effects. More specifically,\r\nbisphenol A closely mimics the structure and function of the hormone oestradiol\r\nwith the ability to bind to and activate the same oestrogen receptor as the\r\nnatural hormone. The presence of the p-hydroxy group on the benzene rings is\r\nthough to be responsible for the oestradiol mimicry.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">. Early developmental stages\r\nappear to be the period of greatest sensitivity to its effects and some studies\r\nhave linked prenatal exposure to later physical and neurological difficulties.\r\nRegulatory bodies have determined safety levels for humans, but those safety\r\nlevels are being questioned or are under review. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">A 2009 study on Chinese workers\r\nin bisphenol A factories found that workers were four times more likely to\r\nreport erectile dysfunction, reduced sexual desire and overall dissatisfaction\r\nwith their sex life than workers with no heightened bisphenol A exposure.\r\nBisphenol A workers were also seven times more likely to have ejaculation\r\ndifficulties. They were also more likely to report reduced sexual function\r\nwithin one year of beginning employment at the factory, and the higher the\r\nexposure, the more likely they were to have sexual difficulties.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Bisphenol A in weak\r\nconcentrations is sufficient to produce a negative reaction on the human\r\ntesticle. The researchers found that a concentration equal to 2 ug/ litre of\r\nbisphenol A in the culture medium, a concentration equal to the average\r\nconcentration generally found in the blood, urine and amniotic fluid of the\r\npopulation, was sufficient to produce the effects. The researchers believe that\r\nexposure of pregnant women to bisphenol A may be one of the causes of\r\ncongenital masculinisation defects of the hypospadia and cryptorchidism types\r\nthe frequency of which has doubled overall since the 70's. They also suggested\r\nthat \"it is also possible that bisphenol A contributes to a reduction in\r\nthe production of sperm and the increase in the incidence of testicular cancer\r\nin adults that have been observed in recent decades\"</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">One review has concluded that\r\nobesity may be increased as a function of bisphenol A exposure, which\r\n\"...merits concern among scientists and public health officials\"</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">One study demonstrated that\r\nadverse neurological effects occur in non-human primates regularly exposed to\r\nbisphenol A at levels equal to the United States Environmental Protection\r\nAgency's (EPA) maximum safe dose of 50 ug/kg/day This research found a\r\nconnection between bisphenol A and interference with brain cell connections\r\nvital to memory, learning, and mood.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">A further review concluded that\r\nbisphenol-A has been shown to bind to thyroid hormone receptor and perhaps have\r\nselective effects on its functions. Carcinogenicity studies have shown\r\nincreases in leukaemia and testicular interstitial cell tumours in male rats.\r\nHowever, \"these studies have not been considered as convincing evidence of\r\na potential cancer risk because of the doubtful statistical significance of the\r\nsmall differences in incidences from controls\". Another in vitro study has\r\nconcluded that bisphenol A is able to induce neoplastic transformation in human\r\nbreast epithelial cells.[whilst a further study concluded that maternal oral\r\nexposure to low concentrations of bisphenol A, during lactation, increases\r\nmammary carcinogenesis in a rodent model. In vitro studies have suggested that\r\nbisphenol A can promote the growth of neuroblastoma cells and potently promotes\r\ninvasion and metastasis of neuroblastoma cells. Newborn rats exposed to a\r\nlow-dose of bisphenol A (10 ug/kg) showed increased prostate cancer susceptibility\r\nwhen adults. At least one study has suggested that bisphenol A suppresses DNA\r\nmethylation which is involved in epigenetic changes.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Bisphenol A is the isopropyl\r\nadduct of 4,4'-dihydroxydiphenyl oxide (DHDPO). A series of DHDPO analogues\r\nhave been investigated as potential oestrogen receptor/anti-tumour drug\r\ncarriers in the development of a class of therapeutic drugs called\r\n\"cytostatic hormones\". Oestrogenic activity is induced with 1 to 100\r\nmg/kg body weight in animal models. Bisphenol A sealants are frequently used in\r\ndentistry for treatment of dental pits and fissures. Samples of saliva\r\ncollected from dental patients during a 1-hour period following application\r\ncontain the monomer. A bisphenol-A sealant has been shown to be oestrogenic in\r\nvitro; such sealants may represent an additional source of xenoestrogens in\r\nhumans and may be the cause of additional concerns in children.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Concerns have been raised about\r\nthe possible developmental effects on the foetus/embryo or neonate resulting\r\nfrom the leaching of bisphenol A from epoxy linings in metal cans which come in\r\ncontact with food-stuffs.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Many drugs, including naproxen,\r\nsalicylic acid, carbamazepine and mefenamic acid can, in vitro, significantly\r\ninhibit bisphenol A glucuronidation (detoxification).</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">BPA belongs to the list of\r\ncompounds having this property as the rodent models have shown that BPA\r\nexposure is linked with increased body weigh (obesogens)t. Several mechanisms\r\ncan help explain the effect of BPA on body weight increase.\u00a0 A possible\u00a0 mechanism\r\nleading to triglyceride accumulation is the decreased production of the hormone\r\nadiponectin from all human adipose tissue tested when exposed to very low\r\nlevels (below nanomolar range) of BPA in cell or explant culture settings . The\r\nexpression of leptin as well as several enzymes and transcription factors is\r\nalso affected by BPA exposure in vivo as well as in vitro. Together, the\r\naltered expression and activity of these important mediators of fat metabolism\r\ncould explain the increase in weight following BPA exposure in rodent models.\r\nThese results also suggest that, together with other obesogens, low,\r\nenvironmentally relevant levels of BPA may contribute to the human obesity\r\nphenomenon.</span></p> <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>Bisphenol A diglycidyl ethers\r\n(BADGEs) produce sensitisation dermatitis characterised by a papular, vesicular\r\neczema with considerable itching of the back of the hand, the forearm and face\r\nand neck. This lesion may persist for 10-14 days after withdrawal from exposure\r\nand recur immediately on re-exposure. This dermatitis may persist for longer\r\nperiods following each exposure but is unlikely to become more intense. Lesions\r\nmay develop a brownish colour and scaling occurs frequently. Lower molecular\r\nweight species produce sensitisation more readily.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>In mice technical grades of bisphenol\r\nA diglycidyl ether produced epidermal tumours and a small increase in the\r\nincidence kidney tumours in males and of lymphoreticular/ haematopoietic\r\ntumours in females. Subcutaneous injection produced a small number of\r\nfibrosarcomas in rats.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>BADGE is listed as an IARC Group\r\n3 carcinogen, meaning it is &quot;not classifiable as to its carcinogenicity to\r\nhumans&quot;.\u00a0 Concern has been raised over this possible carcinogenicity\r\nbecause BADGE is used in epoxy resins in the lining of some tin cans for foodstuffs,\r\nand unreacted BADGE may end up in the contents of those cans.</span></p>",
+                "Toxicity": [],
+                "Irritation": [
+                    {
+                        "Value": "Eye (rabbit): 100 mg - mild",
+                        "IsFromGalleria": false
+                    }
+                ],
+                "InitialDate": "28/03/2003",
+                "NextRevisionDate": "2024-10-11T00:00:00",
+                "SignalWord": "Warning",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSHar.gif",
+                    "GHSEnv.gif"
+                ],
+                "MarinePollutantGraphic": "MARPOLL.gif",
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R36/38|~R37?",
+                "MiniChronicHealthEffects": "R43|R40(3)?",
+                "WhmisImages": [
+                    "WHMIST.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P273",
+                        "Phrase": "Avoid release to the environment."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P261",
+                        "Phrase": "Avoid breathing dust/fumes."
+                    },
+                    {
+                        "Code": "P272",
+                        "Phrase": "Contaminated work clothing should not be allowed out of the workplace."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P391",
+                        "Phrase": "Collect spillage."
+                    },
+                    {
+                        "Code": "P305+P351+P338",
+                        "Phrase": "IF IN EYES:, Rinse cautiously with water for several minutes., Remove contact lenses, if present and easy to do. Continue rinsing."
+                    },
+                    {
+                        "Code": "P337+P313",
+                        "Phrase": "If eye irritation persists:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P302+P352",
+                        "Phrase": "IF ON SKIN:, Wash with plenty of water and detergent."
+                    },
+                    {
+                        "Code": "P321",
+                        "Phrase": "Specific treatment (see ... \u00b0n this label)."
+                    },
+                    {
+                        "Code": "P362",
+                        "Phrase": "Take off contaminated clothing."
+                    },
+                    {
+                        "Code": "P333+P313",
+                        "Phrase": "If skin irritation or rash occurs:, Get medical advice/attention."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "Xi"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S22",
+                        "Phrase": "    Do not breathe dust.&nbsp;  "
+                    },
+                    {
+                        "Code": "S24",
+                        "Phrase": "    Avoid contact with skin.&nbsp;  "
+                    },
+                    {
+                        "Code": "S26",
+                        "Phrase": "    In case of contact with eyes, rinse with plenty of water and contact Doctor or Poisons Information Centre.&nbsp;  "
+                    },
+                    {
+                        "Code": "S29",
+                        "Phrase": "    Do not empty into drains.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S39",
+                        "Phrase": "    Wear eye/face protection.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S57",
+                        "Phrase": "     Use appropriate container to avoid environmental contamination.  "
+                    },
+                    {
+                        "Code": "S61",
+                        "Phrase": "    Avoid release to the environment. Refer to special instructions/Safety data sheets.&nbsp;  "
+                    },
+                    {
+                        "Code": "S64",
+                        "Phrase": "If swallowed, rinse mouth with water (only if the person is conscious).\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "open_window.gif",
+                        "Translation": "General Exhaust Ventilation adequate."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Remove contaminated clothing. Wash with soap &amp; water."
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R36.gif",
+                        "Translation": "Causes serious eye irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R38.gif",
+                        "Translation": "Causes skin irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R43.gif",
+                        "Translation": "May cause an allergic skin reaction."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_water.gif"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water spray/ fog.\u00a0</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSLBC.gif",
+                        "Translation": "Lab Coat"
+                    }
+                ],
+                "Nfpa": {
+                    "Toxicity": 2,
+                    "Flammability": 1,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_2_1_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "3",
+                    "Translation": "High",
+                    "NumericalRating": 3,
+                    "IsSGroup": true
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 0,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "sinks_in_water.gif",
+                        "Translation": "Sinks in water."
+                    }
+                ]
+            },
+            "Proportion": "<50",
+            "Name": "bisphenol A/ epichlorohydrin resin",
+            "OrderNumber": 1,
+            "NameForShowing": "bisphenol A/ epichlorohydrin resin",
+            "ProportionForShowing": "<50",
+            "CwNumber": "35786",
+            "NumericProportion": {
+                "MinValue": 49.99,
+                "MaxValue": 49.99,
+                "RawMinValue": 50.0,
+                "RawMaxValue": 50.0,
+                "MinValueSign": "<",
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "<12",
+            "Name": "epichlorohydrin-polygol resin",
+            "OrderNumber": 2,
+            "SanitizedName": "epichlorohydrin-polygol resin",
+            "NameForShowing": "epichlorohydrin-polygol resin",
+            "ProportionForShowing": "<12",
+            "NumericProportion": {
+                "MinValue": 11.99,
+                "MaxValue": 11.99,
+                "RawMinValue": 12.0,
+                "RawMaxValue": 12.0,
+                "MinValueSign": "<",
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0232",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0232",
+    "Version": "637647155925220856",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0232",
+    "Key": "01-0232_AUS_EN",
+    "FullKey": "datasets/gold/01-0232_AUS_EN",
+    "AiteLogKey": "01-0232",
+    "AiteS3Key": "xml/01-0232.json",
+    "Name": "Toli #900 - Heavy Duty Epoxy Adhesive Part A",
+    "PoisonSchedule": "S5",
+    "GhsEntities": [
+        {
+            "Category": "Eye Irritation Category 2A",
+            "CategoryCode": "Cat 2A",
+            "Code": "H319",
+            "Phrase": "Causes serious eye irritation."
+        },
+        {
+            "Category": "Skin Sensitizer Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H317",
+            "Phrase": "May cause an allergic skin reaction."
+        },
+        {
+            "Category": "Chronic Aquatic Hazard Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H411",
+            "Phrase": "Toxic to aquatic life with long lasting effects."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H315",
+            "Phrase": "Causes skin irritation."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

@@ -1,0 +1,564 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "21986",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a21986",
+                "Version": "637643810750288928",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "21986",
+                "Key": "21986_AUS_EN",
+                "FullKey": "datasets/gold/21986_AUS_EN",
+                "AiteLogKey": "21986",
+                "AiteS3Key": "xml/21986.json",
+                "ChemKey": {
+                    "cw": "CK-21986",
+                    "un": [],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-9004-32-4",
+                        "CK-9085-26-1",
+                        "CK-1012064-31-1",
+                        "CK-117385-93-0",
+                        "CK-1262215-38-2",
+                        "CK-12624-09-8",
+                        "CK-1296213-64-3",
+                        "CK-1422717-46-1",
+                        "CK-1428980-42-0",
+                        "CK-147881-80-9",
+                        "CK-1610028-94-8",
+                        "CK-1610029-04-3",
+                        "CK-198084-97-8",
+                        "CK-2014388-59-9",
+                        "CK-2072854-79-4",
+                        "CK-2131127-75-6",
+                        "CK-2228913-23-1",
+                        "CK-2229957-39-3",
+                        "CK-247080-55-3",
+                        "CK-37231-14-4",
+                        "CK-37231-15-5",
+                        "CK-404943-62-0",
+                        "CK-454679-81-3",
+                        "CK-50642-44-9",
+                        "CK-54018-17-6",
+                        "CK-55607-96-0",
+                        "CK-64103-90-8",
+                        "CK-654655-39-7",
+                        "CK-73699-63-5",
+                        "CK-80296-93-1",
+                        "CK-81209-86-1",
+                        "CK-82197-79-3",
+                        "CK-854036-84-3",
+                        "CK-9045-95-8"
+                    ],
+                    "groupCode": [
+                        "CK-G56.4",
+                        "CK-G8661",
+                        "CK-G56.3"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "sodium carboxymethylcellulose",
+                "CasNumber": "9004-32-4",
+                "GhsEntities": [],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "<p>Partly miscible</p>",
+                "WaterSolubility": 0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>General Exhaust Ventilation adequate.</p>",
+                "MiniResp": "<p>Particulate. (AS/NZS 1716 &amp; 1715, EN 143:2000 &amp; 149:001, ANSI Z88 or national equivalent)</p>",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p>",
+                "MiniFireExp": "<p>Toxic smoke/fumes in a fire.</p>",
+                "MiniAppearance": "<p>Solid.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Sinks in water.</p>",
+                "MiniFlammability": "<p>Combustible.</p>",
+                "MiniFirstAidSwallow": "<p>Give water (if conscious). Seek medical advice.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water.</p>",
+                "MiniFirstAidSkin": "<p><span style=\"color:#000000\">Wash with soap<br /></span></p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention.</p>",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Foam.</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Avoid dust.</p> <p>Sweep shovel to safe place.</p>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Flammability": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Reactivity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "BodyContact": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": true,
+                    "RawValue": "None"
+                },
+                "InternationalHazardGraphics": [],
+                "RiskCodes": [],
+                "SpecificGravity": "1.59",
+                "IssueDate": "2020-02-15T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "None",
+                "Use": "<p>Synthetic polymer.\u00a0</p> <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>Modified cellulose polymers\u00a0 are\r\nused in a wide variety of cosmetics as thickeners, suspending agents, film\r\nformers, stabilisers, emulsifiers, emollients, binders, or water-retention\r\nagents</span></p> <p><span style=\"color:black\">Carboxymethyl cellulose (CMC) or\r\ncellulose gum[1] is a cellulose derivative with carboxymethyl groups\r\n(-CH2-COOH) bound to some of the hydroxyl groups of the glucopyranose monomers\r\nthat make up the cellulose backbone. It is often used as its sodium salt,\r\nsodium carboxymethyl cellulose.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC is used in food under the E\r\nnumber E466 or E469 (when it is enzymatically hydrolyzed) as a viscosity\r\nmodifier or thickener, and to stabilize emulsions in various products including\r\nice cream. It is also a constituent of many non-food products, such as\r\ntoothpaste, laxatives, diet pills, water-based paints, detergents, textile\r\nsizing, reusable heat packs, and various paper products. It is used primarily\r\nbecause it has high viscosity, is nontoxic, and is generally considered to be\r\nhypoallergenic as the major source fiber is either softwood pulp or cotton\r\nlinter.CMC is used extensively in gluten free and reduced fat food products .\r\nCMC powder is widely used in the ice cream industry, to make ice creams without\r\nchurning or extreme low temperatures, thereby eliminating the need for the\r\nconventional churners or salt ice mixes. CMC is used in preparing bakery\r\nproducts such as bread and cake aa an emulsifier in high quality biscuits.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">In laundry detergents, it is used\r\nas a soil suspension polymer designed to deposit onto cotton and other\r\ncellulosic fabrics, creating a negatively charged barrier to soils in the wash\r\nsolution. CMC is used as a lubricant in artificial tears.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Carboxymethylcellulose is also\r\nused as a thickening agent, for example, in the oil-drilling industry as an\r\ningredient of drilling mud, where it acts as a viscosity modifier and water\r\nretention agent. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC is used as a thickening and\r\nsuspending agent. Pharmaceutical grades available. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC is a protective colloid and\r\nstabiliser for vinyl and acrylic polymerisation. As an ingredient of concrete\r\ncuring compounds, it retards evaporation of water in cements, mortars and\r\nconcrete; binder in ceramic glazes. CMC is used\u00a0 in films and sheeting; paper\r\nand textile sizing and insecondary petroleum recovery.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Sodium CMC(Na CMC) for example,\r\nis used as a negative control agent for alopecia in rabbits.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Knitted fabric made of cellulose\r\n(e.g. cotton or viscose rayon) may be converted into CMC and used in various\r\nmedical applications.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Insoluble microgranular CMC is\r\nused as a cation-exchange resin in ion-exchange chromatography for purification\r\nof proteins.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC is also used in ice packs to\r\nform a eutectic mixture resulting in a lower freezing point, and therefore more\r\ncooling capacity than ice.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Aqueous solutions of CMC have\r\nalso been used to disperse carbon nanotubes. The long CMC molecules are thought\r\nto wrap around the nanotubes, allowing them to be dispersed in water. In\r\nconservation-restoration, it is used as an adhesive or fixative.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC is used to achieve tartrate\r\nor cold stability in wine. This innovation may save megawatts of electricity\r\nused to chill wine in warm climates. It is more stable than metatartaric acid\r\nand is very effective in inhibiting tartrate precipitation. It is reported that\r\npotassium bitartrate crystals, in presence of CMC, grow slower and change their\r\nmorphology.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">In veterinary medicine, CMC is\r\nused in abdominal surgeries in large animals, particularly horses, to prevent\r\nthe formation of bowel adhesions.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC is used as an electrode\r\nbinder in advanced battery applications (i.e. lithium ion batteries),\r\nespecially with graphite anodes. CMC's water solubility allows for less toxic\r\nand costly processing than with non-water-soluble binders, like the traditional\r\npolyvinylidene fluoride (PVDF), which requires toxic n-methylpyrrolidone (NMP)\r\nfor processing. CMC is often used in conjunction with styrene-butadiene rubber\r\n(SBR) for electrodes requiring extra flexibility, e.g. for use with\r\nsilicon-containing anode</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">CMC has also been used\r\nextensively to characterize enzyme activity from endoglucanases (part of the\r\ncellulase complex). CMC is a highly specific substrate for endo-acting\r\ncellulases, as its structure has been engineered to decrystallize cellulose and\r\ncreate amorphous sites that are ideal for endoglucanase action.</span></p>",
+                "ChemicalFormula": [
+                    "(C30-H43-O26-Na3)n"
+                ],
+                "FirstAidIngestion": "<ul> <li><font color=\"#ff0000\">If swallowed do\u00a0</font><font color=\"#ff0000\"><b>NOT</b></font><font color=\"#ff0000\">\u00a0induce vomiting.\u00a0</font></li> <li>If vomiting occurs, lean patient forward or place on left side (head-down position, if possible) to maintain open airway and prevent aspiration.\u00a0</li> <li>Observe the patient carefully.\u00a0</li> <li>Never give liquid to a person showing signs of being sleepy or with reduced awareness; i.e. becoming unconscious.\u00a0</li> <li>Give water to rinse out mouth, then provide liquid slowly and as much as casualty can comfortably drink.\u00a0</li> <li>Seek medical advice.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Lay patient down. Keep warm and rested.\u00a0</li> <li>Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>Apply artificial respiration if not breathing, preferably with a demand valve resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Wash out immediately with fresh running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "8-181",
+                    "8-203"
+                ],
+                "IshlReferenceNumber": [
+                    "11-(4)-722",
+                    "11-(4)-761",
+                    "11-(4)-100",
+                    "11-(4)-99"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<ul> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> <li>Water spray or fog - Large fires only.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul>\n<li>Combustible solid which burns but propagates flame with difficulty; it is estimated that most organic dusts are combustible (circa 70%) - according to the circumstances under which the combustion process occurs, such materials may cause fires and / or dust explosions. </li>\n<li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions). </li>\n<li>Avoid generating dust, particularly clouds of dust in a confined or unventilated space as dusts may form an explosive mixture with air, and any source of ignition, i.e. flame or spark, will cause fire or explosion. Dust clouds generated by the fine grinding of the solid are a particular hazard; accumulations of fine dust (420 micron or less) may burn rapidly and fiercely if ignited - particles exceeding this limit will generally not form flammable dust clouds; once initiated, however, larger particles up to 1400 microns diameter will contribute to the propagation of an explosion. </li>\n<li>In the same way as gases and vapours, dusts in the form of a cloud are only ignitable over a range of concentrations; in principle, the concepts of lower explosive limit (LEL) and upper explosive limit (UEL) are applicable to dust clouds but only the LEL is of practical use; - this is because of the inherent difficulty of achieving homogeneous dust clouds at high temperatures (for dusts the LEL is often called the \"Minimum Explosible Concentration\", MEC). </li>\n<li>When processed with flammable liquids/vapors/mists,ignitable (hybrid) mixtures may be formed with combustible dusts. Ignitable mixtures will increase the rate of explosion pressure rise and the Minimum Ignition Energy (the minimum amount of energy required to ignite dust clouds - MIE) will be lower than the pure dust in air mixture. The Lower Explosive Limit (LEL) of the vapour/dust mixture will be lower than the individual LELs for the vapors/mists or dusts. </li>\n<li>A dust explosion may release of large quantities of gaseous products; this in turn creates a subsequent pressure rise of explosive force capable of damaging plant and buildings and injuring people. </li>\n<li>Usually the initial or primary explosion takes place in a confined space such as plant or machinery, and can be of sufficient force to damage or rupture the plant. If the shock wave from the primary explosion enters the surrounding area, it will disturb any settled dust layers, forming a second dust cloud, and often initiate a much larger secondary explosion. All large scale explosions have resulted from chain reactions of this type. </li>\n<li>Dry dust can be charged electrostatically by turbulence, pneumatic transport, pouring, in exhaust ducts and during transport. </li>\n<li>Build-up of electrostatic charge may be prevented by bonding and grounding. </li>\n<li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting. </li>\n<li>All movable parts coming in contact with this material should have a speed of less than 1-meter/sec.\u00a0 </li>\n<li>A sudden release of statically charged materials from storage or process equipment, particularly at elevated temperatures and/ or pressure, may result in ignition especially in the absence of an apparent ignition source. </li>\n<li>One important effect of the particulate nature of powders is that the surface area and surface structure (and often moisture content) can vary widely from sample to sample, depending of how the powder was manufactured and handled; this means that it is virtually impossible to use flammability data published in the literature for dusts (in contrast to that published for gases and vapours). </li>\n<li>Autoignition temperatures are often quoted for dust clouds (minimum ignition temperature (MIT)) and dust layers (layer ignition temperature (LIT)); LIT generally falls as the thickness of the layer increases.</li>\n</ul> <p>Combustion products include:</p> <p>carbon monoxide (CO)</p> <p>carbon dioxide (CO2)</p> <p>metal oxides</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p>May emit poisonous fumes.</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Moderate hazard.</p> <ul> <li><font color=\"#ff0000\"><b>CAUTION</b></font><font color=\"#ff0000\">:\u00a0</font>Advise personnel in area.\u00a0</li> <li>Alert Emergency Services and tell them location and nature of hazard.\u00a0</li> <li>Control personal contact by wearing protective clothing.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Recover product wherever possible.\u00a0</li> <li><b>IF DRY:\u00a0</b>Use dry clean up procedures and avoid generating dust. \u00a0Collect residues and place in sealed plastic bags or other containers for disposal.\u00a0<b>IF WET:</b>\u00a0 Vacuum/shovel up and place in labelled containers for disposal.\u00a0</li> <li><b>ALWAYS:</b>\u00a0 Wash area down with large amounts of water and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise Emergency Services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Remove all ignition sources.\u00a0</li> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid contact with skin and eyes.\u00a0</li> <li>Control personal contact with the substance, by using protective equipment.\u00a0</li> <li>Use dry clean up procedures and avoid generating dust.\u00a0</li> <li>Place in a suitable, labelled container for waste disposal.\u00a0</li> </ul>",
+                "MolecularWeight": "21,000-500,000",
+                "Appearance": "White to off-white, odourless, hygroscopic powder or granules. Solubility in water depends on degree of substitution. Very slowly degraded biochemically.|<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>Modified cellulose polymers\r\nformed by the reaction with the free hydroxyl groups in cellulose. The number\r\nof hydroxyl groups reacting, as well as the the nature of the substituent,\r\nlargely determine the physical properties, particularly solubility, of the\r\nproduct.</span></p> <p>Family of products which vary in their physical properties as a result of variations in production. Data presented here is for typical family member.</p>",
+                "Taste": "Not Available",
+                "VolatileComponent": "8",
+                "PhAs1PercentSolution": "6.5-8.0",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "Not available.",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not available.",
+                "AutoIgnitionTemperature": "370~",
+                "FlashRange": "Not Available",
+                "Lel": "Not Available",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "Uel": "Not Available",
+                "PhSolutionPercent": "6.5-8.0",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "Cellulose, carboxymethyl ether, sodium salt",
+                    "CARBOXYMETHYLCELLULOSE SODIUM SALT"
+                ],
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of exposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0allow material to contact humans, exposed food or food utensils.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately. Launder contaminated clothing before re-use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul> <ul> <li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions)\u00a0</li> <li>Minimise airborne dust and eliminate all ignition sources. Keep away from heat, hot surfaces, sparks, and flame.\u00a0</li> <li>Establish good housekeeping practices.\u00a0</li> <li>Remove dust accumulations on a regular basis by vacuuming or gentle sweeping to avoid creating dust clouds.\u00a0</li> <li>Use continuous suction at points of dust generation to capture and minimise the accumulation of dusts. Particular attention should be given to overhead and hidden horizontal surfaces to minimise the probability of a \"secondary\" explosion. According to NFPA Standard 654, dust layers 1/32 in.(0.8 mm) thick can be sufficient to warrant immediate cleaning of the area.\u00a0</li> <li>Do not use air hoses for cleaning.\u00a0</li> <li>Minimise dry sweeping to avoid generation of dust clouds. Vacuum dust-accumulating surfaces and remove to a chemical disposal area. Vacuums with explosion-proof motors should be used.\u00a0</li> <li>Control sources of static electricity. \u00a0Dusts or their packages may accumulate static charges, and static discharge can be a source of ignition.\u00a0</li> <li>Solids handling systems must be designed in accordance with applicable standards (e.g. NFPA including 654 and 77) and other national guidance.\u00a0</li> <li>Do not empty directly into flammable solvents or in the presence of flammable vapors.\u00a0</li> <li>The operator, the packaging container and all equipment must be grounded with electrical bonding and grounding systems. Plastic bags and plastics cannot be grounded, and antistatic bags do not completely protect against development of static charges.\u00a0</li> </ul> <p>Empty containers may contain residual dust which has the potential to accumulate following settling. Such dusts may explode in the presence of an appropriate ignition source.</p> <ul> <li><font color=\"#ff0000\">Do NOT cut, drill, grind or weld such containers.\u00a0</font></li> <li>In addition ensure such activity is not performed near full, partially empty or empty containers without appropriate workplace safety authorisation or permit.\u00a0</li> </ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry area protected from environmental extremes.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>\n<p><span style=\"color:#000000\">For major quantities:</span></p>\n<ul>\n<li><span style=\"color:#000000\">Consider storage in bunded \u00a0areas - ensure storage areas are isolated from sources of community water (including stormwater, ground water, lakes and streams}.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure that accidental discharge to air or water is the subject of a contingency disaster management plan; this may require consultation with local authorities.\u00a0</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Glass container is suitable for laboratory quantities\u00a0</li> </ul> <ul> <li>Polyethylene or polypropylene container.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p>Dilute solutions of all sugars are subject to fermentation, either by yeast or by other microorganisms or enzymes derived from these, producing gases which can pressurise and burst sealed containers.</p>\n<p>Some microorganisms will produce hydrogen or methane, adding a fire and explosion hazard.</p> <p>Cellulose and its derivatives may react vigorously with calcium oxide, bleaching powder, perchlorates, perchloric acid, sodium chlorate, fluorine, nitric acid, sodium nitrate and sodium nitrite.</p> <p>May be incompatible with aminacrine hydrochloride, chlorocresol, mercuric chloride, phenol, resorcinol, tannic acid and silver nitrate.</p> <ul> <li>Avoid reaction with oxidising agents\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [],
+                "TransportIncompatibilities": "<p>No restrictions.\u00a0</p>",
+                "TransportPrecautions": "#Prec_trans0_1",
+                "Environment": "<p><span style=\"color:black\">Non-ionic polymers with MWs &gt;\r\n1,000 that do not contain reactive functional groups and are comprised of\r\nminimal low MW oligomers are estimated to display no effects at saturation\r\n(NES). These polymers display NES because the amount dissolved in water is not\r\nanticipated to reach a concentration at which adverse effects may be expressed.\r\nGuidance for the assessment of aquatic toxicity hazard results in a Low hazard\r\ndesignation for those materials that display NES.</span></p>\r\n\r\n\r\n\r\n<p><span>\u00a0</span></p> <p><span style=\"color:black\">For high molecular weight\r\nsynthetic polymers: (according to the Sustainable Futures (SF) program (U.S.\r\nEPA 2005b; U.S. EPA 2012c) polymer assessment guidance.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">High MW polymers are expected:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">to have low vapour pressure and are not expected to undergo\r\nvolatilization .</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">\u00a0to adsorb strongly to soil and sediment </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">to be non-biodegradable (not anticipated to be assimilated by\r\nmicroorganisms.- therefore, biodegradation is not expected to be an important\r\nremoval process. However many exceptions exist </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">High MW polymers are not expected\r\nto undergo removal by other degradative processes under environmental\r\nconditions</span></p> <p>Cellulosic products, including cellulose ethers, generally have a low biodegradation rate and are generally of low toxicity to fish.</p> <p>Sugar-based compounds (saccharides), including polysaccharides are generally easily decomposed by biodegradation. Not all polysaccharides decompose with equal rapidity, and polysaccharides are also synthesised by microorganisms during, for example, the compost maturation phases. Water-insoluble species such as cellulose take longer to decompose and those with a significant degree of branching also take longer.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "46.04-165.37mg/l",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "46.04-165.37mg/l",
+                        "Source": "4"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H412; H332; H315; H319; H372",
+                        "SignalWord": "GHS07; Wng; Dgr",
+                        "HazardState": "H412; H332; H315; H319; H372"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {},
+                "Teel": [],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>Cellulose is considered a nuisance dust which has little adverse effect on lung and does not produce significant organic disease or toxic effects when appropriate controls are applied.</p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Local exhaust ventilation is required where solids are handled as powders or crystals; even when particulates are relatively large, a certain proportion will be powdered by mutual friction.\u00a0</li> <li>Exhaust ventilation should be designed to prevent accumulation and recirculation of particulates in the workplace.\u00a0</li> <li>If in spite of local exhaust an adverse concentration of the substance in air could occur, respiratory protection should be considered. Such protection might consist of:\u00a0</li> </ul> <p>(a): particle dust respirators, if necessary, combined with an absorption cartridge;</p> <p>(b): filter respirators with absorption cartridge or canister of the right type;</p> <p>(c): fresh-air hoods or masks</p> <ul> <li>Build-up of electrostatic charge on the dust particle, may be prevented by bonding and grounding.\u00a0</li> <li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting.\u00a0</li> </ul> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to efficiently remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 4-10 m/s (800-2000 f/min) for extraction of crusher dusts generated 2 metres distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>The material is not thought to produce respiratory irritation (as classified by EC Directives using animal models). Nevertheless inhalation of dusts, or fumes, especially for prolonged periods, may produce respiratory discomfort and occasionally, distress.</p> <p>Inhalation of dusts, generated by the material during the course of normal handling, may be damaging to the health of the individual.</p> <p>Cellulose, after a single intratracheal dose (15 mg per animal) brought about fibrosing granulomatous bronchioloalveolitis and an increase of IgA production in the bronchioalveolar lavage. Fibrosing alveolitis showed moderate progression as a function of time. Injury of Type I pneumocytes and incomplete repair of Type II pneumocytes were detected. The damage of alveolar epithelium initiated and activated a series of processes that led to definite pulmonary alterations and pulmonary fibrosis leading to disintegration of the alveolo-capillary morphological functional unit.</p> <p>Tatrai, E. et al: Journal of Applied Toxicology; 16(2) 129-135 (1996)</p> <p>Some health effects associated with wood, cotton, flax, jute and hemp particles or fibres are not attributable to cellulose content but to other substances and/or impurities.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p>",
+                "AcuteEye": "<p>Although the material is not thought to be an irritant (as classified by EC Directives), direct contact with the eye may cause transient discomfort characterised by tearing or conjunctival redness (as with windburn). Slight abrasive damage may also result. The material may produce foreign body irritation in certain individuals.</p>",
+                "AcuteSkin": "<p>The material is not thought to produce adverse health effects or skin irritation following contact (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable gloves be used in an occupational setting.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p>Accidental ingestion of the material may be damaging to the health of the individual.</p> <p>Large doses of cellulose may be administered orally as non-nutritive bulk. Doses of up to 30 g/day can be tolerated as bulk laxative. Extremely large oral doses may produce gastrointestinal disturbances.</p> <p>High molecular weight material; on single acute exposure would be expected to pass through gastrointestinal tract with little change / absorption. Occasionally accumulation of the solid material within the alimentary tract may result in formation of a bezoar (concretion), producing discomfort.</p> <p>May produce laxative effects.</p> <p>Polysaccharides are not substantially absorbed from the gastrointestinal tract but may produce a laxative effect. Larger doses may produce intestinal obstruction or stomach concretions.</p> <p>Large quantities of the substituted polysaccharide, methylcellulose (as with other bulk laxatives), may temporarily increase flatulence. Oesophageal obstruction, by swelling, may occur if the material is swallowed dry.</p> <p>Doses of 3-9 gm hydroxypropylcellulose, fed to human subjects, at least one week apart, were eliminated within 96 hours. Animals fed on diets containing 3% or less, experienced no adverse effects. Higher levels produced malnutrition due to excessive bulk but caused no organic damage. In one dog, an oral dose of hydroxypropylcellulose produced diarrhoea and blood cell depression.</p> <p>Ingestion of hetastarch (hydroxyethyl amylopectin) has reportedly produced fever, chills, urticaria and salivary gland enlargement. Several of these effects may be due to contamination by other naturally occurring macromolecules extracted from the source material. Large volumes of ingested hetastarch may interfere with coagulation mechanisms and increase the risk of haemorrhage. Anaphylaxis has occurred.</p> <p>Infusions of dextrans may occasionally produce allergic reactions such as urticaria, hypotension and bronchospasm. Severe anaphylactic reactions may occasionally occur and death may result from cardiac and respiratory arrest. Nausea, vomiting, fever, \u00a0joint pains, and flushing may also occur. Similarly, allergic reactions, sometimes severe (but rare) have been reported following ingestion or inhalation of tragacanth gums.</p>",
+                "ChronicHealthEffects": "<p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p><span style=\"color:black\">The celluose derivatives pass\r\nessentially unchanged through the gastrointestinal tract following oral\r\nadministration to rats, dogs and man. Acute, subchronic, chronic toxicity,\r\nreproductive and developmental toxicity, genotoxicity and carcinogenicity\r\nstudies of cellulose derivatives indicated that they are practically non-toxic\r\nwhen administered by oral, intraperitoneal, subcutaneous or dermal routes.\r\nWhile no clinical inhalation studies have been conducted, long term exposure to\r\nthe dusts of cellulose ethers in manufacturing operations has not lead to any\r\nsignificant adverse effects. Ocular and dermal irritation studies indicate that\r\nthe cellulose derivatives are, at most, minimally irritating and are not dermal\r\nsensitisers. Clinical studies confirm these results.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Amended Safety Assessment of\r\nCellulose and Related Polymers as used in Cosmetics: Final Report of the\r\nCosmetic Ingredient Review (CIR) Expert Panel: March 2009</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Inhalation studies indicate that\r\ncellulose fibres may be fibrogenic; this finding continues to be the subject of\r\nextensive research. Cellulose is not considered an inert substance because :</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">in rats, it causes granulomatous fibrosing alveolitis at the end\r\nof the third month after exposure,</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">in rats there was an increase in the secretion of plasminogen\r\nactivator and interleukin 1 as well as the release of lactate dehydrogenase\r\nfrom macrophages, in a manner similar to asbestos,</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">there were increases in the incidence of obstructive lung diseases\r\nand bronchial asthma in humans at work and in the residential environment where\r\nexposure to cellulose was common,</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">the substance may induce free radical production in human\r\nleucocytes.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Byssinosis is an occupational\r\ndisease of the lungs caused by inhalation of cotton dust or dusts from other\r\nvegetable fibres such as flax, hemp, or sisal. Byssinosis is a chronic,\r\nasthma-like narrowing of the airways. Also called brown lung disease,\r\nbyssinosis occurs almost exclusively in people who work with unprocessed cotton</span><span style=\"color:black\">.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Cotton dust disease,\r\n\"byssinosis\", is well known among cotton mill workers. Cotton dust\r\nconsists largely of cellulose fibre. Exposure to two components of the total\r\ndust, the \"respirable\" and \"medium\" fraction correlated\r\nsignificantly with the prevalence of respiratory symptoms. Inhalation exposure\r\nto a concentration of 0.3 to 0.4 mg/m3 of \"fly-free\" dust results in\r\na 20% occurrence of byssinosis. \"Fly-free\" dust is the sum of\r\nrespirable and medium-length fibres. At 0.46 mg/m3, Grade II byssinosis occurs.\r\nA byssinosis (all grades) prevalence of 20%, at 0.3 mg/m3 occurs when the fibre\r\nlength is less than 15 um (aerodynamic equivalent diameter). Byssinosis is not\r\ncaused by mechanical irritation but by reactions caused by pharmacologically\r\nactive substances producing oedema or contraction of the smooth musculature of\r\nthe airways. The causative agent is suspected to be an endotoxin, in turn,\r\nthought to be a cell wall component of bacteria found in cotton. Symptoms of\r\nbyssinosis include chest tightness, wheezing and dyspnoea. Symptoms usually\r\nappear after an absence from work and may subside after 2-days of exposure. As\r\nthe disease progresses, symptoms may persist for longer periods until they are\r\nconstant. The individual may eventually exhibit chronic bronchitis and\r\nemphysema. Increased physical exertion may produce shortness of breath.</span></p> <p><span style=\"color:black\">Studies indicate that diets\r\ncontaining large amounts of non-absorbable polysaccharides, such as cellulose,\r\nmight decrease absorption of calcium, magnesium, zinc and phosphorus.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Polysaccharides are polymeric\r\ncarbohydrates that consist of monosaccharide units, which are connected\r\ntogether with glycosidic bonds. Due to the structural variation of different\r\nmonosaccharides as well as the innumerable ways that these building blocks link\r\nwith each other, polysaccharides can be considered as structurally complex\r\nbiomacromolecules. Polysaccharides originating from plants (e.g., starch and\r\nguar gum), microbes (e.g., xanthan), algae (e.g., alginates and carrageenans)\r\nand animals (e.g., glycogen and chitin) are frequently used in food. Starch, a\r\nhigh molar mass compound consisting of (1-&gt;4)-linked alpha-D-glucopyranosyl\r\nunits, is an important energy nutrient that is abundant in common foods, such\r\nas cereals and root crops. Although many other food polysaccharides are not\r\ndigested in the upper gastrointestinal tract of humans, they often serve\r\nfunctions other than being components giving nutritional value. For example,\r\nplant cell-wall polysaccharides, such as arabinoxylans and beta-glucan, exist\r\nin cereal-based foods, and \u201cplant gums\u201d are used as thickeners, emulsifiers,\r\nemulsion stabilizers, gelling agents and encapsulating agents. These\r\nnon-digestible polysaccharides are important for health because they are\r\nconsidered as dietary fibre, which promote colon health, regulate post-prandial\r\nblood glucose levels and reduce serum cholesterol levels.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Despite the fact that nature\r\nprovides various sources of polysaccharides, and that scientific research on\r\ntheir exploitation as food materials is increasingly active, a relatively low\r\nnumber of polysaccharides are authorized for use as food ingredients. For\r\nexample, in the European Union (EU) and in Switzerland, among the permitted\r\nfood additives (identified by an E number) only a small percentage are\r\npolysaccharide-based (native or structurally modified). The difference between\r\nother food ingredients and food additives is mainly the quantity used in any\r\ngiven product. Food ingredients can be consumed alone as food (e.g., starch),\r\nwhereas food additives (e.g., carboxymethyl cellulose) are used in small\r\nquantities (usually less than 2%) relative to the total food composition but\r\nthey, nonetheless, play an important role in the food products. Regarding food\r\nadditive use in Europe, the European Food Safety Authority (EFSA) has an expert\r\nPanel on Food Additives and Nutrient Sources Added to Food (ANS), which\r\nevaluates the safety of food additives. Similarly, if new ingredients are\r\nreleased into the market, EFSA's Panel on Dietetic Products, Nutrition and\r\nAllergies (NDA) has the responsibility of evaluating the safety of Novel Food\r\ningredients</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">The vast majority of\r\npolysaccharides used as food ingredients are plant-based. In addition to the\r\ncellulosic polysaccharides, other types of food-grade ingredients or additives,\r\nsuch as, vanillin aroma, glycerol esters of wood rosins (E445), xylitol (E967)\r\nand steryls/stanols, are derived from wood. The main components of wood are\r\npolysaccharides: cellulose (40\u201350 wt%) and hemicelluloses (20\u201335%), while\r\nlignin comprises 15\u201330% of wood mass.</span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">The material contains a substantial\r\nproportion of a polymer considered to be of low concern (PLC). The trend\r\ntowards production of lower molecular weight polymers (thus reducing the\r\nrequired level of solvent use and creating a more\r\n&quot;environmentally-friendly&quot; material) has brought with it the need to\r\ndefine PLCs as those</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">having molecular weights of between 1000\r\nand 10000 and containing less than 10% of the molecules with molecular weight\r\nbelow 500 and less than 25% of the molecules with a molecular weight below\r\n1000. These may contain unlimited low concern functional groups or moderate\r\nconcern reactive functional groups with a combined functional group equivalent\r\nweight (FGEW, a concept developed by the US EPA describing whether the reactive\r\nfunctional group is sufficiently diluted by polymeric material) of a 1000 or\r\nmore (provided no high concern groups are present) or high concern reactive\r\nfunctional groups with a FGEW of 5000 or more (FGEW includes moderate concern\r\ngroups if present). </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">having molecular weights exceeding 10000\r\n(without restriction on reactive groups). </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">inhalation of polymers with molecular\r\nweights &gt; 70,000 Da has been linked with irreversible lung damage due to\r\nlung overloading and impaired clearance of particles from the lung,\r\nparticularly following repeated exposure. If the polymer is inhaled at low\r\nlevels and/or infrequently, it is assumed that it will be cleared from the\r\nlungs.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0Reactive functional groups are in turn\r\nclassified as being of low, moderate or high concern Classification of the\r\npolymer as a PLC, in accordance with established criteria, does not mean that\r\nhazards will not be associated with the polymer (during its import,\r\nmanufacture, use, storage, handling or disposal). The polymer may, for example,\r\ncontain a large number of particles in the respirable range, a hazard which may\r\nneed to assessed in the health and safety risk assessment. Similarly a polymer\r\nwith low concern reactive may be released into the environment in large\r\nquantities and produce an environmental hazard.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">\u00a0Whilst it is generally accepted that\r\npolymers with a molecular weight exceeding 1000 are unlikely to pass through\r\nbiological membranes, oligomers with lower molecular weight and specifically,\r\nthose with a molecular weight below 500, may. Estimations based on a\r\n&quot;highly&quot; dispersed polymer population (polydispersity = 10) suggests\r\nthat the molecular weight of the polymer carrying a reactive group of high\r\nconcern must be 5000 to be considered a PLC; similarly a polymer of approximate\r\nmolecular weight 1000 could contain no more than one reactive group of moderate\r\nconcern (for two moderate concern groups, the molecular weight would be about\r\n2500).</span></p> <p><br /></p> <p>Long term exposure to high dust concentrations may cause changes in lung function (i.e. pneumoconiosis) caused by particles less than 0.5 micron penetrating and remaining in the lung. A prime symptom is breathlessness. Lung shadows show on X-ray.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Guinea) LD50;",
+                        "Value": "16000",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "Inhalation(Rat) LC50;",
+                        "Value": ">5.8",
+                        "Unit": "mg/L4h",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "Dermal (rabbit) LD50:",
+                        "Value": ">2000",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "28/08/2006",
+                "NextRevisionDate": "2025-02-15T00:00:00",
+                "NzCodes": [],
+                "Pictograms": [],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS SUBSTANCE. According to NOHSC Criteria, and ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS CHEMICAL. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R20/22?",
+                "MiniChronicHealthEffects": "R33?",
+                "WhmisImages": [],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [],
+                "PrecautionaryCodesResponse": [],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [],
+                "SafetyCodes": [],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": false,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "open_window.gif",
+                        "Translation": "General Exhaust Ventilation adequate."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water."
+                    }
+                ],
+                "RiskHealthImages": [],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_foam.gif",
+                        "Translation": "Foam."
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Foam.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "ChemicalName": "Cellulose, carboxymethyl ether, sodium salt",
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_0_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 0,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "sinks_in_water.gif",
+                        "Translation": "Sinks in water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <p>Experience indicates that the following polymers are suitable as glove materials for protection against undissolved, dry solids, where abrasive particles are not present.</p>\n<ul>\n<li>polychloroprene. </li>\n<li>nitrile rubber. </li>\n<li>butyl rubber. </li>\n<li>fluorocaoutchouc. </li>\n<li>polyvinyl chloride. </li>\n</ul>\n<p>Gloves should be examined for wear and/ or degradation constantly.</p>"
+                ],
+                "PpeOther": [
+                    "<ul>\n<li>Overalls.\u00a0</li>\n<li>P.V.C apron.\u00a0</li>\n<li>Barrier cream.\u00a0</li>\n<li>Skin cleansing cream.\u00a0</li>\n<li>Eye wash unit.\u00a0</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": ">60",
+            "Name": "sodium carboxymethylcellulose",
+            "OrderNumber": 1,
+            "NameForShowing": "sodium carboxymethylcellulose",
+            "ProportionForShowing": ">60",
+            "CwNumber": "21986",
+            "NumericProportion": {
+                "MinValue": 60.01,
+                "MaxValue": 60.01,
+                "RawMinValue": 60.0,
+                "RawMaxValue": 60.0,
+                "MinValueSign": ">",
+                "MaxValueSign": ">",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "0-10",
+            "Name": "other non hazardous ingredients [manufacturer]",
+            "OrderNumber": 2,
+            "SanitizedName": "other non hazardous ingredients [manufacturer]",
+            "NameForShowing": "other non hazardous ingredients [manufacturer]",
+            "ProportionForShowing": "0-10",
+            "NumericProportion": {
+                "MinValue": 0.0,
+                "MaxValue": 10.0,
+                "RawMinValue": 0.0,
+                "RawMaxValue": 10.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0526",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0526",
+    "Version": "637648203069963023",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0526",
+    "Key": "01-0526_AUS_EN",
+    "FullKey": "datasets/gold/01-0526_AUS_EN",
+    "AiteLogKey": "01-0526",
+    "AiteS3Key": "xml/01-0526.json",
+    "Name": "Nuplex CMC 7MCT",
+    "GhsEntities": [
+        {
+            "Category": "Eye Irritation Category 2B",
+            "CategoryCode": "Cat 2B",
+            "Code": "H320",
+            "Phrase": "Causes eye irritation."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

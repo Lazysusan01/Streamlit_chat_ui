@@ -1,0 +1,635 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "35361",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a35361",
+                "Version": "637644568190140909",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "35361",
+                "Key": "35361_AUS_EN",
+                "FullKey": "datasets/gold/35361_AUS_EN",
+                "AiteLogKey": "35361",
+                "AiteS3Key": "xml/35361.json",
+                "ChemKey": {
+                    "cw": "CK-35361",
+                    "un": [],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-53320-86-8"
+                    ],
+                    "groupCode": [
+                        "CK-G56.4",
+                        "CK-G9",
+                        "CK-G56.5",
+                        "CK-G14189",
+                        "CK-G56.1",
+                        "CK-G14887",
+                        "CK-G557",
+                        "CK-G8428",
+                        "CK-G14187",
+                        "CK-G502",
+                        "CK-G502.3",
+                        "CK-G13932",
+                        "CK-G56.3"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "lithium magnesium sodium silicate",
+                "CasNumber": "53320-86-8",
+                "EcNumber": "258-476-2",
+                "GhsEntities": [],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniResp": "<p>Particulate. (AS/NZS 1716 &amp; 1715, EN 143:2000 &amp; 149:001, ANSI Z88 or national equivalent)</p>",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p>",
+                "MiniFireExp": "<p>Toxic smoke/fumes in a fire.</p>",
+                "MiniAppearance": "<p>Solid.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Sinks in water.</p>",
+                "MiniFlammability": "<p>Does not burn.</p>",
+                "MiniFirstAidSwallow": "<p>Rinse mouth with water.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water. For discomfort seek medical advice.</p>",
+                "MiniFirstAidSkin": "<p><span style=\"color:#000000\">Wash with soap<br /></span></p>",
+                "MiniFirstAidInhaled": "<p>Blow nose. Rinse mouth with water.</p>",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Keep surrounding area cool.</p>\r\n\r\n\r\n\r\n<p>Water spray/fog.</p>",
+                "MiniSpillDisposal": "<p>Avoid dust.</p> <p>Sweep shovel to safe place.</p>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Reactivity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "BodyContact": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": true,
+                    "RawValue": "None"
+                },
+                "InternationalHazardGraphics": [],
+                "RiskCodes": [],
+                "SpecificGravity": ">1",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "None",
+                "Use": "Flux in glazes.",
+                "ChemicalFormula": [
+                    "Na0.7+ [(Si8Mg5.5Li0.3) O20(OH)4]0.7-"
+                ],
+                "FirstAidIngestion": "<ul> <li>Immediately give a glass of water.\u00a0</li> <li>First aid is not generally required. If in doubt, contact a Poisons Information Centre or a doctor.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul>\n<li><span>If dust is inhaled, remove from contaminated area.\u00a0</span></li>\n<li><span>Encourage patient to blow nose to ensure clear passage of breathing.\u00a0</span></li>\n<li><span>If irritation or discomfort persists seek medical attention.\u00a0</span></li>\n</ul>",
+                "FirstAidEye": "<p>If this product comes in contact with eyes:\u00a0</p> <ul> <li>Wash out immediately with water.\u00a0</li> <li>If irritation continues, seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "1-508",
+                    "1-468"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<p>None known.</p>",
+                "FireExtinguishingMedia": "<ul> <li>There is no restriction on the type of extinguisher which may be used.\u00a0</li> </ul> <ul> <li>Use extinguishing media suitable for surrounding area.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Non combustible.\u00a0</li> <li>Not considered a significant fire risk, however containers may burn.\u00a0</li> </ul> <p>Decomposition may produce toxic fumes of:</p> <p>metal oxides</p> <p>silicon dioxide (SiO2)</p> <p>May emit poisonous fumes.</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves in the event of a fire.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Use fire fighting procedures suitable for surrounding area.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Moderate hazard.</p> <ul> <li><font color=\"#ff0000\"><b>CAUTION</b></font><font color=\"#ff0000\">:\u00a0</font>Advise personnel in area.\u00a0</li> <li>Alert Emergency Services and tell them location and nature of hazard.\u00a0</li> <li>Control personal contact by wearing protective clothing.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Recover product wherever possible.\u00a0</li> <li><b>IF DRY:\u00a0</b>Use dry clean up procedures and avoid generating dust. \u00a0Collect residues and place in sealed plastic bags or other containers for disposal.\u00a0<b>IF WET:</b>\u00a0 Vacuum/shovel up and place in labelled containers for disposal.\u00a0</li> <li><b>ALWAYS:</b>\u00a0 Wash area down with large amounts of water and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise Emergency Services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid breathing dust and contact with skin and eyes.\u00a0</li> <li>Wear protective clothing, gloves, safety glasses and dust respirator.\u00a0</li> <li>Use dry clean up procedures and avoid generating dust.\u00a0</li> <li>Sweep up, shovel up or\u00a0</li> <li>Vacuum up (consider explosion-proof machines designed to be grounded during storage and use).\u00a0</li> <li>Place spilled material in clean, dry, sealable, labelled container.\u00a0</li> </ul> <p><br /></p> <p><br /></p>",
+                "MolecularWeight": "206.40",
+                "Appearance": "White powder; does not mix with water.",
+                "VapourPressure": "Negligible",
+                "Taste": "Not Available",
+                "VolatileComponent": "Negligible",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "Not Available",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not Available",
+                "Lel": "Not applicable",
+                "BoilingRange": "Not Available",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not applicable",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "SILICIC ACID, LITHIUM MAGNESIUM SODIUM SALT"
+                ],
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of exposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0allow material to contact humans, exposed food or food utensils.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately. Launder contaminated clothing before re-use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry area protected from environmental extremes.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>\n<p><span style=\"color:#000000\">For major quantities:</span></p>\n<ul>\n<li><span style=\"color:#000000\">Consider storage in bunded \u00a0areas - ensure storage areas are isolated from sources of community water (including stormwater, ground water, lakes and streams}.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure that accidental discharge to air or water is the subject of a contingency disaster management plan; this may require consultation with local authorities.\u00a0</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Polyethylene or polypropylene container.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<ul>\n<li><span style=\"color:#000000\">Metals and their oxides or salts may react violently with chlorine trifluoride and bromine trifluoride.\u00a0</span></li>\n<li><span style=\"color:#000000\">These trifluorides are hypergolic oxidisers. They ignite on contact (without external source of heat or ignition) with recognised fuels - contact with these materials, following an ambient or slightly elevated temperature, is often violent and may produce ignition.\u00a0</span></li>\n<li><span style=\"color:#000000\">The state of subdivision may affect the results.\u00a0</span></li>\n</ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [],
+                "TransportIncompatibilities": "<p>No restrictions.\u00a0</p>",
+                "TransportPrecautions": "#Prec_trans0_1",
+                "Environment": "<p>Metal-containing inorganic substances generally have negligible vapour pressure and are not expected to partition to air. Once released to surface waters and moist soils their fate depends on solubility and dissociation in water. Environmental processes (such as oxidation and the presence of acids or bases) may transform insoluble metals to more soluble ionic forms. Microbiological processes may also transform insoluble metals to more soluble forms. Such ionic species may bind to dissolved ligands or sorb to solid particles in aquatic or aqueous media. A significant proportion of dissolved/ sorbed metals will end up in sediments through the settling of suspended particles. The remaining metal ions can then be taken up by aquatic organisms.</p> <p>When released to dry soil most metals will exhibit limited mobility and remain in the upper layer; some will leach locally into ground water and/ or surface water ecosystems when soaked by rain or melt ice. Environmental processes may also be important in changing solubilities.\u00a0</p> <p>Even though many metals show few toxic effects at physiological pHs, transformation may introduce new or magnified effects.</p> <p>A metal ion is considered infinitely persistent because it cannot degrade further.</p> <p>The current state of science does not allow for an unambiguous interpretation of various measures of bioaccumulation.</p> <p>The counter-ion may also create health and environmental concerns once isolated from the metal. Under normal physiological conditions the counter-ion may be essentially insoluble and may not be bioavailable.</p> <p>Environmental processes may enhance bioavailability.</p> <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>For lithium (anion):</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Environmental fate:</span></b></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Experiments with experimental animals have shown that lithium can\r\nhave reprotoxic effects, and increasing consumption might therefore result in\r\nadverse effects on health and environment. Lithium has significant\r\nbioavailability only when administered as a partially soluble salt such as\r\nlithium carbonate</span><span lang=\"EN-US\" style='font-size:12.0pt;font-family:\r\n\"Arial\",\"sans-serif\";color:black'>.&nbsp;</span><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";color:black'>Lithium\r\nis not a dietary mineral for plants but it does stimulate plant growth.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Ecotoxicity:</span></b></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Fish LC50 (28, 35 days) rainbow trout 9.28, 1.4 mg/l (salt)</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Fish LC50 (96 h): fathead minnow 42 mg/l; NOEC 13 mg/l (salt)</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Daphnia magna EC50 (48 h): 24 mg/l; NOEC 11 mg/l</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Lithium is not expected to bioaccumulate in mammals and its human\r\nand environmental toxicity are low. &nbsp;Lithium does accumulate in several\r\nspecies of fish, molluscs and crustaceans where it stored in the digestive\r\ntract and exoskeleton</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Methanogenesis of granular anaerobic sludge (initial COD 5750 mg/l\r\nO2, pH 7.2) was stimulated at lithium ion concentration 10-20 mg/l, slightly\r\ninhibited at lithium ion concentration 350 mg/l and seriously inhibited at\r\nlithium ion concentration &gt; 500 mg/l.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Microinjection of lithium chloride into prospective ventral\r\nblastomeres of a 32-cell Xenopus larvis embryo gives rise to duplication of\r\ndorsoanterior structures such as the notochord, neural tube and eyes.</span></p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul> <li>Recycle wherever possible or consult manufacturer for recycling options.\u00a0</li> <li>Consult State Land Waste Management Authority for disposal.\u00a0</li> <li>Bury residue in an authorised landfill.\u00a0</li> <li>Recycle containers if possible, or dispose of in an authorised landfill.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "NOEC(ECx)",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "<6.1mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": ">100mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": ">100mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": ">100mg/l",
+                        "Source": "2"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1"
+                    },
+                    {
+                        "Harmonization": "2"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": "0.1 mg/L (Water (Fresh))",
+                    "MarineWater": "0.1 mg/L (Water - Intermittent release)",
+                    "Aqua": "0.1 mg/L (Water (Fresh)_mar)",
+                    "FreshWaterSediment": " (Sediment (Fresh Water))",
+                    "MarineWaterSediment": " (Sediment (Fresh Water)_mar)",
+                    "Soil": " (Soil)",
+                    "Stp": "1 mg/L (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {
+                    "SwltDerm": {
+                        "Value": "1 mg/kg bw/day",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 1 mg/kg bw/day (Systemic, Chronic)",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "SwltInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 10 mg/m\u00b3 (Systemic, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "LwltDerm": {
+                        "Value": "2 mg/cm\u00b2",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 2 mg/cm\u00b2 (Local, Chronic)",
+                        "Route": "Dermal",
+                        "Type": "Local, Chronic"
+                    },
+                    "LwltInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 10 mg/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "SwstDerm": {
+                        "Value": "40 mg/kg bw/day",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 40 mg/kg bw/day (Systemic, Acute)",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Acute"
+                    },
+                    "SwstInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 10 mg/m\u00b3 (Systemic, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Acute"
+                    },
+                    "LwstDerm": {
+                        "Value": "1 mg/cm\u00b2",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 1 mg/cm\u00b2 (Local, Acute)",
+                        "Route": "Dermal",
+                        "Type": "Local, Acute"
+                    },
+                    "LwstInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 10 mg/m\u00b3 (Local, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    },
+                    "ScltDerm": {
+                        "Value": "2.5 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Dermal 2.5 mg/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 10 mg/m\u00b3 (Systemic, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltOral": {
+                        "Value": "2.5 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Oral 2.5 mg/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Oral",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "LcltDerm": {
+                        "Value": "1 mg/cm\u00b2",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Dermal 1 mg/cm\u00b2 (Local, Chronic) *</i>",
+                        "Route": "Dermal",
+                        "Type": "Local, Chronic"
+                    },
+                    "LcltInhal": {
+                        "Value": "6.5 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 6.5 mg/m\u00b3 (Local, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "ScstDerm": {
+                        "Value": "20 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Dermal 20 mg/kg bw/day (Systemic, Acute) *</i>",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Acute"
+                    },
+                    "ScstInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 10 mg/m\u00b3 (Systemic, Acute) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Acute"
+                    },
+                    "ScstOral": {
+                        "Value": "20 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Oral 20 mg/kg bw/day (Systemic, Acute) *</i>",
+                        "Route": "Oral",
+                        "Type": "Systemic, Acute"
+                    },
+                    "LcstDerm": {
+                        "Value": "0.4 mg/cm\u00b2",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Dermal 0.4 mg/cm\u00b2 (Local, Acute) *</i>",
+                        "Route": "Dermal",
+                        "Type": "Local, Acute"
+                    },
+                    "LcstInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 10 mg/m\u00b3 (Local, Acute) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    }
+                },
+                "Teel": [],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>It is the goal of the ACGIH (and other Agencies) to recommend TLVs (or their equivalent) for all substances for which there is evidence of health effects at airborne concentrations encountered in the workplace.</p> <p>At this time no TLV has been established, even though this material may produce adverse health effects (as evidenced in animal experiments or clinical experience). Airborne concentrations must be maintained as low as is practically possible and occupational exposure must be kept to a minimum.</p> <p><b>NOTE:</b>\u00a0The ACGIH occupational exposure standard for Particles Not Otherwise Specified (P.N.O.S) does NOT apply.</p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Local exhaust ventilation is required where solids are handled as powders or crystals; even when particulates are relatively large, a certain proportion will be powdered by mutual friction.\u00a0</li> <li>If in spite of local exhaust an adverse concentration of the substance in air could occur, respiratory protection should be considered.\u00a0</li> </ul> <p>Such protection might consist of:</p> <p>(a): particle dust respirators, if necessary, combined with an absorption cartridge;</p> <p>(b): filter respirators with absorption cartridge or canister of the right type;</p> <p>(c): fresh-air hoods or masks.</p> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 4-10 m/s (800-2000 f/min) for extraction of crusher dusts generated 2 metres distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>The material is not thought to produce adverse health effects or irritation of the respiratory tract (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable control measures be used in an occupational setting.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p>",
+                "AcuteEye": "<p>Although the material is not thought to be an irritant (as classified by EC Directives), direct contact with the eye may cause transient discomfort characterised by tearing or conjunctival redness (as with windburn). Slight abrasive damage may also result. The material may produce foreign body irritation in certain individuals.</p>",
+                "AcuteSkin": "<p>The material is not thought to produce adverse health effects or skin irritation following contact (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable gloves be used in an occupational setting.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p><span style=\"color:black\">Although ingestion is not thought\r\nto produce harmful effects (as classified under EC Directives), the material\r\nmay still be damaging to the health of the individual, following ingestion,\r\nespecially where pre-existing organ (e.g liver, kidney) damage is evident.\r\nPresent definitions of harmful or toxic substances are generally based on doses\r\nproducing mortality rather than those producing morbidity (disease, ill-health).\r\nGastrointestinal tract discomfort may produce nausea and vomiting. In an\r\noccupational setting however, ingestion of insignificant quantities is not\r\nthought to be cause for concern.</span></p>",
+                "ChronicHealthEffects": "<p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p><br /></p> <p>Long term exposure to high dust concentrations may cause changes in lung function (i.e. pneumoconiosis) caused by particles less than 0.5 micron penetrating and remaining in the lung. A prime symptom is breathlessness. Lung shadows show on X-ray.</p> <p><span style=\"color:black\">Neuromuscular effects result from\r\nchronic over-exposure to lithium compounds. These may include tremor, ataxia,\r\nclonus and hyperactive reflexes. Some animal studies have shown that exposure\r\nduring pregnancy may produce birth defects. Other studies with rats, rabbits\r\nand monkeys have not shown teratogenic effects. Human data are ambiguous; it is\r\nwell established that lithium can cross the human placenta. Of 225 registered\r\npregnancies in which the mothers had received lithium (as a tranquiliser) there\r\nwere 25 instances of congenital malformation. Although pharmacological doses of\r\nlithium cannot be unequivocally designated as a human teratogen, lithium\r\ntherapy is contraindicated in women of childbearing potential.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Prolonged exposure may produce\r\nanorexia, weight loss and emaciation. The kidneys, behavioural/ central nervous\r\nsystem and peripheral nervous system may also show adverse effects.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Various types of dermatitis\r\n(psoriasis, alopecia, cutaneous ulcers, acne, follicular papules, xerosis\r\ncutis, exfoliative) may also result from chronic skin exposure.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Lithium ion can be an effective\r\ntreatment for manic depression. It is thought to bind the enzyme IMPase\r\n(inositol monophosphatase) and thereby mediates its influence in producing a\r\nresponse to calcium-induced production of neurotransmitters and hormones\r\nthought to be responsible for the clinical picture.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Lithium ions interfere with ion\r\ntransport processes (involving the \u201csodium pump\u201d) that relay and amplify\r\nmessages carried to the cells of the brain. Mania is associated with irregular\r\nincreases in protein kinase C (PKC) activity within the brain. Lithium\r\ncarbonate and sodium valproate, another drug traditionally used to treat the\r\ndisorder, act in the brain by inhibiting PKC's activity and help to produce\r\nother compounds that also inhibit the PKC.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Taking lithium salts has risks\r\nand side effects. Extended use of lithium to treat various mental disorders has\r\nbeen known to lead to acquired nephrogenic diabetes insipidus. Nephrogenic\r\ndiabetes insipidus (NDI), also known as renal diabetes insipidus, is a form of\r\ndiabetes insipidus primarily due to pathology of the kidney. This is in\r\ncontrast to central or neurogenic diabetes insipidus, which is caused by\r\ninsufficient levels of antidiuretic hormone (ADH, also called vasopressin).\r\nNephrogenic diabetes insipidus is caused by an improper response of the kidney\r\nto ADH, leading to a decrease in the ability of the kidney to concentrate the\r\nurine by removing free water.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Lithium intoxication can affect\r\nthe central nervous system and renal system and can be lethal</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">In subchronic studies, rats were\r\nexposed to 3 milliequivalents Li/kg/day (equivalent to 1450 mg for a 70 kg\r\nperson) but did not accumulate Li whilst on a high sodium diet. However when\r\nsodium was restricted, fatal kidney toxicity developed. Dogs survived daily\r\ndose of 50 mg LiCl/kg for 150 days to the termination of the experiment on a\r\nnormal sodium intake, whereas the same dose was lethal in 12 to 18 days on a\r\nlow sodium diet: 20 mg LiCl/kg/day resulted in death in 18 to 30 days.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Several reports have demonstrated\r\nthat lithium may impair basal ganglia activity. Lithium intoxication has been\r\nassociated, severe and persistent oculogyric crises. Oculogyric crisis (OGC) is\r\nthe name of a dystonic reaction to certain drugs or medical conditions\r\ncharacterized by a prolonged involuntary upward deviation of the eyes. The term\r\n\"oculogyric\" refers to the bilateral elevation of the visual gaze but\r\nseveral other responses are associated with the crisis. </span></p>",
+                "Toxicity": [
+                    {
+                        "Type": "Inhalation(Rat) LC50;",
+                        "Value": ">50",
+                        "Unit": "mg/l4h",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">8000",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "Dermal (rabbit) LD50:",
+                        "Value": ">2000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    }
+                ],
+                "Irritation": [],
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "NzCodes": [],
+                "Pictograms": [],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS SUBSTANCE. According to NOHSC Criteria, and ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS CHEMICAL. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniChronicHealthEffects": "R33?|R64?",
+                "WhmisImages": [],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [],
+                "PrecautionaryCodesResponse": [],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [],
+                "SafetyCodes": [],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": false,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water. For discomfort seek medical advice."
+                    }
+                ],
+                "RiskHealthImages": [],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [],
+                "HagFireFighting": [
+                    "<p>Does not burn.</p> <p>Keep surrounding area cool.</p>\r\n\r\n\r\n\r\n<p>Water spray/fog.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "ChemicalName": "SILICIC ACID, LITHIUM MAGNESIUM SODIUM SALT",
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_0_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 2,
+                    "Toxic": 2,
+                    "Oxidizer": 2,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "sinks_in_water.gif",
+                        "Translation": "Sinks in water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <p>Experience indicates that the following polymers are suitable as glove materials for protection against undissolved, dry solids, where abrasive particles are not present.</p>\n<ul>\n<li>polychloroprene. </li>\n<li>nitrile rubber. </li>\n<li>butyl rubber. </li>\n<li>fluorocaoutchouc. </li>\n<li>polyvinyl chloride. </li>\n</ul>\n<p>Gloves should be examined for wear and/ or degradation constantly.</p>"
+                ],
+                "PpeOther": [
+                    "<ul>\n<li>Overalls.\u00a0</li>\n<li>P.V.C apron.\u00a0</li>\n<li>Barrier cream.\u00a0</li>\n<li>Skin cleansing cream.\u00a0</li>\n<li>Eye wash unit.\u00a0</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": ">99",
+            "Name": "lithium magnesium sodium silicate",
+            "OrderNumber": 1,
+            "NameForShowing": "lithium magnesium sodium silicate",
+            "ProportionForShowing": ">99",
+            "CwNumber": "35361",
+            "NumericProportion": {
+                "MinValue": 99.01,
+                "MaxValue": 99.01,
+                "RawMinValue": 99.0,
+                "RawMaxValue": 99.0,
+                "MinValueSign": ">",
+                "MaxValueSign": ">",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0447",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0447",
+    "Version": "637648087871925790",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0447",
+    "Key": "01-0447_AUS_EN",
+    "FullKey": "datasets/gold/01-0447_AUS_EN",
+    "AiteLogKey": "01-0447",
+    "AiteS3Key": "xml/01-0447.json",
+    "Name": "Rockwood Laponite D",
+    "GhsEntities": [],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

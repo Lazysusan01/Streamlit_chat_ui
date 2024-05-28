@@ -1,0 +1,1040 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "22615",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a22615",
+                "Version": "637648052750880367",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "22615",
+                "Key": "22615_AUS_EN",
+                "FullKey": "datasets/gold/22615_AUS_EN",
+                "AiteLogKey": "22615",
+                "AiteS3Key": "xml/22615.json",
+                "ChemKey": {
+                    "cw": "CK-22615",
+                    "un": [
+                        "CK-UN2015"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC5.1"
+                    ],
+                    "dgs": [
+                        "CK-DGC8"
+                    ],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7722-84-1"
+                    ],
+                    "groupCode": [
+                        "CK-G12069",
+                        "CK-G15342",
+                        "CK-G524",
+                        "CK-G11495",
+                        "CK-G9157",
+                        "CK-G524.1"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "hydrogen peroxide",
+                "CasNumber": "7722-84-1",
+                "Dgc": "5.1",
+                "Dgs": "8",
+                "EcNumber": "231-765-0",
+                "PoisonSchedule": "S6",
+                "PackingGroup": "I",
+                "Un": "2015",
+                "GhsEntities": [
+                    {
+                        "Category": "Self Reactive Type A",
+                        "CategoryCode": "Cat A",
+                        "Code": "H240",
+                        "Phrase": "Heating may cause an explosion."
+                    },
+                    {
+                        "Category": "Oxidizing Liquid Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H271",
+                        "Phrase": "May cause fire or explosion; strong oxidiser."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Oral) Category 4",
+                        "CategoryCode": "Cat 4",
+                        "Code": "H302",
+                        "Phrase": "Harmful if swallowed."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Inhalation) Category 4",
+                        "CategoryCode": "Cat 4",
+                        "Code": "H332",
+                        "Phrase": "Harmful if inhaled."
+                    },
+                    {
+                        "Category": "Skin Corrosion/Irritation Category 1A",
+                        "CategoryCode": "Cat 1A",
+                        "Code": "H314",
+                        "Phrase": "Causes severe skin burns and eye damage."
+                    },
+                    {
+                        "Category": "Serious Eye Damage/Eye Irritation Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H318",
+                        "Phrase": "Causes serious eye damage."
+                    },
+                    {
+                        "Category": "Specific target organ toxicity - single exposure Category 3 (respiratory tract irritation)",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H335",
+                        "Phrase": "May cause respiratory irritation."
+                    }
+                ],
+                "PhysicalState": "<p>Liquid</p>",
+                "RawWaterSolubility": "Miscible",
+                "WaterSolubility": 1,
+                "BoilingPoint": 150.2,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniGloves": "1.NAT+NEOPR+NITRILE 2.NEOPRENE",
+                "MiniResp": "Type B Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 & 149:2001, ANSI Z88 or national equivalent)",
+                "MiniStorTrans": "<p>Restrictions on Storage apply. Refer to Full Report.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep locked up.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from living quarters.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from food, drink and animal feeding stuffs.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "S51<html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Liquid.</p> <p>Mixes with water.</p> <p>Corrosive.</p>",
+                "MiniFlammability": "R05HAG25R08",
+                "MiniFirstAidSwallow": "<p>Give water (if conscious).\u00a0<u>URGENT MEDICAL ATTENTION</u>.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water (15 mins). Medical attention.</p>",
+                "MiniFirstAidSkin": "Flood body with water. Remove contaminated clothing. Wash with water",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention.</p>",
+                "MiniFireFighting": "<p>Water spray/ fog.\u00a0</p>",
+                "MiniSpillDisposal": "<p>Consider evacuation.</p> <p>Do NOT absorb spillage in combustibles.\u00a0</p> <p>Absorb with dry agent.</p> <p>Dilute with water.</p> <p>Stop leak if safe to do so.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider full face-shield.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Flammability": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Reactivity": {
+                        "Number": 3,
+                        "ImageName": "Hazard Alert Code/CW_HAC_3.png"
+                    },
+                    "BodyContact": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    },
+                    "Chronic": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "AlertCode": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "2P",
+                    "Value": "2P"
+                },
+                "InternationalHazardGraphics": [
+                    "OXIDIZ.gif"
+                ],
+                "RiskCodes": [
+                    {
+                        "Code": "R5",
+                        "Phrase": "    Heating may cause an explosion.&nbsp;  "
+                    },
+                    {
+                        "Code": "R8",
+                        "Phrase": "    Contact with combustible material may cause fire.&nbsp;  "
+                    },
+                    {
+                        "Code": "R20/22",
+                        "Phrase": "    Harmful by inhalation and if swallowed.&nbsp;  "
+                    },
+                    {
+                        "Code": "R33?",
+                        "Phrase": "\r\n\r\n\r\n\r\nCumulative effects may result following exposure*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R35",
+                        "Phrase": "    Causes severe burns.&nbsp;  "
+                    },
+                    {
+                        "Code": "R37",
+                        "Phrase": "    Irritating to respiratory system.&nbsp;  "
+                    },
+                    {
+                        "Code": "R40(3)?",
+                        "Phrase": "\r\n\r\n\r\n\r\n\r\nLimited evidence of a carcinogenic effect*.\r\n\r\n"
+                    },
+                    {
+                        "Code": "R41",
+                        "Phrase": "    Risk of serious damage to eyes.&nbsp;  "
+                    }
+                ],
+                "SpecificGravity": "1.40 @ 25C",
+                "IssueDate": "2017-12-04T00:00:00",
+                "ClpIndexNumber": [
+                    "008-003-00-9"
+                ],
+                "Suppliers": [],
+                "ShippingName": "HYDROGEN PEROXIDE, STABILISED or HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILISED with more than 60% hydrogen peroxide",
+                "Use": "At varying concentrations used for bleaching and deodourizing of textiles, wood pulp, hair, fur etc.; source of organic and inorganic peroxides; pulp and paper industry; plasticizers; rocket fuel; foam rubber. Manufacture of glycerol; antichlor; dyeing; electroplating; antiseptic, laboratory reagent, epoxidation, hydroxylation, oxidation and reduction; viscosity control for starch and cellulose derivatives; refining and cleaning metals; bleaching and oxidizing agent in food; neutralizing agent in wine distillation; seed disinfectant; substitute for chlorine water and sewage treatment.",
+                "ChemicalFormula": [
+                    "H2O2"
+                ],
+                "FirstAidIngestion": "<ul> <li>For advice, contact a Poisons Information Centre or a doctor at once.\u00a0</li> <li>Urgent hospital treatment is likely to be needed.\u00a0</li> <li><font color=\"#ff0000\">If swallowed do</font><font color=\"#ff0000\"><b>\u00a0NOT</b></font><font color=\"#ff0000\">\u00a0induce vomiting.\u00a0</font></li> <li>If vomiting occurs, lean patient forward or place on left side (head-down position, if possible) to maintain open airway and prevent aspiration.\u00a0</li> <li>Observe the patient carefully.\u00a0</li> <li>Never give liquid to a person showing signs of being sleepy or with reduced awareness; i.e. becoming unconscious.\u00a0</li> <li>Give water to rinse out mouth, then provide liquid slowly and as much as casualty can comfortably drink.\u00a0</li> <li>Transport to hospital or doctor without delay.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p><span style=\"color:#000000\">Hydrogen peroxide at moderate concentrations (5% or more) is a strong oxidant.</span></p>\n<ul>\n<li><span style=\"color:#000000\">Direct contact with the eye is likely to cause corneal damage especially if not washed immediately. Careful ophthalmologic evaluation is recommended and the possibility of local corticosteroid therapy should be considered.\u00a0</span></li>\n<li><span style=\"color:#000000\">Because of the likelihood of systemic effects attempts at evacuating the stomach via emesis induction or gastric lavage should be avoided.\u00a0</span></li>\n<li><span style=\"color:#000000\">There is remote possibility, however, that a nasogastric or orogastric tube may be required for the reduction of severe distension due to gas formation\"\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Fisher Scientific SDS</span></p> <p>Depending on the degree of exposure, periodic medical examination is indicated. The symptoms of lung oedema often do not manifest until a few hours have passed and they are aggravated by physical effort. Rest and medical observation is therefore essential. Immediate administration of an appropriate spray, by a doctor or a person authorised by him/her should be considered.</p> <p>(ICSC24419/24421</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Lay patient down. Keep warm and rested.\u00a0</li> <li>Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>Apply artificial respiration if not breathing, preferably with a demand valve resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul> <ul> <li>Inhalation of vapours or aerosols (mists, fumes) may cause lung oedema.\u00a0</li> <li>Corrosive substances may cause lung damage (e.g. lung oedema, fluid in the lungs).\u00a0</li> <li>As this reaction may be delayed up to 24 hours after exposure, affected individuals need complete rest (preferably in semi-recumbent posture) and must be kept under medical observation even if no symptoms are (yet) manifested.\u00a0</li> <li>Before any such manifestation, the administration of a spray containing a dexamethasone derivative or beclomethasone derivative may be considered.\u00a0</li> </ul> <p><font color=\"#ff0000\"><b>This must definitely be left to a doctor or person authorised by him/her.</b></font></p> <p>(ICSC13719)</p>",
+                "FirstAidEye": "<p><br /></p> <p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Immediately hold eyelids apart and flush the eye continuously with running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Continue flushing until advised to stop by the Poisons Information Centre or a doctor, or for at least 15 minutes.\u00a0</li> <li>Transport to hospital or doctor without delay.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Immediately flush body and clothes with large amounts of water, using safety shower if available.\u00a0</li> <li>Quickly remove all contaminated clothing, including footwear.\u00a0</li> <li>Wash skin and hair with running water. Continue flushing with water until advised to stop by the Poisons Information Centre.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "1-419"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid storage with reducing agents.\u00a0</li> </ul> <ul> <li>Avoid any contamination of this material as it is very reactive and any contamination is potentially hazardous\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<p>For hydrogen peroxide</p> <p>NOTE: Chemical extinguishing agents may accelerate decomposition. [CCINFO]</p> <p>FOR\u00a0<b>SMALL FIRE:</b></p> <ul> <li>USE FLOODING QUANTITIES OF WATER.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">use dry chemical, CO2, foam or halogenated-type extinguishers.</font></li> </ul> <p>\u00a0 FOR\u00a0<b>LARGE FIRE</b></p> <ul> <li>Flood fire area with water from a protected position\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Will not burn but increases intensity of fire.\u00a0</li> <li>Heating may cause expansion or decomposition leading to violent rupture of containers.\u00a0</li> <li>Heat affected containers remain hazardous.\u00a0</li> <li>Contact with combustibles such as wood, paper, oil or finely divided metal may produce spontaneous combustion or violent decomposition.\u00a0</li> <li>May emit irritating, poisonous or corrosive fumes.\u00a0</li> </ul>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Fight fire from a safe distance, with adequate cover.\u00a0</li> <li>Extinguishers should be used only by trained personnel.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>If fire gets out of control withdraw personnel and warn against entry.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<ul> <li>Clear area of personnel and move upwind.\u00a0</li> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>Consider evacuation (or protect in place).\u00a0</li> <li>No smoking, flames or ignition sources.\u00a0</li> <li>Increase ventilation.\u00a0</li> <li>Contain spill with sand, earth or other clean, inert materials.\u00a0</li> <li><font color=\"#ff0000\"><b>NEVER</b></font>\u00a0use organic absorbents such as sawdust, paper, cloth; as fire may result.\u00a0</li> <li>Avoid any contamination by organic matter.\u00a0</li> <li>Use spark-free and explosion-proof equipment.\u00a0</li> <li>Collect any recoverable product into labelled containers for possible recycling.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0mix fresh with recovered material.</font></li> <li>\u00a0 Collect residues and seal in labelled drums for disposal.\u00a0</li> <li>Wash area and prevent runoff into drains.\u00a0</li> <li>Decontaminate equipment and launder all protective clothing before storage and re-use.\u00a0</li> <li>If contamination of drains or waterways occurs advise emergency services.\u00a0</li> </ul> <p>For hydrogen peroxide:</p> <ul> <li>Dilute with large quantities of water (at least ten (10) times the volume of hydrogen peroxide).\u00a0</li> <li>Sodium bicarbonate may be used to accelerate breakdown.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Drains for storage or use areas should have retention basins for pH adjustments and dilution of spills before discharge or disposal of material.\u00a0</li> <li>Check regularly for spills and leaks.\u00a0</li> </ul> <ul> <li>Clean up all spills immediately.\u00a0</li> <li>No smoking, naked lights, ignition sources.\u00a0</li> <li>Avoid all contact with any organic matter including fuel, solvents, sawdust, paper or cloth and other incompatible materials, as ignition may result.\u00a0</li> <li>Avoid breathing dust or vapours and all contact with skin and eyes.\u00a0</li> <li>Control personal contact with the substance, by using protective equipment.\u00a0</li> <li>Contain and absorb spill with dry sand, earth, inert material or vermiculite.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0use sawdust as fire may result.\u00a0</font></li> <li>Scoop up solid residues and seal in labelled drums for disposal.\u00a0</li> <li>Neutralise/decontaminate area.\u00a0</li> </ul>",
+                "MolecularWeight": "34.02 as H2O2",
+                "Appearance": "Clear, colourless to light blue, water-like liquid, odourless (or with a characteristic slightly acidic odour). Pure hydrogen peroxide is a transient material (requires stabilization). Miscible in water, soluble in ether, insoluble in petroleum ether and decomposed by many organic solvents.|Carried as an aqueous solution.",
+                "VapourPressure": "0.67 @ 30C",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "Not available.",
+                "PhAs1PercentSolution": "Not available.",
+                "EvaporationRate": "Not Available",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "-0.4",
+                "Odour": "Not Available",
+                "RelativeVapourDensity": "Not available.",
+                "Lel": "Not applicable",
+                "BoilingRange": "150.2",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not applicable",
+                "PhSolutionPercent": "Not available.",
+                "Viscosity": "Not Available",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable under normal handling conditions.</span></li>\n<li><span style=\"color:#000000\">Prolonged exposure to heat.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul> <p>Solutions of hydrogen peroxide slowly decompose, releasing oxygen, and so are often stabilised by the addition of acetanilide, etc.</p>",
+                "Synonyms": [
+                    "HYDROGEN"
+                ],
+                "Adg": {
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "2015",
+                    "ShippingName": "HYDROGEN PEROXIDE, STABILISED or HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILISED with more than 60% hydrogen peroxide",
+                    "PackingGroup": "I"
+                },
+                "Dot": {
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "ShippingName": "Hydrogen peroxide, stabilized or Hydrogen peroxide aqueous solutions, stabilized with more than 60 percent hydrogen peroxide",
+                    "PackingGroup": "I"
+                },
+                "Imdg": {
+                    "Ems": "F-H , S-Q",
+                    "Lq": "0",
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "2015",
+                    "ShippingName": "HYDROGEN PEROXIDE, STABILIZED or HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED with more than 60% hydrogen peroxide",
+                    "PackingGroup": "I"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "2015",
+                    "ShippingName": "HYDROGEN PEROXIDE, STABILIZED or HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED with more than 60% hydrogen peroxide",
+                    "PackingGroup": "I"
+                },
+                "UnTransportData": {
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "2015",
+                    "ShippingName": "HYDROGEN PEROXIDE, STABILIZED or HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED with more than 60% hydrogen peroxide",
+                    "PackingGroup": "I"
+                },
+                "Tdg": {
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "2015",
+                    "ShippingName": "HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED with more than 60% hydrogen peroxide; or HYDROGEN PEROXIDE, STABILIZED",
+                    "PackingGroup": "I"
+                },
+                "Land": {
+                    "LimitedQuantity": "0",
+                    "Dgc": "5.1",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "2015",
+                    "ShippingName": "HYDROGEN PEROXIDE, STABILIZED or HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED with more than 60% hydrogen peroxide",
+                    "PackingGroup": "I"
+                },
+                "HandlingProcedure": "<ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0allow clothing wet with material to stay in contact with skin</font></li> </ul> <p><span style=\"color:black\">For oxidisers, including\r\nperoxides.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Avoid personal contact and inhalation of dust, mist or vapours. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Provide adequate ventilation. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Always wear protective equipment and wash off any spillage from\r\nclothing. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Keep material away from light, heat, flammables or combustibles. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Keep cool, dry and away from incompatible materials. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Avoid physical damage to containers. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><b><span style=\"color:red\">DO NOT </span></b><span style=\"color:red\">repack or return unused portions to\r\noriginal containers.</span><span style=\"color:black\"> Withdraw only sufficient amounts\r\nfor immediate use. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use only minimum quantity required. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Avoid using solutions of peroxides in volatile solvents. Solvent\r\nevaporation should be controlled to avoid dangerous concentration of the\r\nperoxide. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Do NOT allow oxidisers to contact iron or compounds of iron, cobalt,\r\nor copper, metal oxide salts, acids or bases. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Do NOT use metal spatulas to handle oxidisers </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Do NOT use glass containers with screw cap lids or glass stoppers. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Store peroxides at the lowest possible temperature, consistent with\r\ntheir solubility and freezing point. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">CAUTION: Do NOT store liquids or solutions of peroxides at a\r\ntemperature below that at which the oxidiser freezes or precipitates. Peroxides,\r\nin particular, in this form are extremely shock and heat-sensitive.\r\nRefrigerated storage of peroxides must ONLY be in explosion-proof units. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The hazards and consequences of fires and explosions during\r\nsynthesis and use of oxidisers is widely recognised; spontaneous or induced\r\ndecomposition may culminate in a variety of ways, ranging from moderate gassing\r\nto spontaneous ignition or explosion. The heat released from spontaneous\r\ndecomposition of an energy-rich compound causes a rise in the surrounding\r\ntemperature; the temperature will rise until thermal balance is established or\r\nuntil the material heats to decomposition, </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The most effective means for minimising the consequences of an\r\naccident is to limit quantities to a practical minimum. Even gram-scale\r\nexplosions can be serious. Once ignited the burning of peroxides cannot be\r\ncontrolled and the area should be evacuated. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Unless there is compelling reason to do otherwise, peroxide\r\nconcentration should be limited to 10% (or less with vigorous reactants).\r\nPeroxide concentration is rarely as high as 1% in the reaction mixture of\r\npolymerisation or other free-radical reactions, </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Oxidisers should be added slowly and cautiously to the reaction\r\nmedium. This should be completed prior to heating and with good agitation. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Addition oxidisers to the hot monomer is extremely dangerous. A\r\nviolent reaction (e.g., fire or explosion) can result from inadvertent mixing\r\nof promoters (frequently used with peroxides in polymerisation systems) with\r\nfull-strength oxidisers</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">\u00a0Organic peroxides are very sensitive to contamination (especially\r\nheavy-metal compounds, metal oxide salts, alkaline materials including amines,\r\nstrong acids, and many varieties of dust and dirt). This can initiate rapid,\r\nuncontrolled decomposition of peroxides and possible generation of intense\r\nheat, fire or explosion\u00a0 The consequences of accidental contamination from\r\nreturning withdrawn material to the storage container can be disastrous. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">When handling <b>NEVER </b>smoke, eat or drink. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Always wash hands with soap and water after handling. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use only good occupational work practice. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Observe manufacturer's storage and handling recommendations\r\ncontained within this MSDS.</span></p>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed as supplied.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, well ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep dry.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store under cover and away from sunlight.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from flammable or combustible materials, debris and waste. Contact may cause fire or violent reaction.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0stack on wooden floors or pallets.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers from physical damage.\u00a0</span></li>\n<li><span style=\"color:#000000\">Check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul> <p>In addition, Goods of Class 5.1, packing group I should be:</p> <ul> <li>stored in a room or space with free vents\u00a0</li> <li>stored in piles so that (i) \u00a0the length of the pile does not exceed 3 metres; (ii) the height of the pile does not exceed 3 metres if the area is provided with automatic fire extinguishers or 1.2 metres if not.\u00a0</li> <li>stored in a room that is equipped with an automatic fire sprinkler capable of a discharge rate of at least 10 litres per minute per square meter of floor area, where 1000 kgs or more of the material is to be stored.\u00a0</li> </ul>",
+                "SuitableContainer": "<ul> <li>Glass container is suitable for laboratory quantities\u00a0</li> </ul> <ul> <li>All inner and sole packagings for substances in Packing Group I, must be hermetically sealed.\u00a0</li> </ul> <p>Hydrogen peroxide containing/ generating materials requiring rigid packaging.</p> <p>Store in:</p> <ul> <li>containers with vented lids.\u00a0</li> <li>properly passivated aluminium containers.\u00a0</li> <li>properly passivated stainless steel.\u00a0</li> <li>polyethylene containers.\u00a0</li> <li>porcelain, vitreous stoneware\u00a0</li> <li>Teflon lined containers.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p>Hydrogen peroxide</p> <ul> <li>is a powerful oxidiser\u00a0</li> <li>contamination or heat may cause self accelerating exothermic decomposition with oxygen gas and steam release - this may generate dangerous pressures - steam explosion.\u00a0</li> <li>reacts dangerously with rust, dust, dirt, iron, copper, acids, metals and salts, organic material.\u00a0</li> <li>is unstable if heated. (e.g): one volume of 70% hydrogen peroxide solution decomposes to produce 300 volumes of oxygen gas.\u00a0</li> <li>in presence of a strong initiating source may be explosively reactive\u00a0</li> <li>concentrated or pure material can generate heat and decompose spontaneously; can ignite or explode when heated, shocked, contaminated; or if placed in a basic (&gt;7) environment, especially in the presence of metal ions\u00a0</li> <li>mixtures with combustible materials may result in spontaneous combustion or may be impact- or heat- sensitive - evaporation or drying on towels or mop may cause a fire.\u00a0</li> <li>reacts violently with reducing agents, alcohols, ammonia, carboxylic acids, acetic acid, cobalt oxides, copper(II) chloride, ethers, metal powder, permanganates, acetone, benzenesulfonic anhydride, 1,1-dimethylhydrazine, dimethylphenylphosphine, gadolinium hydroxide, hydrogen selenide, iron oxides, lithium tetrahydroaluminate, magnesium tetrahydroaluminate, manganese(II) oxide, mercury oxide, methyl hydrazine, nickel monoxide, nitrogenous bases, osmium tetraoxide, alpha-phenylselenoketones, phosphorus, phosphorus(V) oxide, quinoline, tetrahydrothiophene, tin(II) chloride, thiodiglycol, thiophane, tin(II) chloride, unsaturated organic compounds, readily oxidisable and combustible materials; avoid contact with combustibles including lubricants and graphite\u00a0</li> <li>reacts with cobalt, copper and its alloys, chromium, iridium, iron, lead, manganese, Monel, osmium, palladium, platinum, gold, silver, zinc, and other catalytic metals, metal oxides and salts - avoid metallic bowls and stirrers.\u00a0</li> <li>violent catalytic decomposition will occur in contact with certain metals such as iron, copper, chromium, brass, bronze, lead, silver, manganese or their salts.\u00a0</li> <li>forms unstable and possible explosive materials with acetic anhydride, aconitic acid, aniline, carboxylic acids, 1,4-diazabicyclo[2,2,2]octane, diphenyl diselenide, ethyl acetate, glycols, ketene, ketones, triethyltin hydroperoxide, 1,3,5-trioxane, vinyl acetate.\u00a0</li> <li>is incompatible with mercurous chloride\u00a0</li> <li>decomposes in presence of alkalis and even ordinary dust or rust\u00a0</li> <li>decomposes slowly at ordinary temperatures and builds up pressure in a closed container; the rate of decomposition doubles for each 10 deg C rise in temperature and decomposition becomes self-sustaining at 141 deg. C\u00a0</li> <li>contact with rough surfaces can cause decomposition\u00a0</li> <li>attacks and may ignite some plastics, rubber and coatings</li> </ul> <ul>\n<li><span style=\"color:#000000\">Inorganic peroxy compounds are potent oxidisers that pose fire or explosive hazards when in contact with ordinary combustible materials. </span></li>\n<li><span style=\"color:#000000\">Inorganic peroxides react with organic compounds to generate organic peroxide and hydroperoxide products that react violently with reducing agents.</span></li>\n<li><span style=\"color:#000000\">Inorganic oxidising agents can react with reducing agents to generate heat and products that may be gaseous (causing pressurization of closed containers). The products may themselves be capable of further reactions (such as combustion in the air). </span></li>\n<li><span style=\"color:#000000\">Organic compounds in general have some reducing power and can in principle react with compounds in this class. Actual reactivity varies greatly with the identity of the organic compound. </span></li>\n<li><span style=\"color:#000000\">Inorganic oxidising agents can react violently with active metals, cyanides, esters, and thiocyanates. </span></li>\n<li><span style=\"color:#000000\">Peroxides, in contact with inorganic cobalt and copper compounds, iron and iron compounds, acetone, metal oxide salts and acids and bases can react with rapid, uncontrolled decomposition, leading to fires and explosions.</span></li>\n</ul> <ul> <li>Inorganic reducing agents react with oxidizing agents to generate heat and products that may be flammable, combustible, or otherwise reactive. Their reactions with oxidizing agents may be violent.\u00a0</li> </ul> <ul> <li>Incidents involving interaction of active oxidants and reducing agents, either by design or accident, are usually very energetic and examples of so-called redox reactions.\u00a0</li> </ul> <ul> <li>Avoid any contamination of this material as it is very reactive and any contamination is potentially hazardous\u00a0</li> </ul> <ul> <li>Avoid strong bases.\u00a0</li> </ul> <ul> <li>Avoid storage with reducing agents.\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC51.gif",
+                    "DGC/DGC8.gif"
+                ],
+                "TransportIncompatibilities": "<p>Class 5.1 - Oxidising agents shall not be loaded in the same vehicle or packed in the same freight container with:</p> <p>Class 1 - Explosives;</p> <p>Class 2.1 - Flammable gases;</p> <p>Class 2.3 - Poisonous gases;</p> <p>Class 3 - Flammable liquids;</p> <p>Class 4.1 - Flammable solids;</p> <p>Class 4.2 - Spontaneously combustible substances;</p> <p>Class 4.3 - Dangerous when wet substances;</p> <p>Class 5.2 - Organic peroxides;</p> <p>Class 6 - Poisonous (toxic) substances (where the poisonous substances are capable of igniting and burning);</p> <p>Class 7 - Radioactive substances;</p> <p>Class 8 - Corrosives;</p> <p>Class 9 - Miscellaneous dangerous substances (where the miscellaneous substances are capable of igniting and burning) and substances other than dangerous goods, capable of igniting and burning.</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Combustible materials or any other incompatible substance where there is a risk of interaction. <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1, 2.2 (with subrisk 5.1), 3, 4.1, 4.2, 4.3, 5.2, 8<br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<p>For hydrogen peroxide:</p> <p>log Kow: -1.36</p> <p><b>Environmental fate:</b></p> <p>Hydrogen peroxide is a naturally occurring substance (typical background concentrations &lt; 1 - 30 g/l). Almost all cells with the exception of anaerobic bacteria produce it in their metabolism. Hydrogen peroxide is a reactive substance in the presence of other substances, elements, radiation, materials and can be degraded by micro-organisms or higher organisms.</p> <p>Air: Hydrogen peroxide may be removed from the atmosphere by photolysis giving rise to hydroxyl radicals, by reaction with hydroxyl radicals, or by heterogenous loss processes such as rain-out. Significantly higher hydrogen peroxide concentrations are found in polluted atmospheres as compared with clean air. These concentrations are believed to arise from photochemically-initiated oxidation of reactive hydrocarbons. Under severe smog conditions, daytime levels of hydrogen peroxide as high as 0.18 ppm have been reported, but atmospheric night-time levels of 2-5 ppb did not correlate to smog intensity.</p> <p>Soil: No information was found in the secondary sources searched regarding the transformation or persistence of hydrogen peroxide in soil, however, solutions of hydrogen peroxide gradually deteriorate.\u00a0</p> <p>Water: Hydrogen peroxide is a naturally occurring substance. Surface water concentrations of hydrogen peroxide have been found to vary between 51-231 mg/L, increasing both with exposure to sunlight and the presence of dissolved organic matter.</p> <p>Hydrogen peroxide degrades by various mechanisms, including chemical reduction and enzymatic (catalase and peroxidase) decomposition by algae, zooplankton, and bacteria. Microorganisms, especially bacteria, account for the majority of degradation, significantly more than all other chemical and biological mechanisms. The rate at which hydrogen peroxide decomposes in natural water can vary from a few minutes to more than a week, depending on numerous chemical, biological, and physical factors.</p> <p>Hydrogen peroxide is rapidly degraded in a biological waste water treatment plant. Hydrogen peroxide adsorbs poorly to sediment particles and is rapidly degraded, thus accumulation in the sediment is also not expected\u00a0</p> <p>Hydrogen peroxide (log Kow &lt; -1) is an inorganic substance and therefore shows little potential to bioaccumulate.</p> <p><b>Ecotoxicity:</b></p> <p>Fish LC50 (96 h): catfish 37.4 mg/l</p> <p>Fish LC50 (24 h): mackerel 89 mg/l; chameleon gobi 155 mg/l</p> <p>Zebra mussel LC50 (28 h) 30 mg/l; (228 h): 12 mg/l\u00a0</p> <p>Ecotoxicity data show that microorganisms (i.e., bacteria, algae) and zooplankton present in aquatic ecosystems are generally less tolerant of hydrogen peroxide exposure than are fish or other vertebrates. Effects of short-term exposures on sensitive bacteria and invertebrates (e.g., Daphnia pulex<b><i>)\u00a0</i></b>have been observed at concentrations in the low mg/L (ppm) range, while effects on sensitive algae have been reported at levels less than 1.0 mg/L. Algae are the most sensitive species for hydrogen peroxide. The algal EC50 of hydrogen peroxide was 1.6-5 mg/l, while the NOEC was 0.1 mg/l. In a 21-d continuous exposure study on Daphnia\u00a0<i>magna</i>, the chronic no observable effect concentration (NOEC) for reproduction was 0.63 mg/L and the NOEC for mortality was 1.25 mg/L.</p> <p>In chronic toxicity studies with invertebrates (zebra mussels) and hydrogen peroxide shows an NOEC of 2 mg/l. The PNEC of hydrogen peroxide is equal to 10 ug/l.</p> <p>Risk mitigation is needed to ensure that use of hydrogen peroxide will not adversely impact aquatic life. An acute water quality criterion or \"benchmark\" has been determined. For hydrogen peroxide, the acute benchmark is 0.7 mg/L. This value was calculated using the extensive toxicity database for hydrogen peroxide and procedures in U.S. Environmental Protection Agency guidance for deriving numerical national water quality criteria. The use of hydrogen peroxide in intensive aquaculture in finfish (at up to 100 mg/L for 60 minutes) and finfish eggs (at up to 1,000 mg/L for 15 minutes) is not expected to have a significant impact on the environment.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "AirPersistence": "LOW",
+                "WaterPersistence": "LOW",
+                "BioaccumulationPotential": "LOW (LogKOW = -1.571)",
+                "MobilityInSoil": "LOW (KOC = 14.3)",
+                "Disposal": "<ul>\n<li><span style=\"color:#000000\">Containers may still present a chemical hazard/ danger when empty.\u00a0</span></li>\n<li><span style=\"color:#000000\">Return to supplier for reuse/ recycling if possible.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Otherwise:</span></p>\n<ul>\n<li><span style=\"color:#000000\">If container can not be cleaned sufficiently well to ensure that residuals do not remain or if the container cannot be used to store the same product, then puncture containers, to prevent re-use, and bury at an authorised landfill.\u00a0</span></li>\n<li><span style=\"color:#000000\">Where possible retain label warnings and SDS and observe all notices pertaining to the product.\u00a0</span></li>\n</ul> <p>Legislation addressing waste disposal requirements may differ by country, \u00a0state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. If it has been contaminated, it may be possible to reclaim the product by filtration, distillation or some other means. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <p>For small quantities of oxidising agent:</p> <ul> <li>Cautiously acidify a 3% solution to pH 2 with sulfuric acid.\u00a0</li> <li>Gradually add a 50% excess of sodium bisulfite solution with stirring.\u00a0</li> <li>Add a further 10% sodium bisulfite.\u00a0</li> <li>If no further reaction occurs (as indicated by a rise in temperature) cautiously add more acid.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Recycle wherever possible.\u00a0</span></li>\n<li><span style=\"color:#000000\">Consult manufacturer for recycling options or consult local or regional waste management authority for disposal if no suitable treatment or disposal facility can be identified.\u00a0</span></li>\n<li><span style=\"color:#000000\">Treat and neutralise at an approved treatment plant. Treatment should involve: Neutralisation followed by: burial in a land-fill specifically licensed to accept chemical and / or pharmaceutical wastes or Incineration in a licensed apparatus (after admixture with suitable combustible material)\u00a0</span></li>\n<li><span style=\"color:#000000\">Decontaminate empty containers. Observe all label safeguards until containers are cleaned and destroyed.\u00a0</span></li>\n</ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "NOEC(ECx)",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.1mg/l",
+                        "Source": "1"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.69mg/l",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": "16.4mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "2mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "2.27mg/l",
+                        "Source": "4"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australia Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) - Schedule 10 / Appendix C",
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "Australia Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) - Schedule 5",
+                    "Australia Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) - Schedule 6",
+                    "Australia Hazardous Chemical Information System (HCIS) - Hazardous Chemicals",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs"
+                ],
+                "Tccl": [
+                    "Toxic chemicals",
+                    "Toxic chemicals"
+                ],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H271; H302; H314; H332",
+                        "SignalWord": "GHS03; GHS05; GHS07; Dgr",
+                        "HazardState": "H271; H302; H314; H332"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H271; H335; H318; H225; H336; H290; H411; H301; H330; H314",
+                        "SignalWord": "GHS03; GHS05; GHS07; Dgr; GHS02; GHS09; GHS06; Wng",
+                        "HazardState": "H271; H335; H318; H225; H336; H290; H411; H301; H330; H314"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": "0.013 mg/L (Water (Fresh))",
+                    "MarineWater": "0.013 mg/L (Water - Intermittent release)",
+                    "Aqua": "0.014 mg/L (Water (Fresh)_mar)",
+                    "FreshWaterSediment": "0.047 mg/kg sediment dw (Sediment (Fresh Water))",
+                    "MarineWaterSediment": "0.047 mg/kg sediment dw (Sediment (Fresh Water)_mar)",
+                    "Soil": "0.002 mg/kg soil dw (Soil)",
+                    "Stp": "4.66 mg/L (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {
+                    "LwltInhal": {
+                        "Value": "1.4 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 1.4 mg/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "LwstInhal": {
+                        "Value": "3 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 3 mg/m\u00b3 (Local, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    },
+                    "LcltInhal": {
+                        "Value": "0.21 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 0.21 mg/m\u00b3 (Local, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "LcstInhal": {
+                        "Value": "1.93 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 1.93 mg/m\u00b3 (Local, Acute) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Hydrogen peroxide",
+                        "Teel1": "Not Available",
+                        "Teel2": "Not Available",
+                        "Teel3": "Not Available"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>for hydrogen peroxide</p> <p>NOTE: Detector tubes for hydrogen peroxide, measuring in excess of 0.1 ppm, are available commercially.</p> <p>Exposure at or below the TLV-TWA is thought to minimise irritation and bleaching of hair.</p> <p><br /></p>",
+                "EngineeringControls": "<p><br /></p> <p>Explosive reaction may result from the interaction of strong oxidisers and organics.\u00a0</p> <ul> <li><font color=\"#ff0000\"><b>Do NOT</b></font><font color=\"#ff0000\">\u00a0use strong oxidising agents in fume hoods designed for other purposes. Identify fume hoods used for strong oxidising agents with large warning signs.\u00a0</font></li> <li>Provide exhaust ventilation and room supply air in accordance with appropriate Standard.\u00a0</li> <li>Utilise local exhaust ventilation within the hood to minimise condensation of vapours inside the hood.\u00a0</li> <li>Locate all utility controls outside the hood.\u00a0</li> <li>Materials of construction for this type of hood and ductwork must be non-reactive, preferably acid resistant and relatively impervious. AVOID ORGANIC MATERIALS unless known to be safe. Stainless steel type 316 with welded joints is preferred. Unplasticised polyvinyl chloride or an inorganic ceramic coating such as porcelain is acceptable.\u00a0</li> <li>Ease of cleanliness is paramount. Use stainless steel with accessible rounded corners and all-welded construction.\u00a0</li> <li>The work surface should be water-tight with a minimum of 1 cm (1/2\") dished front and sides and an integral trough at the rear to collect the washdown water.\u00a0</li> <li>Design washdown facilities into the hood and ductwork. Use daily or more often to thoroughly clean water-soluble oxidisers from the exhaust system surfaces.\u00a0</li> <li>Each hood should have an individual exhaust system. Slope horizontal runs to drain. Avoid sharp turns.\u00a0</li> <li>Construct the hood and ductwork to allow easy visual inspection.\u00a0</li> <li>Where required use a high efficiency (greater than 80%) wet collector constructed for water-soluble oxidiser service. Locate as close to the hood as possible to minimise the accumulation of the oxidiser in the exhaust duct.\u00a0</li> <li>Use only a metallic fan protected by an inorganic coating (preferably acid-resistant), or an air ejector.\u00a0</li> <li>Lubricate the fan with a fluorocarbon type grease.\u00a0</li> <li>Locate the fan outside the building.\u00a0</li> <li>The exhaust discharge must terminate out-of-doors preferably using a vertical discharge cap which extends well above the roof eddy zone. Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.\u00a0</li> </ul> <p><table> <tr> <td> <p>Type of Determinant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>solvent, vapours, degreasing etc., evaporating from tank (in still air).</p>  </td> <td> <p>0.25-0.5 m/s</p> <p>(50-100 f/min.)</p>  </td> </tr> <tr> <td> <p>aerosols, fumes from pouring operations, intermittent container filling, low speed conveyer transfers, welding, spray drift, plating acid fumes, pickling (released at low velocity into zone of active generation)</p>  </td> <td> <p>0.5-1 m/s</p> <p>(100-200 f/min.)</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s</p> <p>(200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).\u00a0</p>  </td> <td> <p>2.5-10 m/s</p> <p>(500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of high toxicity</p>  </td> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>\u00a0Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2 m/s (200-400 f/min.) for extraction of solvents generated in a tank 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Inhalation of vapours or aerosols (mists, fumes), generated by the material during the course of normal handling, may be harmful.</p> <p>Inhalation of quantities of liquid mist may be extremely hazardous, even lethal due to spasm, extreme irritation of larynx and bronchi, chemical pneumonitis and pulmonary oedema.</p> <p>Inhalation of excessive levels of mist may result in headache, dizziness, vomiting, diarrhoea, irritability, insomnia and in extreme pulmonary oedema. Systemic poisoning due to hydrogen peroxide inhalation may cause tremors and numbness of the extremities, convulsions, pulmonary oedema, coma and shock. Hydrogen peroxide has poor warning properties. High concentrations of the vapour or mist are likely to cause extreme irritation of the nose and chest, cough, discomfort, shortness of breath, \u00a0and inflammation of the nose and throat.</p> <p><br /></p>",
+                "AcuteEye": "<p>The material can produce severe chemical burns to the eye following direct contact. Vapours or mists may be extremely irritating.</p> <p>When applied to the eye(s) of animals, the material produces severe ocular lesions which are present twenty-four hours or more after instillation.</p> <p>Corneal ulcerations due to hydrogen peroxide exposure may not appear for up to a week after exposure; concentrations above 10% are corrosive to the eye.</p>",
+                "AcuteSkin": "<p>The material can produce severe chemical burns following direct contact with the skin.</p> <p><br /></p> <p>Skin contact is not thought to produce harmful health effects (as classified under EC Directives using animal models). Systemic harm, however, has been identified following exposure of animals by at least one other route and the material may still produce health damage following entry through wounds, lesions or abrasions. Good hygiene practice requires that exposure be kept to a minimum and that suitable gloves be used in an occupational setting.</p> <p>Skin contact will result in rapid drying, bleaching, leading to chemical burns on prolonged contact</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p> <p>Hydrogen peroxide as a topical gel is used to cleanse minor wounds or minor gum inflammation. In appropriate solution, hydrogen peroxide is used in topical and dental gels \u00a0Skin contact may cause bleaching, blistering and reddening. \u00a0Short term contact results in temporary whitening and a tingling sensation due to diffusion of hydrogen peroxide into the skin. The characteristic whitening of the skin occurs after topical application of hydrogen peroxide (1-30%), which is believed the result of avascularity of the skin produced by oxygen bubbles acting microembolically in the capillaries. Concentrations above 50% are corrosive to skin.</p>",
+                "AcuteIngestion": "<p>Accidental ingestion of the material may be harmful; animal experiments indicate that ingestion of less than 150 gram may be fatal or may produce serious damage to the health of the individual.</p> <p>The material can produce severe chemical burns within the oral cavity and gastrointestinal tract following ingestion.</p> <p>Hydrogen peroxide may cause blistering and bleeding from the throat and stomach. Ingested hydrogen peroxide may evolve large quantities of oxygen which could hyper-distend the gastro-intestinal tract and may cause internal bleeding Ingestion of large amounts of hydrogen peroxide causes chest and stomach pain, loss of consciousness, and motor disorders in humans and has caused mortality in experimental animals.</p> <p>Ingestion of hydrogen peroxide containing/ generating materials may cause nausea, vomiting and, possibly, internal bleeding. Rapid evolution of oxygen in the acid environment of the stomach (up to 10 times the volume of the ingested solution) may result in severe organ damage. Large doses are presumed to produce gastritis and oesophagitis. Cases of rupture of the colon, proctitis and ulcerative colitis have been reported following hydrogen peroxide enemas. Powders and tablets that generate hydrogen peroxide, such as Oxone (KHSO5), have caused oral and oesophageal burns when ingested.</p> <p>Large amounts of hydrogen peroxide taken orally by humans has caused apnea, dizziness, headache, tremors weakness or numbness in the extremities, convulsions, loss of consciousness and shock.</p> <p>Hydrogen peroxide concentrate is caustic and should not be tasted undiluted. Rats receiving 2.5% hydrogen peroxide (equivalent to approximately 3.5 g/kg/day ) in their drinking water died within 43 days. Cases of rupture of the colon, inflammation of the anus or rectum, and ulcerative colitis have been reported following hydrogen peroxide enemas</p> <p>In five persons who accidentally drank about 50 mL of a 33% hydrogen peroxide solution, symptoms included stomach and chest pain, retention of breath, foaming at the mouth, and loss of consciousness. Later, motor and sensory disorders, fever, microhaemorrhages and moderate leucocytosis were noted. All recovered completely within 2-3 weeks .</p> <p><br /></p>",
+                "ChronicHealthEffects": "<p>On the basis, primarily, of animal experiments, concern has been expressed by at least one classification body that the material may produce carcinogenic or mutagenic effects; in respect of the available information, however, there presently exists inadequate data for making a satisfactory assessment.</p><p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p>Hydrogen peroxide as a human food additive is generally regarded as safe when used in certain limitations. In experimental animals, oral administration of hydrogen peroxide causes dental, liver, kidney, stomach, and intestinal damage. Inhalation exposure to hydrogen peroxide caused skin irritation and sneezing in dogs, and high mortality in mice.</p> <p>Hydrogen peroxide added to food is affirmed to be generally regarded as safe (GRAS) by the U.S. FDA when used to treat certain foods in specified limitations [FDA 21 CFR 184.1366 (4/1/93)]. Hydrogen peroxide may be used as a component of articles for use in packaging, handling, transporting, or holding food in accordance with prescribed conditions [FDA 21 CFR 175.105 (4/1/93)].</p> <p>Dose-related growth retardation, induction of dental caries, and pathological changes in the periodontium were observed in young male rats receiving 1.5% hydrogen peroxide as their drinking fluid (equivalent to approximately 2.1 g/kg/day)2\u00a0for 8 weeks .</p> <p>Effects observed in mice treated for 35 weeks with 0.15% hydrogen peroxide as their drinking fluid (equivalent to approximately 0.29 g/kg/day)3\u00a0included degeneration of hepatic and renal tubular epithelial tissues, necrosis, inflammation, irregularities of tissue structure of the stomach wall, and hypertrophy of the small intestine wall. Concentrations in excess of 1% (equivalent to approximately 1.9 g/kg/day)4\u00a0resulted in pronounced weight loss and death within two weeks. In a sequential study of mice treated with 0.4% hydrogen peroxide in drinking water (equivalent to approximately 0.76 g/kg/day)5\u00a0, gastric erosion was observed at 30 days and was present consistently throughout the 108 week study period.</p> <p>Dogs exposed 6 hours/day, 5 days/week for 6 months at an average vapour concentration of 7 ppm (9.73 mg/3 ) of 90% hydrogen peroxide, developed skin irritation, sneezing, lacrimation, and bleaching of the hair. Autopsy disclosed pulmonary irritation and greatly thickened skin, but no hair follicle destruction. No significant changes in blood or urinary parameters were observed .</p> <p>Following eight 6-hour exposures to hydrogen peroxide at a concentration of 79 mg/m3\u00a0(56.88 ppm), 7/9 mice died. Following exposure to hydrogen peroxide at 93 mg/m3 , 6 hours/day, 5 days/week for 30 exposures, 1/10 rats died</p> <p>Repeated or prolonged exposure to acids may result in the erosion of teeth, inflammatory and ulcerative changes in the mouth and necrosis (rarely) of the jaw. Bronchial irritation, with cough, and frequent attacks of bronchial pneumonia may ensue. Gastrointestinal disturbances may also occur. Chronic exposures may result in dermatitis and/or conjunctivitis.</p> <p>The impact of inhaled acidic agents on the respiratory tract depends upon a number of interrelated factors. These include physicochemical characteristics, e.g., gas versus aerosol; particle size (small particles can penetrate deeper into the lung); water solubility (more soluble agents are more likely to be removed in the nose and mouth). Given the general lack of information on the particle size of aerosols involved in occupational exposures to acids, it is difficult to identify their principal deposition site within the respiratory tract. Acid mists containing particIes with a diameter of up to a few micrometers will be deposited in both the upper and lower airways. They are irritating to mucous epithelia, they cause dental erosion, and they produce acute effects in the lungs (symptoms and changes in pulmonary function). AsthmatIcs appear to be at particular risk for pulmonary effects.</p> <p><br /></p>",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">225",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "Dermal (rabbit) LD50:",
+                        "Value": ">2000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "Inhalation(Rat) LC50;",
+                        "Value": "2",
+                        "Unit": "mg/l4h",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [],
+                "NextRevisionDate": "2022-12-04T00:00:00",
+                "SignalWord": "Danger",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSExp.gif",
+                    "GHSOxy.gif",
+                    "GHSCor.gif",
+                    "GHSHar.gif"
+                ],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R35|~R37|~R41|~R20/22",
+                "MiniChronicHealthEffects": "R40(3)?|R33?",
+                "WhmisImages": [
+                    "WHMISO.gif",
+                    "WHMISC.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P271",
+                        "Phrase": "Use only outdoors or in a well-ventilated area."
+                    },
+                    {
+                        "Code": "P264",
+                        "Phrase": "Wash \u2026 thoroughly after handling."
+                    },
+                    {
+                        "Code": "P270",
+                        "Phrase": "Do not eat, drink or smoke when using this product."
+                    },
+                    {
+                        "Code": "P210",
+                        "Phrase": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking."
+                    },
+                    {
+                        "Code": "P220",
+                        "Phrase": "Keep away from clothing and other combustible materials."
+                    },
+                    {
+                        "Code": "P221",
+                        "Phrase": "Take any precaution to avoid mixing with combustibles/organic material."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P283",
+                        "Phrase": "Wear fire resistant or flame retardant clothing."
+                    },
+                    {
+                        "Code": "P234",
+                        "Phrase": "Keep only in original packaging."
+                    },
+                    {
+                        "Code": "P260",
+                        "Phrase": "Do not breathe dust/fume/gas/mist/vapours/spray."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P304+P340",
+                        "Phrase": "IF INHALED:, Remove person to fresh air and keep comfortable for breathing."
+                    },
+                    {
+                        "Code": "P301+P312",
+                        "Phrase": "IF SWALLOWED:, Call a POISON CENTRE/doctor/\u2026 if you feel unwell."
+                    },
+                    {
+                        "Code": "P306+P360",
+                        "Phrase": "IF ON CLOTHING:, Rinse immediately contaminated clothing and skin with plenty of water before removing clothes."
+                    },
+                    {
+                        "Code": "P370+P378",
+                        "Phrase": "In case of fire:, Use alcohol resistant foam or fine spray/water fog to extinguish."
+                    },
+                    {
+                        "Code": "P370+P380+P375",
+                        "Phrase": "In case of fire:, Evacuate area., Fight fire remotely due to the risk of explosion."
+                    },
+                    {
+                        "Code": "P305+P351+P338",
+                        "Phrase": "IF IN EYES:, Rinse cautiously with water for several minutes., Remove contact lenses, if present and easy to do. Continue rinsing."
+                    },
+                    {
+                        "Code": "P310",
+                        "Phrase": "Immediately call a POISON CENTER/doctor/\u2026"
+                    },
+                    {
+                        "Code": "P301+P330+P331",
+                        "Phrase": "IF SWALLOWED:, Rinse mouth., Do NOT induce vomiting."
+                    },
+                    {
+                        "Code": "P303+P361+P353",
+                        "Phrase": "IF ON SKIN (or hair):, Take off immediately all contaminated clothing., Rinse skin with water [or shower]."
+                    },
+                    {
+                        "Code": "P321",
+                        "Phrase": "Specific treatment (see ... \u00b0n this label)."
+                    },
+                    {
+                        "Code": "P363",
+                        "Phrase": "Wash contaminated clothing before reuse."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P403+P235",
+                        "Phrase": "Store in a well-ventilated place., Keep cool."
+                    },
+                    {
+                        "Code": "P411",
+                        "Phrase": "Store at temperatures not exceeding \u2026 \u00b0C/\u2026 \u00b0F."
+                    },
+                    {
+                        "Code": "P420",
+                        "Phrase": "Store separately."
+                    },
+                    {
+                        "Code": "P405",
+                        "Phrase": "Store locked up."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "O"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S01",
+                        "Phrase": "    Keep locked up.&nbsp;  "
+                    },
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S04",
+                        "Phrase": "    Keep away from living quarters.&nbsp;  "
+                    },
+                    {
+                        "Code": "S13",
+                        "Phrase": "    Keep away from food, drink and animal feeding stuffs.&nbsp;  "
+                    },
+                    {
+                        "Code": "S17",
+                        "Phrase": "    Keep away from combustible material.&nbsp;  "
+                    },
+                    {
+                        "Code": "S20",
+                        "Phrase": "    When using do not eat or drink.&nbsp;  "
+                    },
+                    {
+                        "Code": "S21",
+                        "Phrase": "    When using do not smoke.&nbsp;  "
+                    },
+                    {
+                        "Code": "S23",
+                        "Phrase": "    Do not breathe gas/fumes/vapour/spray.&nbsp;  "
+                    },
+                    {
+                        "Code": "S26",
+                        "Phrase": "    In case of contact with eyes, rinse with plenty of water and contact Doctor or Poisons Information Centre.&nbsp;  "
+                    },
+                    {
+                        "Code": "S28",
+                        "Phrase": "&lt;p&gt;After contact with skin, wash immediately with plenty of water.&lt;/p&gt;"
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S36",
+                        "Phrase": "    Wear suitable protective clothing.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S39",
+                        "Phrase": "    Wear eye/face protection.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S45",
+                        "Phrase": "    In case of accident or if you feel unwell IMMEDIATELY contact Doctor or Poisons Information Centre (show label if possible).&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S51",
+                        "Phrase": "    Use only in well ventilated areas.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S64",
+                        "Phrase": "If swallowed, rinse mouth with water (only if the person is conscious).\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water (15 mins). Medical attention."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Flood body with water. Remove contaminated clothing. Wash with water"
+                    },
+                    {
+                        "ImageName": "GET_TO_HOSPITAL.gif",
+                        "Translation": "Give water (if conscious).\u00a0URGENT MEDICAL ATTENTION."
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R20.gif",
+                        "Translation": "Harmful if inhaled."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R22.gif",
+                        "Translation": "Harmful if swallowed."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R34.gif",
+                        "Translation": "Causes severe skin burns and eye damage."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R35.gif",
+                        "Translation": "Causes severe skin burns and eye damage."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R37.gif",
+                        "Translation": "May cause respiratory irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R41.gif",
+                        "Translation": "Causes serious eye damage."
+                    }
+                ],
+                "RiskPhysicalImages": [
+                    {
+                        "ImageName": "RiskCodes/R9.gif",
+                        "Translation": "May cause fire or explosion; strong oxidiser."
+                    }
+                ],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "evacuate.gif",
+                        "Translation": "Consider evacuation."
+                    },
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water spray/ fog.\u00a0</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSLGV.gif",
+                        "Translation": "Long Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSBTS.gif",
+                        "Translation": "Boots"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSHR.gif",
+                        "Translation": "Half-Respirator"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSFFS.gif",
+                        "Translation": "Full Face Shield"
+                    }
+                ],
+                "ChemicalName": "HYDROGEN",
+                "Nfpa": {
+                    "Toxicity": 3,
+                    "Flammability": 0,
+                    "Reactivity": 1,
+                    "Special": "OX"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_3_0_1_OX.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "3",
+                    "Translation": "High",
+                    "NumericalRating": 3,
+                    "IsSGroup": true
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 1,
+                    "Explosive": 1,
+                    "Toxic": 1,
+                    "Oxidizer": 1,
+                    "Chronic": 1,
+                    "Harmful": 1,
+                    "Corrosive": 1
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Liquid.gif",
+                        "Translation": "Liquid."
+                    },
+                    {
+                        "ImageName": "mixes_with_water.gif",
+                        "Translation": "Mixes with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with unperforated side shields may be used where continuous eye protection is desirable, as in laboratories; spectacles are not sufficient where complete eye protection is needed such as when handling bulk-quantities, where there is a danger of splashing, or if the material may be under pressure.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.whenever there is a danger of the material coming in contact with the eyes; goggles must be properly fitted.</span></li>\n<li><span style=\"color:#000000\">Full face shield (20 cm, 8 in minimum) may be required for supplementary but never for primary protection of eyes; these afford face protection.</span></li>\n<li><span style=\"color:#000000\">Alternatively a gas mask may replace splash goggles and face shields.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>Elbow length PVC gloves\u00a0</li> </ul> <ul> <li>When handling corrosive liquids, wear trousers or overalls outside of boots, to avoid spills entering boots.\u00a0</li> </ul> <p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <ul> <li>Where hydrogen peroxide exposure may occur do NOT wear PVA gloves.\u00a0</li> <li>DO NOT use leather or cotton gloves, leather shoes as spill may cause fire.\u00a0</li> <li>Care: Effects may be delayed.\u00a0</li> <li>Hand cream offers no protection for hydrogen peroxide and should not be used.</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Overalls.\u00a0</li> <li>PVC Apron.\u00a0</li> <li>PVC protective suit may be required if exposure severe.\u00a0</li> <li>Eyewash unit.\u00a0</li> <li>Ensure there is ready access to a safety shower.\u00a0</li> </ul> <ul>\n<li>Some plastic personal protective equipment (PPE) (e.g. gloves, aprons, overshoes) are not recommended as they may produce static electricity.</li>\n<li>For large scale or continuous use wear tight-weave non-static clothing (no metallic fasteners, cuffs or pockets).</li>\n<li>Non sparking safety or conductive footwear should be considered. Conductive footwear describes a boot or shoe with a sole made from a conductive compound chemically bound to the bottom components, for permanent control to electrically ground the foot an shall dissipate static electricity from the body to reduce the possibility of ignition of volatile compounds. Electrical resistance must range between 0 to 500,000 ohms. Conductive shoes should be stored in lockers close to the room in which they are worn. Personnel who have been issued conductive footwear should not wear them from their place of work to their homes and return.</li>\n</ul>"
+                ],
+                "PpeRespirator": [],
+                "ToxicityCategories": {
+                    "AcuteToxicity": true,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": true,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": true,
+                    "StotSingleExposure": true,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": [
+                    {
+                        "IndexType": "NAT+NEOPR+NITRILE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NATURAL RUBBER",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NATURAL+NEOPRENE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NEOPRENE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NEOPRENE/NATURAL",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NITRILE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "PVC",
+                        "Rat": "A"
+                    }
+                ]
+            },
+            "Proportion": "1-8",
+            "Name": "hydrogen peroxide",
+            "OrderNumber": 1,
+            "NameForShowing": "hydrogen peroxide",
+            "ProportionForShowing": "1-8",
+            "CwNumber": "22615",
+            "NumericProportion": {
+                "MinValue": 1.0,
+                "MaxValue": 8.0,
+                "RawMinValue": 1.0,
+                "RawMaxValue": 8.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": ">=90",
+            "Name": "other non-hazardous ingredients",
+            "OrderNumber": 2,
+            "SanitizedName": "other non-hazardous ingredients",
+            "NameForShowing": "other non-hazardous ingredients",
+            "ProportionForShowing": ">=90",
+            "NumericProportion": {
+                "MinValue": 90.0,
+                "MaxValue": 90.0,
+                "RawMinValue": 90.0,
+                "RawMaxValue": 90.0,
+                "MinValueSign": ">=",
+                "MaxValueSign": ">=",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0420",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0420",
+    "Version": "637648275463554076",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0420",
+    "Key": "01-0420_AUS_EN",
+    "FullKey": "datasets/gold/01-0420_AUS_EN",
+    "AiteLogKey": "01-0420",
+    "AiteS3Key": "xml/01-0420.json",
+    "Name": "Cosmetic Wella Soft Colour - All References",
+    "PoisonSchedule": "S5",
+    "GhsEntities": [
+        {
+            "Category": "Serious Eye Damage/Eye Irritation Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H318",
+            "Phrase": "Causes serious eye damage."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 1A",
+            "CategoryCode": "Cat 1A",
+            "Code": "H314",
+            "Phrase": "Causes severe skin burns and eye damage."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

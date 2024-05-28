@@ -1,0 +1,1343 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "1050",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a1050",
+                "Version": "637643757893645947",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "1050",
+                "Key": "1050_AUS_EN",
+                "FullKey": "datasets/gold/1050_AUS_EN",
+                "AiteLogKey": "1050",
+                "AiteS3Key": "xml/1050.json",
+                "ChemKey": {
+                    "cw": "CK-1050",
+                    "un": [
+                        "CK-UN1050"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC2.3"
+                    ],
+                    "dgs": [
+                        "CK-DGC8"
+                    ],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7647-01-0.",
+                        "CK-7647-01-0",
+                        "CK-7698-05-7"
+                    ],
+                    "groupCode": [
+                        "CK-G86.2",
+                        "CK-G15992",
+                        "CK-G762",
+                        "CK-G86",
+                        "CK-G12003",
+                        "CK-G2977",
+                        "CK-G9157",
+                        "CK-G86.1",
+                        "CK-G12002",
+                        "CK-G86.3",
+                        "CK-G15782",
+                        "CK-G16141",
+                        "CK-G16101",
+                        "CK-G16156",
+                        "CK-G16340"
+                    ],
+                    "gc": [
+                        "CK-GC565360"
+                    ]
+                },
+                "Name": "hydrogen chloride",
+                "CasNumber": "7647-01-0.",
+                "Dgc": "2.3",
+                "Dgs": "8",
+                "EcNumber": "231-595-7",
+                "PoisonSchedule": "S6",
+                "Un": "1050",
+                "GhsEntities": [
+                    {
+                        "Code": "AUH044",
+                        "Phrase": "Risk of explosion if heated under confinement."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Inhalation) Category 3",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H331",
+                        "Phrase": "Toxic if inhaled."
+                    },
+                    {
+                        "Category": "Serious Eye Damage/Eye Irritation Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H318",
+                        "Phrase": "Causes serious eye damage."
+                    },
+                    {
+                        "Category": "Skin Corrosion/Irritation Category 1A",
+                        "CategoryCode": "Cat 1A",
+                        "Code": "H314",
+                        "Phrase": "Causes severe skin burns and eye damage."
+                    }
+                ],
+                "PhysicalState": "Compressed Gas",
+                "RawWaterSolubility": "Miscible",
+                "WaterSolubility": 1,
+                "BoilingPoint": -85.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniResp": "Type B-P Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 & 149:2001, ANSI Z88 or national equivalent)",
+                "MiniStorTrans": "<p>Restrictions on Storage apply. Refer to Full Report.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Not recommended for interior use on large surface areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep locked up.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep in a cool place.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from living quarters.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from food, drink and animal feeding stuffs.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from heat.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Vapours/gas heavier than air.</p> <p>Toxic smoke/fumes in a fire.</p> <p>Attacks metals to liberate hydrogen.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Risk of explosion if heated under confinement.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Not recommended for interior use on large surface areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Gas.</p> <p>Mixes with water.</p> <p>Corrosive.</p> <p>Acid.</p>",
+                "MiniFlammability": "<p>Combustible.</p>",
+                "MiniFirstAidSkin": "Flood body with water. Remove contaminated clothing. Wash with water",
+                "MiniAdvDoc": "<p>Airway problems - 100% O2.</p> <p>Treat burns as thermal.</p> <p>Retract eyelids - irrigate 30 mins.</p> <p>Retract eyelids/ Irrigate 30 mins.</p>",
+                "MiniFireFighting": "<p>Keep containers cool.</p> <p>Water spray/ fog.\u00a0</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Consider evacuation.</p> <p>Dilute with water.</p> <p>Neutralize with soda ash/ lime.\u00a0</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Not recommended for interior use on large surface areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Safety Glasses.</p> <p>Consider full face-shield.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 3,
+                        "ImageName": "Hazard Alert Code/CW_HAC_3.png"
+                    },
+                    "Flammability": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Reactivity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "BodyContact": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "2RE",
+                    "Value": "2RE"
+                },
+                "InternationalHazardGraphics": [
+                    "TOXIC.gif"
+                ],
+                "RiskCodes": [],
+                "SpecificGravity": "1.187 at -85 C",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "017-002-00-2",
+                    "017-002-01-X"
+                ],
+                "Suppliers": [],
+                "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS",
+                "Use": "<p>The use of a quantity of material in an unventilated or confined space may result in increased exposure and an irritating atmosphere developing. Before starting consider control of exposure by mechanical ventilation.</p>|Used to produce pharmaceutical hydrochlorides; vinyl chloride from acetylene; alkyl chlorides from olefins and arsenious chloride from arsenious oxide; electronic grade for etching semiconductor crystals.|Used in the chlorination of rubber; in organic reactions involving|isomerization, polymerization and alkylation; as a catalyst and condensing agent; for making chlorine where economical; in the separation of cotton from wool and cotton de-linting; as flux in the babbitt type of metal alloy; etching semi-conductor crystals.",
+                "ChemicalFormula": [
+                    "HCl",
+                    "Cl-D"
+                ],
+                "FirstAidIngestion": "<ul> <li>Not considered a normal route of entry.</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>For acute or short term repeated exposures to strong acids:</p> <ul> <li>Airway problems may arise from laryngeal edema and inhalation exposure. \u00a0Treat with 100% oxygen initially.\u00a0</li> <li>Respiratory distress may require cricothyroidotomy if endotracheal intubation is contraindicated by excessive swelling\u00a0</li> <li>Intravenous lines should be established immediately in all cases where there is evidence of circulatory compromise.\u00a0</li> <li>Strong acids produce a coagulation necrosis characterised by formation of a coagulum (eschar) as a result of the dessicating action of the acid on proteins in specific tissues.\u00a0</li> </ul> <p>\u00a0INGESTION:</p> <ul> <li>Immediate dilution (milk or water) within 30 minutes post ingestion is recommended.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0attempt to neutralise the acid since exothermic reaction may extend the corrosive injury.</font></li> <li>\u00a0 Be careful to avoid further vomit since re-exposure of the mucosa to the acid is harmful. \u00a0Limit fluids to one or two glasses in an adult.\u00a0</li> <li>Charcoal has no place in acid management.\u00a0</li> <li>Some authors suggest the use of lavage within 1 hour of ingestion.\u00a0</li> </ul> <p>SKIN:</p> <ul> <li>Skin lesions require copious saline irrigation. Treat chemical burns as thermal burns with non-adherent gauze and wrapping.\u00a0</li> <li>Deep second-degree burns may benefit from topical silver sulfadiazine.\u00a0</li> </ul> <p>EYE:</p> <ul> <li>Eye injuries require retraction of the eyelids to ensure thorough irrigation of the conjuctival cul-de-sacs. \u00a0Irrigation should last at least 20-30 minutes. \u00a0<font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0use neutralising agents or any other additives.</font>\u00a0 Several litres of saline are required.\u00a0</li> <li>Cycloplegic drops, (1% cyclopentolate for short-term use or 5% homatropine for longer term use) antibiotic drops, vasoconstrictive agents or artificial tears may be indicated dependent on the severity of the injury.\u00a0</li> <li>Steroid eye drops should only be administered with the approval of a consulting ophthalmologist).\u00a0</li> </ul> <p><br /></p> <p>[Ellenhorn and Barceloux: Medical Toxicology]</p> <p>Depending on the degree of exposure, periodic medical examination is indicated. The symptoms of lung oedema often do not manifest until a few hours have passed and they are aggravated by physical effort. Rest and medical observation is therefore essential. Immediate administration of an appropriate spray, by a doctor or a person authorised by him/her should be considered.</p> <p>(ICSC24419/24421</p>",
+                "FirstAidInhaled": "<ul> <li>Inhalation of vapours or aerosols (mists, fumes) may cause lung oedema.\u00a0</li> <li>Corrosive substances may cause lung damage (e.g. lung oedema, fluid in the lungs).\u00a0</li> <li>As this reaction may be delayed up to 24 hours after exposure, affected individuals need complete rest (preferably in semi-recumbent posture) and must be kept under medical observation even if no symptoms are (yet) manifested.\u00a0</li> <li>Before any such manifestation, the administration of a spray containing a dexamethasone derivative or beclomethasone derivative may be considered.\u00a0</li> </ul> <p><font color=\"#ff0000\"><b>This must definitely be left to a doctor or person authorised by him/her.</b></font></p> <p>(ICSC13719)</p> <ul> <li>Following exposure to gas, remove the patient from the gas source or contaminated area.\u00a0</li> <li>NOTE: Personal Protective Equipment (PPE), including positive pressure self-contained breathing apparatus may be required to assure the safety of the rescuer.\u00a0</li> <li>Prostheses such as false teeth, which may block the airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>If the patient is not breathing spontaneously, administer rescue breathing.\u00a0</li> <li>If the patient does not have a pulse, administer CPR.\u00a0</li> <li>If medical oxygen and appropriately trained personnel are available, administer 100% oxygen.\u00a0</li> <li>Summon an emergency ambulance. If an ambulance is not available, contact a physician, hospital, or Poison Control Centre for further instruction.\u00a0</li> <li>Keep the patient warm, comfortable and at rest while awaiting medical care.\u00a0</li> <li><font color=\"#ff0000\"><b>MONITOR THE BREATHING AND PULSE, CONTINUOUSLY.</b></font></li> <li>\u00a0 Administer rescue breathing (preferably with a demand-valve resuscitator, bag-valve mask-device, or pocket mask as trained) or CPR if necessary.\u00a0</li> </ul>",
+                "FirstAidEye": "<ul> <li>If product comes in contact with eyes remove the patient from gas source or contaminated area.\u00a0</li> <li>Take the patient to the nearest eye wash, shower or other source of clean water.\u00a0</li> <li>Open the eyelid(s) wide to allow the material to evaporate.\u00a0</li> <li>Gently rinse the affected eye(s) with clean, cool water for at least 15 minutes. \u00a0Have the patient lie or sit down and tilt the head back. \u00a0Hold the eyelid(s) open and pour water slowly over the eyeball(s) at the inner corners, letting the water run out of the outer corners.\u00a0</li> <li>The patient may be in great pain and wish to keep the eyes closed. \u00a0It is important that the material is rinsed from the eyes to prevent further damage.\u00a0</li> <li>Ensure that the patient looks up, and side to side as the eye is rinsed in order to better reach all parts of the eye(s)\u00a0</li> <li>Transport to hospital or doctor.\u00a0</li> <li>Even when no pain persists and vision is good, a doctor should examine the eye as delayed damage may occur.\u00a0</li> <li>If the patient cannot tolerate light, protect the eyes with a clean, loosely tied bandage.\u00a0</li> <li>Ensure verbal communication and physical contact with the patient.\u00a0</li> </ul> <p><b>DO NOT</b>\u00a0allow the patient to rub the eyes</p> <p><b>DO NOT\u00a0</b>allow the patient to tightly shut the eyes</p> <p><b>DO NOT</b>\u00a0introduce oil or ointment into the eye(s) without medical advice</p> <p><b>DO NOT</b>\u00a0use hot or tepid water.</p>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Immediately flush body and clothes with large amounts of water, using safety shower if available.\u00a0</li> <li>Quickly remove all contaminated clothing, including footwear.\u00a0</li> <li>Wash skin and hair with running water. Continue flushing with water until advised to stop by the Poisons Information Centre.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "1-215"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "ProductNameSource": "*",
+                "FireIncompatibility": "<p>None known.</p>",
+                "FireExtinguishingMedia": "<ul> <li>Water spray or fog.\u00a0</li> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Combustible.\u00a0</li> <li>Slight fire hazard when exposed to heat or flame.\u00a0</li> <li>Acids may react with metals to produce hydrogen, a highly flammable and explosive gas.\u00a0</li> <li>Heating may cause expansion or decomposition leading to violent rupture of containers.\u00a0</li> <li>May emit acrid smoke and corrosive fumes.\u00a0</li> </ul> <ul> <li>Containers may explode when heated - Ruptured cylinders may rocket\u00a0</li> <li>May burn but does not ignite easily.\u00a0</li> <li>Fire exposed cylinders may vent contents through pressure relief devices thereby increasing vapour concentration.\u00a0</li> <li>Fire may produce irritating, poisonous or corrosive gases.\u00a0</li> <li>Runoff may create fire or explosion hazard.\u00a0</li> <li>May decompose explosively when heated or involved in fire.\u00a0</li> <li>Contact with gas may cause burns, severe injury and/ or frostbite.\u00a0</li> <li><font color=\"#ff0000\">POISONOUS: MAY BE FATAL IF INHALED, SWALLOWED OR ABSORBED THROUGH SKIN</font></li> </ul> <p>Decomposition may produce toxic fumes of:</p> <p>hydrogen chloride</p>",
+                "FireFighting": "<p>--------------------------------------------------------------</p> <p>GENERAL</p> <p>--------------------------------------------------------------</p> <ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Fight fire from a safe distance, with adequate cover.\u00a0</li> <li>If safe, switch off electrical equipment until vapour fire hazard removed.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">approach cylinders suspected to be hot.\u00a0</font></li> <li>Cool fire exposed cylinders with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove cylinders from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul> <p>--------------------------------------------------------------</p> <p>FIRE FIGHTING PROCEDURES:</p> <p>--------------------------------------------------------------</p> <ul> <li>Excessive pressures may develop in a gas cylinder exposed in a fire; this may result in explosion.\u00a0</li> <li>Cylinders with pressure relief devices may release their contents as a result of fire and the released gas may constitute a further source of hazard for the fire-fighter.\u00a0</li> </ul> <p><br /></p> <p>Cylinders without pressure-relief valves have no provision for controlled release and are therefore more likely to explode if exposed to fire.</p> <p><br /></p> <p>\u00a0--------------------------------------------------------------</p> <p>\u00a0FIRE FIGHTING REQUIREMENTS:</p> <p>--------------------------------------------------------------</p> <ul> <li>Positive pressure, self-contained breathing apparatus is required for fire-fighting of hazardous materials.\u00a0</li> <li>Full structural fire-fighting (bunker) gear is the minimum acceptable attire.\u00a0</li> <li>The need for proximity, entry and special protective clothing should be determined for each incident, by a competent fire-fighting safety professional.\u00a0</li> </ul>",
+                "MajorSpills": "<ul> <li>Clear area of all unprotected personnel and move upwind.\u00a0</li> <li>Alert Emergency Authority and advise them of the location and nature of hazard.\u00a0</li> <li>Wear full body clothing with breathing apparatus.\u00a0</li> <li>Prevent by any means available, spillage from entering drains and water-courses.\u00a0</li> <li>Consider evacuation.\u00a0</li> <li>Increase ventilation.\u00a0</li> <li>No smoking or naked lights within area.\u00a0</li> <li>Stop leak only if safe to so do.\u00a0</li> <li>Water spray or fog may be used to disperse vapour.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0enter confined space where gas may have collected.\u00a0</font></li> <li>Keep area clear until gas has dispersed.\u00a0</li> </ul> <ul> <li>Remove leaking cylinders to a safe place.\u00a0</li> <li>Fit vent pipes. Release pressure under safe, controlled conditions\u00a0</li> <li>Burn issuing gas at vent pipes.\u00a0</li> </ul> <ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0exert excessive pressure on valve;\u00a0</font><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0attempt to operate damaged valve.</font></li> </ul>",
+                "MinorSpills": "<ul> <li>Drains for storage or use areas should have retention basins for pH adjustments and dilution of spills before discharge or disposal of material.\u00a0</li> <li>Check regularly for spills and leaks.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Avoid breathing vapour and any contact with liquid or gas. Protective equipment including respirator should be used.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces where gas may have accumulated.\u00a0</span></li>\n<li><span style=\"color:#000000\">Increase ventilation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Clear area of personnel.\u00a0</span></li>\n<li><span style=\"color:#000000\">Stop leak only if safe to so do.\u00a0</span></li>\n<li><span style=\"color:#000000\">Remove leaking cylinders to safe place. Release pressure under safe controlled conditions by opening valve.\u00a0</span></li>\n<li><span style=\"color:#000000\">Do not exert excessive pressure on the valve; do not attempt to operate a damaged valve\u00a0</span></li>\n<li><span style=\"color:#000000\">Orientate cylinder so that the leak is gas, not liquid, to minimise rate of leakage\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep area clear of personnel until gas has dispersed.\u00a0</span></li>\n</ul>",
+                "MolecularWeight": "36.461",
+                "Appearance": "Colourless, corrosive gas. Pungent suffocating odour. Forms white fumes in moist air and is highly corrosive.|Gas in more dense than air and may collect in depressions. Highly soluble in water.  Soluble in methanol, ethanol, ether and benzene.",
+                "VapourPressure": "7.68 at 120 C",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "100",
+                "PhAs1PercentSolution": "< 1",
+                "EvaporationRate": "Not Available",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "-114",
+                "Odour": "Not Available",
+                "RelativeVapourDensity": "1.268 at 20 C",
+                "Lel": "Not applicable",
+                "BoilingRange": "-85",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not applicable",
+                "PhSolutionPercent": "< 1",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "[2H]HYDROGEN CHLORIDE",
+                    "HYDROGEN CHLORIDE",
+                    "IRON TRICHLORIDE"
+                ],
+                "Adr": {
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "Adn": {
+                    "ClassificationCode": "2TC",
+                    "LimitedQuantity": "0",
+                    "EquipmentReg": "PP, EP, TOX, A",
+                    "FirconNumber": "2",
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "Adg": {
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "Dot": {
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "ShippingName": "Hydrogen chloride, anhydrous"
+                },
+                "Iata": {
+                    "ErgCode": "2CP",
+                    "SpecialProvisions": "A2",
+                    "CargoPi": "Forbidden",
+                    "CargoMaxQuantity": "Forbidden",
+                    "PassCargoPi": "Forbidden",
+                    "PassCargoMaxQuantity": "Forbidden",
+                    "PcLqTyPi": "Forbidden",
+                    "PcLqTyMaxQuantity": "Forbidden",
+                    "IngredientDgcs": [],
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "Hydrogen chloride, anhydrous"
+                },
+                "Imdg": {
+                    "Ems": "F-C , S-U",
+                    "Lq": "0",
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "UnTransportData": {
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "Tdg": {
+                    "Dgc": "2.3",
+                    "Dgs": "8",
+                    "Subrisk": "8, Not Applicable",
+                    "Un": "1050",
+                    "ShippingName": "HYDROGEN CHLORIDE, ANHYDROUS"
+                },
+                "HandlingProcedure": "<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Consider use in closed pressurised systems, fitted with\r\ntemperature, pressure and safety relief valves which are vented for safe\r\ndispersal. Use only properly specified equipment which is suitable for this\r\nproduct, its supply pressure and temperature \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>The tubing network design connecting gas cylinders to the delivery\r\nsystem should include appropriate pressure indicators and vacuum or suction\r\nlines. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Fully-welded types of pressure gauges, where the bourdon tube\r\nsensing element is welded to the gauge body, are recommended. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Before connecting gas cylinders, ensure manifold is mechanically\r\nsecure and does not containing another gas.\u00a0 Before disconnecting gas cylinder,\r\nisolate supply line segment proximal to cylinder, remove trapped gas in supply\r\nline with aid of vacuum pump \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>When connecting or replacing cylinders take care to avoid airborne\r\nparticulates violently ejected when system pressurises. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Consider the use of doubly-contained piping; diaphragm or bellows\r\nsealed, soft seat valves; backflow prevention devices; flash arrestors; and\r\nflow monitoring or limiting devices. Gas cabinets, with appropriate exhaust\r\ntreatment, are recommended, as is automatic monitoring of the secondary\r\nenclosures and work areas for release. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Use a pressure reducing regulator when connecting cylinder to\r\nlower pressure (&lt;100 psig) piping or systems \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Use a check valve or trap in the discharge line to prevent\r\nhazardous back-flow into the cylinder \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Check regularly for spills or leaks.\u00a0 Keep valves tightly closed\r\nbut do not apply extra leverage to hand wheels or cylinder keys. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Open valve slowly. If valve is resistant to opening then contact\r\nyour supervisor \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Valve protection caps must remain in place must remain in place\r\nunless container is secured with valve outlet piped to use point. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Never insert a pointed object (e.g hooks) into cylinder cap\r\nopenings as a means to open cap or move cylinder. Such action can inadvertently\r\nturn the valve and gas a gas leak. Use an adjustable strap instead of wrench to\r\nfree an over-tight or rusted cap. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>A bubble of gas may buildup behind the outlet dust cap during\r\ntransportation, after prolonged storage, due to defective cylinder valve or if\r\na dust cap is inserted without adequate evacuation of gas from the line. When\r\nloosening dust cap, preferably stand cylinder in a suitable enclosure and take\r\ncap off slowly. Never face the dust cap directly when removing it; point cap\r\naway from any personnel or any object that may pose a hazard. under negative\r\npressure (relative to atmospheric gas) \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Suck back of water into the container must be prevented. Do not\r\nallow backfeed into the container. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Do NOT drag, slide or roll cylinders - use a suitable hand truck\r\nfor cylinder movement \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:red'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Test for leakage with brush and detergent -</span><b><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";color:red'>\r\nNEVER</span></b><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:red'> use a naked flame.\u00a0 \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:red'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:red'>Do NOT heat cylinder by any means to increase the discharge rate of\r\nproduct from cylinder. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Leaking gland nuts may be tightened if necessary. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>If a cylinder valve will not close completely, remove the cylinder\r\nto a well ventilated location (e.g. outside) and, when empty, tag as FAULTY and\r\nreturn to supplier. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Obtain a work permit before attempting any repairs.\u00a0 \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:red'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:red'>DO NOT attempt repair work on lines, vessels under pressure. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Atmospheres must be tested and O.K. before work resumes after\r\nleakage. \u00a0\u00a0\u00a0\u00a0\u00a0</span></p> <ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0transfer gas from one cylinder to another.</font></li> </ul>",
+                "StorageRequirements": "<ul> <li>Cylinders should be stored in a purpose-built compound with good ventilation, preferably in the open.\u00a0</li> <li>Such compounds should be sited and built in accordance with statutory requirements.\u00a0</li> <li>The storage compound should be kept clear and access restricted to authorised personnel only.\u00a0</li> <li>Cylinders stored in the open should be protected against rust and extremes of weather.\u00a0</li> <li>Cylinders in storage should be properly secured to prevent toppling or rolling.\u00a0</li> <li>Cylinder valves should be closed when not in use.\u00a0</li> <li>Where cylinders are fitted with valve protection this should be in place and properly secured.\u00a0</li> <li>Gas cylinders should be segregated according to the requirements of the Dangerous Goods Act.\u00a0</li> <li>Preferably store full and empty cylinders separately.\u00a0</li> <li>Check storage areas for hazardous concentrations of gases prior to entry.\u00a0</li> <li>Full cylinders should be arranged so that the oldest stock is used first.\u00a0</li> <li>Cylinders in storage should be checked periodically for general condition and leakage.\u00a0</li> <li>Protect cylinders against physical damage. Move and store cylinders correctly as instructed for their manual handling.\u00a0</li> </ul> <p><b>NOTE:</b>\u00a0 A 'G' size cylinder is usually too heavy for an inexperienced operator to raise or lower.</p>",
+                "SuitableContainer": "<ul> <li>Cylinder:\u00a0</li> <li>Ensure the use of equipment rated for cylinder pressure.\u00a0</li> <li>Ensure the use of compatible materials of construction.\u00a0</li> <li>Valve protection cap to be in place until cylinder is secured, connected.\u00a0</li> <li>Cylinder must be properly secured either in use or in storage.\u00a0</li> <li>Cylinder valve must be closed when not in use or when empty.\u00a0</li> <li>Segregate full from empty cylinders.\u00a0</li> </ul> <p><br /></p> <p><font color=\"#ff0000\"><b>WARNING:</b></font>\u00a0Suckback into cylinder may result in rupture. Use back-flow preventive device in piping.</p>",
+                "StorageIncompatability": "<ul> <li>Inorganic acids are generally soluble in water with the release of hydrogen ions. The resulting solutions have pH's of less than 7.0.\u00a0</li> <li>Inorganic acids neutralise chemical bases (for example: amines and inorganic hydroxides) to form salts - neutralisation can generate dangerously large amounts of heat in small spaces.\u00a0</li> <li>The dissolution of inorganic acids in water or the dilution of their concentrated solutions with additional water may generate significant heat.\u00a0</li> <li>The addition of water to inorganic acids often generates sufficient heat in the small region of mixing to cause some of the water to boil explosively. \u00a0The resulting \"bumping\" can spatter the acid.\u00a0</li> <li>Inorganic acids react with active metals, including such structural metals as aluminum and iron, to release hydrogen, a flammable gas.\u00a0</li> <li>Inorganic acids can initiate the polymerisation of certain classes of organic compounds.\u00a0</li> <li>Inorganic acids react with cyanide compounds to release gaseous hydrogen cyanide.\u00a0</li> <li>Inorganic acids generate flammable and/or toxic gases in contact with dithiocarbamates, isocyanates, mercaptans, nitrides, nitriles, sulfides, and strong reducing agents. Additional gas-generating reactions occur with sulfites, nitrites, thiosulfates (to give H2S and SO3), dithionites (SO2), and even carbonates.\u00a0</li> <li>Acids often catalyse (increase the rate of) chemical reactions.\u00a0</li> </ul> <p>Hydrogen chloride:</p> <ul> <li>reacts strongly with strong oxidisers (releasing chlorine gas), acetic anhydride, caesium cyanotridecahydrodecaborate(2-), ethylidene difluoride, hexalithium disilicide, metal acetylide, sodium, silicon dioxide, tetraselenium tetranitride, and many organic materials\u00a0</li> <li>is incompatible with alkaline materials, acetic anhydride, acetylides, aliphatic amines, alkanolamines, alkylene oxides, aluminium, aluminium-titanium alloys, aromatic amines, amines, amides, 2-aminoethanol, ammonia, ammonium hydroxide, borides, calcium phosphide, carbides, carbonates, cyanides, chlorosulfonic acid, ethylenediamine, ethyleneimine, epichlorohydrin, formaldehyde, isocyanates, \u00a0metals, metal oxides, metal hydroxides, metal acetylides, metal carbides, oleum, organic anhydrides, potassium permanganate, perchloric acid, phosphides, 3-propiolactone, silicides, sulfides, sulfites, sulfuric acid, uranium phosphide, vinyl acetate, vinylidene fluoride\u00a0</li> <li>attacks most metals forming flammable hydrogen gas, and some plastics, rubbers and coatings\u00a0</li> <li>reacts with zinc, brass, galvanised iron, aluminium, copper and copper alloys</li> </ul> <p><br /></p> <ul> <li>Contact with moisture or water may generate heat causing ignition\u00a0</li> </ul> <ul> <li>Reacts vigorously with alkalis\u00a0</li> </ul> <ul> <li>Reacts with mild steel, galvanised steel / zinc producing hydrogen gas which may form an explosive mixture with air.\u00a0</li> </ul> <ul> <li>Compressed gases may contain a large amount of kinetic energy over and above that potentially available from the energy of reaction produced by the gas in chemical reaction with other substances\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC23.gif",
+                    "DGC/DGC8.gif"
+                ],
+                "TransportIncompatibilities": "<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 2.3 - Toxic gases shall not be loaded in the same vehicle or\r\npacked in the same freight container with:\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 1 - Explosives;\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 3 - Flammable liquids;\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 4.2 - Spontaneously combustible substances;\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 4.3 - Dangerous when wet substances;\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 5.1 - Oxidising agents;\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Class 5.2 - Organic peroxides;\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Food and food packaging in any quantity.\u00a0\u00a0\u00a0 </span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Avoid transport on vehicles where the load space is not separated\r\nfrom the driver's compartment. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Ensure vehicle driver is aware of the potential hazards of the\r\nload and knows what to do in the event of an accident or an emergency. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Before transporting product containers ensure that they are firmly\r\nsecured. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Ensure that the cylinder valve is closed and not leaking. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Ensure that the valve outlet cap nut or plug (where provided) is\r\ncorrectly fitted. Ensure that the valve protection device (where provided) is\r\ncorrectly fitted. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Ensure adequate ventilation. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Ensure compliance with applicable regulations.\u00a0\u00a0\u00a0 </span></p>",
+                "TransportPrecautions": "<p>Transportation precautions:<br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Containers may explode when heated. <br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1. 2.2, 2.2 (with subrisk 5.1), 3, 4.1, 4.2, 4.3, 5.1, 5.2, 8,<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<p>Although inorganic chloride ions are not normally considered toxic they can exist in effluents at acutely toxic levels (chloride &gt;3000 mg/l). \u00a0The resulting salinity can exceed the tolerances of most freshwater organisms.</p> <p>Inorganic chlorine eventually finds its way into the aqueous compartment and as such is bioavailable. Incidental exposure to inorganic chloride may occur in occupational settings where chemicals management policies are improperly applied. The toxicity of chloride salts depends on the counter-ion (cation) present; that of chloride itself is unknown. Chloride toxicity has not been observed in humans except in the special case of impaired sodium chloride metabolism, e.g. in congestive heart failure. Healthy individuals can tolerate the intake of large quantities of chloride provided that there is a concomitant intake of fresh water.</p> <p>Although excessive intake of drinking-water containing sodium chloride at concentrations above 2.5 g/litre has been reported to produce hypertension, this effect is believed to be related to the sodium ion concentration.</p> <p>Chloride concentrations in excess of about 250 mg/litre can give rise to detectable taste in water, but the threshold depends upon the associated cations. Consumers can, however, become accustomed to concentrations in excess of 250 mg/litre. No health-based guideline value is proposed for chloride in drinking-water.</p> <p>In humans, 88% of chloride is extracellular and contributes to the osmotic activity of body fluids. The electrolyte balance in the body is maintained by adjusting total dietary intake and by excretion via the kidneys and gastrointestinal tract. Chloride is almost completely absorbed in normal individuals, mostly from the proximal half of the small intestine. Normal fluid loss amounts to about 1.5-2 liters/day, together with about 4 g of chloride per day. Most (90 - 95%) is excreted in the urine, with minor amounts in faeces (4-8%) and sweat (2%).</p> <p>Chloride increases the electrical conductivity of water and thus increases its corrosivity. In metal pipes, chloride reacts with metal ions to form soluble salts thus increasing levels of metals in drinking-water. In lead pipes, a protective oxide layer is built up, but chloride enhances galvanic corrosion. It can also increase the rate of pitting corrosion of metal pipes.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "AirPersistence": "LOW",
+                "WaterPersistence": "LOW",
+                "BioaccumulationPotential": "LOW (LogKOW = 0.5392)",
+                "MobilityInSoil": "LOW (KOC = 14.3)",
+                "Disposal": "<ul> <li>Evaporate residue at an approved site.\u00a0</li> <li>Return empty containers to supplier. If containers are marked non-returnable establish means of disposal with manufacturer prior to purchase.\u00a0</li> <li>Ensure damaged or non-returnable cylinders are gas-free before disposal.\u00a0</li> </ul>|Return empty cylinders to supplier.|Treat and neutralise at an effluent treatment plant.",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "9.33h",
+                        "Species": "Fish",
+                        "Value": "0.51mg/L",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": "334.734mg/L",
+                        "Source": "4"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australia Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) - Schedule 6",
+                    "Australia Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) - Schedule 5",
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "Australia Hazardous Chemical Information System (HCIS) - Hazardous Chemicals",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs"
+                ],
+                "Tccl": [
+                    "Toxic chemicals",
+                    "Toxic chemicals"
+                ],
+                "ClInventories": [
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H290; H335; H280; H318; H311; H330; H314; H225; H334; H370; H372; H301; H360",
+                        "SignalWord": "GHS05; GHS04; GHS06; Dgr; GHS07; GHS08; Wng; GHS02; None Specified",
+                        "HazardState": "H290; H335; H280; H318; H311; H330; H314; H225; H334; H370; H372; H301; H360"
+                    },
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H280; H314; H331",
+                        "SignalWord": "GHS05; GHS04; GHS06; Dgr",
+                        "HazardState": "H280; H314; H331"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H280; H314; H331; H335",
+                        "SignalWord": "GHS05; GHS04; GHS06; Dgr; GHS07",
+                        "HazardState": "H280; H314; H331; H335"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": " (Water (Fresh))",
+                    "MarineWater": " (Water - Intermittent release)",
+                    "Aqua": " (Water (Fresh)_mar)",
+                    "FreshWaterSediment": " (Sediment (Fresh Water))",
+                    "MarineWaterSediment": " (Sediment (Fresh Water)_mar)",
+                    "Soil": " (Soil)",
+                    "Stp": " (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {
+                    "LwltInhal": {
+                        "Value": "8 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 8 mg/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "LwstInhal": {
+                        "Value": "15 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 15 mg/m\u00b3 (Local, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    },
+                    "LcltInhal": {
+                        "Value": "8 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 8 mg/m\u00b3 (Local, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "LcstInhal": {
+                        "Value": "15 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 15 mg/m\u00b3 (Local, Acute) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Hydrogen chloride; (Hydrochloric acid)",
+                        "Teel1": "Not Available",
+                        "Teel2": "Not Available",
+                        "Teel3": "Not Available"
+                    },
+                    {
+                        "Name": "Deuterochloric acid; (Deuterium chloride)",
+                        "Teel1": "1.8 ppm",
+                        "Teel2": "22 ppm",
+                        "Teel3": "100 ppm"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>for hydrogen chloride:</p> <p>Odour Threshold Value: 0.262 ppm (detection), 10.06 ppm (recognition)</p> <p>NOTE: Detector tubes for hydrochloric acid, measuring in excess of 1 ppm, are available commercially.</p> <p>Hydrogen chloride is a strong irritant to the eyes, mucous membranes and skin. Chronic exposure produces a corrosive action on the teeth. Reports of respiratory irritation following short-term exposure at 5 ppm have lead to the recommended TLV-C. There is no indication that skin contact with hydrogen chloride elicits systemic poisoning and a skin designation has not been applied.</p> <p>Exposure of humans to hydrogen chloride at 50 to 100 ppm for 1 hour is reported to be barely tolerable; 35 ppm caused irritation of the throat on short exposure and 10 ppm was the maximal concentration for prolonged exposure. It has been stated that hydrogen chloride at concentrations of 5 ppm is immediately irritating.</p> <p>Odour Safety Factor(OSF)</p> <p>OSF=1.3 (HYDROGEN CHLORIDE)</p> <p><br /></p> <p>Exposed individuals are\u00a0<b>NOT</b>\u00a0reasonably expected to be warned, by smell, that the Exposure Standard is being exceeded.</p> <p><br /></p> <p>\u00a0Odour Safety Factor (OSF) is determined to fall into either Class C, D or E.</p> <p><br /></p> <p>\u00a0The Odour Safety Factor (OSF) is defined as:</p> <p><br /></p> <p>\u00a0OSF= Exposure Standard (TWA) ppm/ Odour Threshold Value (OTV) ppm</p> <p><br /></p> <p>\u00a0Classification into classes follows:</p> <p><table> <tr> <td> <p>Class</p>  </td> <td> <p>OSF</p>  </td> <td> <p>Description</p>  </td> </tr> <tr> <td> <p>A</p>  </td> <td> <p>550</p>  </td> <td> <p>Over 90% of exposed individuals are aware by smell that the Exposure Standard (TLV-TWA for example) is being reached, even when distracted by working activities</p>  </td> </tr> <tr> <td> <p>B</p>  </td> <td> <p>26-550</p>  </td> <td> <p>As \"A\" for 50-90% of persons being distracted</p>  </td> </tr> <tr> <td> <p>C</p>  </td> <td> <p>1-26</p>  </td> <td> <p>As \"A\" for less than 50% of persons being distracted</p>  </td> </tr> <tr> <td> <p>D</p>  </td> <td> <p>0.18-1</p>  </td> <td> <p>10-50% of persons aware of being tested perceive by smell that the Exposure Standard is being reached</p>  </td> </tr> <tr> <td> <p>E</p>  </td> <td> <p>&lt;0.18</p>  </td> <td> <p>As \"D\" for less than 10% of persons aware of being tested</p>  </td> </tr> </table> </p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Areas where cylinders are stored require good ventilation and, if enclosed, need discrete/controlled exhaust ventilation.\u00a0</li> <li>Secondary containment and exhaust gas treatment may be required by certain jurisdictions\u00a0</li> <li>Local exhaust ventilation is required in work areas.\u00a0</li> <li>Consideration should be given to the use of doubly-contained piping; diaphragm or bellows-sealed, soft-seat valves; backflow prevention devices; and flow- monitoring or limiting devices.\u00a0</li> <li>Gas cabinets, with appropriate exhaust treatment, are recommended, as is automatic monitoring of the secondary enclosures and workplaces, for potential release.\u00a0</li> <li>Automated alerting systems with automatic shutdown of gas-flow may be appropriate and may in fact be mandatory in certain jurisdictions.\u00a0</li> <li>Respiratory protection in the form of air-supplied or self-contained breathing equipment must be worn if the oxygen concentration in the workplace air is less than 19%.\u00a0</li> <li>Cartridge respirators do NOT give protection and may result in rapid suffocation.\u00a0</li> </ul> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> </table> </p> <p>\u00a0Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2.5 m/s (200-500 f/min.) for extraction of gases discharged 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Inhalation of vapours or aerosols (mists, fumes), generated by the material during the course of normal handling, may produce toxic effects.</p> <p><br /></p> <p>Acidic corrosives produce respiratory tract irritation with coughing, choking and mucous membrane damage. Symptoms of exposure may include dizziness, headache, nausea and weakness. In more severe exposures, pulmonary oedema may be evident either immediately or after a latent period of 5-72 hours. Symptoms of pulmonary oedema include a tightness in the chest, dyspnoea, frothy sputum and cyanosis. Examination may reveal hypotension, a weak and rapid pulse and moist rates. Death, due to anoxia, may occur several hours after onset of the pulmonary oedema.</p> <p>Inhalation of the vapour is hazardous and may even be fatal</p> <p>The use of a quantity of material in an unventilated or confined space may result in increased exposure and an irritating atmosphere developing. Before starting consider control of exposure by mechanical ventilation.</p> <p><br /></p> <p>Common, generalised symptoms associated with toxic gas inhalation include:\u00a0</p> <ul> <li>central nervous system effects such as depression, headache, confusion, dizziness, progressive stupor, coma and seizures;\u00a0</li> <li>respiratory system complications may include acute pulmonary oedema, dyspnoea, stridor, tachypnoea, bronchospasm, wheezing and other reactive airway symptoms, and respiratory arrest;\u00a0</li> <li>cardiovascular effects may include cardiovascular collapse, arrhythmias and cardiac arrest;\u00a0</li> <li>gastrointestinal effects may also be present and may include mucous membrane irritation, nausea and vomiting (sometimes bloody), and abdominal pain.\u00a0</li> </ul> <p>Hydrogen chloride (HCl) vapour or fumes present a hazard from a single acute exposure. Exposures of 1300 to 2000 ppm have been lethal to humans in a few minutes.</p> <p>Inhalation of HCl may cause choking, coughing, burning sensation and may cause ulceration of the nose, throat and larynx. Fluid on the lungs followed by generalised lung damage may follow.</p> <p>Breathing of HCl vapour may aggravate asthma and inflammatory or fibrotic pulmonary disease. \u00a0</p> <p>High concentrations cause necrosis of the tracheal and bronchial epithelium, pulmonary oedema, atelectasis and emphysema and damage to the pulmonary blood vessels and liver.</p>",
+                "AcuteEye": "<p>When applied to the eye(s) of animals, the material produces severe ocular lesions which are present twenty-four hours or more after instillation.</p> <p>Direct eye contact with acid corrosives may produce pain, lachrymation, photophobia and burns. Mild burns of the epithelia generally recover rapidly and completely. Severe burns produce long-lasting and possible irreversible damage. The appearance of the burn may not be apparent for several weeks after the initial contact. The cornea may ultimately become deeply vascularised and opaque resulting in blindness.</p> <p>Direct contact with the eye may not cause irritation because of the extreme volatility of the gas; however concentrated atmospheres may produce irritation after brief exposures..</p>",
+                "AcuteSkin": "<p>Skin contact with acidic corrosives may result in pain and burns; these may be deep with distinct edges and may heal slowly with the formation of scar tissue.</p> <p>Skin contact with the material may damage the health of the individual; systemic effects may result following absorption.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p><br /></p> <p>Ingestion of acidic corrosives may produce circumoral burns with a distinct discolouration of the mucous membranes of the mouth, throat and oesophagus. Immediate pain and difficulties in swallowing and speaking may also be evident. Oedema of the epiglottis may produce respiratory distress and possibly, asphyxia. Nausea, vomiting, diarrhoea and a pronounced thirst may occur. More severe exposures may produce a vomitus containing fresh or dark blood and large shreds of mucosa. Shock, with marked hypotension, weak and rapid pulse, shallow respiration and clammy skin may be symptomatic of the exposure. Circulatory collapse may, if left untreated, result in renal failure. Severe cases may show gastric and oesophageal perforation with peritonitis, fever and abdominal rigidity. Stricture of the oesophageal, gastric and pyloric sphincter may occur as within several weeks or may be delayed for years. Death may be rapid and often results from asphyxia, circulatory collapse or aspiration of even minute amounts. Delayed deaths may be due to peritonitis, severe nephritis or pneumonia. Coma and convulsions may be terminal.</p> <p>Not normally a hazard due to physical form of product.</p> <p>Considered an unlikely route of entry in commercial/industrial environments\u00a0</p>|Liquid solutions may cause severe burns to the gastro-intestinal tract.",
+                "ChronicHealthEffects": "<p>Repeated or prolonged exposure to acids may result in the erosion of teeth, inflammatory and ulcerative changes in the mouth and necrosis (rarely) of the jaw. Bronchial irritation, with cough, and frequent attacks of bronchial pneumonia may ensue. Gastrointestinal disturbances may also occur. Chronic exposures may result in dermatitis and/or conjunctivitis.</p> <p>The impact of inhaled acidic agents on the respiratory tract depends upon a number of interrelated factors. These include physicochemical characteristics, e.g., gas versus aerosol; particle size (small particles can penetrate deeper into the lung); water solubility (more soluble agents are more likely to be removed in the nose and mouth). Given the general lack of information on the particle size of aerosols involved in occupational exposures to acids, it is difficult to identify their principal deposition site within the respiratory tract. Acid mists containing particIes with a diameter of up to a few micrometers will be deposited in both the upper and lower airways. They are irritating to mucous epithelia, they cause dental erosion, and they produce acute effects in the lungs (symptoms and changes in pulmonary function). AsthmatIcs appear to be at particular risk for pulmonary effects.</p> <p><br /></p> <p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p>Principal route of occupational exposure to the gas is by inhalation.\u00a0</p> <p>Chronic minor exposure to hydrogen chloride (HCl) vapour or fume may cause discolouration or erosion of the teeth, bleeding of the nose and gums; and ulceration of the nasal mucous membranes.</p> <p>Repeated exposures of animals to concentrations of about 34 ppm HCl produced no immediate toxic effects.</p> <p>Workers exposed to hydrochloric acid suffered from gastritis and a number of cases of chronic bronchitis have also been reported.</p> <p>Repeated or prolonged exposure to dilute solutions of HCl may cause dermatitis.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": "700",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "dermal (mouse) LD50:",
+                        "Value": "1449",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [
+                    {
+                        "Value": "Eye (rabbit): 5 mg/30s - mild",
+                        "IsFromGalleria": false
+                    }
+                ],
+                "InitialDate": "24/04/2003",
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "SignalWord": "Danger",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSCor.gif",
+                    "GHSTox.gif"
+                ],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R23|~R35|~R41|~R21?|~R37?|~LBAC2",
+                "MiniChronicHealthEffects": "R33?",
+                "WhmisImages": [
+                    "WHMISG.gif",
+                    "WHMISP.gif",
+                    "WHMISC.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P271",
+                        "Phrase": "Use only outdoors or in a well-ventilated area."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P260",
+                        "Phrase": "Do not breathe dust/fume/gas/mist/vapours/spray."
+                    },
+                    {
+                        "Code": "P264",
+                        "Phrase": "Wash \u2026 thoroughly after handling."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P304+P340",
+                        "Phrase": "IF INHALED:, Remove person to fresh air and keep comfortable for breathing."
+                    },
+                    {
+                        "Code": "P321",
+                        "Phrase": "Specific treatment (see ... \u00b0n this label)."
+                    },
+                    {
+                        "Code": "P305+P351+P338",
+                        "Phrase": "IF IN EYES:, Rinse cautiously with water for several minutes., Remove contact lenses, if present and easy to do. Continue rinsing."
+                    },
+                    {
+                        "Code": "P310",
+                        "Phrase": "Immediately call a POISON CENTER/doctor/\u2026"
+                    },
+                    {
+                        "Code": "P301+P330+P331",
+                        "Phrase": "IF SWALLOWED:, Rinse mouth., Do NOT induce vomiting."
+                    },
+                    {
+                        "Code": "P303+P361+P353",
+                        "Phrase": "IF ON SKIN (or hair):, Take off immediately all contaminated clothing., Rinse skin with water [or shower]."
+                    },
+                    {
+                        "Code": "P363",
+                        "Phrase": "Wash contaminated clothing before reuse."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P403+P233",
+                        "Phrase": "Store in a well-ventilated place., Keep container tightly closed."
+                    },
+                    {
+                        "Code": "P405",
+                        "Phrase": "Store locked up."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "T"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S01",
+                        "Phrase": "    Keep locked up.&nbsp;  "
+                    },
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S03",
+                        "Phrase": "    Keep in a cool place.&nbsp;  "
+                    },
+                    {
+                        "Code": "S04",
+                        "Phrase": "    Keep away from living quarters.&nbsp;  "
+                    },
+                    {
+                        "Code": "S13",
+                        "Phrase": "    Keep away from food, drink and animal feeding stuffs.&nbsp;  "
+                    },
+                    {
+                        "Code": "S15",
+                        "Phrase": "    Keep away from heat.&nbsp;  "
+                    },
+                    {
+                        "Code": "S20",
+                        "Phrase": "    When using do not eat or drink.&nbsp;  "
+                    },
+                    {
+                        "Code": "S21",
+                        "Phrase": "    When using do not smoke.&nbsp;  "
+                    },
+                    {
+                        "Code": "S23",
+                        "Phrase": "    Do not breathe gas/fumes/vapour/spray.&nbsp;  "
+                    },
+                    {
+                        "Code": "S26",
+                        "Phrase": "    In case of contact with eyes, rinse with plenty of water and contact Doctor or Poisons Information Centre.&nbsp;  "
+                    },
+                    {
+                        "Code": "S28",
+                        "Phrase": "&lt;p&gt;After contact with skin, wash immediately with plenty of water.&lt;/p&gt;"
+                    },
+                    {
+                        "Code": "S29",
+                        "Phrase": "    Do not empty into drains.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S36",
+                        "Phrase": "    Wear suitable protective clothing.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S38",
+                        "Phrase": "    In case of insufficient ventilation, wear suitable respiratory equipment.&nbsp;  "
+                    },
+                    {
+                        "Code": "S39",
+                        "Phrase": "    Wear eye/face protection.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S41",
+                        "Phrase": "    In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;  "
+                    },
+                    {
+                        "Code": "S45",
+                        "Phrase": "    In case of accident or if you feel unwell IMMEDIATELY contact Doctor or Poisons Information Centre (show label if possible).&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S52",
+                        "Phrase": "    Not recommended for interior use on large surface areas.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S63",
+                        "Phrase": "In case of accident by inhalation: remove casualty to fresh air and keep at rest.\r\n"
+                    },
+                    {
+                        "Code": "S64",
+                        "Phrase": "If swallowed, rinse mouth with water (only if the person is conscious).\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Flood body with water. Remove contaminated clothing. Wash with water"
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R23.gif",
+                        "Translation": "Toxic if inhaled."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R34.gif",
+                        "Translation": "Causes severe skin burns and eye damage."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R35.gif",
+                        "Translation": "Causes severe skin burns and eye damage."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R41.gif",
+                        "Translation": "Causes serious eye damage."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "evacuate.gif",
+                        "Translation": "Consider evacuation."
+                    },
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water spray/ fog.\u00a0</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSHR.gif",
+                        "Translation": "Half-Respirator"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGGL.gif",
+                        "Translation": "Goggles"
+                    }
+                ],
+                "ChemicalName": "[2H]HYDROGEN CHLORIDE",
+                "Nfpa": {
+                    "Toxicity": 3,
+                    "Flammability": 0,
+                    "Reactivity": 1,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_3_0_1_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "3",
+                    "Translation": "High",
+                    "NumericalRating": 3,
+                    "IsSGroup": true
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 1,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "gas.gif",
+                        "Translation": "Gas."
+                    },
+                    {
+                        "ImageName": "mixes_with_water.gif",
+                        "Translation": "Mixes with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with unperforated side shields may be used where continuous eye protection is desirable, as in laboratories; spectacles are not sufficient where complete eye protection is needed such as when handling bulk-quantities, where there is a danger of splashing, or if the material may be under pressure.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.whenever there is a danger of the material coming in contact with the eyes; goggles must be properly fitted.</span></li>\n<li><span style=\"color:#000000\">Full face shield (20 cm, 8 in minimum) may be required for supplementary but never for primary protection of eyes; these afford face protection.</span></li>\n<li><span style=\"color:#000000\">Alternatively a gas mask may replace splash goggles and face shields.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>Neoprene gloves\u00a0</li> </ul> <ul> <li>When handling sealed and suitably insulated cylinders wear cloth or leather gloves.\u00a0</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Overalls.\u00a0</li> <li>PVC Apron.\u00a0</li> <li>PVC protective suit may be required if exposure severe.\u00a0</li> <li>Eyewash unit.\u00a0</li> <li>Ensure there is ready access to a safety shower.\u00a0</li> </ul>"
+                ],
+                "PpeRespirator": [
+                    "<ul> <li>Positive pressure, full face, air-supplied breathing apparatus should be used for work in enclosed spaces if a leak is suspected or the primary containment is to be opened (e.g. for a cylinder change)\u00a0</li> <li>Air-supplied breathing apparatus is required where release of gas from primary containment is either suspected or demonstrated.\u00a0</li> </ul>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": true,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": true,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": true,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "33-40",
+            "Name": "hydrogen chloride",
+            "OrderNumber": 1,
+            "NameForShowing": "hydrogen chloride",
+            "ProportionForShowing": "33-40",
+            "CwNumber": "1050",
+            "NumericProportion": {
+                "MinValue": 33.0,
+                "MaxValue": 40.0,
+                "RawMinValue": 33.0,
+                "RawMaxValue": 40.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Dataset": {
+                "CwNumber": "10000",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a10000",
+                "Version": "637646972051005407",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "10000",
+                "Key": "10000_AUS_EN",
+                "FullKey": "datasets/gold/10000_AUS_EN",
+                "AiteLogKey": "10000",
+                "AiteS3Key": "xml/10000.json",
+                "ChemKey": {
+                    "cw": "CK-10000",
+                    "un": [],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7732-18-5"
+                    ],
+                    "groupCode": [],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "water",
+                "CasNumber": "7732-18-5",
+                "EcNumber": "231-791-2",
+                "GhsEntities": [],
+                "PhysicalState": "<p>Liquid</p>",
+                "RawWaterSolubility": "mixes",
+                "WaterSolubility": 0,
+                "BoilingPoint": 100.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniGloves": "1.BUTYL 2.NEOPRENE 3.VITON",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p>",
+                "MiniFireExp": "<p>Vapours/gas heavier than air.</p>",
+                "MiniAppearance": "<p>Liquid.</p> <p>Mixes with water.</p>",
+                "MiniFirstAidSkin": "Not Available",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Water spray/ fog.\u00a0</p>",
+                "MiniSpillDisposal": "<p>Absorb with dry agent.</p> <p>Stop leak if safe to do so.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Reactivity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "BodyContact": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": true,
+                    "RawValue": "None"
+                },
+                "InternationalHazardGraphics": [],
+                "RiskCodes": [],
+                "SpecificGravity": "1.000 @ 3.9 degC",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "None",
+                "Use": "Suspending agent, solvent, diluent, carbonated beverages, hydration tile processing, paper coatings, moderator in nuclear reactors, debarking logs, filtration, industrial coolant, washing, sulfur mining,|hydrolysis, Portland cement, hydraulic systems, power source, steam generation, food industry, source of hydrogen by electrolysis and thermochemical decomposition.|Distilled water for use in secondary batteries in critical applications is required to meet AS 2668-1983",
+                "ChemicalFormula": [
+                    "H2O"
+                ],
+                "FirstAidIngestion": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FirstAidEye": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FirstAidSkin": "<ul> <li>Generally not applicable.</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<p>None known.</p>",
+                "FireExtinguishingMedia": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FireFighting": "<ul> <li>Generally not applicable.</li> </ul>",
+                "MajorSpills": "<p>Clean up all spills immediately.</p>",
+                "MinorSpills": "<p>Clean up all spills immediately.</p>",
+                "MolecularWeight": "18.02",
+                "Appearance": "Colourless, odourless, tasteless liquid. Polar liquid. Allotropic forms are ice and steam. Viscosity @ 20 deg. C. is 0.01002 poise.",
+                "VapourPressure": "2.33 @ 20 degC.",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "100",
+                "PhAs1PercentSolution": "7",
+                "EvaporationRate": "Slow",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "0",
+                "Odour": "Not Available",
+                "RelativeVapourDensity": ">1",
+                "PhAsSupplied": "7",
+                "Lel": "Not applicable",
+                "BoilingRange": "100",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not applicable",
+                "PhSolutionPercent": "7",
+                "Viscosity": "Not Available",
+                "InstabilityConditions": "<p>Product is considered stable and hazardous polymerisation will not occur.</p>",
+                "Synonyms": [
+                    "WATER"
+                ],
+                "HandlingProcedure": "Avoid prolonged skin contact.|1na",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry, well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Polyethylene or polypropylene container.\u00a0</li> <li>Packing as recommended by manufacturer.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p>None known</p>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [],
+                "TransportIncompatibilities": "<p>No restrictions.\u00a0</p>",
+                "TransportPrecautions": "#Prec_trans0_1",
+                "AirPersistence": "LOW",
+                "WaterPersistence": "LOW",
+                "Disposal": "<ul> <li>Generally not applicable.</li> </ul>",
+                "Ecotox": [],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H318; H226; H314; H301; H411",
+                        "SignalWord": "GHS05; GHS07; Dgr; GHS02; Wng; GHS06",
+                        "HazardState": "H318; H226; H314; H301; H411"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {},
+                "Teel": [],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>No exposure limits set by NOHSC or ACGIH</p>",
+                "EngineeringControls": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteInhaled": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteEye": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteSkin": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteIngestion": "<ul> <li>Generally not applicable.</li> </ul>",
+                "ChronicHealthEffects": "Prolonged skin contact may cause skin reactions and susceptibility to skin infections.|55nonchron",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">90000",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "30/01/2003",
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "NzCodes": [],
+                "Pictograms": [],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS SUBSTANCE. According to NOHSC Criteria, and ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS CHEMICAL. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "WhmisImages": [],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [],
+                "PrecautionaryCodesResponse": [],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [],
+                "SafetyCodes": [],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": false,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [],
+                "FirstAidImages": [],
+                "RiskHealthImages": [],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [],
+                "HagFireFighting": [
+                    "<p>Water spray/ fog.\u00a0</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "ChemicalName": "WATER",
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_0_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 2,
+                    "Toxic": 2,
+                    "Oxidizer": 2,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Liquid.gif",
+                        "Translation": "Liquid."
+                    },
+                    {
+                        "ImageName": "mixes_with_water.gif",
+                        "Translation": "Mixes with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "PpeRespirator": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": [
+                    {
+                        "IndexType": "BUTYL",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NEOPRENE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "VITON",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NATURAL RUBBER",
+                        "Rat": "C"
+                    },
+                    {
+                        "IndexType": "PVA",
+                        "Rat": "C"
+                    }
+                ]
+            },
+            "Proportion": "60-67",
+            "Name": "water",
+            "OrderNumber": 2,
+            "NameForShowing": "water",
+            "ProportionForShowing": "60-67",
+            "CwNumber": "10000",
+            "NumericProportion": {
+                "MinValue": 60.0,
+                "MaxValue": 67.0,
+                "RawMinValue": 60.0,
+                "RawMaxValue": 67.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0582",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0582",
+    "Version": "637648315021714435",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0582",
+    "Key": "01-0582_AUS_EN",
+    "FullKey": "datasets/gold/01-0582_AUS_EN",
+    "AiteLogKey": "01-0582",
+    "AiteS3Key": "xml/01-0582.json",
+    "Name": "Mallinckrodt Baker Hydrochloric Acid, 33-40%",
+    "Dgc": "8",
+    "PoisonSchedule": "Yes",
+    "PackingGroup": "II",
+    "Un": "1789",
+    "GhsEntities": [
+        {
+            "Category": "Serious Eye Damage/Eye Irritation Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H318",
+            "Phrase": "Causes serious eye damage."
+        },
+        {
+            "Category": "Acute Toxicity (Inhalation) Category 3",
+            "CategoryCode": "Cat 3",
+            "Code": "H331",
+            "Phrase": "Toxic if inhaled."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 1A",
+            "CategoryCode": "Cat 1A",
+            "Code": "H314",
+            "Phrase": "Causes severe skin burns and eye damage."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

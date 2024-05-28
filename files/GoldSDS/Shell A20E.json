@@ -1,0 +1,79 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "75-95",
+            "Name": "bitumen",
+            "OrderNumber": 1,
+            "SanitizedName": "bitumen",
+            "NameForShowing": "bitumen",
+            "ProportionForShowing": "75-95",
+            "NumericProportion": {
+                "MinValue": 75.0,
+                "MaxValue": 95.0,
+                "RawMinValue": 75.0,
+                "RawMaxValue": 95.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "0-10",
+            "Name": "styrene-butadiene-styrene block copolymer",
+            "OrderNumber": 2,
+            "SanitizedName": "styrene-butadiene-styrene block copolymer",
+            "NameForShowing": "styrene-butadiene-styrene block copolymer",
+            "ProportionForShowing": "0-10",
+            "NumericProportion": {
+                "MinValue": 0.0,
+                "MaxValue": 10.0,
+                "RawMinValue": 0.0,
+                "RawMaxValue": 10.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Name": "in hydrocarbon bind",
+            "OrderNumber": 3,
+            "SanitizedName": "in hydrocarbon bind",
+            "NameForShowing": "in hydrocarbon bind",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0291",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0291",
+    "Version": "637648091464402584",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0291",
+    "Key": "01-0291_AUS_EN",
+    "FullKey": "datasets/gold/01-0291_AUS_EN",
+    "AiteLogKey": "01-0291",
+    "AiteS3Key": "xml/01-0291.json",
+    "Name": "Shell A20E",
+    "Dgc": "9",
+    "PackingGroup": "III",
+    "Un": "3257",
+    "GhsEntities": [],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

@@ -1,0 +1,65 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "NotSpec",
+            "Name": "carboxylic ester",
+            "OrderNumber": 1,
+            "SanitizedName": "carboxylic ester",
+            "NameForShowing": "carboxylic ester",
+            "ProportionForShowing": "NotSpec",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "balance",
+            "Name": "Ingredients determined not to be hazardous",
+            "OrderNumber": 2,
+            "SanitizedName": "Ingredients determined not to be hazardous",
+            "NameForShowing": "Ingredients determined not to be hazardous",
+            "ProportionForShowing": "balance",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0271",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0271",
+    "Version": "637648166517210956",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0271",
+    "Key": "01-0271_AUS_EN",
+    "FullKey": "datasets/gold/01-0271_AUS_EN",
+    "AiteLogKey": "01-0271",
+    "AiteS3Key": "xml/01-0271.json",
+    "Name": "Johnson Controls York K OIl",
+    "GhsEntities": [
+        {
+            "Category": "Eye Irritation Category 2B",
+            "CategoryCode": "Cat 2B",
+            "Code": "H320",
+            "Phrase": "Causes eye irritation."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

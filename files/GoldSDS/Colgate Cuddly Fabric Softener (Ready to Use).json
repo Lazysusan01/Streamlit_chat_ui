@@ -1,0 +1,75 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "0-5",
+            "Name": "Quaternised triethanolamine diester 91995-81-2",
+            "OrderNumber": 1,
+            "SanitizedName": "Quaternised triethanolamine diester 91995-81-2",
+            "NameForShowing": "Quaternised triethanolamine diester 91995-81-2",
+            "ProportionForShowing": "0-5",
+            "NumericProportion": {
+                "MinValue": 0.0,
+                "MaxValue": 5.0,
+                "RawMinValue": 0.0,
+                "RawMaxValue": 5.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "balance",
+            "Name": "Ingredients determined not to be hazardous [Mfctr]",
+            "OrderNumber": 2,
+            "SanitizedName": "Ingredients determined not to be hazardous [Mfctr]",
+            "NameForShowing": "Ingredients determined not to be hazardous [Mfctr]",
+            "ProportionForShowing": "balance",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0427",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0427",
+    "Version": "637648278453619615",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0427",
+    "Key": "01-0427_AUS_EN",
+    "FullKey": "datasets/gold/01-0427_AUS_EN",
+    "AiteLogKey": "01-0427",
+    "AiteS3Key": "xml/01-0427.json",
+    "Name": "Colgate Cuddly Fabric Softener (Ready to Use)",
+    "GhsEntities": [
+        {
+            "Category": "Serious Eye Damage/Eye Irritation Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H318",
+            "Phrase": "Causes serious eye damage."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 1A",
+            "CategoryCode": "Cat 1A",
+            "Code": "H314",
+            "Phrase": "Causes severe skin burns and eye damage."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

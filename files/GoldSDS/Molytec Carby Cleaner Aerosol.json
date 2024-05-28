@@ -1,0 +1,129 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "30-60",
+            "Name": "aromatic hydrocarbon",
+            "OrderNumber": 1,
+            "SanitizedName": "aromatic hydrocarbon",
+            "NameForShowing": "aromatic hydrocarbon",
+            "ProportionForShowing": "30-60",
+            "NumericProportion": {
+                "MinValue": 30.0,
+                "MaxValue": 60.0,
+                "RawMinValue": 30.0,
+                "RawMaxValue": 60.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "1-10",
+            "Name": "keytonic solvent",
+            "OrderNumber": 2,
+            "SanitizedName": "keytonic solvent",
+            "NameForShowing": "keytonic solvent",
+            "ProportionForShowing": "1-10",
+            "NumericProportion": {
+                "MinValue": 1.0,
+                "MaxValue": 10.0,
+                "RawMinValue": 1.0,
+                "RawMaxValue": 10.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "10-30",
+            "Name": "keytonic solvent",
+            "OrderNumber": 3,
+            "SanitizedName": "keytonic solvent",
+            "NameForShowing": "keytonic solvent",
+            "ProportionForShowing": "10-30",
+            "NumericProportion": {
+                "MinValue": 10.0,
+                "MaxValue": 30.0,
+                "RawMinValue": 10.0,
+                "RawMaxValue": 30.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "10-30",
+            "Name": "hydrocarbon solvent",
+            "OrderNumber": 4,
+            "SanitizedName": "hydrocarbon solvent",
+            "NameForShowing": "hydrocarbon solvent",
+            "ProportionForShowing": "10-30",
+            "NumericProportion": {
+                "MinValue": 10.0,
+                "MaxValue": 30.0,
+                "RawMinValue": 10.0,
+                "RawMaxValue": 30.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0360",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0360",
+    "Version": "637648110639443996",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0360",
+    "Key": "01-0360_AUS_EN",
+    "FullKey": "datasets/gold/01-0360_AUS_EN",
+    "AiteLogKey": "01-0360",
+    "AiteS3Key": "xml/01-0360.json",
+    "Name": "Molytec Carby Cleaner Aerosol",
+    "Dgc": "2.1",
+    "Un": "1950",
+    "GhsEntities": [
+        {
+            "Category": "Aerosols Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H222+H229",
+            "Phrase": "Extremely flammable aerosol., Pressurised container: May burst if heated."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H315",
+            "Phrase": "Causes skin irritation."
+        },
+        {
+            "Category": "Eye Irritation Category 2A",
+            "CategoryCode": "Cat 2A",
+            "Code": "H319",
+            "Phrase": "Causes serious eye irritation."
+        },
+        {
+            "Category": "Specific target organ toxicity - single exposure Category 3 (respiratory tract irritation)",
+            "CategoryCode": "Cat 3",
+            "Code": "H335",
+            "Phrase": "May cause respiratory irritation."
+        },
+        {
+            "Code": "AUH044",
+            "Phrase": "Risk of explosion if heated under confinement."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

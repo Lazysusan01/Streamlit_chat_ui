@@ -1,0 +1,721 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "1361-1",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a1361-1",
+                "Version": "637644553537108945",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "1361-1",
+                "Key": "1361-1_AUS_EN",
+                "FullKey": "datasets/gold/1361-1_AUS_EN",
+                "AiteLogKey": "1361-1",
+                "AiteS3Key": "xml/1361-1.json",
+                "ChemKey": {
+                    "cw": "CK-1361-1",
+                    "un": [
+                        "CK-UN1361"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC4.2"
+                    ],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7440-44-0",
+                        "CK-82600-58-6"
+                    ],
+                    "groupCode": [
+                        "CK-G56.5",
+                        "CK-G9107",
+                        "CK-G9108",
+                        "CK-G14096",
+                        "CK-G15546"
+                    ],
+                    "gc": [
+                        "CK-GC2644",
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "carbon, non-activated",
+                "CasNumber": "7440-44-0",
+                "Dgc": "4.2",
+                "EcNumber": "231-153-3",
+                "PackingGroup": "III",
+                "Un": "1361",
+                "GhsEntities": [
+                    {
+                        "Code": "AUH066",
+                        "Phrase": "Repeated exposure may cause skin dryness and cracking."
+                    },
+                    {
+                        "Category": "Self-Heating Material Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H252",
+                        "Phrase": "Self-heating in large quantities; may catch fire."
+                    },
+                    {
+                        "Category": "Flammable Solid Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H228",
+                        "Phrase": "Flammable solid."
+                    }
+                ],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>General Exhaust Ventilation adequate.</p>",
+                "MiniResp": "<p>Particulate. (AS/NZS 1716 &amp; 1715, EN 143:2000 &amp; 149:001, ANSI Z88 or national equivalent)</p>",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep container tightly closed.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Flammable.</p><p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Solid.</p> <p><b>Does not</b>\u00a0mix with water.</p>",
+                "MiniFlammability": "R10HAG22R17",
+                "MiniFirstAidSwallow": "<p>Rinse mouth with water.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water (15 mins). Medical attention.</p>",
+                "MiniFirstAidSkin": "Flood body with water. Remove contaminated clothing. Wash with water <p>For burns: Apply cold water.\u00a0<b>Do NOT</b>\u00a0remove clothes from area. Cover wound.\u00a0<u>NO OINTMENTS</u>.\u00a0</p> <p><u>MEDICAL ATTENTION</u>.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention.</p>",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Water jets.</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Avoid dust.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <p>Sweep shovel to safe place.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water and detergent.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Flammability": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Reactivity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "BodyContact": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "1Y",
+                    "Value": "1Y"
+                },
+                "InternationalHazardGraphics": [
+                    "OXIDIZ.gif"
+                ],
+                "RiskCodes": [],
+                "SpecificGravity": "Not available.",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "CARBON, animal or vegetable origin",
+                "Use": "Used e.g. as a recarburising powder in ferrous metal production. Material from carbonization of vegetable matter used as food dye EEC Food|Colour E.153.",
+                "ChemicalFormula": [
+                    "C"
+                ],
+                "FirstAidIngestion": "<ul> <li>Immediately give a glass of water.\u00a0</li> <li>First aid is not generally required. If in doubt, contact a Poisons Information Centre or a doctor.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Lay patient down. Keep warm and rested.\u00a0</li> <li>Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>Apply artificial respiration if not breathing, preferably with a demand valve resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul>",
+                "FirstAidEye": "<ul> <li>If in eyes, hold eyelids apart and flush the eye continuously with running water.\u00a0</li> <li>Continue flushing until advised to stop by the Poisons Information Centre or a doctor, or for at least 15 minutes.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul> <p>For THERMAL burns:</p> <ul> <li><font color=\"#ff0000\">Do NOT remove contact lens\u00a0</font></li> <li>Lay victim down, on stretcher if available and pad\u00a0<b>BOTH\u00a0</b>eyes, make sure dressing does not press on the injured eye by placing thick pads under dressing, above and below the eye.\u00a0</li> <li>Seek urgent medical assistance, or transport to hospital.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Immediately flush body and clothes with large amounts of water, using safety shower if available.\u00a0</li> <li>Quickly remove all contaminated clothing, including footwear.\u00a0</li> <li>Wash skin and hair with running water. Continue flushing with water until advised to stop by the Poisons Information Centre.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul> <p>In case of burns:</p> <ul> <li>Immediately apply cold water to burn either by immersion or wrapping with saturated clean cloth.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0remove or cut away clothing over burnt areas.\u00a0</font><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0pull away clothing which has adhered to the skin as this can cause further injury.\u00a0</font></li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0break blister or remove solidified material.\u00a0</font></li> <li>Quickly cover wound with dressing or clean cloth to help prevent infection and to ease pain.\u00a0</li> <li>For large burns, sheets, towels or pillow slips are ideal; leave holes for eyes, nose and mouth.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0apply ointments, oils, butter, etc. to a burn under any circumstances.\u00a0</font></li> <li>Water may be given in small quantities if the person is conscious.\u00a0</li> <li>Alcohol is not to be given under any circumstances.\u00a0</li> <li>Reassure.\u00a0</li> <li>Treat for shock by keeping the person warm and in a lying position.\u00a0</li> <li>Seek medical aid and advise medical personnel in advance of the cause and extent of the injury and the estimated time of arrival of the patient.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<p>For\u00a0<b>SMALL FIRES:</b></p> <ul> <li>Dry chemical, CO2, water spray or foam.\u00a0</li> </ul> <p>For\u00a0<b>LARGE FIRES:</b></p> <ul> <li>Foam, fog or water spray\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0use water jets.</font></li> </ul>",
+                "FireExplosionHazard": "<ul> <li>May ignite on contact with air leading to spontaneous combustion\u00a0</li> <li>May decompose explosively when heated or involved in fire.\u00a0</li> <li>May\u00a0<b>REIGNITE</b>\u00a0after fire is extinguished.\u00a0</li> <li>Gases generated in fire may be poisonous, corrosive or irritating.\u00a0</li> <li>Containers may explode on heating.\u00a0</li> <li>Runoff may create multiple fire or explosion hazard.\u00a0</li> </ul> <p>Combustion products include:</p> <p>carbon monoxide (CO)</p> <p>carbon dioxide (CO2)</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p>May heat spontaneously.</p> <p>A fire in bulk finely divided carbon may not be obviously visible unless the material is disturbed and sparks appear. A straw broom may be useful to produce the disturbance.</p> <p>Explosion and Ignition Behaviour of Carbon Black with Air</p> <p><table> <tr> <td> <p>Lower Limit for Explosion:</p>  </td> <td> <p>50 g/m3 (carbon black in air)</p>  </td> </tr> <tr> <td> <p>Maximum Explosion Pressure:</p>  </td> <td> <p>10 bar</p>  </td> </tr> <tr> <td> <p>Maximum Rate of Pressure Rise:</p>  </td> <td> <p>30-100 bar/sec</p>  </td> </tr> <tr> <td> <p>Minimum Ignition Temperature:</p>  </td> <td> <p>315 deg. C.</p>  </td> </tr> <tr> <td> <p>Ignition Energy:</p>  </td> <td> <p>&gt;1 kJ</p>  </td> </tr> <tr> <td> <p>Glow Temperature:</p>  </td> <td> <p>500 deg. C. (approx.)</p>  </td> </tr> </table> </p> <p>Notes on Test Methods:</p> <p>Tests 1, 2 and 3 were conducted by Bergwerkeschaftliche Versuchstrecke, Dortmunde-Derne, using a 1 m3 vessel with two chemical igniters having an intensity of 5000 W.S.</p> <p>Tests 1 and 2 results are confirmed by information in the Handbook of Powder Technology, Vol. 4 (P. Field)</p> <p>In Test 4, a modified Godbert-Greenwald furnace was used. \u00a0See U.S. Bureau of Mines, Report 5624, 1960, p.5, \"Lab Equipment and Test Procedures\".</p> <p>Test 5 used a 1 m3 vessel with chemical igniters of variable intensity.</p> <p>Test 6 was conducted in a laboratory oven. Active glowing appeared after 3 minutes exposure.</p> <p>(European Committee for Biological Effects of Carbon Black) (2/84)</p>",
+                "FireFighting": "<ul> <li>Wear SCBA and fully-encapsulating, gas-tight suits when handling these substances.\u00a0</li> <li>Always wear thermal protective clothing when handling molten substances.\u00a0</li> <li>Structural fire fighter's uniform will only provide limited protection.\u00a0</li> </ul> <ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>Consider evacuation (or protect in place).\u00a0</li> <li>Fight fire from a safe distance, with adequate cover.\u00a0</li> <li>If safe, switch off electrical equipment until vapour fire hazard removed.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li>Avoid spraying water onto liquid pools.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<ul> <li>Clear area of personnel and move upwind.\u00a0</li> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Eliminate all ignition sources (no smoking, flares, sparks or flames)\u00a0</li> <li>Stop leak if safe to do so; prevent entry into waterways, drains or confined spaces.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0walk through spilled material.\u00a0</font></li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">touch damaged containers or spilled material unless wearing appropriate protective clothing.\u00a0</font></li> <li>Cover with\u00a0<b>WET\u00a0</b>earth, sand or other non-combustible material.\u00a0</li> <li>Use clean, non-sparking tools to collect absorbed material and place into loosely-covered metal or plastic containers ready for disposal.\u00a0</li> <li>Alternately, the spill may be contained using\u00a0<b>WET</b>\u00a0earth, sand, or vermiculite and then covered with a high boiling point mineral oil.\u00a0</li> <li>Recover the liquid using non-sparking appliances and place in labelled, sealable container.\u00a0</li> <li>Water spray may be used to knock down vapours or divert vapour clouds.\u00a0</li> <li>Wash area with water and dike for later disposal;\u00a0</li> <li>After clean up operations, decontaminate and launder all protective clothing and equipment before storing and re-using.\u00a0</li> <li>If contamination of drains or waterways occurs, advise emergency services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Eliminate all ignition sources.\u00a0</li> <li>Cover with\u00a0<b>WET</b>\u00a0earth, sand or other non-combustible material.\u00a0</li> <li>Use clean, non-sparking tools to collect absorbed material\u00a0</li> <li>Wear gloves and safety glasses as appropriate.\u00a0</li> </ul>",
+                "MolecularWeight": "12.01",
+                "Appearance": "Black powder; insoluble in water.",
+                "Taste": "Not Available",
+                "VolatileComponent": "Not available.",
+                "PhAs1PercentSolution": "Not Available",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "Not Available",
+                "Odour": "Not Available",
+                "AutoIgnitionTemperature": "Not available.",
+                "Lel": "Not available.",
+                "BoilingRange": "Not Available",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not available.",
+                "PhSolutionPercent": "Not Available",
+                "InstabilityConditions": "<ul> <li>May heat spontaneously\u00a0</li> <li>Identify and remove sources of ignition and heating.\u00a0</li> <li>Incompatible material, especially oxidisers, and/or other sources of oxygen may produce unstable product(s).\u00a0</li> <li>Hazardous polymerization will not occur.\u00a0</li> </ul>",
+                "Synonyms": [
+                    "GRAPHITE"
+                ],
+                "Adr": {
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "Adn": {
+                    "SpecialProvision": "665; 803",
+                    "ClassificationCode": "S2",
+                    "LimitedQuantity": "0",
+                    "EquipmentReg": "PP",
+                    "FirconNumber": "0",
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "Adg": {
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "Dot": {
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "ShippingName": "Carbon, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "Iata": {
+                    "ErgCode": "4L",
+                    "SpecialProvisions": "A2 A3",
+                    "CargoPi": "Forbidden",
+                    "CargoMaxQuantity": "Forbidden",
+                    "PassCargoPi": "Forbidden",
+                    "PassCargoMaxQuantity": "Forbidden",
+                    "PcLqTyPi": "Forbidden",
+                    "PcLqTyMaxQuantity": "Forbidden",
+                    "IngredientDgcs": [],
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "Carbon animal or vegetable origin"
+                },
+                "Imdg": {
+                    "Ems": "F-A , S-J",
+                    "SpecialProvisions": "223 925",
+                    "Lq": "0",
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "UnTransportData": {
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "Tdg": {
+                    "Dgc": "4.2",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1361",
+                    "ShippingName": "CARBON, animal or vegetable origin",
+                    "PackingGroup": "III"
+                },
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">For large scale or continuous use, spark-free, earthed ventilation system venting directly to the outside and separate from usual ventilation systems\u00a0</span></li>\n<li><span style=\"color:#000000\">Provide dust collectors with explosion vents.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of overexposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid smoking, naked lights or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately and before re-use\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\"><strong>NOTE:</strong></span><span style=\"color:#000000\">\u00a0The material may remove oxygen from the air thus producing a severe hazard to workers inside enclosed or confined spaces where the material might accumulate. \u00a0Before entry to such areas, sampling and test procedures for low oxygen levels should be undertaken; control conditions should be established to ensure the availability of adequate oxygen supply.</span></p> <ul> <li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions)\u00a0</li> <li>Minimise airborne dust and eliminate all ignition sources. Keep away from heat, hot surfaces, sparks, and flame.\u00a0</li> <li>Establish good housekeeping practices.\u00a0</li> <li>Remove dust accumulations on a regular basis by vacuuming or gentle sweeping to avoid creating dust clouds.\u00a0</li> <li>Use continuous suction at points of dust generation to capture and minimise the accumulation of dusts. Particular attention should be given to overhead and hidden horizontal surfaces to minimise the probability of a \"secondary\" explosion. According to NFPA Standard 654, dust layers 1/32 in.(0.8 mm) thick can be sufficient to warrant immediate cleaning of the area.\u00a0</li> <li>Do not use air hoses for cleaning.\u00a0</li> <li>Minimise dry sweeping to avoid generation of dust clouds. Vacuum dust-accumulating surfaces and remove to a chemical disposal area. Vacuums with explosion-proof motors should be used.\u00a0</li> <li>Control sources of static electricity. \u00a0Dusts or their packages may accumulate static charges, and static discharge can be a source of ignition.\u00a0</li> <li>Solids handling systems must be designed in accordance with applicable standards (e.g. NFPA including 654 and 77) and other national guidance.\u00a0</li> <li>Do not empty directly into flammable solvents or in the presence of flammable vapors.\u00a0</li> <li>The operator, the packaging container and all equipment must be grounded with electrical bonding and grounding systems. Plastic bags and plastics cannot be grounded, and antistatic bags do not completely protect against development of static charges.\u00a0</li> </ul> <p>Empty containers may contain residual dust which has the potential to accumulate following settling. Such dusts may explode in the presence of an appropriate ignition source.</p> <ul> <li><font color=\"#ff0000\">Do NOT cut, drill, grind or weld such containers.\u00a0</font></li> <li>In addition ensure such activity is not performed near full, partially empty or empty containers without appropriate workplace safety authorisation or permit.\u00a0</li> </ul>",
+                "StorageRequirements": "<p>Carbon and charcoal may be stabilised for storage and transport, without moistening, by treatment with hot air at 50 deg. C.. Use of oxygen-impermeable bags to limit oxygen and moisture uptake has been proposed. Surface contamination with oxygenated volatiles may generate a heat of reaction (spontaneous heating). Should stored product reach 110 deg. C., stacked bags should be pulled apart with each bag separated by an air space to permit cooling away from other combustible materials.</p> <ul> <li>Store under an inert gas, e.g. argon or nitrogen.\u00a0</li> </ul> <p><span style=\"color:#000000\"><strong>FOR MINOR QUANTITIES:</strong></span></p>\n<ul>\n<li><span style=\"color:#000000\">Store in an indoor fireproof cabinet or in a room of noncombustible construction.\u00a0</span></li>\n<li><span style=\"color:#000000\">Provide adequate portable fire-extinguishers in or near the storage area.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\"><strong>FOR PACKAGE STORAGE:</strong></span></p>\n<ul>\n<li><span style=\"color:#000000\">Store in original containers in approved flame-proof area.\u00a0</span></li>\n<li><span style=\"color:#000000\">No smoking, naked lights, heat or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0store in pits, depressions, basements or areas where vapours may be trapped.</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials in a cool, dry, well ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers from exposure to weather and from direct sunlight unless: (a) \u00a0the packages are of metal or plastic construction; (b) \u00a0the packages are securely closed are not opened for any purpose while in the area where they are stored and (c) \u00a0adequate precautions are taken to ensure that rain water, which might become contaminated by the dangerous goods, is collected and disposed of safely.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure proper stock-control measures are maintained to prevent prolonged storage of dangerous goods.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>",
+                "SuitableContainer": "<p><br /></p> <p>Multi-ply paper bag with sealed plastic liner or heavy gauge plastic bag.</p> <p><br /></p> <p><b>NOTE:</b>\u00a0Bags should be stacked, blocked, interlocked, and limited in height so that they are stable and secure against sliding or collapse. Check that all containers are clearly labelled and free from leaks. Packing as recommended by manufacturer.</p> <p>For low viscosity materials and solids:</p> <p>Drums and jerricans must be of the non-removable head type.</p> <p>Where a can is to be used as an inner package, the can must have a screwed enclosure.</p> <p>For materials with a viscosity of at least 2680 cSt. (23 deg. C):</p> <ul> <li>Removable head packaging and\u00a0</li> <li>cans with friction closures may be used.\u00a0</li> </ul> <p>-</p> <p>Where combination packages are used, there must be sufficient inert absorbent material to absorb completely any leakage that may occur, unless the outer packaging is a close fitting moulded plastic box and the substances are not incompatible with the plastic.</p> <p>All combination packages for Packing group I and II must contain cushioning material.</p>",
+                "StorageIncompatability": "<p>For carbon powders:</p> <ul> <li>Avoid oxidising agents, reducing agents.\u00a0</li> <li>Reaction with finely divided metals, bromates, chlorates, chloramine monoxide, dichlorine oxide, iodates, metal nitrates, oxygen difluoride, peroxyformic acid, peroxyfuroic acid and trioxygen difluoride may result in an exotherm with ignition or explosion. Less active forms of carbon will ignite or explode on suitably intimate contact with oxygen, oxides, peroxides, oxosalts, halogens, interhalogens and other oxidising species.\u00a0</li> <li>Explosive reaction with ammonium nitrate, ammonium perchlorate, calcium hypochlorite and iodine pentoxide may occur following heating. Carbon may react violently with nitric acid and may be explosively reactive with nitrogen trifluoride at reduced temperatures. In the presence of nitrogen oxide, incandescence and ignition may occur. Finely divided or highly porous forms of carbon, exhibiting a high surface area to mass (up to 2000 m2/g) may function as unusually active fuels possessing both adsorptive and catalytic properties which accelerate the release of energy in the presence of oxidising substances. Dry metal-impregnated charcoal catalysts may generate sufficient static, during handling, to cause ignition.\u00a0</li> <li>Graphite in contact with liquid potassium, rubidium or caesium at 300 deg. C. produces intercalation compounds (C8M) which ignite in air and may react explosively with water. The fusion of powdered diamond and potassium hydroxide may produce explosive decomposition.\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC42.gif"
+                ],
+                "TransportIncompatibilities": "<p><br /></p> <p>Class 4.2 - Spontaneously combustible substances shall not be loaded in the same vehicle or packed in the same freight container with:\u00a0</p> <p><br /></p> <p>Class 1 - Explosives;\u00a0</p> <p><br /></p> <p>Class 2.1 - Flammable gases;\u00a0</p> <p><br /></p> <p>Class 2.2 - Non-flammable gases;\u00a0</p> <p><br /></p> <p>Class 2.3 - Poisonous gases;\u00a0</p> <p><br /></p> <p>Class 3 - Flammable liquids;\u00a0</p> <p><br /></p> <p>Class 4.1 - Flammable solids;\u00a0</p> <p><br /></p> <p>Class 5.1 - Oxidising agents;\u00a0</p> <p><br /></p> <p>Class 5.2 - Organic peroxides;\u00a0</p> <p><br /></p> <p>Class 7 - Radioactive substances.</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1. 2.2, 2.2 (with subrisk 5.1), 3, 4.1, 4.3, 5.1, 5.2, 6.1, 8<br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul> <li>Recycle wherever possible or consult manufacturer for recycling options.\u00a0</li> <li>Consult State Land Waste Authority for disposal.\u00a0</li> <li>Bury or incinerate residue at an approved site.\u00a0</li> <li>Recycle containers if possible, or dispose of in an authorised landfill.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "NOEC(ECx)",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "50mg/L",
+                        "Source": "4"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H319; H335",
+                        "SignalWord": "GHS07; Wng",
+                        "HazardState": "H319; H335"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H319; H335; H228; H251; H373; H300; H226; H315; H412",
+                        "SignalWord": "GHS07; Wng; GHS02; None Specified; Dgr; GHS08; GHS06",
+                        "HazardState": "H319; H335; H228; H251; H373; H300; H226; H315; H412"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": " (Water (Fresh))",
+                    "MarineWater": " (Water - Intermittent release)",
+                    "Aqua": " (Water (Fresh)_mar)",
+                    "FreshWaterSediment": " (Sediment (Fresh Water))",
+                    "MarineWaterSediment": " (Sediment (Fresh Water)_mar)",
+                    "Soil": "10 mg/kg soil dw (Soil)",
+                    "Stp": " (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {
+                    "LwltInhal": {
+                        "Value": "1.84 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 1.84 mg/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "LcltInhal": {
+                        "Value": "0.9 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 0.9 mg/m\u00b3 (Local, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Carbon; (Graphite, 7782-42-5)",
+                        "Teel1": "6 mg/m3",
+                        "Teel2": "330 mg/m3",
+                        "Teel3": "2,000 mg/m3"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>Sensory irritants are chemicals that produce temporary and undesirable side-effects on the eyes, nose or throat. Historically occupational exposure standards for these irritants have been based on observation of workers' responses to various airborne concentrations. Present day expectations require that nearly every individual should be protected against even minor sensory irritation and exposure standards are established using uncertainty factors or safety factors of 5 to 10 or more. On occasion animal no-observable-effect-levels (NOEL) are used to determine these limits where human results are unavailable. An additional approach, typically used by the TLV committee (USA) in determining respiratory standards for this group of chemicals, has been to assign ceiling values (TLV C) to rapidly acting irritants and to assign short-term exposure limits (TLV STELs) when the weight of evidence from irritation, bioaccumulation and other endpoints combine to warrant such a limit. In contrast the MAK Commission (Germany) uses a five-category system based on intensive odour, local irritation, and elimination half-life. However this system is being replaced to be consistent with the European Union (EU) Scientific Committee for Occupational Exposure Limits (SCOEL); this is more closely allied to that of the USA.</p> <p>OSHA (USA) concluded that exposure to sensory irritants can:</p> <ul> <li>cause inflammation\u00a0</li> <li>cause increased susceptibility to other irritants and infectious agents\u00a0</li> <li>lead to permanent injury or dysfunction\u00a0</li> <li>permit greater absorption of hazardous substances and\u00a0</li> <li>acclimate the worker to the irritant warning properties of these substances thus increasing the risk of overexposure.\u00a0</li> </ul> <p><br /></p> <p>The TLV-TWA for carbon black is recommended to minimise complaints of excessive dirtiness and applies only to commercially produced carbon blacks or to soots derived from combustion sources containing absorbed polycyclic aromatic hydrocarbons (PAHs). When PAHs are present in carbon black (measured as the cyclohexane-extractable fraction) NIOSH has established a REL-TWA of 0.1 mg/m3 and considers the material to be an occupational carcinogen.</p> <p>The NIOSH REL-TWA was \"selected on the basis of professional judgement rather than on data delineating safe from unsafe concentrations of PAHs\".</p> <p>This limit was justified on the basis of feasibility of measurement and not on a demonstration of its safety.\u00a0</p> <p>The concentration of dust, for application of respirable dust limits, is to be determined from the fraction that penetrates a separator whose size collection efficiency is described by a cumulative log-normal function with a median aerodynamic diameter of 4.0 um (+-) 0.3 um and with a geometric standard deviation of 1.5 um (+-) 0.1 um, i.e..generally less than 5 um.</p> #as coal dust (containing &lt;5% crystalline silica):#ES TWA: 3 mg/m3  respirable dust",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Local exhaust ventilation is required where solids are handled as powders or crystals; even when particulates are relatively large, a certain proportion will be powdered by mutual friction.\u00a0</li> <li>Exhaust ventilation should be designed to prevent accumulation and recirculation of particulates in the workplace.\u00a0</li> <li>If in spite of local exhaust an adverse concentration of the substance in air could occur, respiratory protection should be considered. Such protection might consist of:\u00a0</li> </ul> <p>(a): particle dust respirators, if necessary, combined with an absorption cartridge;</p> <p>(b): filter respirators with absorption cartridge or canister of the right type;</p> <p>(c): fresh-air hoods or masks</p> <ul> <li>Build-up of electrostatic charge on the dust particle, may be prevented by bonding and grounding.\u00a0</li> <li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting.\u00a0</li> </ul> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to efficiently remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 4-10 m/s (800-2000 f/min) for extraction of crusher dusts generated 2 metres distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Inhalation of dusts, generated by the material during the course of normal handling, may be damaging to the health of the individual.</p> <p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p> <p>Effects on lungs are significantly enhanced in the presence of respirable particles. Overexposure to respirable dust may produce wheezing, coughing and breathing difficulties leading to or symptomatic of impaired respiratory function.</p> <p>Although carbon itself has no toxic action, associated impurities may be toxic. Iodine is often found as an impurity and air-borne carbon dusts, as a result, may produce irritation of the mucous membranes, the eyes, and skin. Symptoms of exposure may include coughing, irritation of the nose and throat and burning of the eyes.</p>",
+                "AcuteEye": "<p>Limited evidence exists, or practical experience suggests, that the material may cause eye irritation in a substantial number of individuals and/or is expected to produce significant ocular lesions which are present twenty-four hours or more after instillation into the eye(s) of experimental animals. Repeated or prolonged eye contact may cause inflammation characterised by temporary redness (similar to windburn) of the conjunctiva (conjunctivitis); temporary impairment of vision and/or other transient eye damage/ulceration may occur.</p> <p><br /></p> <p>Symptoms of exposure by the eye to carbon particulates include irritation and a burning sensation. Following an industrial explosion, fine particles become embedded in the cornea and conjunctiva resulting in an inflammation which persisted for 2-3 weeks. Some particles remained permanently producing a punctate purplish-black discolouration.</p>",
+                "AcuteSkin": "<p>The material is not thought to produce adverse health effects or skin irritation following contact (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable gloves be used in an occupational setting.</p> <p>Repeated exposure may cause skin cracking, flaking or drying following normal handling and use.</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p>The material has\u00a0<font color=\"#ff0000\"><b>NOT</b></font>\u00a0been classified by EC Directives or other classification systems as \"harmful by ingestion\". This is because of the lack of corroborating animal or human evidence. The material may still be damaging to the health of the individual, following ingestion, especially where pre-existing organ (e.g liver, kidney) damage is evident. Present definitions of harmful or toxic substances are generally based on doses producing mortality rather than those producing morbidity (disease, ill-health). Gastrointestinal tract discomfort may produce nausea and vomiting. In an occupational setting however, ingestion of insignificant quantities is not thought to be cause for concern.</p><p><br /></p> <p>Ingestion of finely divided carbon may produce gagging and constipation. Aspiration does not appear to be a concern as the material is generally regarded as inert and is often used as a food additive. Ingestion may produce a black stool.</p>",
+                "ChronicHealthEffects": "<p>Prolonged or repeated skin contact may cause drying with cracking, irritation and possible dermatitis following.</p> <p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p>On the basis, primarily, of animal experiments, concern has been expressed by at least one classification body that the material may produce carcinogenic or mutagenic effects; in respect of the available information, however, there presently exists inadequate data for making a satisfactory assessment.</p><p>Overexposure to respirable dust may cause coughing, wheezing, difficulty in breathing and impaired lung function. Chronic symptoms may include decreased vital lung capacity, chest infections</p> <p>Repeated exposures, in an occupational setting, to high levels of fine- divided dusts may produce a condition known as pneumoconiosis which is the lodgement of any inhaled dusts in the lung irrespective of the effect. This is particularly true when a significant number of particles less than 0.5 microns (1/50,000 inch), are present. Lung shadows are seen in the X-ray. Symptoms of pneumoconiosis may include a progressive dry cough, shortness of breath on exertion (exertional dyspnea), increased chest expansion, weakness and weight loss. As the disease progresses the cough produces a stringy mucous, vital capacity decreases further and shortness of breath becomes more severe. Other signs or symptoms include altered breath sounds, diminished lung capacity, diminished oxygen uptake during exercise, emphysema and pneumothorax (air in lung cavity) as a rare complication.</p> <p>Removing workers from possibility of further exposure to dust generally leads to halting the progress of the lung abnormalities. Where worker-exposure potential is high, periodic examinations with emphasis on lung dysfunctions should be undertaken</p> <p>Dust inhalation over an extended number of years may produce pneumoconiosis.. Pneumoconiosis is the accumulation of dusts in the lungs and the tissue reaction in its presence. It is further classified as being of noncollagenous or collagenous types. Noncollagenous pneumoconiosis, the benign form, is identified by minimal stromal reaction, consists mainly of reticulin fibres, an intact alveolar architecture and is potentially reversible.</p> <p class=\"MsoNormal\">Chronic inhalation exposure of production workers has caused\r\ndecreased pulmonary function ad myocardial dystrophy. There is suggestive but\r\ninconclusive evidence that carbon black containing polyaromatic hydrocarbons\r\n(PAHs) has been responsible for induction of skin cancers in exposed workers.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Long term inhalation of carbon black can cause cough,\r\nphlegm, tiredness,chest pain and headache. Dermal, mucosal, or inhalation\r\nexposure can cause irritation.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Inhalation of carbon black by mice,rats and monkeys caused\r\nthickened alveolar walls, increased pulmonary collagen, right atrial and\r\nventricular strain, hypertrophy of the right atrial and ventricular septum and\r\nincreased heart weights. Although carbon black itself did not cause cancer in\r\ntreated animals, carbon black containing polyaromatic hydrocarbons (PAHs) did\r\ncause cancer following chronic administration by all routes tested.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Epidemiological studies of workers in the carbon black\r\nproducing industries of North America and Western Europe show no significant\r\nhealth effect due to occupational exposure to carbon black. Several other\r\nstudies provide conflicting evidence. Early studies in the former USSR and\r\nEastern Europe report respiratory diseases amongst workers exposed to carbon\r\nblack, including bronchitis, pneumonia, emphysema and rhinitis. These studies\r\nare of questionable validity due to inadequate study design and methodology,\r\nlack of appropriate controls for cigarette smoking and other confounding\r\nfactors such as concurrent exposure to carbon dioxide, coal oil and petroleum\r\nvapours. Moreover, review of these studies indicates that the concentrations of\r\ncarbon black were greater than current occupational standards.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Carbon black may cause adverse pulmonary changes following\r\nprolonged or repeated inhalation of the dust; these include oral mucosal\r\nlesions, bronchitis and pneumoconiosis which may lead to lung tumours.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">The body of evidence of carcinogenicity in animal studies\r\ncomes from two chronic inhalation studies and two intratracheal instillation\r\nstudies in rats, which showed significantly elevated rates of lung cancer in\r\nexposed animals. An inhalation study was tested on mice, but did not show\r\nsignificantly elevated rates of lung cancer in exposed animals. Epidemiologic\r\ndata comes from three different cohort studies of carbon black production\r\nworkers. Two studies, from the United Kingdom and Germany, with over 1,000\r\nworkers in each study group, showed elevated mortality from lung cancer in the\r\ncarbon black workers. Another study of over 5,000 workers in the United States\r\ndid not show elevated mortality from lung cancer in the carbon black workers.\r\nNewer findings of increased lung cancer mortality in an update from the UK\r\nstudy may suggest that carbon black could be a late-stage carcinogen. However,\r\na more recent and larger study from Germany did not confirm this hypothesis\r\nthat carbon black acts as a late-stage carcinogen.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">In studies employing channel and furnace black, hamsters,\r\nmice, guinea pigs, rabbits and monkeys exposed to dusts for 7 hours/day, 5\r\ndays/week, at concentrations of 87.4 mg/m3 for channel black and 56.5 mg/m3 for\r\nfurnace black, no malignancies were observed in any of the animals. Channel\r\nblack had little if any absorbed polyaromatic hydrocarbons (PAHs) (as benzene\r\nextractables) whilst furnace black had 0.28%.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Several findings have strengthened the association between\r\ninflammation and cancer and between the particle surface area dose of carbon\r\nblack and other\u00a0 poorly soluble low toxicity (PSLT) particles and the pulmonary\r\ninflammation response in mice and the proinflammatory effects in lung cells in\r\nvitro. Other evidence suggests that in addition to a cancer mechanism involving\r\nindirect genotoxicity through inflammation and oxidative stress, nanoparticles\r\nmay act as direct carcinogens .</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Carbon black appears to act like PSLT particles, which can\r\nelicit lung tumours in rats following prolonged exposure to sufficiently high\r\nconcentrations of particles. Particle surface area dose was found to be most\r\npredictive of pulmonary inflammation and tumour response in rats when comparing\r\nthe dose-response relationships for various types and sizes of PSLT including\r\ncarbon black. Compared to fine PSLT, much lower concentrations of ultrafine\r\nPSLT (e.g. 2.5, 6.5 or 11.5 mg/m3 carbon black and ~10 mg/m3 ultrafine titanium\r\ndioxide) were associated with impaired clearance, persistent inflammation, and\r\nmalignant lung tumours in chronic inhalation studies in rats. Most evidence\r\nsuggests that carbon black and other PSLT-elicited lung tumours occurs through\r\na secondary genotoxic mechanism, involving chronic inflammation and oxidative\r\nstress. Experimental studies have shown that when the particle lung dose\r\nreaches a sufficiently high concentration (e.g.,mass dose of ~0.5 mg fine-sized\r\nPSLT/g lung in rats), the alveolar macrophage-medicated clearance process\r\nbegins to be impaired (complete impairment occurs at ~10 mg/g lung. Overloading\r\nof lung clearance is accompanied by pulmonary inflammation, leading to\r\nincreased production of reactive oxygen and nitrogen species, depletion of\r\nantioxidants and/or impairment of other defense mechanisms, cell injury, cell\r\nproliferation, fibrosis, and as seen in rats,\u00a0 induction of mutations and\r\neventually cancer. Rats appear to be more sensitive to carbon black and other\r\nPSLT than other rodent species. Although studies in humans have not shown a\r\ndirect link between inhaled PSLT and lung cancer, many of the steps in the\r\nmechanism observed in rats have also been observed in humans who work in dusty\r\njobs, including increased particle lung retention and pulmonary inflammation in\r\nworkers exposed to coal dust or crystalline silica and elevated lung cancer has\r\nbeen observed in some studies of workers exposed to carbon black, crystalline\r\nsilica, and diesel exhaust particles</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Monkeys exposed to channel black for 1000-1500 hours showed\r\nevidence of electrocardiac changes indicative of right atrial and right\r\nventricular strain. These changes increased progressively until after 10,000\r\nhours of exposure, when the changes were marked. The authors of this study\r\nconcluded that there was no significant effect due to prolonged exposure other\r\nthan those expected from the accumulation of non-toxic dusts in the pulmonary\r\nsystem. Exposure to furnace black produced a similar picture although\r\nelectrocardiographic change was first observed in monkeys after 2500 hours'\r\nexposure and marked atrial and right ventricular strain after 10,000 hours' exposure.\r\nThe authors concluded that there was no significant effect due to prolonged\r\nexposure other than those expected from the accumulation of nontoxic dusts in\r\nthe pulmonary system. Exposure to furnace black produced a similar picture\r\nalthough electrocardiographic change was first observed in monkeys after 2500\r\nhours exposure and marked atrial and right ventricular strain after 10,000\r\nhours exposure.</p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\">Chromatographic fractions of oily material extracted from\r\ncarbon black have been shown to be carcinogenic whilst the unfractionated\r\nextracts are not. The activity of some carcinogens appear to be inhibited by\r\ncarbon black itself.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">2000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    }
+                ],
+                "Irritation": [],
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "SignalWord": "Warning",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSFla.gif"
+                ],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R20?|~R36/37?",
+                "MiniChronicHealthEffects": "R66|R40(3)?|R33?",
+                "WhmisImages": [
+                    "WHMISF.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P210",
+                        "Phrase": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking."
+                    },
+                    {
+                        "Code": "P240",
+                        "Phrase": "Ground and bond container and receiving equipment."
+                    },
+                    {
+                        "Code": "P241",
+                        "Phrase": "Use explosion-proof [electrical/ventilating/lighting/\u2026] equipment."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P235+P410",
+                        "Phrase": "Keep cool., Protect from sunlight."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P370+P378",
+                        "Phrase": "In case of fire:, Use \u2026 to extinguish."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P407",
+                        "Phrase": "Maintain air gap between stacks or pallets."
+                    },
+                    {
+                        "Code": "P413",
+                        "Phrase": "Store bulk masses greater than \u2026 kg/\u2026 lbs at temperatures not exceeding \u2026 \u00b0C/\u2026 \u00b0F."
+                    },
+                    {
+                        "Code": "P420",
+                        "Phrase": "Store separately."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [
+                    "O"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S05",
+                        "Phrase": "    Keep contents under...&nbsp;  "
+                    },
+                    {
+                        "Code": "S07",
+                        "Phrase": "    Keep container tightly closed.&nbsp;  "
+                    },
+                    {
+                        "Code": "S22",
+                        "Phrase": "    Do not breathe dust.&nbsp;  "
+                    },
+                    {
+                        "Code": "S24",
+                        "Phrase": "    Avoid contact with skin.&nbsp;  "
+                    },
+                    {
+                        "Code": "S33",
+                        "Phrase": "    Take precautionary measures against static discharges.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S41",
+                        "Phrase": "    In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;  "
+                    },
+                    {
+                        "Code": "S43",
+                        "Phrase": "\nIn case of fire use the extinguishing media detailed in section 5 of this SDS.\n"
+                    },
+                    {
+                        "Code": "S51",
+                        "Phrase": "    Use only in well ventilated areas.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "open_window.gif",
+                        "Translation": "General Exhaust Ventilation adequate."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water (15 mins). Medical attention."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Flood body with water. Remove contaminated clothing. Wash with water"
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R66.gif",
+                        "Translation": "Repeated exposure may cause skin dryness and cracking."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water jets.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "ChemicalName": "GRAPHITE",
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 2,
+                    "Reactivity": 3,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_2_3_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "1",
+                    "Translation": "Low",
+                    "NumericalRating": 1,
+                    "IsSGroup": true
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 1,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <ul> <li>Fire resistant/ heat resistant gloves where practical, otherwise\u00a0</li> <li>Heavy-duty chemically resistant gloves capable of providing short-term protection against spontaneous ignition.\u00a0</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<p class=\"MsoNormal\" style='text-autospace:none'><span lang=\"X-NONE\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";color:black'>Wear\r\nprotective clothing appropriate for the work situation.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='text-autospace:none'><span lang=\"X-NONE\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";color:black'>For large\r\nscale or continuous use, when handling dry powder, wear :</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-left:36.0pt;text-indent:-18.0pt;text-autospace:\r\nnone'><span lang=\"X-NONE\" style='font-family:Symbol;color:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span lang=\"X-NONE\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>tight-weave, non-static, noncombustible or flameproof clothing\r\nwithout cuffs, metallic fasteners, pockets, or laps in which powder may\r\ncollect.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-left:36.0pt;text-indent:-18.0pt;text-autospace:\r\nnone'><span lang=\"X-NONE\" style='font-family:Symbol;color:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span lang=\"X-NONE\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>non-sparking safety or conductive footwear. Conductive footwear\r\ndescribes a boot or shoe with a sole made from a conductive compound chemically\r\nbound to the bottom components, for permanent control to electrically ground\r\nthe foot an shall dissipate static electricity from the body to reduce the possibility\r\nof ignition of volatile compounds. Electrical resistance must range between 0\r\nto 500,000 ohms. Conductive shoes should be stored in lockers close to the room\r\nin which they are worn. Personnel who have been issued conductive footwear\r\nshould not wear them from their place of work to their homes and return.</span></p>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "100",
+            "Name": "carbon, non-activated",
+            "OrderNumber": 1,
+            "NameForShowing": "carbon, non-activated",
+            "ProportionForShowing": "100",
+            "CwNumber": "1361-1",
+            "NumericProportion": {
+                "MinValue": 100.0,
+                "MaxValue": 100.0,
+                "RawMinValue": 100.0,
+                "RawMaxValue": 100.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0278",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0278",
+    "Version": "637648158560271079",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0278",
+    "Key": "01-0278_AUS_EN",
+    "FullKey": "datasets/gold/01-0278_AUS_EN",
+    "AiteLogKey": "01-0278",
+    "AiteS3Key": "xml/01-0278.json",
+    "Name": "EMD Spill-X-S Solvent Spill Treatment Kit Refill",
+    "GhsEntities": [],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

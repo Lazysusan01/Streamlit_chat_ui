@@ -1,0 +1,655 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "113495",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a113495",
+                "Version": "637643740100025583",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "113495",
+                "Key": "113495_AUS_EN",
+                "FullKey": "datasets/gold/113495_AUS_EN",
+                "AiteLogKey": "113495",
+                "AiteS3Key": "xml/113495.json",
+                "ChemKey": {
+                    "cw": "CK-113495",
+                    "un": [],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-8012-95-1.",
+                        "CK-8012-95-1",
+                        "CK-8043-78-5",
+                        "CK-37231-69-9",
+                        "CK-37232-05-6",
+                        "CK-188832-17-9",
+                        "CK-79956-36-8",
+                        "CK-172307-10-7",
+                        "CK-58615-80-8",
+                        "CK-187112-19-2",
+                        "CK-219686-29-0",
+                        "CK-261380-10-3",
+                        "CK-74870-90-9",
+                        "CK-97048-20-9",
+                        "CK-58391-38-1",
+                        "CK-331464-54-1",
+                        "CK-99551-14-1",
+                        "CK-8039-75-6",
+                        "CK-8039-14-3",
+                        "CK-8038-04-8",
+                        "CK-8033-89-4",
+                        "CK-60327-80-2",
+                        "CK-39464-77-2",
+                        "CK-39290-23-8",
+                        "CK-83046-05-3",
+                        "CK-51004-58-1",
+                        "CK-39296-25-8",
+                        "CK-50935-95-0",
+                        "CK-122176-99-2",
+                        "CK-39464-78-3",
+                        "CK-51109-96-7",
+                        "CK-39355-35-6",
+                        "CK-39355-09-4",
+                        "CK-39355-08-3",
+                        "CK-106803-31-0",
+                        "CK-115251-26-8",
+                        "CK-116357-36-9",
+                        "CK-50935-85-8",
+                        "CK-37232-07-8",
+                        "CK-146908-77-2",
+                        "CK-37232-06-7",
+                        "CK-53028-74-3",
+                        "CK-52012-28-9",
+                        "CK-52012-27-8",
+                        "CK-8015-59-6",
+                        "CK-102819-98-7"
+                    ],
+                    "groupCode": [
+                        "CK-G8370",
+                        "CK-G57.2",
+                        "CK-G1072",
+                        "CK-G57",
+                        "CK-G9904",
+                        "CK-G10739",
+                        "CK-G2760",
+                        "CK-G8144"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "paraffin oils",
+                "CasNumber": "8012-95-1.",
+                "GhsEntities": [],
+                "CombustibleLiquidsClass": "Class 2",
+                "FlashPoint": 160.0,
+                "PhysicalState": "<p>Liquid</p>",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "BoilingPoint": 181.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>General Exhaust Ventilation adequate.</p>",
+                "MiniResp": "Type A-P Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 & 149:2001, ANSI Z88 or national equivalent)",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p>",
+                "MiniFireExp": "<p>Vapours/gas heavier than air.</p> <p>Toxic smoke/fumes in a fire.</p>",
+                "MiniAppearance": "<p>Liquid.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Floats on water.</p>",
+                "MiniFlammability": "<p>Combustible.</p>",
+                "MiniFirstAidSwallow": "<p>Rinse mouth with water.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water.</p>",
+                "MiniFirstAidSkin": "<p><span style=\"color:#000000\">Wash with soap<br /></span></p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm.</p>",
+                "MiniAdvDoc": "<p>Emesis generally unnecessary. Debride for subcutaneous injection.</p>",
+                "MiniFireFighting": "<p>Foam.</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Absorb with dry agent.</p> <p>Stop leak if safe to do so.</p>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Reactivity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "BodyContact": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": true,
+                    "RawValue": "None"
+                },
+                "InternationalHazardGraphics": [],
+                "RiskCodes": [],
+                "SpecificGravity": "0.82-0.89",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "None",
+                "Use": "BP grades are used as a laxative.  Used in food packaging material; as a lubricant and rust preventative in food packaging machinery; in cosmetics, pharmaceuticals, industrial skin creams and veterinary preparations.  A minor usage is as the carrier for evaluation of chemicals for toxic effects in animal experiments.",
+                "ChemicalFormula": [],
+                "FirstAidIngestion": "<ul> <li>Immediately give a glass of water.\u00a0</li> <li>First aid is not generally required. If in doubt, contact a Poisons Information Centre or a doctor.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<ul> <li>Heavy and persistent skin contamination over many years may lead to dysplastic changes. \u00a0Pre-existing skin disorders may be aggravated by exposure to this product.\u00a0</li> <li>In general, emesis induction is unnecessary with high viscosity, low volatility products, i.e. most oils and greases.\u00a0</li> <li>High pressure accidental injection through the skin should be assessed for possible incision, irrigation and/or debridement.\u00a0</li> </ul> <p><b>NOTE:</b>\u00a0Injuries may not seem serious at first, but within a few hours tissue may become swollen, discoloured and extremely painful with extensive subcutaneous necrosis. \u00a0Product may be forced through considerable distances along tissue planes.</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes, aerosols or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Other measures are usually unnecessary.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Wash out immediately with fresh running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<ul> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> <li>Water spray or fog - Large fires only.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Combustible.\u00a0</li> <li>Slight fire hazard when exposed to heat or flame.\u00a0</li> <li>Heating may cause expansion or decomposition leading to violent rupture of containers.\u00a0</li> <li>On combustion, may emit toxic fumes of carbon monoxide (CO).\u00a0</li> <li>May emit acrid smoke.\u00a0</li> <li>Mists containing combustible materials may be explosive.\u00a0</li> </ul> <p>Combustion products include:</p> <p>carbon dioxide (CO2)</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p>May emit poisonous fumes.</p> <p>May emit corrosive fumes.</p> <p><b>CARE</b>: Water in contact with hot liquid may cause foaming and a steam explosion with wide scattering of hot oil and possible severe burns. Foaming may cause overflow of containers and may result in possible fire.</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li>Avoid spraying water onto liquid pools.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Slippery when spilt.</p> <p>Moderate hazard.\u00a0</p> <ul> <li>Clear area of personnel and move upwind.\u00a0</li> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>No smoking, naked lights or ignition sources.\u00a0</li> <li>Increase ventilation.\u00a0</li> <li>Stop leak if safe to do so.\u00a0</li> <li>Contain spill with sand, earth or vermiculite.\u00a0</li> <li>Collect recoverable product into labelled containers for recycling.\u00a0</li> <li>Absorb remaining product with sand, earth or vermiculite.\u00a0</li> <li>Collect solid residues and seal in labelled drums for disposal.\u00a0</li> <li>Wash area and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise emergency services.\u00a0</li> </ul>",
+                "MinorSpills": "<p>Slippery when spilt.</p> <ul> <li>Remove all ignition sources.\u00a0</li> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid breathing vapours and contact with skin and eyes.\u00a0</li> <li>Control personal contact with the substance, by using protective equipment.\u00a0</li> <li>Contain and absorb spill with sand, earth, inert material or vermiculite.\u00a0</li> <li>Wipe up.\u00a0</li> <li>Place in a suitable, labelled container for waste disposal.\u00a0</li> </ul>",
+                "MolecularWeight": "Not applicable.",
+                "Appearance": "A transparent, colourless, oily liquid, free from fluorescence by daylight; almost odourless, almost tasteless. Insoluble in water and ethanol. Available as Technical or medicinal (B.P.) grades.",
+                "VapourPressure": "Very low.",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "> 99",
+                "EvaporationRate": "Not Available",
+                "OdourThreshold": "Not Available",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not available.",
+                "AutoIgnitionTemperature": "Not available.",
+                "RelativeVapourDensity": ">2",
+                "FlashRange": "160",
+                "Lel": "Not available.",
+                "BoilingRange": ">180",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not available.",
+                "Viscosity": "Not Available",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "DISTILLATES (PETROLEUM), SOLVENT-REFINED HEAVY PARAFFINIC",
+                    "Marcol 72 (white oil)"
+                ],
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of exposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid smoking, naked lights or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#000000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions.\u00a0</span></li>\n</ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">No smoking, naked lights or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry, well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.\u00a0</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Metal can or drum\u00a0</li> <li>Packaging as recommended by manufacturer.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p><br /></p> <p><b>CARE</b>: Water in contact with heated material may cause foaming or a steam explosion with possible severe burns from wide scattering of hot material. Resultant overflow of containers may result in fire.</p> <ul> <li>Avoid reaction with oxidising agents\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [],
+                "TransportIncompatibilities": "<p>No restrictions.\u00a0</p>",
+                "TransportPrecautions": "#Prec_trans0_1",
+                "Environment": "<p><b>for lubricating oil base stocks:</b></p> <p><b>Vapor Pressure\u00a0</b>Vapor pressures of lubricating base oils are reported to be negligible. In one study, the experimentally measured vapour pressure of a solvent-dewaxed heavy paraffinic distillate base oil was 1.7 x 10exp-4 Pa . Since base oils are mixtures of C15 to C50 paraffinic, naphthenic, and aromatic hydrocarbon isomers, representative components of those structures were selected to calculate a range of vapor pressures. The estimated vapor pressure values for these selected components of base oils ranged from 4.5 x 10exp-1 Pa to 2 x 10exp-13Pa. Based on Dalton's Law the expected total vapour pressure for base oils would fall well below minimum levels (10exp-5 Pa) of recommended experimental procedures.\u00a0</p> <p><b>Partition Coefficient (log Kow):\u00a0</b>In mixtures such as the base oils, the percent distribution of the hydrocarbon groups (i.e., paraffins, naphthenes, and aromatics) and the carbon chain lengths determines in-part the partitioning characteristics of the mixture. Generally, hydrocarbon chains with fewer carbon atoms tend to have lower partition coefficients than those with higher carbon numbers .However, due to their complex composition, unequivocal determination of the log Kow of these hydrocarbon mixtures cannot be made. Rather, partition coefficients of selected C15 chain-length hydrocarbon structures representing paraffinic, naphthenic, and aromatic constituents in base oil lubricants were modelled . Results showed typical log Kow values from 4.9 to 7.7, which were consistent with values of &gt;4 for lubricating oil basestocks\u00a0</p> <p><b>Water Solubility:</b>When released to water, base oils will float and spread at a rate that is viscosity dependent. While water solubility of base oils is typically very low, individual hydrocarbons exhibit a wide range of solubility depending on molecular weight and degree of unsaturation. Decreasing molecular weight (i.e., carbon number) and increasing levels of unsaturation increases the water solubility of these materials. As noted for partition coefficient, the water solubility of lubricating base oils cannot be determined due to their complex mixture characteristics. Therefore, the water solubility of individual C15 hydrocarbons representing the different groups making up base oils (i.e., linear and branched paraffins, naphthenes, and aromatics) was modelled. Based on water solubility modelling of those groups, aqueous solubilities are typically much less than 1 ppm. (0.003-0.63 mg/l)</p> <p><b>Environmental Fate:</b></p> <p><b>Photodegradation:\u00a0</b>Chemicals having potential to photolyse have UV/visible absorption maxima in the range of 290 to 800 nm. Some chemicals have absorption maxima significantly below 290 nm and consequently cannot undergo direct photolysis in sunlight (e.g. chemicals such as alkanes, alkenes, alkynes, saturated alcohols, and saturated acids). Most hydrocarbon constituents of the materials in this category are not expected to photolyse since they do not show absorbance within the 290-800 nm range. However, photodegradation of polyaromatic hydrocarbons (PAHs) can occur and may be a significant degradation pathway for these constituents of lubricating base oils. The degree and rate at which PAHs may photodegrade depend upon whether conditions allow penetration of light with sufficient energy to effect a change. For example,polycyclic aromatic compounds (PAC) compounds bound to sediments may persist due to a lack of sufficient light penetration\u00a0</p> <p>Atmospheric gas-phase reactions can occur between organic chemicals and reactive molecules such as photochemically produced hydroxyl radicals, ozone and nitrogen oxides. Atmospheric oxidation as a result of radical attack is not direct photochemical degradation, but indirect degradation. In general, lubricating base oils have low vapour pressures and volatilisation is not expected to be a significant removal mechanism for the majority of the hydrocarbon components. However, some components (e.g., C15 branched paraffins and naphthenes) appear to have the potential to volatilise Atmospheric half-lives of 0.10 to 0.66 days have been calculated for representative C15 hydrocarbon components of lubricating base oils\u00a0</p> <p><b>Stability in Water:\u00a0</b>Chemicals that have a potential to hydrolyze include alkyl halides, amides, carbamates, carboxylic acid esters and lactones, epoxides, phosphate esters, and sulfonic acid esters. Because lubricating base oils do not contain significant levels of these functional groups, materials in the lubricating base oils category are not subject to hydrolysis\u00a0</p> <p><b>Chemical Transport and Distribution in the Environment :\u00a0</b>Based on the physical-chemical characteristics of component hydrocarbons in lubricating base oils, the lower molecular weight components are expected to have the highest vapour pressures and water solubilities, and the lowest partition coefficients. These factors enhance the potential for widespread distribution in the environment. To gain an understanding of the potential transport and distribution of lubricating base oil components, the EQC (Equilibrium Criterion) model was used to characterize the environmental distribution of different C15 compounds representing different structures found in lube oils (e.g., paraffins, naphthenes, and aromatics). The modelling found partitioning to soil or air is the ultimate fate of these C15 compounds. Aromatic compounds partition principally to soil. Linear paraffins partition mostly to soil, while branching appears to allow greater distribution to air. Naphthenes distribute to both soil and air, with increasing proportions in soil for components with the greater number of ring structures. Because the modelling does not take into account degradation factors, levels modelled in the atmosphere are likely overstated in light of the tendency for indirect photodegradation to occur.\u00a0</p> <p><b>Biodegradation: \u00a0T</b>he extent of biodegradation measured for a particular lubricating oil basestock is dependent not only on the procedure used but also on how the sample is presented in the biodegradation test. Lubricant base oils typically are not readily biodegradable in standard 28-day tests. However, since the oils consist primarily of hydrocarbons that are ultimately assimilated by microorganisms, and therefore inherently biodegradable. Twenty-eight biodegradability studies have been reported for a variety of lubricating base oils. Based on the results of ultimate biodegradability tests using modified Sturm and manometric respirometry testing the base oils are expected to be, for the most part, inherently biodegradable. Biodegradation rates found using the modified Sturm procedure ranged from 1.5 to 29%. Results from the manometric respirometry tests on similar materials showed biodegradation rates from 31 to 50%. Biodegradation rates measured in 21-day CEC tests for similar materials ranged from 13 to 79%.</p> <p><b>Ecotoxicity:</b></p> <p>Numerous acute studies covering fish, invertebrates, and algae have been conducted to assess the ecotoxicity of various lubricating base oils. None of these studies have shown evidence of acute toxicity to aquatic organisms. Eight, 7-day exposure studies using rainbow trout failed to demonstrate toxicity when tested up to the maximum concentration of 1000 mg/L applied as dispersions. Three, 96-hour tests with rainbow trout also failed to show any toxic effects when tested up to 1000 mg/L applied as dispersions. Similarly, three 96-hour tests with fathead minnows at a maximum test concentration of 100 mg/L water accommodated fractions (WAF) showed no adverse effects. Two species of aquatic invertebrates (Daphnia magna and Gammarus sp.) were exposed to WAF solutions up to 10,000 mg/L for 48 and 96-hours, respectively, with no adverse effects being observed. \u00a0Four-day exposures of the freshwater green alga (Scenedesmus subspicatus) to 500 mg/L WAF solutions failed to show adverse effects on growth rate and algal cell densities in four studies\u00a0</p> <p>Multiple chronic ecotoxicity studies have shown no adverse effects to daphnid survival or reproduction. In 10 of 11 chronic studies, daphnids were exposed for 21 days to WAF preparations of lubricating base oils with no ill effects on survival or reproduction at the maximum concentration of 1000 mg/L. One test detected a reduction in reproduction at 1000 mg/L. \u00a0Additional data support findings of no chronic toxicity to aquatic invertebrates and fish. No observed effect levels ranged from 550 to 5,000 mg/L when tested as either dispersions or WAFs.\u00a0</p> <p>The data described above are supported by studies on a homologous series of alkanes. The author concluded that the water solubility of carbon chains .C10 is too limited to elicit acute toxicity. This also was shown for alkylbenzene compounds having carbon numbers .C15. Since base oils consist of carbon compounds of C15 to C50, component hydrocarbons that are of acute toxicological concern are, for the most part, absent in these materials. Similarly, due to their low solubility, the alkylated two to three ring polyaromatic components in base oils are not expected to cause acute or chronic toxicity. This lack of toxicity is borne out in the results of the reported studies.\u00a0</p> <p>The effects of crude and refined oils on organisms found in fresh and sea water ha been extensively reviewed.</p> <p>sea water. Where spillages occur the non-mobile species suffer the greatest mortality, whereas fish species can often escape from the affected region. The extent of the initial mortality depends on the chemical nature of the oil, the location, and the physical conditions, particularly the temperature and wind velocity. Most affected freshwater and marine communities recover from the effects of an oil spill within a year. The occurrence of biogenic hydrocarbons in the world's oceans is well recorded. They have the characteristic isoprenoid structure, and measurements made in water columns indicate a background concentration of 1.0 to 10 ul/l. The higher molecular weight materials are dispersed as particles, with the highest concentrations of about 20 ul/l occurring in the top 3 mm layer of water.</p> <p>A wide variation in the response of organisms to oil exposures has been noted. The larvae of fish and crustaceans appear to be most susceptible to the water-soluble fraction of crude oil. Exposures of plankton and algae have indicated that certain species of diatoms and green algae are inhibited, whereas microflagellates are not.</p> <p>For the most part, molluscs and most intertidal worm species appear to be tolerant of oil contamination.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<p>Legislation addressing waste disposal requirements may differ by country, \u00a0state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. If it has been contaminated, it may be possible to reclaim the product by filtration, distillation or some other means. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul> <li>Recycle wherever possible or consult manufacturer for recycling options.\u00a0</li> <li>Consult State Land Waste Authority for disposal.\u00a0</li> <li>Bury or incinerate residue at an approved site.\u00a0</li> <li>Recycle containers if possible, or dispose of in an authorised landfill.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "0.016-0.027mg/L",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "0.016-0.027mg/L",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": ">100mg/L",
+                        "Source": "4"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H304; H410; H226; H335; H336; H334; H372; H332; H341; H371; H314; H318",
+                        "SignalWord": "GHS08; Dgr; GHS09; GHS07; Wng; GHS02; GHS05",
+                        "HazardState": "H304; H410; H226; H335; H336; H334; H372; H332; H341; H371; H314; H318"
+                    },
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {
+                    "SwltInhal": {
+                        "Value": "5 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 5 mg/m\u00b3 (Systemic, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "LwltInhal": {
+                        "Value": "5 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 5 mg/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "SwstInhal": {
+                        "Value": "5 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 5 mg/m\u00b3 (Systemic, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Acute"
+                    },
+                    "LwstInhal": {
+                        "Value": "5 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 5 mg/m\u00b3 (Local, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Mineral oil, heavy or light; (paraffin oil; Deobase, deodorized; heavy paraffinic; heavy naphthenic); distillates; includes 64741-53-3, 64741-88-4, 8042-47-5, 8012-95-1; 64742-54-7",
+                        "Teel1": "140 mg/m3",
+                        "Teel2": "1,500 mg/m3",
+                        "Teel3": "8,900 mg/m3"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalMgm3": "2,500 mg/m3",
+                    "OriginalValue": "2,500 mg/m3",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>Sensory irritants are chemicals that produce temporary and undesirable side-effects on the eyes, nose or throat. Historically occupational exposure standards for these irritants have been based on observation of workers' responses to various airborne concentrations. Present day expectations require that nearly every individual should be protected against even minor sensory irritation and exposure standards are established using uncertainty factors or safety factors of 5 to 10 or more. On occasion animal no-observable-effect-levels (NOEL) are used to determine these limits where human results are unavailable. An additional approach, typically used by the TLV committee (USA) in determining respiratory standards for this group of chemicals, has been to assign ceiling values (TLV C) to rapidly acting irritants and to assign short-term exposure limits (TLV STELs) when the weight of evidence from irritation, bioaccumulation and other endpoints combine to warrant such a limit. In contrast the MAK Commission (Germany) uses a five-category system based on intensive odour, local irritation, and elimination half-life. However this system is being replaced to be consistent with the European Union (EU) Scientific Committee for Occupational Exposure Limits (SCOEL); this is more closely allied to that of the USA.</p> <p>OSHA (USA) concluded that exposure to sensory irritants can:</p> <ul> <li>cause inflammation\u00a0</li> <li>cause increased susceptibility to other irritants and infectious agents\u00a0</li> <li>lead to permanent injury or dysfunction\u00a0</li> <li>permit greater absorption of hazardous substances and\u00a0</li> <li>acclimate the worker to the irritant warning properties of these substances thus increasing the risk of overexposure.\u00a0</li> </ul> <p><br /></p> <p>\u00a0for mineral oils (excluding metal working fluids), pure, highly and severely refined:</p> <p>Human exposure to oil mist alone has not been demonstrated to cause health effects except at levels above 5 mg/m3 (this applies to particulates sampled by a method that does not collect vapour). It is not advisable to apply this standard to oils containing unknown concentrations and types of additive.</p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.</p> <p><br /></p> <p>General exhaust is adequate under normal operating conditions. Local exhaust ventilation may be required in specific circumstances. If risk of overexposure exists, wear approved respirator. Correct fit is essential to obtain adequate protection. Provide adequate ventilation in warehouse or closed storage areas. Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>solvent, vapours, degreasing etc., evaporating from tank (in still air).</p>  </td> <td> <p>0.25-0.5 m/s (50-100 f/min)</p>  </td> </tr> <tr> <td> <p>aerosols, fumes from pouring operations, intermittent container filling, low speed conveyer transfers, welding, spray drift, plating acid fumes, pickling (released at low velocity into zone of active generation)</p>  </td> <td> <p>0.5-1 m/s (100-200 f/min.)</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2 m/s (200-400 f/min) for extraction of solvents generated in a tank 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>The material is not thought to produce adverse health effects or irritation of the respiratory tract (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable control measures be used in an occupational setting.</p> <p>Not normally a hazard due to non-volatile nature of product</p> <p>Inhalation of oil droplets/ aerosols may cause discomfort and may produce chemical pneumonitis.</p>",
+                "AcuteEye": "<p>Limited evidence exists, or practical experience suggests, that the material may cause eye irritation in a substantial number of individuals and/or is expected to produce significant ocular lesions which are present twenty-four hours or more after instillation into the eye(s) of experimental animals. Repeated or prolonged eye contact may cause inflammation characterised by temporary redness (similar to windburn) of the conjunctiva (conjunctivitis); temporary impairment of vision and/or other transient eye damage/ulceration may occur.</p>",
+                "AcuteSkin": "<p><br /></p> <p>The liquid may be miscible with fats or oils and may degrease the skin, producing a skin reaction described as non-allergic contact dermatitis. The material is unlikely to produce an irritant dermatitis as described in EC Directives .</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>The material may accentuate any pre-existing dermatitis condition</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p>The material has\u00a0<font color=\"#ff0000\"><b>NOT</b></font>\u00a0been classified by EC Directives or other classification systems as \"harmful by ingestion\". This is because of the lack of corroborating animal or human evidence. The material may still be damaging to the health of the individual, following ingestion, especially where pre-existing organ (e.g liver, kidney) damage is evident. Present definitions of harmful or toxic substances are generally based on doses producing mortality rather than those producing morbidity (disease, ill-health). Gastrointestinal tract discomfort may produce nausea and vomiting. In an occupational setting however, ingestion of insignificant quantities is not thought to be cause for concern.</p>|Small amounts act as an aperient (mild laxative).",
+                "ChronicHealthEffects": "<p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p><br /></p> <p>Mildly-treated solvent refined oils, both naphthenic and paraffinic, induce skin tumours after repeated skin applications in mice. Severe solvent-refining, by contrast, does not induce such tumours.</p> <p>Principal route of exposure is by skin contact; lesser exposures include inhalation of fumes from hot oils, oil mists or droplets. Prolonged contact with mineral oils carries with it the risk of skin conditions such as oil folliculitis, eczematous dermatitis, pigmentation of the face (melanosis) and warts on the sole of the foot (plantar warts). \u00a0With highly refined mineral oils no appreciable systemic effects appear to result through skin absorption.</p> <p>\u00a0Exposure to oil mists frequently elicits respiratory conditions, such as asthma; the provoking agent is probably an additive. High oil mist concentrations may produce lipoid pneumonia although clinical evidence is equivocal. In animals exposed to concentrations of 100 mg/m3 oil mist, for periods of 12 to 26 months, the activity of lung and serum alkaline phosphatase enzyme was raised; 5 mg/m3 oil mist did not produce this response. These enzyme changes are sensitive early indicators of lung damage. Workers exposed to vapours of mineral oil and kerosene for 5 to 35 years showed an increased prevalence of slight basal lung fibrosis.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Mouse) LD50;",
+                        "Value": "22000",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "Inhalation(Rat) LC50;",
+                        "Value": "2062",
+                        "Unit": "ppm4h",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [
+                    {
+                        "Value": "Skin (rabbit): 100 mg/24h mild",
+                        "IsFromGalleria": false
+                    },
+                    {
+                        "Value": "Eye (rabbit): 500 mg moderate",
+                        "IsFromGalleria": false
+                    }
+                ],
+                "InitialDate": "22/01/2006",
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "NzCodes": [],
+                "Pictograms": [],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS SUBSTANCE. According to NOHSC Criteria, and ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS CHEMICAL. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R36?",
+                "MiniChronicHealthEffects": "R33?",
+                "WhmisImages": [],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [],
+                "PrecautionaryCodesResponse": [],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [],
+                "SafetyCodes": [],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": false,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "open_window.gif",
+                        "Translation": "General Exhaust Ventilation adequate."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water."
+                    }
+                ],
+                "RiskHealthImages": [],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_foam.gif",
+                        "Translation": "Foam."
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Foam.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSHR.gif",
+                        "Translation": "Half-Respirator"
+                    }
+                ],
+                "ChemicalName": "DISTILLATES (PETROLEUM), SOLVENT-REFINED HEAVY PARAFFINIC",
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 1,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_1_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 0,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Liquid.gif",
+                        "Translation": "Liquid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "floats_on_water.gif",
+                        "Translation": "Floats on water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <ul> <li>Wear chemical protective gloves, e.g. PVC.\u00a0</li> <li>Wear safety footwear or safety gumboots, e.g. Rubber\u00a0</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul>\n<li>Overalls.\u00a0</li>\n<li>P.V.C apron.\u00a0</li>\n<li>Barrier cream.\u00a0</li>\n<li>Skin cleansing cream.\u00a0</li>\n<li>Eye wash unit.\u00a0</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<ul>\n<li><span style=\"color:black\">Cartridge respirators should never be used for emergency ingress or in areas of unknown vapour concentrations or oxygen content.</span></li>\n<li><span style=\"color:black\">The wearer must be warned to leave the contaminated area immediately on detecting any odours through the respirator. The odour may indicate that the mask is not functioning properly, that the vapour concentration is too high, or that the mask is not properly fitted. Because of these limitations, only restricted use of cartridge respirators is considered appropriate.</span></li>\n<li><span>Cartridge performance is affected by humidity. Cartridges should be changed after 2 hr of continuous use unless it is determined that the humidity is less than 75%, in which case, cartridges can be used for 4 hr. Used cartridges should be discarded daily, regardless of the length of time used</span></li>\n</ul>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "NotSpec",
+            "Name": "paraffin oils",
+            "OrderNumber": 1,
+            "NameForShowing": "paraffin oils",
+            "ProportionForShowing": "NotSpec",
+            "CwNumber": "113495",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "1-<3",
+            "Name": "olefin polysulphide, proprietary",
+            "OrderNumber": 2,
+            "SanitizedName": "olefin polysulphide, proprietary",
+            "NameForShowing": "olefin polysulphide, proprietary",
+            "ProportionForShowing": "1-<3",
+            "NumericProportion": {
+                "MinValue": 1.0,
+                "MaxValue": 2.99,
+                "RawMinValue": 1.0,
+                "RawMaxValue": 3.0,
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "balance",
+            "Name": "Ingredients determined not to be hazardous",
+            "OrderNumber": 3,
+            "SanitizedName": "Ingredients determined not to be hazardous",
+            "NameForShowing": "Ingredients determined not to be hazardous",
+            "ProportionForShowing": "balance",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0666",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0666",
+    "Version": "637648107900582360",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0666",
+    "Key": "01-0666_AUS_EN",
+    "FullKey": "datasets/gold/01-0666_AUS_EN",
+    "AiteLogKey": "01-0666",
+    "AiteS3Key": "xml/01-0666.json",
+    "Name": "Caltex Delo Gear Lubricant ESI SAE 80W-90",
+    "GhsEntities": [],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

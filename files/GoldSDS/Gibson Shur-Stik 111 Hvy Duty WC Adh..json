@@ -1,0 +1,921 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "1498",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a1498",
+                "Version": "637643800457030259",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "1498",
+                "Key": "1498_AUS_EN",
+                "FullKey": "datasets/gold/1498_AUS_EN",
+                "AiteLogKey": "1498",
+                "AiteS3Key": "xml/1498.json",
+                "ChemKey": {
+                    "cw": "CK-1498",
+                    "un": [
+                        "CK-UN1498"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC5.1"
+                    ],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7631-99-4",
+                        "CK-1401517-04-1",
+                        "CK-862599-22-2"
+                    ],
+                    "groupCode": [
+                        "CK-G56.4",
+                        "CK-G15798",
+                        "CK-G31.1",
+                        "CK-G37.1",
+                        "CK-G13538",
+                        "CK-G37",
+                        "CK-G14174",
+                        "CK-G11494",
+                        "CK-G996",
+                        "CK-G31",
+                        "CK-G32.3",
+                        "CK-G9895",
+                        "CK-G8714",
+                        "CK-G14187",
+                        "CK-G11494.1",
+                        "CK-G56.3"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "sodium nitrate",
+                "CasNumber": "7631-99-4",
+                "Dgc": "5.1",
+                "EcNumber": "231-554-3",
+                "PackingGroup": "III",
+                "Un": "1498",
+                "GhsEntities": [
+                    {
+                        "Category": "Oxidizing Solid Category 3",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H272",
+                        "Phrase": "May intensify fire; oxidiser."
+                    },
+                    {
+                        "Category": "Acute Aquatic Hazard Category 3",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H402",
+                        "Phrase": "Harmful to aquatic life."
+                    },
+                    {
+                        "Category": "Carcinogenicity Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H351",
+                        "Phrase": "Suspected of causing cancer."
+                    },
+                    {
+                        "Category": "Germ cell mutagenicity Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H341",
+                        "Phrase": "Suspected of causing genetic defects."
+                    },
+                    {
+                        "Category": "Specific target organ toxicity - single exposure Category 3 (respiratory tract irritation)",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H335",
+                        "Phrase": "May cause respiratory irritation."
+                    },
+                    {
+                        "Category": "Eye Irritation Category 2A",
+                        "CategoryCode": "Cat 2A",
+                        "Code": "H319",
+                        "Phrase": "Causes serious eye irritation."
+                    },
+                    {
+                        "Category": "Skin Corrosion/Irritation Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H315",
+                        "Phrase": "Causes skin irritation."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Oral) Category 4",
+                        "CategoryCode": "Cat 4",
+                        "Code": "H302",
+                        "Phrase": "Harmful if swallowed."
+                    }
+                ],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "Miscible",
+                "WaterSolubility": 1,
+                "BoilingPoint": 380.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>Local Exhaust Ventilation recommended.</p>",
+                "MiniResp": "<p>Particulate. (AS/NZS 1716 &amp; 1715, EN 143:2000 &amp; 149:001, ANSI Z88 or national equivalent)</p>",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from food, drink and animal feeding stuffs.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Solid.</p> <p>Mixes with water.</p>",
+                "MiniFlammability": "<p>Increases fire risk.</p> #R08",
+                "MiniFirstAidSwallow": "<p>If more than 15 mins from Doctor,\u00a0<u>INDUCE VOMITING</u>\u00a0(if conscious).</p>",
+                "MiniFirstAidEye": "<p>Wash with running water.</p>",
+                "MiniFirstAidSkin": "<p>Remove contaminated clothing. Wash with soap &amp; water.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm. If breath shallow, give oxygen. Medical attention.</p>",
+                "MiniAdvDoc": "<p>Assist ventilation Hypotension - Trendelenburgs Position Methylene blue for severe poisoning.\u00a0</p>",
+                "MiniFireFighting": "<p>Water jets.</p>",
+                "MiniSpillDisposal": "<p>Avoid dust.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <p>Sweep shovel to safe place.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider full face-shield.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Flammability": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Reactivity": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "BodyContact": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Chronic": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "AlertCode": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "1Z",
+                    "Value": "1Z"
+                },
+                "InternationalHazardGraphics": [
+                    "HARMFUL.gif"
+                ],
+                "RiskCodes": [],
+                "SpecificGravity": "2.26 Bulk = 1.3",
+                "IssueDate": "2019-09-21T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "SODIUM NITRATE",
+                "Use": "Oxidising agent, solid rocket propellants. Component of fertilisers, flux, glass manufacture, refrigerant, dyes, pharmaceuticals, colour fixative and enamels for pottery. Manufacture of nitric acid. Preservative in preserved and cured meats. Food additive 251. Used in designated foods in very small quantities.|[~Dye ~]",
+                "ChemicalFormula": [
+                    "NaNO3"
+                ],
+                "FirstAidIngestion": "<ul>\n<li><span style=\"color:#ff0000\"><strong>IF SWALLOWED, REFER FOR MEDICAL ATTENTION, WHERE POSSIBLE, WITHOUT DELAY.\u00a0</strong></span></li>\n<li><span style=\"color:#000000\">For advice, contact a Poisons Information Centre or a doctor.\u00a0</span></li>\n<li><span style=\"color:#000000\">Urgent hospital treatment is likely to be needed.\u00a0</span></li>\n<li><span style=\"color:#000000\">In the mean time, qualified first-aid personnel should treat the patient following observation and employing supportive measures as indicated by the patient's condition.\u00a0</span></li>\n<li><span style=\"color:#000000\">If the services of a medical officer or medical doctor are readily available, the patient should be placed in his/her care and a copy of the SDS should be provided. Further action will be the responsibility of the medical specialist.\u00a0</span></li>\n<li><span style=\"color:#000000\">If medical attention is not available on the worksite or surroundings send the patient to a hospital together with a copy of the SDS.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\"><strong><br /></strong></span></p>\n<p><span style=\"color:#000000\"><strong>Where medical attention is not immediately available or where the patient is more than 15 minutes from a hospital or unless instructed otherwise:\u00a0</strong></span></p>\n<ul>\n<li><span style=\"color:#000000\"><strong>INDUCE</strong></span><span style=\"color:#000000\">\u00a0vomiting with fingers down the back of the throat,</span><span style=\"color:#000000\"><strong>\u00a0ONLY IF CONSCIOUS</strong></span><span style=\"color:#ff0000\">.\u00a0</span><span style=\"color:#000000\">Lean patient forward or place on left side (head-down position, if possible) to maintain open airway and prevent aspiration.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\"><strong>NOTE:</strong></span><span style=\"color:#000000\">\u00a0Wear a protective glove when inducing vomiting by mechanical means.</span></p>\n<p><span style=\"color:#000000\"><br /></span></p>\n<p><span style=\"color:#000000\"><br /></span></p>",
+                "FirstAidAdviceToDoctor": "<p><br /></p> <p>The toxicity of nitrates and nitrites result from their vasodilating properties and their propensity to form methaemoglobin.</p> <ul> <li>Most produce a peak effect within 30 minutes.\u00a0</li> <li>Clinical signs of cyanosis appear before other symptoms because of the dark pigmentation of methaemoglobin.\u00a0</li> <li>Initial attention should be directed towards improving oxygen delivery, with assisted ventilation, if necessary. Hyperbaric oxygen has not demonstrated conclusive benefits.\u00a0</li> <li>Institute cardiac monitoring, especially in patients with coronary artery or pulmonary disease.\u00a0</li> <li>Hypotension should respond to Trendelenburg's position and intravenous fluids; otherwise dopamine may be needed.\u00a0</li> <li>Naloxone, glucose and thiamine should be given if a multiple ingestion is suspected.\u00a0</li> <li>Decontaminate using Ipecac Syrup for alert patients or lavage for obtunded patients who present within 2-4 hours of ingestion.\u00a0</li> <li>Symptomatic patients with methaemoglobin levels over 30% should receive methylene blue.(Cyanosis alone, is not an indication for treatment). The usual dose is 1-2 mg/kg of a 1% solution (10 mg/ml) IV over 5 minutes; repeat, using the same dose if symptoms of hypoxia fail to subside within 1 hour.\u00a0</li> </ul> <p><br /></p> <p>[<i>Ellenhorn and Barceloux: Medical Toxicology</i>]</p> <p><br /></p> <p>\u00a0BIOLOGICAL EXPOSURE INDEX - BEI</p> <p><br /></p> <p>\u00a0These represent the determinants observed in specimens collected from a healthy worker who has been exposed at the Exposure Standard (ES or TLV):</p> <p><table> <tr> <td> <p>Determinant</p>  </td> <td> <p>Index</p>  </td> <td> <p>Sampling Time</p>  </td> <td> <p>Comments</p>  </td> </tr> <tr> <td> <p>1. Methaemoglobin in blood</p>  </td> <td> <p>1.5% of haemoglobin</p>  </td> <td> <p>During or end of shift</p>  </td> <td> <p>B,NS,SQ</p>  </td> </tr> </table> </p> <p><br /></p> <p>B: Background levels occur in specimens collected from subjects\u00a0<b>NOT\u00a0</b>exposed</p> <p><br /></p> <p>\u00a0NS: Non-specific determinant;also observed after exposure to other materials</p> <p><br /></p> <p>\u00a0SQ: Semi-quantitative determinant - Interpretation may be ambiguous; should be used as a screening test or confirmatory test.</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Lay patient down. Keep warm and rested.\u00a0</li> <li>Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>Apply artificial respiration if not breathing, preferably with a demand valve resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.\u00a0</li> <li>Transport to hospital, or doctor, without delay.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Wash out immediately with fresh running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin contact occurs:</p> <ul> <li>Immediately remove all contaminated clothing, including footwear.\u00a0</li> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "1-484"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid storage with reducing agents.\u00a0</li> </ul> <ul> <li>Avoid any contamination of this material as it is very reactive and any contamination is potentially hazardous\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<p>FOR\u00a0<b>SMALL FIRE:</b></p> <ul> <li>USE FLOODING QUANTITIES OF WATER.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">use dry chemical, CO2, foam or halogenated-type extinguishers.</font></li> </ul> <p>\u00a0 FOR\u00a0<b>LARGE FIRE</b></p> <ul> <li>Flood fire area with water from a protected position\u00a0</li> </ul>",
+                "FireExplosionHazard": "When heated in a fire, it can melt. A water stream directed at molten material can scatter it, increasing the flammability of combustible material which it contacts. Decomposes explosively when heated to > 538 C.|4350<p>Decomposition may produce toxic fumes of:</p> <p>nitrogen oxides (NOx)</p> <p>metal oxides</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves in the event of a fire.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>Fight fire from a safe distance, with adequate cover.\u00a0</li> <li>Extinguishers should be used only by trained personnel.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li>Avoid spraying water onto liquid pools.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">approach containers suspected to be hot.\u00a0</font></li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>If fire gets out of control withdraw personnel and warn against entry.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<ul> <li>Clear area of personnel and move upwind.\u00a0</li> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>Consider evacuation (or protect in place).\u00a0</li> <li>No smoking, flames or ignition sources.\u00a0</li> <li>Increase ventilation.\u00a0</li> <li>Contain spill with sand, earth or other clean, inert materials.\u00a0</li> <li><font color=\"#ff0000\"><b>NEVER</b></font>\u00a0use organic absorbents such as sawdust, paper, cloth; as fire may result.\u00a0</li> <li>Avoid any contamination by organic matter.\u00a0</li> <li>Use spark-free and explosion-proof equipment.\u00a0</li> <li>Collect any recoverable product into labelled containers for possible recycling.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0mix fresh with recovered material.</font></li> <li>\u00a0 Collect residues and seal in labelled drums for disposal.\u00a0</li> <li>Wash area and prevent runoff into drains.\u00a0</li> <li>Decontaminate equipment and launder all protective clothing before storage and re-use.\u00a0</li> <li>If contamination of drains or waterways occurs advise emergency services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Clean up all spills immediately.\u00a0</li> <li>No smoking, naked lights, ignition sources.\u00a0</li> <li>Avoid all contact with any organic matter including fuel, solvents, sawdust, paper or cloth and other incompatible materials, as ignition may result.\u00a0</li> <li>Avoid breathing dust or vapours and all contact with skin and eyes.\u00a0</li> <li>Control personal contact with the substance, by using protective equipment.\u00a0</li> <li>Contain and absorb spill with dry sand, earth, inert material or vermiculite.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0use sawdust as fire may result.\u00a0</font></li> <li>Scoop up solid residues and seal in labelled drums for disposal.\u00a0</li> <li>Neutralise/decontaminate area.\u00a0</li> </ul>",
+                "MolecularWeight": "85.0",
+                "Appearance": "Colourless, deliquescent crystals or white powder. Odourless.|Soluble in water (874 g/L @ 20 deg C, 1439 g/L @ 80 deg C), slightly soluble in alcohol. Saline or extremely bitter taste. Technical grades: melting point approx 300 deg C, pH 8.5 10% solution, bulk density 1.3-1.4. Decomposes explosively when heated to above 538 deg C. A 45% aqueous solution is Class 5.1, packing Group III oxidising liquid ref. UN Code 34.4.2.5",
+                "VapourPressure": "Negligible",
+                "Taste": "Not Available",
+                "VolatileComponent": "Nil @ 38 C.",
+                "PhAs1PercentSolution": "8.5 @ 10 %",
+                "EvaporationRate": "Non Volatile",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "308",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not Available",
+                "Lel": "Not applicable",
+                "BoilingRange": "380 (decomposes)",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "Uel": "Not applicable",
+                "PhSolutionPercent": "8.5 @ 10 %",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable under normal handling conditions.</span></li>\n<li><span style=\"color:#000000\">Prolonged exposure to heat.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul> <ul> <li>Presence of elevated temperatures.\u00a0</li> </ul> <ul> <li>Presence of shock and friction\u00a0</li> </ul> <ul> <li>Presence of heat source and ignition source\u00a0</li> </ul> <p class=\"MsoNormal\" style='margin-left:36.0pt;text-indent:-18.0pt;text-autospace:\r\nnone'><span lang=\"X-NONE\" style='font-family:Symbol;color:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span lang=\"X-NONE\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Unstable in the presence of incompatible materials</span></p>",
+                "Synonyms": [
+                    "sodium nitrate"
+                ],
+                "Adr": {
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "Adn": {
+                    "ClassificationCode": "O2",
+                    "LimitedQuantity": "5 kg",
+                    "EquipmentReg": "PP",
+                    "FirconNumber": "0",
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "Adg": {
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "Dot": {
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "ShippingName": "Sodium nitrate",
+                    "PackingGroup": "III"
+                },
+                "Iata": {
+                    "ErgCode": "5L",
+                    "SpecialProvisions": "A803",
+                    "CargoPi": "563",
+                    "CargoMaxQuantity": "100 kg",
+                    "PassCargoPi": "559",
+                    "PassCargoMaxQuantity": "25 kg",
+                    "PcLqTyPi": "Y546",
+                    "PcLqTyMaxQuantity": "10 kg",
+                    "HazardLabel": "Oxidizer",
+                    "IngredientDgcs": [],
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "Sodium nitrate",
+                    "PackingGroup": "III"
+                },
+                "Imdg": {
+                    "Ems": "F-A , S-Q",
+                    "SpecialProvisions": "964 967",
+                    "Lq": "5 kg",
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "UnTransportData": {
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "Tdg": {
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "Land": {
+                    "LimitedQuantity": "5 kg",
+                    "Dgc": "5.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1498",
+                    "ShippingName": "SODIUM NITRATE",
+                    "PackingGroup": "III"
+                },
+                "HandlingProcedure": "<p><span style=\"color:black\">For oxidisers, including\r\nperoxides.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Avoid personal contact and inhalation of dust, mist or vapours. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Provide adequate ventilation. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Always wear protective equipment and wash off any spillage from\r\nclothing. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Keep material away from light, heat, flammables or combustibles. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Keep cool, dry and away from incompatible materials. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Avoid physical damage to containers. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><b><span style=\"color:red\">DO NOT </span></b><span style=\"color:red\">repack or return unused portions to\r\noriginal containers.</span><span style=\"color:black\"> Withdraw only sufficient amounts\r\nfor immediate use. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use only minimum quantity required. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Avoid using solutions of peroxides in volatile solvents. Solvent\r\nevaporation should be controlled to avoid dangerous concentration of the\r\nperoxide. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Do NOT allow oxidisers to contact iron or compounds of iron, cobalt,\r\nor copper, metal oxide salts, acids or bases. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Do NOT use metal spatulas to handle oxidisers </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Do NOT use glass containers with screw cap lids or glass stoppers. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">Store peroxides at the lowest possible temperature, consistent with\r\ntheir solubility and freezing point. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:red\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:red\">CAUTION: Do NOT store liquids or solutions of peroxides at a\r\ntemperature below that at which the oxidiser freezes or precipitates. Peroxides,\r\nin particular, in this form are extremely shock and heat-sensitive.\r\nRefrigerated storage of peroxides must ONLY be in explosion-proof units. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The hazards and consequences of fires and explosions during\r\nsynthesis and use of oxidisers is widely recognised; spontaneous or induced\r\ndecomposition may culminate in a variety of ways, ranging from moderate gassing\r\nto spontaneous ignition or explosion. The heat released from spontaneous\r\ndecomposition of an energy-rich compound causes a rise in the surrounding\r\ntemperature; the temperature will rise until thermal balance is established or\r\nuntil the material heats to decomposition, </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The most effective means for minimising the consequences of an\r\naccident is to limit quantities to a practical minimum. Even gram-scale\r\nexplosions can be serious. Once ignited the burning of peroxides cannot be\r\ncontrolled and the area should be evacuated. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Unless there is compelling reason to do otherwise, peroxide\r\nconcentration should be limited to 10% (or less with vigorous reactants).\r\nPeroxide concentration is rarely as high as 1% in the reaction mixture of\r\npolymerisation or other free-radical reactions, </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Oxidisers should be added slowly and cautiously to the reaction\r\nmedium. This should be completed prior to heating and with good agitation. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Addition oxidisers to the hot monomer is extremely dangerous. A\r\nviolent reaction (e.g., fire or explosion) can result from inadvertent mixing\r\nof promoters (frequently used with peroxides in polymerisation systems) with\r\nfull-strength oxidisers</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">\u00a0Organic peroxides are very sensitive to contamination (especially\r\nheavy-metal compounds, metal oxide salts, alkaline materials including amines,\r\nstrong acids, and many varieties of dust and dirt). This can initiate rapid,\r\nuncontrolled decomposition of peroxides and possible generation of intense\r\nheat, fire or explosion\u00a0 The consequences of accidental contamination from\r\nreturning withdrawn material to the storage container can be disastrous. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">When handling <b>NEVER </b>smoke, eat or drink. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Always wash hands with soap and water after handling. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use only good occupational work practice. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Observe manufacturer's storage and handling recommendations\r\ncontained within this MSDS.</span></p>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed as supplied.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, well ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep dry.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store under cover and away from sunlight.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from flammable or combustible materials, debris and waste. Contact may cause fire or violent reaction.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0stack on wooden floors or pallets.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers from physical damage.\u00a0</span></li>\n<li><span style=\"color:#000000\">Check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul> <p>In addition, Goods of Class 5.1, packing group III should be stored in packages and be separated from buildings, tanks, and compounds containing other dangerous goods in tanks, and from property boundaries by a distance of at least 5 metres.</p>",
+                "SuitableContainer": "<ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0repack.</font>\u00a0Use containers supplied by manufacturer only.\u00a0</li> </ul> <p>For low viscosity materials</p> <ul> <li>Drums and jerricans must be of the non-removable head type.\u00a0</li> <li>Where a can is to be used as an inner package, the can must have a screwed enclosure.\u00a0</li> </ul> <p>For materials with a viscosity of at least 2680 cSt. (23 deg. C) and solids:</p> <ul> <li>Removable head packaging and\u00a0</li> <li>cans with friction closures may be used.\u00a0</li> </ul> <p>-</p> <p>Where combination packages are used, and the inner packages are of glass, there must be sufficient inert cushioning material in contact with inner and outer packages *.</p> <p>-</p> <p>In addition, where inner packagings are glass and contain liquids of packing group I and II there must be sufficient inert absorbent to absorb any spillage *.</p> <p>-</p> <p>* unless the outer packaging is a close fitting moulded plastic box and the substances are not incompatible with the plastic.</p>",
+                "StorageIncompatability": "Segregate from heavy metals, phosphides, sodium acetate, lead nitrate, tartrates, trichloroethylene, shock and heat.|Avoid reaction with the following which can cause an explosion:|barium thiocyanate, boron phosphide, cyanides, sodium hypophosphite, sulphur and charcoal, powdered aluminium or aluminium oxide, sodium thiosulfate. Fibrous organic material, jute, wood and similar cellulosic material can become highly combustible by nitrate impregnation|64nitrite<p>for metal nitrates:</p> <ul> <li>Segregate from heavy metals, phosphides, sodium acetate, lead nitrate, tartrates, trichloroethylene,\u00a0</li> <li>Avoid shock and heat.\u00a0</li> <li>Mixtures of metal nitrates with alkyl esters may explode due to the formation of unstable alkyl nitrates.\u00a0</li> <li>Mixtures of a nitrate with phosphorous, tin(II) chloride and other reducing agents may react explosively.\u00a0</li> <li>Mixtures containing nitrates and organic materials are potentially dangerous, especially if acidic materials or heavy metals are present. \u00a0</li> <li>Fibrous organic material, jute, wood and similar cellulosic material can become highly combustible by nitrate impregnation\u00a0</li> <li>Metal nitrates are incompatible with cyanides, thiocyanates, isothiocyanates and hypophosphites. \u00a0Avoid reaction with the following which can cause an explosion: barium thiocyanate, boron phosphide, cyanides, sodium hypophosphite, sulfur and charcoal, powdered aluminium or aluminium oxide, sodium thiosulfate.\u00a0</li> <li>Mixtures of metal nitrates and phosphinates may explode on heating\u00a0</li> <li>A mixture of aluminium powder, water and metal nitrate may explode due to a self accelerating reaction.\u00a0</li> </ul> <ul> <li>Mixtures containing nitrates, nitrites and organic materials are potentially dangerous, especially in the presence of acidic materials and heavy metals</li> </ul> <ul>\n<li><span style=\"color:#000000\">Inorganic peroxy compounds are potent oxidisers that pose fire or explosive hazards when in contact with ordinary combustible materials. </span></li>\n<li><span style=\"color:#000000\">Inorganic peroxides react with organic compounds to generate organic peroxide and hydroperoxide products that react violently with reducing agents.</span></li>\n<li><span style=\"color:#000000\">Inorganic oxidising agents can react with reducing agents to generate heat and products that may be gaseous (causing pressurization of closed containers). The products may themselves be capable of further reactions (such as combustion in the air). </span></li>\n<li><span style=\"color:#000000\">Organic compounds in general have some reducing power and can in principle react with compounds in this class. Actual reactivity varies greatly with the identity of the organic compound. </span></li>\n<li><span style=\"color:#000000\">Inorganic oxidising agents can react violently with active metals, cyanides, esters, and thiocyanates. </span></li>\n<li><span style=\"color:#000000\">Peroxides, in contact with inorganic cobalt and copper compounds, iron and iron compounds, acetone, metal oxide salts and acids and bases can react with rapid, uncontrolled decomposition, leading to fires and explosions.</span></li>\n</ul> <ul> <li>Inorganic reducing agents react with oxidizing agents to generate heat and products that may be flammable, combustible, or otherwise reactive. Their reactions with oxidizing agents may be violent.\u00a0</li> </ul> <ul> <li>Incidents involving interaction of active oxidants and reducing agents, either by design or accident, are usually very energetic and examples of so-called redox reactions.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Metals and their oxides or salts may react violently with chlorine trifluoride and bromine trifluoride.\u00a0</span></li>\n<li><span style=\"color:#000000\">These trifluorides are hypergolic oxidisers. They ignite on contact (without external source of heat or ignition) with recognised fuels - contact with these materials, following an ambient or slightly elevated temperature, is often violent and may produce ignition.\u00a0</span></li>\n<li><span style=\"color:#000000\">The state of subdivision may affect the results.\u00a0</span></li>\n</ul> <ul> <li>Avoid any contamination of this material as it is very reactive and any contamination is potentially hazardous\u00a0</li> </ul> <ul> <li>Avoid storage with reducing agents.\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC51.gif"
+                ],
+                "TransportIncompatibilities": "<p>Class 5.1 - Oxidising agents shall not be loaded in the same vehicle or packed in the same freight container with:</p> <p>Class 1 - Explosives;</p> <p>Class 2.1 - Flammable gases;</p> <p>Class 2.3 - Poisonous gases;</p> <p>Class 3 - Flammable liquids;</p> <p>Class 4.1 - Flammable solids;</p> <p>Class 4.2 - Spontaneously combustible substances;</p> <p>Class 4.3 - Dangerous when wet substances;</p> <p>Class 5.2 - Organic peroxides;</p> <p>Class 6 - Poisonous (toxic) substances (where the poisonous substances are capable of igniting and burning);</p> <p>Class 7 - Radioactive substances;</p> <p>Class 8 - Corrosives;</p> <p>Class 9 - Miscellaneous dangerous substances (where the miscellaneous substances are capable of igniting and burning) and substances other than dangerous goods, capable of igniting and burning.</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Combustible materials or any other incompatible substance where there is a risk of interaction. <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1, 2.2 (with subrisk 5.1), 3, 4.1, 4.2, 4.3, 5.2, 8<br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Harmful to aquatic organisms.&nbsp;</font></div> </font> </body></html> <p>The nitrates are of environmental concern because of their high water solubility and consequent leaching, diffusion, and environmental mobility in soil and water. Nitrate can contaminate groundwater to unacceptable levels. Nitrite is formed from nitrate or ammonium ion by micro-organisms in soil, water, sewage and the alimentary tract. The concern with nitrate in the environment is related to its conversion to nitrite.</p> <p>\u00a0Methaemoglobinaemia is caused following exposure to high levels of nitrite and produces difficulties in oxygen transport in the blood. Thousands of cases involving poisoning of infants, particularly in rural areas, have been reported as a result of drinking nitrate rich well-water.</p> <p>\u00a0Other concerns deriving from exposure to environmental nitrates relate to the production of nitrosamines following the reaction of food nitrites and secondary amines. Other nitroso-compounds may result following reaction with nitrites and amides, ureas, carbamates and other nitrogenous compounds. Nitrosamines produce liver damage, haemorrhagic lung lesions, convulsions and coma in rats, and teratogenic effects in experimental animals.</p> <p>\u00a0The N-nitroso class of compounds include potent carcinogens and mutagens: induction of tumors by single doses of N-nitroso compounds testify to this.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "AirPersistence": "LOW",
+                "WaterPersistence": "LOW",
+                "BioaccumulationPotential": "LOW (LogKOW = 0.209)",
+                "MobilityInSoil": "LOW (KOC = 14.3)",
+                "Disposal": "<ul>\n<li><span style=\"color:#000000\">Containers may still present a chemical hazard/ danger when empty.\u00a0</span></li>\n<li><span style=\"color:#000000\">Return to supplier for reuse/ recycling if possible.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Otherwise:</span></p>\n<ul>\n<li><span style=\"color:#000000\">If container can not be cleaned sufficiently well to ensure that residuals do not remain or if the container cannot be used to store the same product, then puncture containers, to prevent re-use, and bury at an authorised landfill.\u00a0</span></li>\n<li><span style=\"color:#000000\">Where possible retain label warnings and SDS and observe all notices pertaining to the product.\u00a0</span></li>\n</ul> <p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <p>For small quantities of oxidising agent:</p> <ul> <li>Cautiously acidify a 3% solution to pH 2 with sulfuric acid.\u00a0</li> <li>Gradually add a 50% excess of sodium bisulfite solution with stirring.\u00a0</li> <li>Add a further 10% sodium bisulfite.\u00a0</li> <li>If no further reaction occurs (as indicated by a rise in temperature) cautiously add more acid.\u00a0</li> </ul> <ul> <li>Recycle wherever possible or consult manufacturer for recycling options.\u00a0</li> <li>Consult State Land Waste Management Authority for disposal.\u00a0</li> <li>Bury residue in an authorised landfill.\u00a0</li> <li>Recycle containers if possible, or dispose of in an authorised landfill.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "NOEC(ECx)",
+                        "TestDuration": "2880h",
+                        "Species": "Fish",
+                        "Value": "1.6mg/l",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": ">100mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "3581mg/l",
+                        "Source": "2"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs - Group 2A: Probably carcinogenic to humans"
+                ],
+                "DangerousGoodsCategories": "#sec15Korean_class 1: #sec15Korean_Hazard 1",
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H272; H319",
+                        "SignalWord": "GHS03; GHS07; Wng; Dgr",
+                        "HazardState": "H272; H319"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H319; H271; H315; H335; H300; H373",
+                        "SignalWord": "GHS03; GHS07; Wng; Dgr; GHS02; GHS06; GHS09",
+                        "HazardState": "H319; H271; H315; H335; H300; H373"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": " (Water (Fresh))",
+                    "MarineWater": " (Water - Intermittent release)",
+                    "Aqua": " (Water (Fresh)_mar)",
+                    "FreshWaterSediment": " (Sediment (Fresh Water))",
+                    "MarineWaterSediment": " (Sediment (Fresh Water)_mar)",
+                    "Soil": " (Soil)",
+                    "Stp": "18 mg/L (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {},
+                "Teel": [
+                    {
+                        "Name": "Sodium nitrate",
+                        "Teel1": "4.1 mg/m3",
+                        "Teel2": "45 mg/m3",
+                        "Teel3": "270 mg/m3"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>It is the goal of the ACGIH (and other Agencies) to recommend TLVs (or their equivalent) for all substances for which there is evidence of health effects at airborne concentrations encountered in the workplace.</p> <p>At this time no TLV has been established, even though this material may produce adverse health effects (as evidenced in animal experiments or clinical experience). Airborne concentrations must be maintained as low as is practically possible and occupational exposure must be kept to a minimum.</p> <p><b>NOTE:</b>\u00a0The ACGIH occupational exposure standard for Particles Not Otherwise Specified (P.N.O.S) does NOT apply.</p> <p>Sensory irritants are chemicals that produce temporary and undesirable side-effects on the eyes, nose or throat. Historically occupational exposure standards for these irritants have been based on observation of workers' responses to various airborne concentrations. Present day expectations require that nearly every individual should be protected against even minor sensory irritation and exposure standards are established using uncertainty factors or safety factors of 5 to 10 or more. On occasion animal no-observable-effect-levels (NOEL) are used to determine these limits where human results are unavailable. An additional approach, typically used by the TLV committee (USA) in determining respiratory standards for this group of chemicals, has been to assign ceiling values (TLV C) to rapidly acting irritants and to assign short-term exposure limits (TLV STELs) when the weight of evidence from irritation, bioaccumulation and other endpoints combine to warrant such a limit. In contrast the MAK Commission (Germany) uses a five-category system based on intensive odour, local irritation, and elimination half-life. However this system is being replaced to be consistent with the European Union (EU) Scientific Committee for Occupational Exposure Limits (SCOEL); this is more closely allied to that of the USA.</p> <p>OSHA (USA) concluded that exposure to sensory irritants can:</p> <ul> <li>cause inflammation\u00a0</li> <li>cause increased susceptibility to other irritants and infectious agents\u00a0</li> <li>lead to permanent injury or dysfunction\u00a0</li> <li>permit greater absorption of hazardous substances and\u00a0</li> <li>acclimate the worker to the irritant warning properties of these substances thus increasing the risk of overexposure.\u00a0</li> </ul> <p><br /></p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.</p> <p><br /></p> <p>Local exhaust ventilation usually required. If risk of overexposure exists, wear approved respirator. Correct fit is essential to obtain adequate protection. Supplied-air type respirator may be required in special circumstances. Correct fit is essential to ensure adequate protection.</p> <p>An approved self contained breathing apparatus (SCBA) may be required in some situations.</p> <p>Provide adequate ventilation in warehouse or closed storage area. Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>solvent, vapours, degreasing etc., evaporating from tank (in still air).</p>  </td> <td> <p>0.25-0.5 m/s (50-100 f/min.)</p>  </td> </tr> <tr> <td> <p>aerosols, fumes from pouring operations, intermittent container filling, low speed conveyer transfers, welding, spray drift, plating acid fumes, pickling (released at low velocity into zone of active generation)</p>  </td> <td> <p>0.5-1 m/s (100-200 f/min.)</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>\u00a0Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2 m/s (200-400 f/min) for extraction of solvents generated in a tank 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Evidence shows, or practical experience predicts, that the material produces irritation of the respiratory system, in a substantial number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>Inhalation of vapours may cause drowsiness and dizziness. This may be accompanied by narcosis, reduced alertness, loss of reflexes, lack of coordination and vertigo.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p>",
+                "AcuteEye": "<p>Evidence exists, or practical experience predicts, that the material may cause eye irritation in a substantial number of individuals and/or may produce significant ocular lesions which are present twenty-four hours or more after instillation into the eye(s) of experimental animals.</p> <p>Repeated or prolonged eye contact may cause inflammation characterised by temporary redness (similar to windburn) of the conjunctiva (conjunctivitis); temporary impairment of vision and/or other transient eye damage/ulceration may occur.</p>",
+                "AcuteSkin": "<p><br /></p> <p>Evidence exists, or practical experience predicts, that the material either produces inflammation of the skin in a substantial number of individuals following direct contact, and/or produces significant inflammation when applied to the healthy intact skin of animals, for up to four hours, such inflammation being present twenty-four hours or more after the end of the exposure period. Skin irritation may also be present after prolonged or repeated exposure; this may result in a form of contact dermatitis (nonallergic). The dermatitis is often characterised by skin redness (erythema) and swelling (oedema) which may progress to blistering (vesiculation), scaling and thickening of the epidermis. At the microscopic level there may be intercellular oedema of the spongy layer of the skin (spongiosis) and intracellular oedema of the epidermis.</p> <p>The material may accentuate any pre-existing dermatitis condition</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "Ingestion may cause abdominal spasms, faintness, muscular spasms, vomiting, diarrhoea and bluish skin.  Serious poisoning may cause blood disorders, anaemia, nephritis and methaemoglobinaemia.|51r22<p>The principal concern with exposure to inorganic nitrate is its biological reduction to reactive and toxic nitrite. Nitrate itself is relatively harmless. Where bacteria are present and the environment is anaerobic, nitrate can be reduced to nitrite. The main site for this reaction is mouth and stomach, but nitrite formation in the lower intestine and in the bladder (urinary infection) may also be of some toxicological importance.</p>\n<p>Adults have tolerated large doses of nitrate as sodium and ammonium salt (&gt; 100 mg NO3-/kg) in some cases repeated for several days for medical or experimental purposes with only minor effects in some subjects (light methaemoglobinaemia, diarrhoea, vomiting). Death and severe effects of nitrate ingestion are generally associated with doses above 10 g NO3-. Doses between 2 and 9 g NO3- have been reported to cause methaemoglobinaemia. These values correspond to 33 to 150 mg NO3-/kg</p>\n<p>The half-life in the body for an oral dose of nitrate to be approximately 5 hours. As blood absorption depends on food matrix and route of exposure, and as larger doses may increase the urinary excretion rate, the biological half-life for both nitrate and nitrite should be expected to be 3 to 8 hours.Nitrate does not accumulate in the body.</p>\n<p>The major acute toxic effect of nitrate and nitrite poisoning is methaemoglobinaemia.</p> <p>The lethal oral dose of nitrite for adults has been variously reported to be between 0.7 and 6 g NO2- (approximately 10 to 100 mg NO2-/kg). Lower doses may apply for children (especially neonates), the elderly and people with certain enzyme deficiencies. The first symptoms of oral nitrite poisoning develop within 15 to 45 minutes</p>\n<p>In humans, inorganic nitrites produce smooth muscle relaxation, methaemoglobinaemia and cyanosis.The primary effect of nitrite intoxication in animals is methaemoglobinaemia whilst secondary effects include vasodilation, relaxation of smooth muscle and lowering of blood pressure. Other nitrite-induced toxic effects include abdominal pain, diarrhoea, atrophied intestinal villi and apoptotic cell death in the intestinal crypts. Nitrite may also cause sudden fall in blood pressure due to its vasodilating properties.Nitrite has vasodilating properties, probably through transformation into nitric oxide (NO) or a NO-containing molecule acting as a signal factor for smooth muscle relaxation.</p>\n<p>Fatal poisonings in infants, resulting from ingestion of nitrates in water or spinach, have been reported.</p>\n<p>When sodium nitrite was administered in drinking water for 6 weeks (0.06-1%), mice showed a slight degeneration and spotty necrosis of hepatocytes and haemosiderin deposition in the liver, spleen and lymph nodes, indicating haemolysis. At 2%, mice died within 3 weeks. In rats, subject to the same treatment regime, abnormal blood and spleen colours, due to MHG, were seen in 0.5% and 1.0% treatment groups. Hepatic microsomal lipoperoxidation (as measured by malondialdehyde formation) was increased in male rats given 0.2% sodium nitrite in drinking water. Liver lysosomal enzymes (acid phosphatase aaand cathepsin) and superoxide dismutase activities were also increased. This data suggests that the nitrite stimulates generation of superoxide radicals in the liver causing damage to cellular and subcellular membranes. Decreased plasma vitamin E and greater reduced glutathione-per erythrocyte were also reported in male rats receiving sodium nitrite in drinking water.</p> <p>The substance and/or its metabolites may bind to haemoglobin inhibiting normal uptake of oxygen. This condition, known as \"methaemoglobinemia\", is a form of oxygen starvation (anoxia).</p> <p>\u00a0Symptoms include cyanosis (a bluish discolouration skin and mucous membranes) and breathing difficulties. Symptoms may not be evident until several hours after exposure.</p> <p>\u00a0At about 15% concentration of blood methaemoglobin there is observable cyanosis of the lips, nose and earlobes. Symptoms may be absent although euphoria, flushed face and headache are commonly experienced. At 25-40%, cyanosis is marked but little disability occurs other than that produced on physical exertion. At 40-60%, symptoms include weakness, dizziness, lightheadedness, increasingly severe headache, ataxia, rapid shallow respiration, drowsiness, nausea, vomiting, confusion, lethargy and stupor. Above 60% symptoms include dyspnea, respiratory depression, tachycardia or bradycardia, and convulsions. Levels exceeding 70% may be fatal.\u00a0</p>",
+                "ChronicHealthEffects": "<p>On the basis, primarily, of animal experiments, concern has been expressed that the material may produce carcinogenic or mutagenic effects; in respect of the available information, however, there presently exists inadequate data for making a satisfactory assessment.</p><p>Long-term exposure to respiratory irritants may result in disease of the airways involving difficult breathing and related systemic problems.</p> <p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p><br /></p> <p>Long term exposure to high dust concentrations may cause changes in lung function (i.e. pneumoconiosis) caused by particles less than 0.5 micron penetrating and remaining in the lung. A prime symptom is breathlessness. Lung shadows show on X-ray.</p> <p>The major concern of possible long-term effects of exposure to nitrate and nitrite is associated with formation of nitroso compounds, many of which are carcinogenic. This formation may take place wherever nitrite and nitrosable compounds are present, but it is favoured by acidic conditions or the presence of some bacteria. The gastrointestinal tract and especially the stomach is regarded as the main formation site, but nitrosation reactions can also take place in an infected urinary bladder.</p>\n<p>Nitrite is mutagenic in a number of in vitro assays against microorganisms or cultured mammalian cells. Nitrates show no mutagenic activity in microbial tests under aerobic conditions. Activity has been reported under anaerobic conditions, probably due to reduction of nitrate into nitrite</p>\n<p>The mutagenic effects of nitrites were observed in an in vivo and in vitro experiment using Syrian hamsters. In vivo assays have been equivocal, both positive and negative results having been reported</p>\n<p>Exposure to sodium nitrite in drinking water resulted in an increased incidence of epithelial hyperplasia in the forestomach of male and female rats and in the glandular stomach of male mice.</p>\n<p>There was equivocal evidence of carcinogenic activity of sodium nitrite in female B6C3F1 mice based on the positive trend in the incidences of squamous cell papillomas or carcinomas (combined) of the forestomach. There was no evidence of carcinogenic activity in male and female F344/N rats or B6C3F1 male mice exposed to 750, 1500 or 3000 ppm.</p>\n<p>NTP Technical Report Series No. 495, May 2001</p>\n<p>Under certain conditions, nitrites can react with secondary amines, either alone or in biological systems, to form carcinogenic nitrosamines.</p>\n<p>Sodium nitrite (60 mg/kg) administered in drinking water to pregnant guinea pigs produced maternal anaemia and increased the incidences of abortion and foetal mortality. Administration of 2000-3000 mg/l sodium nitrite in drinking water, to pregnant rats, produced 30-53% foetal mortality. In rat dams given 0.025-0.5% in feed, sodium nitrite caused an increase in foetal and pup mortality and decreases in pre-weanling body weights.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">4520000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "dermal (rat) LD50:",
+                        "Value": ">5000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "31/08/2006",
+                "NextRevisionDate": "2024-09-21T00:00:00",
+                "SignalWord": "Warning",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSOxy.gif",
+                    "GHSHar.gif",
+                    "GHSChr.gif"
+                ],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R22|~R36/37/38|~HAG41|~R67?",
+                "MiniChronicHealthEffects": "R40(3)|R68(3)|R33?",
+                "WhmisImages": [
+                    "WHMISO.gif",
+                    "WHMIST.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P273",
+                        "Phrase": "Avoid release to the environment."
+                    },
+                    {
+                        "Code": "P201",
+                        "Phrase": "Obtain special instructions before use."
+                    },
+                    {
+                        "Code": "P281",
+                        "Phrase": "Use personal protective equipment as required."
+                    },
+                    {
+                        "Code": "P264",
+                        "Phrase": "Wash \u2026 thoroughly after handling."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P270",
+                        "Phrase": "Do not eat, drink or smoke when using this product."
+                    },
+                    {
+                        "Code": "P210",
+                        "Phrase": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking."
+                    },
+                    {
+                        "Code": "P220",
+                        "Phrase": "Keep away from clothing and other combustible materials."
+                    },
+                    {
+                        "Code": "P221",
+                        "Phrase": "Take any precaution to avoid mixing with combustibles/organic material."
+                    },
+                    {
+                        "Code": "P261",
+                        "Phrase": "Avoid breathing dust/fumes."
+                    },
+                    {
+                        "Code": "P271",
+                        "Phrase": "Use only outdoors or in a well-ventilated area."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P308+P313",
+                        "Phrase": "IF exposed or concerned:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P305+P351+P338",
+                        "Phrase": "IF IN EYES:, Rinse cautiously with water for several minutes., Remove contact lenses, if present and easy to do. Continue rinsing."
+                    },
+                    {
+                        "Code": "P337+P313",
+                        "Phrase": "If eye irritation persists:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P301+P312",
+                        "Phrase": "IF SWALLOWED:, Call a POISON CENTRE/doctor/\u2026 if you feel unwell."
+                    },
+                    {
+                        "Code": "P330",
+                        "Phrase": "Rinse mouth."
+                    },
+                    {
+                        "Code": "P370+P378",
+                        "Phrase": "In case of fire:, Use \u2026 to extinguish."
+                    },
+                    {
+                        "Code": "P302+P352",
+                        "Phrase": "IF ON SKIN:, Wash with plenty of water."
+                    },
+                    {
+                        "Code": "P321",
+                        "Phrase": "Specific treatment (see ... \u00b0n this label)."
+                    },
+                    {
+                        "Code": "P332+P313",
+                        "Phrase": "If skin irritation occurs:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P362",
+                        "Phrase": "Take off contaminated clothing."
+                    },
+                    {
+                        "Code": "P304+P340",
+                        "Phrase": "IF INHALED:, Remove person to fresh air and keep comfortable for breathing."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P405",
+                        "Phrase": "Store locked up."
+                    },
+                    {
+                        "Code": "P403+P233",
+                        "Phrase": "Store in a well-ventilated place., Keep container tightly closed."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "Xn"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S13",
+                        "Phrase": "    Keep away from food, drink and animal feeding stuffs.&nbsp;  "
+                    },
+                    {
+                        "Code": "S17",
+                        "Phrase": "    Keep away from combustible material.&nbsp;  "
+                    },
+                    {
+                        "Code": "S22",
+                        "Phrase": "    Do not breathe dust.&nbsp;  "
+                    },
+                    {
+                        "Code": "S26",
+                        "Phrase": "    In case of contact with eyes, rinse with plenty of water and contact Doctor or Poisons Information Centre.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S36",
+                        "Phrase": "    Wear suitable protective clothing.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S39",
+                        "Phrase": "    Wear eye/face protection.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S53",
+                        "Phrase": "    Avoid exposure - obtain special instructions before use.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S64",
+                        "Phrase": "If swallowed, rinse mouth with water (only if the person is conscious).\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "fan_2.gif",
+                        "Translation": "Local Exhaust Ventilation recommended."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm. If breath shallow, give oxygen. Medical attention."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Remove contaminated clothing. Wash with soap &amp; water."
+                    },
+                    {
+                        "ImageName": "INDUCE_VOMITING.gif",
+                        "Translation": "If more than 15 mins from Doctor,\u00a0INDUCE VOMITING\u00a0(if conscious)."
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R22.gif",
+                        "Translation": "Harmful if swallowed."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R36.gif",
+                        "Translation": "Causes serious eye irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R37.gif",
+                        "Translation": "May cause respiratory irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R38.gif",
+                        "Translation": "Causes skin irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R39.gif",
+                        "Translation": "Suspected of causing genetic defects."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R40.gif",
+                        "Translation": "Suspected of causing cancer."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R52.gif",
+                        "Translation": "Harmful to aquatic life."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R68.gif",
+                        "Translation": "Suspected of causing genetic defects."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water jets.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "ChemicalName": "sodium nitrate",
+                "Nfpa": {
+                    "Toxicity": 2,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "OX"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_2_0_0_OX.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "4",
+                    "Translation": "Very High",
+                    "NumericalRating": 4,
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 1,
+                    "Explosive": 1,
+                    "Toxic": 1,
+                    "Oxidizer": 0,
+                    "Chronic": 0,
+                    "Harmful": 0,
+                    "Corrosive": 1
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "mixes_with_water.gif",
+                        "Translation": "Mixes with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Full face shield may be required for supplementary but never for primary protection of eyes.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>Wear chemical protective gloves, e.g. PVC.\u00a0</li> <li>Wear safety footwear or safety gumboots, e.g. Rubber\u00a0</li> </ul> <p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0wear cotton or cotton-backed gloves.\u00a0</font></li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0wear leather gloves.\u00a0</font></li> <li>Promptly hose all spills off leather shoes or boots or ensure that such footwear is protected with PVC over-shoes.\u00a0</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Overalls.\u00a0</li> <li>PVC Apron.\u00a0</li> <li>PVC protective suit may be required if exposure severe.\u00a0</li> <li>Eyewash unit.\u00a0</li> <li>Ensure there is ready access to a safety shower.\u00a0</li> </ul> <ul>\n<li>Some plastic personal protective equipment (PPE) (e.g. gloves, aprons, overshoes) are not recommended as they may produce static electricity.</li>\n<li>For large scale or continuous use wear tight-weave non-static clothing (no metallic fasteners, cuffs or pockets).</li>\n<li>Non sparking safety or conductive footwear should be considered. Conductive footwear describes a boot or shoe with a sole made from a conductive compound chemically bound to the bottom components, for permanent control to electrically ground the foot an shall dissipate static electricity from the body to reduce the possibility of ignition of volatile compounds. Electrical resistance must range between 0 to 500,000 ohms. Conductive shoes should be stored in lockers close to the room in which they are worn. Personnel who have been issued conductive footwear should not wear them from their place of work to their homes and return.</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": true,
+                    "Carcinogenicity": true,
+                    "SkinIrritation": true,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": true,
+                    "StotSingleExposure": true,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": true,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "5-11",
+            "Name": "sodium nitrate",
+            "OrderNumber": 1,
+            "NameForShowing": "sodium nitrate",
+            "ProportionForShowing": "5-11",
+            "CwNumber": "1498",
+            "NumericProportion": {
+                "MinValue": 5.0,
+                "MaxValue": 11.0,
+                "RawMinValue": 5.0,
+                "RawMaxValue": 11.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0203",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0203",
+    "Version": "637648148438148524",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0203",
+    "Key": "01-0203_AUS_EN",
+    "FullKey": "datasets/gold/01-0203_AUS_EN",
+    "AiteLogKey": "01-0203",
+    "AiteS3Key": "xml/01-0203.json",
+    "Name": "Gibson Shur-Stik 111 Hvy Duty WC Adh.",
+    "GhsEntities": [
+        {
+            "Category": "Eye Irritation Category 2B",
+            "CategoryCode": "Cat 2B",
+            "Code": "H320",
+            "Phrase": "Causes eye irritation."
+        },
+        {
+            "Category": "Germ cell mutagenicity Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H341",
+            "Phrase": "Suspected of causing genetic defects."
+        },
+        {
+            "Category": "Carcinogenicity Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H351",
+            "Phrase": "Suspected of causing cancer."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H315",
+            "Phrase": "Causes skin irritation."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

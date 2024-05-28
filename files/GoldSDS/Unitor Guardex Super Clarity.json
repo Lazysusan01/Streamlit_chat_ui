@@ -1,0 +1,57 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "60-100",
+            "Name": "ingredients not contributing to the classification",
+            "OrderNumber": 1,
+            "SanitizedName": "ingredients not contributing to the classification",
+            "NameForShowing": "ingredients not contributing to the classification",
+            "ProportionForShowing": "60-100",
+            "NumericProportion": {
+                "MinValue": 60.0,
+                "MaxValue": 100.0,
+                "RawMinValue": 60.0,
+                "RawMaxValue": 100.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0195",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0195",
+    "Version": "637648304125982091",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0195",
+    "Key": "01-0195_AUS_EN",
+    "FullKey": "datasets/gold/01-0195_AUS_EN",
+    "AiteLogKey": "01-0195",
+    "AiteS3Key": "xml/01-0195.json",
+    "Name": "Unitor Guardex Super Clarity",
+    "GhsEntities": [
+        {
+            "Category": "Eye Irritation Category 2B",
+            "CategoryCode": "Cat 2B",
+            "Code": "H320",
+            "Phrase": "Causes eye irritation."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

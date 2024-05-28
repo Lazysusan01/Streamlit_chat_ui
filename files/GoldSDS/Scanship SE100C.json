@@ -1,0 +1,952 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "19429",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a19429",
+                "Version": "637648041028950158",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "19429",
+                "Key": "19429_AUS_EN",
+                "FullKey": "datasets/gold/19429_AUS_EN",
+                "AiteLogKey": "19429",
+                "AiteS3Key": "xml/19429.json",
+                "ChemKey": {
+                    "cw": "CK-19429",
+                    "un": [
+                        "CK-UN3077"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC9"
+                    ],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-1327-41-9",
+                        "CK-12042-91-0"
+                    ],
+                    "groupCode": [
+                        "CK-G86.2",
+                        "CK-G12609",
+                        "CK-G86",
+                        "CK-G41.10",
+                        "CK-G41.9",
+                        "CK-G41.11",
+                        "CK-G41.14",
+                        "CK-G41",
+                        "CK-G86.3",
+                        "CK-G41.1",
+                        "CK-G14464",
+                        "CK-G8160.1"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "aluminium hydroxide chloride",
+                "CasNumber": "1327-41-9",
+                "Dgc": "9",
+                "EcNumber": "215-477-2",
+                "PackingGroup": "III",
+                "Un": "3077",
+                "GhsEntities": [
+                    {
+                        "Category": "Skin Corrosion/Irritation Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H315",
+                        "Phrase": "Causes skin irritation."
+                    },
+                    {
+                        "Category": "Eye Irritation Category 2A",
+                        "CategoryCode": "Cat 2A",
+                        "Code": "H319",
+                        "Phrase": "Causes serious eye irritation."
+                    },
+                    {
+                        "Category": "Chronic Aquatic Hazard Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H410",
+                        "Phrase": "Very toxic to aquatic life with long lasting effects."
+                    }
+                ],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "Miscible",
+                "WaterSolubility": 1,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>Local Exhaust Ventilation recommended.</p>",
+                "MiniResp": "<p>Particulate. (AS/NZS 1716 &amp; 1715, EN 143:2000 &amp; 149:001, ANSI Z88 or national equivalent)</p>",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p> <p>Restrictions on Storage apply. Refer to Full Report.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Solid.</p> <p>Mixes with water.</p>",
+                "MiniFlammability": "<p>Does not burn.</p>",
+                "MiniFirstAidSwallow": "<p>Rinse mouth with water.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water.</p>",
+                "MiniFirstAidSkin": "<p>Remove contaminated clothing. Wash with soap &amp; water.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm.</p>",
+                "MiniAdvDoc": "<p>Deferoxamine is preferred chelator.</p>",
+                "MiniFireFighting": "<p>Keep containers cool.</p> <p>Keep surrounding area cool.</p>\r\n\r\n\r\n\r\n<p>Water spray/fog.</p>",
+                "MiniSpillDisposal": "<p>Pollutant.</p> <p>Avoid dust.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <p>Sweep shovel to safe place.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Reactivity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "BodyContact": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "2Z",
+                    "Value": "2Z"
+                },
+                "InternationalHazardGraphics": [
+                    "IRRITANT.gif"
+                ],
+                "RiskCodes": [
+                    {
+                        "Code": "R33?",
+                        "Phrase": "\r\n\r\n\r\n\r\nCumulative effects may result following exposure*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R36/38",
+                        "Phrase": "    Irritating to eyes and skin.&nbsp;  "
+                    },
+                    {
+                        "Code": "R37?",
+                        "Phrase": "\r\n\r\n\r\n\r\nMay produce discomfort of the respiratory system*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R50/53",
+                        "Phrase": "    Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.&nbsp;  "
+                    }
+                ],
+                "SpecificGravity": "#01notavail",
+                "IssueDate": "2020-01-16T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [
+                    {
+                        "CountryCode": "USA",
+                        "Division": "Not Available",
+                        "Subsidiary": "Not Available",
+                        "PreferredName": "I-Chem Research",
+                        "Distributor": "Not Available",
+                        "Street": "23787-F Eichler Street",
+                        "Suburb": "Hayward",
+                        "State": "CA",
+                        "Postcode": "94505-2783",
+                        "Telephone": "+1 415 782 3905",
+                        "Fax": "Not Available",
+                        "Website": "Not Available",
+                        "Email": "Not Available",
+                        "Contact": "Not Available",
+                        "IsPrivateSupplier": false,
+                        "IsWeWrite": false,
+                        "BrandName": "Not Available",
+                        "AliasName": "Not Available",
+                        "CompanyDetails": "Not Available",
+                        "Ephone1": "+1 800-443-1689 (EXC. CA)",
+                        "Phone2": "Not Available",
+                        "Ephone2": "+1 800-443-1689 (EXC. CA)",
+                        "Fax2": "Not Available",
+                        "MsdsEmail": "vendoremailcheck@chemwatch.net",
+                        "Abn": "Not Available",
+                        "Comments": "Not Available",
+                        "EmergencyOrg": "Not Available",
+                        "Position": 1,
+                        "UrlType": "Not Available",
+                        "OrderNumber": 2
+                    },
+                    {
+                        "CountryCode": "USA",
+                        "Division": "Not Available",
+                        "Subsidiary": "Drew Marine-USA",
+                        "PreferredName": "Drew Marine-USA",
+                        "Distributor": "Not Available",
+                        "Street": "100 South Jefferson Road",
+                        "Suburb": "Whippany",
+                        "State": "NJ",
+                        "Postcode": "7981",
+                        "Telephone": "+1 973 526 5700",
+                        "Fax": "Not Available",
+                        "Website": "Not Available",
+                        "Email": "info@drew-marine.com",
+                        "Contact": "Not Available",
+                        "IsPrivateSupplier": false,
+                        "IsWeWrite": true,
+                        "BrandName": "Not Available",
+                        "AliasName": "Not Available",
+                        "CompanyDetails": "Not Available",
+                        "Ephone1": "+61 39 573 3112",
+                        "Phone2": "+1 877 715 9305 Emerg. (US & Canada",
+                        "Ephone2": "+61 39 573 3112",
+                        "Fax2": "Not Available",
+                        "MsdsEmail": "Not Available",
+                        "Abn": "Not Available",
+                        "Comments": "19/8/10 update this by Gayathri (chemist) independant from ashland www.drew-marine.com",
+                        "EmergencyOrg": "Not Available",
+                        "Position": 1,
+                        "UrlType": "Not Available",
+                        "OrderNumber": 3
+                    }
+                ],
+                "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                "Use": "Used in antiperspirant and deodorant preparations; for water purification and treatment of sewage and plant effluent.|<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>Personal care product.</span></p> <p>Topical antiperspirants typically contain inorganic salts of aluminum or zirconium, usually as chlorohydrates that are in some cases complexed with organic moieties. Zirconium salts have similar chemistry to aluminum salts in that they form gels on hydrolysis. They tend to be slightly more efficient than aluminum salts because of the higher acidity and greater synergistic effect of zirconium-containing complexes. Zirconium salts, however, are too expensive to use as the sole antiperspirant active but incorporation of a small amount of zirconium oxydichlorohydrate (ZrOCl2) or zirconium oxyhydroxychlorohydrate (ZrO(OH)Cl) in aluminum chlorohydrate (ACH) -based antiperspirants improves their efficacy by 30- 50%. These zirconium/aluminum chlorohydrate (ZACH) salts are more acidic than ACH and therefore need to be buffered to reduce skin irritation. This led to the development of zirconium aluminum glycine (ZAG) salts; these are ZACH salts complexed with glycine (aminoethanoic acid), which buffers ZACH salts without hindering performance.</p> <p><br /></p> <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>Aluminium salts in\r\nantiperspirants, such as chlorohydrates, form insoluble aluminium hydroxide\r\npolymer gel plugs within sweat ducts to temporarily prevent sweat reaching the\r\nsurface of the skin.</span></p>",
+                "ChemicalFormula": [
+                    "General formula: Al(OH)x(Cl)(3-x), with x = 0 and x ranging from 0 to 2.3; When x = 0, aluminium chloride is in aqueous solution.",
+                    "Al2-Cl-H5-O5"
+                ],
+                "FirstAidIngestion": "<ul> <li>Immediately give a glass of water.\u00a0</li> <li>First aid is not generally required. If in doubt, contact a Poisons Information Centre or a doctor.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<ul> <li>Manifestation of aluminium toxicity include hypercalcaemia, anaemia, Vitamin D refractory osteodystrophy and a progressive encephalopathy (mixed dysarthria-apraxia of speech, asterixis, tremulousness, myoclonus, dementia, focal seizures). \u00a0Bone pain, pathological fractures and proximal myopathy can occur.\u00a0</li> <li>Symptoms usually develop insidiously over months to years (in chronic renal failure patients) unless dietary aluminium loads are excessive.\u00a0</li> <li>Serum aluminium levels above 60 ug/ml indicate increased absorption. \u00a0Potential toxicity occurs above 100 ug/ml and clinical symptoms are present when levels exceed 200 ug/ml.\u00a0</li> <li>Deferoxamine has been used to treat dialysis encephalopathy and osteomalacia. \u00a0CaNa2EDTA is less effective in chelating aluminium.\u00a0</li> </ul> <p>[Ellenhorn and Barceloux: Medical Toxicology]</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes, aerosols or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Other measures are usually unnecessary.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Wash out immediately with fresh running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin contact occurs:</p> <ul> <li>Immediately remove all contaminated clothing, including footwear.\u00a0</li> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "1-12",
+                    "1-12"
+                ],
+                "IshlReferenceNumber": [
+                    "1-(3)-264"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<p>None known.</p>",
+                "FireExtinguishingMedia": "<ul> <li>Water spray or fog.\u00a0</li> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Non combustible.\u00a0</li> <li>Not considered a significant fire risk, however containers may burn.\u00a0</li> </ul> <p>Decomposition may produce toxic fumes of:</p> <p>hydrogen chloride</p> <p>metal oxides</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves in the event of a fire.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Use fire fighting procedures suitable for surrounding area.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Environmental hazard - contain spillage.\u00a0</p> <p>Moderate hazard.</p> <ul> <li><font color=\"#ff0000\"><b>CAUTION</b></font><font color=\"#ff0000\">:\u00a0</font>Advise personnel in area.\u00a0</li> <li>Alert Emergency Services and tell them location and nature of hazard.\u00a0</li> <li>Control personal contact by wearing protective clothing.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Recover product wherever possible.\u00a0</li> <li><b>IF DRY:\u00a0</b>Use dry clean up procedures and avoid generating dust. \u00a0Collect residues and place in sealed plastic bags or other containers for disposal.\u00a0<b>IF WET:</b>\u00a0 Vacuum/shovel up and place in labelled containers for disposal.\u00a0</li> <li><b>ALWAYS:</b>\u00a0 Wash area down with large amounts of water and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise Emergency Services.\u00a0</li> </ul>",
+                "MinorSpills": "<p>Environmental hazard - contain spillage.\u00a0</p> <ul> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid contact with skin and eyes.\u00a0</li> <li>Wear impervious gloves and safety glasses.\u00a0</li> <li>Use dry clean up procedures and avoid generating dust.\u00a0</li> <li>Vacuum up (consider explosion-proof machines designed to be grounded during storage and use).\u00a0</li> <li>Do NOT use air hoses for cleaning\u00a0</li> <li>Place spilled material in clean, dry, sealable, labelled container.\u00a0</li> </ul> <p><br /></p> <p><br /></p> <p><br /></p>",
+                "MolecularWeight": "174.46",
+                "Appearance": "White to yellow glassy solid. No odour. Dissolves in water forming slightly, turbid solutions up to 55%w/w. Bulk density 600 kg/m3. Thermally decomposes above 100 deg C, eliminating water and HCl.",
+                "VapourPressure": "Negligible",
+                "Taste": "Not Available",
+                "VolatileComponent": "Negligible",
+                "PhAs1PercentSolution": "Not Available",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "Not Available",
+                "Odour": "Not Available",
+                "DecompositionTemperature": ">100 (-HCl,H2O)",
+                "AutoIgnitionTemperature": "Not Available",
+                "PhAsSupplied": "4.2",
+                "Lel": "Not applicable",
+                "BoilingRange": "Not Available",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "Uel": "Not applicable",
+                "PhSolutionPercent": "Not Available",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "DIALUMINIUM CHLORIDE PENTAHYDROXIDE",
+                    "ALUMINUM CHLORIDE, BASIC"
+                ],
+                "Adr": {
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "Adn": {
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "SpecialProvision": "274; 335; 375; 601",
+                    "ClassificationCode": "M7",
+                    "LimitedQuantity": "5 kg",
+                    "EquipmentReg": "PP, A***",
+                    "FirconNumber": "0",
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "Adg": {
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "Dot": {
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "ShippingName": "Environmentally hazardous substance, solid, n.o.s.",
+                    "PackingGroup": "III"
+                },
+                "Iata": {
+                    "ErgCode": "9L",
+                    "SpecialProvisions": "A97 A158 A179 A197 A215",
+                    "CargoPi": "956",
+                    "CargoMaxQuantity": "400 kg",
+                    "PassCargoPi": "956",
+                    "PassCargoMaxQuantity": "400 kg",
+                    "PcLqTyPi": "Y956",
+                    "PcLqTyMaxQuantity": "30 kg G",
+                    "HazardLabel": "Miscellaneous; Environmentally Hazardous",
+                    "IngredientDgcs": [],
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "Environmentally hazardous substance, solid, n.o.s. *",
+                    "PackingGroup": "III"
+                },
+                "Imdg": {
+                    "Ems": "F-A , S-F",
+                    "SpecialProvisions": "274 335 966 967 969",
+                    "Lq": "5 kg",
+                    "MarinePollutant": "Marine Pollutant",
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "UnTransportData": {
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "Tdg": {
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "Land": {
+                    "SpecialProvision": "274; 331; 335; 375",
+                    "LimitedQuantity": "5 kg",
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "Dgc": "9",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "3077",
+                    "ShippingName": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+                    "PackingGroup": "III"
+                },
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of exposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0allow material to contact humans, exposed food or food utensils.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately. Launder contaminated clothing before re-use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry area protected from environmental extremes.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>\n<p><span style=\"color:#000000\">For major quantities:</span></p>\n<ul>\n<li><span style=\"color:#000000\">Consider storage in bunded \u00a0areas - ensure storage areas are isolated from sources of community water (including stormwater, ground water, lakes and streams}.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure that accidental discharge to air or water is the subject of a contingency disaster management plan; this may require consultation with local authorities.\u00a0</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Polyethylene or polypropylene container.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p>Derivative of electropositive metal.</p> <p>The substance may be or contains a \"metalloid\"</p> <p>The following elements are considered to be metalloids; boron,silicon, germanium, arsenic, antimony, tellurium and (possibly) polonium</p> <p>The electronegativities and ionisation energies of the metalloids are between those of the metals and nonmetals, so the metalloids exhibit characteristics of both classes. The reactivity of the metalloids depends on the element with which they are reacting. For example, boron acts as a nonmetal when reacting with sodium yet as a metal when reacting with fluorine.\u00a0</p> <p>Unlike most metals, most metalloids are amphoteric- that is they can act as both an acid and a base. For instance, arsenic forms not only salts such as arsenic halides, by the reaction with certain strong acid, but it also forms arsenites by reactions with strong bases.</p> <p>Most metalloids have a multiplicity of oxidation states or valences. For instance, tellurium has the oxidation states +2, -2, +4, and +6. Metalloids react like non-metals when they react with metals and act like metals when they react with non-metals.</p> <p><br /></p> <p><br /></p> <p><br /></p> <p><br /></p> <p><br /></p> <p><br /></p> <ul> <li>WARNING: Avoid or control reaction with peroxides. All\u00a0<i>transition meta</i>l peroxides should be considered as potentially explosive. For example transition metal complexes of alkyl hydroperoxides may decompose explosively.\u00a0</li> <li>The pi-complexes formed between chromium(0), vanadium(0) and other transition metals (haloarene-metal complexes) and mono-or poly-fluorobenzene show extreme sensitivity to heat and are explosive.\u00a0</li> <li>Avoid reaction with borohydrides or cyanoborohydrides\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Metals and their oxides or salts may react violently with chlorine trifluoride and bromine trifluoride.\u00a0</span></li>\n<li><span style=\"color:#000000\">These trifluorides are hypergolic oxidisers. They ignite on contact (without external source of heat or ignition) with recognised fuels - contact with these materials, following an ambient or slightly elevated temperature, is often violent and may produce ignition.\u00a0</span></li>\n<li><span style=\"color:#000000\">The state of subdivision may affect the results.\u00a0</span></li>\n</ul> <ul> <li>Avoid strong acids, bases.\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC9.gif"
+                ],
+                "TransportIncompatibilities": "<p>Class 9 - Miscellaneous dangerous substances shall not be loaded in the same vehicle or packed in the same freight container with:</p> <p>Class 1 - Explosives;</p> <p>Class 5.1 - Oxidising agents (where the miscellaneous dangerous substances are capable of igniting and burning).</p> <p>Class 5.2 - Organic peroxides (where the miscellaneous dangerous substances are capable of igniting and burning).</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Generally compatible, however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1, 2.2, 2.2 (subrisk 5.1), 2.3, 3, 4.1, 4.2, 4.3 6.1,8, 9 <br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "Aquatic toxicity:|Fish LC50 (96 h): fathead minnow  8 mg/L; NOEL:  3.1 mg/L. *|Daphnia Magna LC50 (96hr) : 4 mg/L; NOEL:  1.6 mg/L. *|Biodegradation: Does not apply - Inorganic material.|* = CCINFO record 1851097, dated 7/7/98|R50/53<p>Do NOT allow product to come in contact with surface waters or to intertidal areas below the mean high water mark. Do not contaminate water when cleaning equipment or disposing of equipment wash-waters.\u00a0</p> <p>Wastes resulting from use of the product must be disposed of on site or at approved waste sites.</p> <p>For organic cationics\u00a0</p> <p>Cationic substances, and their polymers and those polymers that are reasonably anticipated to become cationic in the natural aquatic environment (pH range 4-9) may be environmental hazards.</p> <p>Exempt from this concern are those polymers to be used only in solid phase, such as ion-exchange resins, and where the FGEW (Functional Group Equivalent Weight) of cationic groups is not 5000 and above.</p> <p>The numerous studies of aquatic toxicity, many of which were conducted in natural waters with and without added effluents, indicate that the source and composition of the test water dramatically affects the toxicity of the test substance. These results are consistent with the known behavior of these materials in the environment. Cationic substances in the environment instantaneously form complexes with naturally occurring negatively charged constituents in sewage, soils, sediments, and with dissolved humic substances in surface waters. This complexation behavior results in reduced bioavailability in actual environmental conditions that is not adequately represented by standard laboratory assays and/or predictions by various QSAR models.</p> <p><b>Ecotoxicity:</b></p> <p>These chemicals, by the nature of their surfactant properties, are toxic to aquatic organisms at low concentrations. Cationic groups such as alkylsulfoniums, alkylphosphoniums and quaternary ammonium polymers are highly toxic to fish and other aquatic organisms. Similarly potentially cationic groups such as amines and isocyanates are of concern. Some cationics, however, may fall into the category of PLCs (polymers of low concern) provided they possess low charge density, and/or are not water-soluble or are not self-dispersing polycarboxylates or poly- (aromatic or aliphatic) sulfonate polymers.</p> <p>The toxicity of quaternary ammonium compounds is known to be greatly reduced in the environment because of preferential binding to dissolved organics in surface water</p> <p>Metal-containing inorganic substances generally have negligible vapour pressure and are not expected to partition to air. Once released to surface waters and moist soils their fate depends on solubility and dissociation in water. Environmental processes (such as oxidation and the presence of acids or bases) may transform insoluble metals to more soluble ionic forms. Microbiological processes may also transform insoluble metals to more soluble forms. Such ionic species may bind to dissolved ligands or sorb to solid particles in aquatic or aqueous media. A significant proportion of dissolved/ sorbed metals will end up in sediments through the settling of suspended particles. The remaining metal ions can then be taken up by aquatic organisms.</p> <p>When released to dry soil most metals will exhibit limited mobility and remain in the upper layer; some will leach locally into ground water and/ or surface water ecosystems when soaked by rain or melt ice. Environmental processes may also be important in changing solubilities.\u00a0</p> <p>Even though many metals show few toxic effects at physiological pHs, transformation may introduce new or magnified effects.</p> <p>A metal ion is considered infinitely persistent because it cannot degrade further.</p> <p>The current state of science does not allow for an unambiguous interpretation of various measures of bioaccumulation.</p> <p>The counter-ion may also create health and environmental concerns once isolated from the metal. Under normal physiological conditions the counter-ion may be essentially insoluble and may not be bioavailable.</p> <p>Environmental processes may enhance bioavailability.</p> <p>Although inorganic chloride ions are not normally considered toxic they can exist in effluents at acutely toxic levels (chloride &gt;3000 mg/l). \u00a0The resulting salinity can exceed the tolerances of most freshwater organisms.</p> <p>Inorganic chlorine eventually finds its way into the aqueous compartment and as such is bioavailable. Incidental exposure to inorganic chloride may occur in occupational settings where chemicals management policies are improperly applied. The toxicity of chloride salts depends on the counter-ion (cation) present; that of chloride itself is unknown. Chloride toxicity has not been observed in humans except in the special case of impaired sodium chloride metabolism, e.g. in congestive heart failure. Healthy individuals can tolerate the intake of large quantities of chloride provided that there is a concomitant intake of fresh water.</p> <p>Although excessive intake of drinking-water containing sodium chloride at concentrations above 2.5 g/litre has been reported to produce hypertension, this effect is believed to be related to the sodium ion concentration.</p> <p>Chloride concentrations in excess of about 250 mg/litre can give rise to detectable taste in water, but the threshold depends upon the associated cations. Consumers can, however, become accustomed to concentrations in excess of 250 mg/litre. No health-based guideline value is proposed for chloride in drinking-water.</p> <p>In humans, 88% of chloride is extracellular and contributes to the osmotic activity of body fluids. The electrolyte balance in the body is maintained by adjusting total dietary intake and by excretion via the kidneys and gastrointestinal tract. Chloride is almost completely absorbed in normal individuals, mostly from the proximal half of the small intestine. Normal fluid loss amounts to about 1.5-2 liters/day, together with about 4 g of chloride per day. Most (90 - 95%) is excreted in the urine, with minor amounts in faeces (4-8%) and sweat (2%).</p> <p>Chloride increases the electrical conductivity of water and thus increases its corrosivity. In metal pipes, chloride reacts with metal ions to form soluble salts thus increasing levels of metals in drinking-water. In lead pipes, a protective oxide layer is built up, but chloride enhances galvanic corrosion. It can also increase the rate of pitting corrosion of metal pipes.</p> <p>Speciation of arsenic is an important consideration in the fate, movement, and action of this substance. Chemical and biochemical transformations of arsenic include oxidation, reduction and methylation which affects its volatilisation, adsorption, dissolution and biological disposition. The transport of arsenic in the environment is largely controlled by absorption/desorption processes in soils and sediments. Sediment movement is responsible for transport of arsenic soil residues to their ultimate sinks in deep ocean sediments. The clay fraction, plus ferrous and aluminium oxides which coat clay particles, adsorb arsenicals which then undergo transformation as discussed earlier. Conversions of arsenic to volatile alkylarsines leads to air transport losses from soil. Inorganic arsenic occurs in water in different oxidation states depending on the pH and Eh of the water. Arsenate is apparently reduced by bacteria to arsenite in marine environments because the ratio of total arsenate to total arsenic is much lower than that predicted thermodynamically. Methylation of arsenic occurs in both freshwater and marine systems where arsenate occurs as arsenate, arsenite, methanearsonic acid and dimethylarsinic \u00a0acid. Arsenate predominates because this is the most stable form.</p> <p>\u00a0Bioaccumulation occurs in some aquatic species such as seaweeds, freshwater algae and crustaceans. Some arsenic in water flea (Daphnia Magna) and algae occurs as arseno-analogues of phospholipids leading to the mistaken impression that accumulation and utilisation of arsenic takes place at the expense of phosphate. Crabs, lobsters and other marine organisms accumulate organo-arsenicals in the food chain. Although human activity may alter the local picture of environmental arsenic there is little evidence that this affects the global scale arsenic cycle.</p> <p>\u00a0Airborne concentrations of arsenic in urban areas may range from a few nanograms to a few tenths of a microgram per cubic meter; airborne arsenic is generally inorganic. In oxygenated soils inorganic arsenic is present in pentavalent form; under reducing conditions it occurs as the trivalent form.</p> <p>Drinking Water Standards:</p> <p>arsenic: 50 ug/1 (UK max.) 0.01mg/L (WHO provisional guideline)</p> <p>chloride:400 mg/l (UK max.)</p> <p>250 mg/l (WHO guideline)</p> <p>Soil Guideline:</p> <p>Dutch Criteria: 29 mg/kg (target)</p> <p>55 mg/kg (intervention)</p> <p>Air Quality Standard:</p> <p>No safe levels recommended due to carcinogenic properties (WHO guideline)</p> <p class=\"MsoNormal\"><span lang=\"EN-US\">Soluble salts of zirconium are moderately\r\ntoxic to algae and fish. Zirconium is more toxic in soft water than in hard\r\nwater. The toxicity of zirconium salts and zirconium complexes with organic\r\nacids are expected to be related to their water solubilities and their octanol/\r\nwater partition coefficient (Kow). Compounds with molecular weights exceeding\r\n1000 are not expected to be absorbed by aquatic organisms even if they are\r\nwater soluble. Only water-soluble zirconium compounds with a molecular weight\r\nof less than 1000 are expected to be toxic.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Zirconium does not bioaccumulate up aquatic\r\nfood chains beyond algae and shellfish. Plants tend to contain far lower\r\nconcentrations of zirconium than the soils in which they are grown, Most\r\nstudies indicate that of the zirconium ingested by mammals little is absorbed\r\nor retained.</span></p> <p>Microbial methylation plays important roles in the biogeochemical cycling of the \u00a0metalloids and possibly in their detoxification. Many microorganisms (bacteria, fungi, and yeasts) and animals are now known to biomethylate arsenic, forming both volatile (e.g., methylarsines) and nonvolatile (e.g., methylarsonic acid and dimethylarsinic acid) compounds. \u00a0Antimony and bismuth, also undergo biomethylation to some extent. Trimethylstibine formation by microorganisms is now well established, but this process apparently does not occur in animals. Formation of trimethylbismuth by microorganisms has been reported in a few cases.</p> <p><span style=\"color:black\">For\r\naluminium and its compounds and salts:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Despite\r\nits prevalence in the environment, no known form of life uses aluminium salts\r\nmetabolically. In keeping with its pervasiveness, aluminium is well tolerated\r\nby plants and animals.Owing to their prevalence, potential beneficial (or\r\notherwise) biological roles of aluminium compounds are of continuing interest.</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Environmental\r\nfate:</span></b></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Aluminium\r\noccurs in the environment in the form of silicates, oxides and hydroxides,\r\ncombined with other elements such as sodium, fluorine and arsenic complexes\r\nwith organic matter.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Acidification\r\nof soils releases aluminium as a transportable solution. Mobilisation of\r\naluminium by acid rain results in aluminium becoming available for plant\r\nuptake.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">As an\r\nelement, aluminum cannot be degraded in the environment, but may undergo\r\nvarious precipitation or ligand exchange reactions. Aluminum in compounds has\r\nonly one oxidation state (+3), and would not undergo oxidation-reduction\r\nreactions under environmental conditions. Aluminum can be complexed by various\r\nligands present in the environment (e.g., fulvic and humic acids). The\r\nsolubility of aluminum in the environment will depend on the ligands present\r\nand the pH.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">The\r\ntrivalent aluminum ion is surrounded by six water molecules in solution. The\r\nhydrated aluminum ion, [Al(H2O)6]3+, undergoes hydrolysis, in which a stepwise\r\ndeprotonation of the coordinated water ligands forms bound hydroxide ligands\r\n(e.g., [Al(H2O)5(OH)]2+, [Al(H2O)4(OH)2]+). The speciation of aluminum in water\r\nis pH dependent. The hydrated trivalent aluminum ion is the predominant form at\r\npH levels below 4. Between pH 5 and 6, the predominant hydrolysis products are\r\nAl(OH)2+ and Al(OH)2+, while the solid Al(OH)3 is most prevalent between pH 5.2\r\nand 8.8. The soluble species Al(OH)4- is the predominant species above pH 9,\r\nand is the only species present above pH 10. Polymeric aluminum hydroxides\r\nappear between pH 4.7 and 10.5, and increase in size until they are transformed\r\ninto colloidal particles of amorphous Al(OH)3, which crystallise to gibbsite in\r\nacid waters. Polymerisation is affected by the presence of dissolved silica;\r\nwhen enough silica is present, aluminum is precipitated as poorly crystallised\r\nclay mineral species.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Hydroxyaluminum\r\ncompounds are considered amphoteric (e.g., they can act as both acids and bases\r\nin solution). Because of this property, aluminum hydroxides can act as buffers\r\nand resist pH changes within the narrow pH range of 4-5.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Monomeric\r\naluminum compounds, typified by aluminum fluoride, chloride, and sulfate, are\r\nconsidered reactive or labile compounds, whereas polymeric aluminum species\r\nreact much more slowly in the environment. Aluminum has a stronger attraction\r\nfor fluoride in an acidic environment compared to other inorganic ligand.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">The\r\nadsorption of aluminum onto clay surfaces can be a significant factor in\r\ncontrolling aluminum mobility in the environment, and these adsorption\r\nreactions, measured in one study at pH 3.0-4.1, have been observed to be very\r\nrapid. However, clays may act either as a sink or a source for soluble aluminum\r\ndepending on the degree of aluminum saturation on the clay surface.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Within\r\nthe pH range of 5-6, aluminum complexes with phosphate and is removed from\r\nsolution. Because phosphate is a necessary nutrient in ecological systems, this\r\nimmobilization of both aluminum and phosphate may result in depleted nutrient\r\nstates in surface water.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Plant\r\nspecies and cultivars of the same species differ considerably in their ability\r\nto take up and translocate aluminum to above-ground parts. Tea leaves may\r\ncontain very high concentrations of aluminum, &gt;5,000 mg/kg in old leaves.\r\nOther plants that may contain high levels of aluminum include Lycopodium\r\n(Lycopodiaceae), a few ferns, Symplocos (Symplocaceae), and Orites\r\n(Proteaceae). Aluminum is often taken up and concentrated in root tissue. In\r\nsub-alpine ecosystems, the large root biomass of the Douglas fir, <i>Abies\r\namabilis</i>, takes up aluminum and immobilizes it, preventing large\r\naccumulation in above-ground tissue. It is unclear to what extent aluminum is\r\ntaken up into root food crops and leafy vegetables. An uptake factor\r\n(concentration of aluminum in the plant/concentration of aluminum in soil) of\r\n0.004 for leafy vegetables and 0.00065 for fruits and tubers has been reported,\r\nbut the pH and plant species from which these uptake factors were derived are\r\nunclear. Based upon these values, however, it is clear that aluminum is not\r\ntaken up in plants from soil, but is instead biodiluted.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Aluminum\r\nconcentrations in rainbow trout from an alum-treated lake, an untreated lake,\r\nand a hatchery were highest in gill tissue and lowest in muscle. Aluminum\r\nresidue analyses in brook trout have shown that whole-body aluminum content\r\ndecreases as the fish advance from larvae to juveniles. These results imply\r\nthat the aging larvae begin to decrease their rate of aluminum uptake, to\r\neliminate aluminum at a rate that exceeds uptake, or to maintain approximately\r\nthe same amount of aluminum while the body mass increases. The decline in\r\nwhole-body aluminum residues in juvenile brook trout may be related to growth\r\nand dilution by edible muscle tissue that accumulated less aluminum than did\r\nthe other tissues.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">The\r\ngreatest fraction of the gill-associated aluminum was not sorbed to the gill\r\ntissue, but to the gill mucus. It is thought that mucus appears to retard\r\naluminum transport from solution to the membrane surface, thus delaying the\r\nacute biological response of the fish. It has been reported that concentrations\r\nof aluminum in whole-body tissue of the Atlantic salmon exposed to high\r\nconcentrations of aluminum ranging from 3 ug/g (for fish exposed to 33 ug/L) to\r\n96 ug/g (for fish exposed to 264 ug/L) at pH 5.5. After 60 days of exposure,\r\nBCFs ranged from 76 to 190 and were directly related to the aluminum exposure\r\nconcentration. In acidic waters (pH 4.6-5.3) with low concentrations of calcium\r\n(0.5-1.5 mg Ca/L), labile aluminum between 25 and 75 ug/L is toxic. Because\r\naluminum is toxic to many aquatic species, it is not bioaccumulated to a\r\nsignificant degree (BCF &lt;300) in most fish and shellfish; therefore,\r\nconsumption of contaminated fish does not appear to be a significant source of\r\naluminum exposure in humans.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Bioconcentration\r\nof aluminum has also been reported for several aquatic invertebrate species.\r\nBCF values ranging from 0.13 to 0.5 in the whole-body were reported for the\r\nsnail. Bioconcentration of aluminum has also been reported for aquatic insects.</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Ecotoxicity:</span></b></p>\r\n\r\n\r\n\r\n<p><b><i><span style=\"color:black\">Freshwater\r\nspecies pH &gt;6.5</span></i></b></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Fish:\r\nAcute LC50 (48-96 h) 5 spp: 0.6 (<i>Salmo salar) - </i>106 mg/L; Chronic NOEC\r\n(8-28 d): 7 spp,NOEC, 0.034-7.1 mg/L. The lowest measured chronic figure was an\r\n8-d LC50 of 0.17 mg/L for <i>Micropterus </i>sp.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Amphibian:\r\nAcute LC50 (4 d): <i>Bufo americanus</i>, 0.86-1.66 mg/L; Chronic LC50 (8-d)\r\n2.28 mg/L</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Crustaceans\r\nLC50 (48 h): 1 sp 2.3-36 9 mg/L; Chronic NOEC (7-28 d) 3 spp, 0.136-1.72 mg/L</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Algae\r\nEC50 (96 h): population growth, 0.46-0.57 mg/L; 2 spp, chronic NOEC, 0.8-2.0\r\nmg/L</span></p>\r\n\r\n\r\n\r\n<p><b><i><span style=\"color:black\">Freshwater\r\nspecies pH &lt;6.5 (all between pH 4.5 and 6.0)</span></i></b></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Fish LC50\r\n(24-96 h): 4 spp, 0.015 (<i>S. trutta</i>) - 4.2 mg/L; chronic data on <i>Salmo\r\ntrutta</i>, LC50 (21-42 d) 0.015- 0.105 mg/L</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Amphibians\r\nLC50 (4-5 d): 2 spp, 0.540-2.670 m/L (absolute range 0.40-5.2 mg/L)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Alga: 1\r\nsp NOEC growth 2.0 mg/L</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Among\r\nfreshwater aquatic plants, single-celled plants are generally the most\r\nsensitive to aluminium. Fish are generally more sensitive to aluminium than\r\naquatic invertebrates. Aluminium is a gill toxicant to fish, causing both\r\nionoregulatory and respiratory effects.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">The\r\nbioavailability and toxicity of aluminium is generally greatest in acid\r\nsolutions. Aluminium in acid habitats has been observed to be toxic to fish and\r\nphytoplankton. Aluminium is generally more toxic over the pH range 4.4.5.4,\r\nwith a maximum toxicity occurring around pH 5.0.5.2. The inorganic single unit\r\naluminium species (Al(OH)2 +) is thought to be the most toxic. Under very acid\r\nconditions, the toxic effects of the high H+ concentration appear to be more\r\nimportant than the effects of low concentrations of aluminium; at approximately\r\nneutral pH values, the toxicity of aluminium is greatly reduced. The solubility\r\nof aluminium is also enhanced under alkaline conditions, due to its amphoteric\r\ncharacter, and some researchers found that the acute toxicity of aluminium\r\nincreased from pH 7 to pH 9. However, the opposite relationship was found in\r\nother studies. The uptake and toxicity of aluminium in freshwater organisms\r\ngenerally decreases with increasing water hardness under acidic, neutral and\r\nalkaline conditions. Complexing agents such as fluoride, citrate and humic\r\nsubstances reduce the availability of aluminium to organisms, resulting in\r\nlower toxicity. Silicon can also reduce aluminium toxicity to fish.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Drinking\r\nWater Standards:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">aluminium:\r\n200 ug/l (UK max.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">200 ug/l\r\n(WHO guideline)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">chloride:\r\n400 mg/l (UK max.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">250 mg/l\r\n(WHO guideline)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">fluoride:\r\n1.5 mg/l (UK max.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">1.5 mg/l\r\n(WHO guideline)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">nitrate:\r\n50 mg/l (UK max.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">50 mg/l\r\n(WHO guideline)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">sulfate:\r\n250 mg/l (UK max.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Soil\r\nGuideline: none available.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Air\r\nQuality Standards: none available.</span></p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul> <li>Recycle wherever possible or consult manufacturer for recycling options.\u00a0</li> <li>Consult State Land Waste Management Authority for disposal.\u00a0</li> <li>Bury residue in an authorised landfill.\u00a0</li> <li>Recycle containers if possible, or dispose of in an authorised landfill.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.04mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "0.33mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": ">0.42mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "192h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "0.005mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.46mg/l",
+                        "Source": "2"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H290; H315; H319; H335",
+                        "SignalWord": "GHS05; Wng; GHS07",
+                        "HazardState": "H290; H315; H319; H335"
+                    },
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H290; H318",
+                        "SignalWord": "GHS05; Dgr",
+                        "HazardState": "H290; H318"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H290; H318; H302; H411; H314",
+                        "SignalWord": "GHS05; Dgr; GHS07; Wng; GHS09",
+                        "HazardState": "H290; H318; H302; H411; H314"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": " (Water (Fresh))",
+                    "MarineWater": " (Water - Intermittent release)",
+                    "Aqua": " (Water (Fresh)_mar)",
+                    "FreshWaterSediment": " (Sediment (Fresh Water))",
+                    "MarineWaterSediment": " (Sediment (Fresh Water)_mar)",
+                    "Soil": " (Soil)",
+                    "Stp": " (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {
+                    "SwltDerm": {
+                        "Value": "1.94 mg/kg bw/day",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 1.94 mg/kg bw/day (Systemic, Chronic)",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "SwltInhal": {
+                        "Value": "6.8 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 6.8 mg/m\u00b3 (Systemic, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltDerm": {
+                        "Value": "0.97 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Dermal 0.97 mg/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltInhal": {
+                        "Value": "1.7 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 1.7 mg/m\u00b3 (Systemic, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltOral": {
+                        "Value": "1.2 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Oral 1.2 mg/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Oral",
+                        "Type": "Systemic, Chronic"
+                    }
+                },
+                "Teel": [],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>Use control measures / protective gear to avoid any personal contact. The ES-TWA is based solely on the prevention of systemic effects due to inhalation and is not protective against the substantial risk of cancer produced by exposure to inorganic arsenic. Some jurisdictions require health surveillance be performed on occupationally exposed workers.</p> <p><br /></p> <p>\u00a0Such surveillance should emphasise</p> <ul> <li>\u00a0demography, occupational and medical history and health advice\u00a0</li> <li>physical examination with emphasis on the peripheral nervous system and skin\u00a0</li> <li>urinary total arsenic\u00a0</li> <li>records of personal exposure\u00a0</li> </ul> <p>OSHA concluded that the recommended TLV-TWA and STEL would protect workers from any significant risk of pulmonary effects. NIOSH conclude that a separate limit should be considered for zirconium tetrachloride (because of the irritancy of hydrogen chloride derived from hydrolysis). This was based on a 60-day inhalation study at 6 mg/m3 zirconium tetrachloride which found an increase in mortality of rats and guinea pigs due to respiratory infection and reductions of borderline statistical significance in circulating hemoglobin and erythrocyte counts in dogs.</p> <p><br /></p> <p>The TLV is based on the exposures to aluminium chloride and the amount of hydrolysed acid and the corresponding acid TLV to provide the same degree of freedom from irritation. Workers chronically exposed to aluminium dusts and fumes have developed severe pulmonary reactions including fibrosis, emphysema and pneumothorax. A much rarer encephalopathy has also been described.</p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.</p> <p><br /></p> <p>Local exhaust ventilation usually required. If risk of overexposure exists, wear approved respirator. Correct fit is essential to obtain adequate protection. Supplied-air type respirator may be required in special circumstances. Correct fit is essential to ensure adequate protection.</p> <p>An approved self contained breathing apparatus (SCBA) may be required in some situations.</p> <p>Provide adequate ventilation in warehouse or closed storage area. Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>solvent, vapours, degreasing etc., evaporating from tank (in still air).</p>  </td> <td> <p>0.25-0.5 m/s (50-100 f/min.)</p>  </td> </tr> <tr> <td> <p>aerosols, fumes from pouring operations, intermittent container filling, low speed conveyer transfers, welding, spray drift, plating acid fumes, pickling (released at low velocity into zone of active generation)</p>  </td> <td> <p>0.5-1 m/s (100-200 f/min.)</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>\u00a0Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2 m/s (200-400 f/min) for extraction of solvents generated in a tank 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p> <p>Zirconium workers exposed to fume for 1-5 years showed no abnormalities due to zirconium. Animal studies also reveal a low order of hazard from inhaled zirconium.</p>",
+                "AcuteEye": "Irritation may result from astringent effects.|51r36",
+                "AcuteSkin": "<p>The material produces mild skin irritation; evidence exists, or practical experience predicts, that the material either</p> <ul> <li>\u00a0produces mild inflammation of the skin in a substantial number of individuals following direct contact, and/or\u00a0</li> <li>produces significant, but mild, inflammation when applied to the healthy intact skin of animals (for up to four hours), such inflammation being present twenty-four hours or more after the end of the exposure period.\u00a0</li> </ul> <p>\u00a0Skin irritation may also be present after prolonged or repeated exposure; this may result in a form of contact dermatitis (nonallergic). The dermatitis is often characterised by skin redness (erythema) and swelling (oedema) which may progress to blistering (vesiculation), scaling and thickening of the epidermis. At the microscopic level there may be intercellular oedema of the spongy layer of the skin (spongiosis) and intracellular oedema of the epidermis.</p> <p>Skin contact is not thought to have harmful health effects (as classified under EC Directives); the material may still produce health damage following entry through wounds, lesions or abrasions.</p> <p>Granulomas of an allergic nature in axillary skin have occurred following the use of deodorants and poison ivy remedies containing sodium zirconium lactate or zirconium oxide. No granulomas occurred in controlled studies using human subjects receiving topical zirconyl chloride.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "51alum<p>Acute toxic responses to aluminium are confined to the more soluble forms.</p> <p>The acute oral toxicities of inorganic zirconium salts is low due to their poor gastrointestinal absorption. Intraperitoneal or intravenous injection produces toxic effects approximately 20 times greater than by ingestion. Acutely poisoned animals show progressive depression until death. A typical dietary dose of zirconium in man is 4 mg.</p> <p>The material has\u00a0<font color=\"#ff0000\"><b>NOT</b></font>\u00a0been classified by EC Directives or other classification systems as \"harmful by ingestion\". This is because of the lack of corroborating animal or human evidence. The material may still be damaging to the health of the individual, following ingestion, especially where pre-existing organ (e.g liver, kidney) damage is evident. Present definitions of harmful or toxic substances are generally based on doses producing mortality rather than those producing morbidity (disease, ill-health). Gastrointestinal tract discomfort may produce nausea and vomiting. In an occupational setting however, ingestion of insignificant quantities is not thought to be cause for concern.</p>",
+                "ChronicHealthEffects": "Rats and guinea pigs exposed to 0.25 - 25 mg/m3 for 6 hours daily, 5 days a week, from 6 to 24 months showed an increase in lung to body weight ratios and granulomatous lesions of the lungs. rats showed a significant decrease in weight.|55r33#? <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Occupational exposure to aluminium compounds may produce asthma,\r\nchronic obstructive lung disease and pulmonary fibrosis. Long-term overexposure\r\nmay produce dyspnoea, cough, pneumothorax, variable sputum production and\r\nnodular interstitial fibrosis; death has been reported. Chronic interstitial\r\npneumonia with severe cavitations in the right upper lung and small cavities in\r\nthe remaining lung tissue, have been observed in gross pathology. Shaver's\r\nDisease may result from occupational exposure to fumes or dusts; this may\r\nproduce respiratory distress and fibrosis with large blebs. Animal studies\r\nproduce no indication that aluminium or its compounds are carcinogenic.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Because aluminium competes with calcium for absorption, increased\r\namounts of dietary aluminium may contribute to the reduced skeletal\r\nmineralisation (osteopenia) observed in preterm infants and infants with growth\r\nretardation. In very high doses, aluminium can cause neurotoxicity, and is\r\nassociated with altered function of the blood-brain barrier. A small percentage\r\nof people are allergic to aluminium and experience contact dermatitis,\r\ndigestive disorders, vomiting or other symptoms upon contact or ingestion of\r\nproducts containing aluminium, such as deodorants or antacids. In those without\r\nallergies, aluminium is not as toxic as heavy metals, but there is evidence of\r\nsome toxicity if it is consumed in excessive amounts. Although the use of\r\naluminium cookware has not been shown to lead to aluminium toxicity in general,\r\nexcessive consumption of antacids containing aluminium compounds and excessive\r\nuse of aluminium-containing antiperspirants provide more significant exposure\r\nlevels. Studies have shown that consumption of acidic foods or liquids with\r\naluminium significantly increases aluminium absorption, and maltol has been\r\nshown to increase the accumulation of aluminium in nervous and osseus tissue.\r\nFurthermore, aluminium increases oestrogen-related gene expression in human breast\r\ncancer cells cultured in the laboratory These salts' estrogen-like effects have\r\nled to their classification as a metalloestrogen.Some researchers have\r\nexpressed concerns that the aluminium in antiperspirants may increase the risk\r\nof breast cancer.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>After absorption, aluminium distributes to all tissues in animals\r\nand humans and accumulates in some, in particular bone. The main carrier of the\r\naluminium ion in plasma is the iron binding protein, transferrin. Aluminium can\r\nenter the brain and reach the placenta and foetus. Aluminium may persist for a\r\nvery long time in various organs and tissues before it is excreted in the\r\nurine. Although retention times for aluminium appear to be longer in humans\r\nthan in rodents, there is little information allowing extrapolation from\r\nrodents to the humans.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>At high levels of exposure, some aluminium compounds may produce\r\nDNA damage in vitro and in vivo via indirect mechanisms. The database on\r\ncarcinogenicity of aluminium compounds is limited. No indication of any\r\ncarcinogenic potential was obtained in mice given aluminium potassium sulphate\r\nat high levels in the diet.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Aluminium has shown neurotoxicity in patients undergoing dialysis\r\nand thereby chronically exposed parenterally to high concentrations of\r\naluminium. It has been suggested that aluminium is implicated in the aetiology\r\nof Alzheimer\u2019s disease and associated with other neurodegenerative diseases in\r\nhumans. However, these hypotheses remain controversial. Several compounds\r\ncontaining aluminium have the potential to produce neurotoxicity (mice, rats)\r\nand to affect the male reproductive system (dogs). In addition, after maternal\r\nexposure they have shown embryotoxicity (mice) and have affected the developing\r\nnervous system in the offspring (mice, rats). The available studies have a\r\nnumber of limitations and do not allow any dose-response relationships to be\r\nestablished. The combined evidence from several studies in mice, rats and dogs\r\nthat used dietary administration of aluminium compounds produce\r\nlowest-observed-adverse-effect levels (LOAELs) for effects on neurotoxicity,\r\ntestes, embryotoxicity, and the developing nervous system of 52, 75, 100, and\r\n50 mg aluminium/kg bw/day, respectively. Similarly, the lowest\r\nno-observed-adverse-effect levels (NOAELs) for effects on these endpoints were\r\nreported at 30, 27, 100, and for effects on the developing nervous system,\r\nbetween 10 and 42 mg aluminium/kg bw per day, respectively.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Controversy exists over whether aluminium is the cause of\r\ndegenerative brain disease (Alzheimer's disease or AD). Several epidemiological\r\nstudies show a possible correlation between the incidence of AD and high levels\r\nof aluminium in drinking water. A study in Toronto, for example, found a 2.6\r\ntimes increased risk in people residing for at least 10 years in communities\r\nwhere drinking water contained more than 0.15 mg/l aluminium compared with\r\ncommunities where the aluminium level was lower than 0.1 mg/l. A neurochemical\r\nmodel has been suggested linking aluminium exposure to brain disease. Aluminium\r\nconcentrates in brain regions, notably the hippocampus, cerebral cortex and\r\namygdala where it preferentially binds to large pyramid-shaped cells - it does\r\nnot bind to a substantial degree to the smaller interneurons. Aluminium\r\ndisplaces magnesium in key metabolic reactions in brain cells and also\r\ninterferes with calcium metabolism and inhibits phosphoinositide metabolism.\r\nPhosphoinositide normally controls calcium ion levels at critical\r\nconcentrations.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Under the microscope the brain of AD sufferers show thickened fibrils\r\n(neurofibrillary tangles - NFT) and plaques consisting of amyloid protein\r\ndeposited in the matrix between brain cells. Tangles result from alteration of\r\n&quot;tau&quot; a brain cytoskeletal protein. AD tau is distinguished from\r\nnormal tau because it is hyperphosphorylated. Aluminium hyperphosphorylates tau\r\nin vitro. When AD tau is injected into rat brain NFT-like aggregates form but\r\nsoon degrade. Aluminium stabilises these aggregates rendering them resistant to\r\nprotease degradation. Plaque formation is also enhanced by aluminium which\r\ninduces the accumulation of amyloid precursor protein in the thread-like\r\nextensions of nerve cells (axons and dendrites). In addition aluminium has been\r\nshown to depress the activity of most neuro-transmitters similarly depressed in\r\nAD (acetylcholine, norepinephrine, glutamate and GABA).</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Aluminium enters the brain in measurable quantities, even when\r\ntrace levels are contained in a glass of tap water. Other sources of\r\nbioavailable aluminium include baking powder, antacids and aluminium products\r\nused for general food preparation and storage (over 12 months, aluminium levels\r\nin soft drink packed in aluminium cans rose from 0.05 to 0.9 mg/l). [<i>Walton,\r\nJ and Bryson-Taylor, D. - Chemistry in Australia, August 1995</i>]</span></p> #55alum <p>Oral administration of zirconium sulfate (5 ppm) to rats fed from weanlings to natural death failed to influence longevity, tumour incidence or organ to body weight ratios. Zirconium tended to accumulate in the spleen. One-year inhalation studies using zirconium oxide zirconium tetrachloride (3.5 mg Zr/m3) failed to produce adverse effects in rats.</p> <p>Zirconium is routinely found with low levels of hafnium since separation of the two metals is difficult.</p> <p><br /></p> <p>Long term exposure to high dust concentrations may cause changes in lung function (i.e. pneumoconiosis) caused by particles less than 0.5 micron penetrating and remaining in the lung. A prime symptom is breathlessness. Lung shadows show on X-ray.</p> <p>There are reports of lung damage due to excessive inhalation of alumina dust. Ingestion of large amounts of aluminium hydroxide for prolonged periods may cause phosphate depletion, especially if phosphate intake is low. This may cause loss of appetite, muscle weakness, muscular disease and even softening of the bones. These effects have not been reported in people occupationally exposed to aluminium hydroxide.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Inhalation(Rat) LC50;",
+                        "Value": ">5",
+                        "Unit": "mg/l4h",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "dermal (rat) LD50:",
+                        "Value": ">2000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">300<2000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "27/03/2006",
+                "NextRevisionDate": "2025-01-16T00:00:00",
+                "SignalWord": "Warning",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSHar.gif",
+                    "GHSEnv.gif"
+                ],
+                "MarinePollutantGraphic": "MARPOLL.gif",
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R36/38|~R37?",
+                "MiniChronicHealthEffects": "R33?",
+                "WhmisImages": [
+                    "WHMIST.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P273",
+                        "Phrase": "Avoid release to the environment."
+                    },
+                    {
+                        "Code": "P264",
+                        "Phrase": "Wash \u2026 thoroughly after handling."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P391",
+                        "Phrase": "Collect spillage."
+                    },
+                    {
+                        "Code": "P305+P351+P338",
+                        "Phrase": "IF IN EYES:, Rinse cautiously with water for several minutes., Remove contact lenses, if present and easy to do. Continue rinsing."
+                    },
+                    {
+                        "Code": "P337+P313",
+                        "Phrase": "If eye irritation persists:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P302+P352",
+                        "Phrase": "IF ON SKIN:, Wash with plenty of water."
+                    },
+                    {
+                        "Code": "P321",
+                        "Phrase": "Specific treatment (see ... \u00b0n this label)."
+                    },
+                    {
+                        "Code": "P332+P313",
+                        "Phrase": "If skin irritation occurs:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P362",
+                        "Phrase": "Take off contaminated clothing."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "Xi"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S26",
+                        "Phrase": "    In case of contact with eyes, rinse with plenty of water and contact Doctor or Poisons Information Centre.&nbsp;  "
+                    },
+                    {
+                        "Code": "S29",
+                        "Phrase": "    Do not empty into drains.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S39",
+                        "Phrase": "    Wear eye/face protection.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S57",
+                        "Phrase": "     Use appropriate container to avoid environmental contamination.  "
+                    },
+                    {
+                        "Code": "S61",
+                        "Phrase": "    Avoid release to the environment. Refer to special instructions/Safety data sheets.&nbsp;  "
+                    },
+                    {
+                        "Code": "S64",
+                        "Phrase": "If swallowed, rinse mouth with water (only if the person is conscious).\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "fan_2.gif",
+                        "Translation": "Local Exhaust Ventilation recommended."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Remove contaminated clothing. Wash with soap &amp; water."
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R36.gif",
+                        "Translation": "Causes serious eye irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R38.gif",
+                        "Translation": "Causes skin irritation."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Does not burn.</p> <p>Keep surrounding area cool.</p>\r\n\r\n\r\n\r\n<p>Water spray/fog.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSBTS.gif",
+                        "Translation": "Boots"
+                    }
+                ],
+                "ChemicalName": "DIALUMINIUM CHLORIDE PENTAHYDROXIDE",
+                "Nfpa": {
+                    "Toxicity": 2,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_2_0_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "1",
+                    "Translation": "Low",
+                    "NumericalRating": 1,
+                    "IsSGroup": true
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 0,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "mixes_with_water.gif",
+                        "Translation": "Mixes with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <p>Experience indicates that the following polymers are suitable as glove materials for protection against undissolved, dry solids, where abrasive particles are not present.</p>\n<ul>\n<li>polychloroprene. </li>\n<li>nitrile rubber. </li>\n<li>butyl rubber. </li>\n<li>fluorocaoutchouc. </li>\n<li>polyvinyl chloride. </li>\n</ul>\n<p>Gloves should be examined for wear and/ or degradation constantly.</p>"
+                ],
+                "PpeOther": [
+                    "<ul>\n<li>Overalls.\u00a0</li>\n<li>P.V.C apron.\u00a0</li>\n<li>Barrier cream.\u00a0</li>\n<li>Skin cleansing cream.\u00a0</li>\n<li>Eye wash unit.\u00a0</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": true,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": true,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "8-24",
+            "Name": "aluminium hydroxide chloride",
+            "OrderNumber": 1,
+            "NameForShowing": "aluminium hydroxide chloride",
+            "ProportionForShowing": "8-24",
+            "CwNumber": "19429",
+            "NumericProportion": {
+                "MinValue": 8.0,
+                "MaxValue": 24.0,
+                "RawMinValue": 8.0,
+                "RawMaxValue": 24.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0090",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0090",
+    "Version": "637648203502852018",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0090",
+    "Key": "01-0090_AUS_EN",
+    "FullKey": "datasets/gold/01-0090_AUS_EN",
+    "AiteLogKey": "01-0090",
+    "AiteS3Key": "xml/01-0090.json",
+    "Name": "Scanship SE100C",
+    "Dgc": "8",
+    "PackingGroup": "III",
+    "Un": "3264",
+    "GhsEntities": [
+        {
+            "Category": "Skin Corrosion/Irritation Category 1A",
+            "CategoryCode": "Cat 1A",
+            "Code": "H314",
+            "Phrase": "Causes severe skin burns and eye damage."
+        },
+        {
+            "Category": "Serious Eye Damage/Eye Irritation Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H318",
+            "Phrase": "Causes serious eye damage."
+        },
+        {
+            "Category": "Chronic Aquatic Hazard Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H411",
+            "Phrase": "Toxic to aquatic life with long lasting effects."
+        },
+        {
+            "Category": "Corrosive to Metals Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H290",
+            "Phrase": "May be corrosive to metals."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

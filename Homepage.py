@@ -78,8 +78,9 @@ def main():
     """
     st.markdown(f"<style>{sidebar_styles}</style>", unsafe_allow_html=True)
     
+    file_location = 'files/MiniSDS/'
     # List all the files in the files directory
-    files = os.listdir("files")
+    files = os.listdir(file_location)
     filenames = [file.split(".")[0] for file in files if file.endswith(".json")]
     
     # create a dictionary to store the chemical name and its content
@@ -87,7 +88,7 @@ def main():
     # Load the content of each file
     for file in files:
         filename = file.split(".")[0]
-        file_path = os.path.join("files", file)
+        file_path = os.path.join(file_location, file)
         # print(file, filename, file_path)
         with open(file_path, 'r') as f:
             content = f.read()
@@ -118,11 +119,29 @@ def main():
             context = chemical_content[selected_chemical[0]]
             system_prompt = f"""This is an SDS for {selected_chemical}, you will be asked questions about it, please do not answer any questions outside of the sds,
                                 Do not mention the R codes directly as they are internal codes, just give the description please.
+                                Definitions:
+
+                                SDS:
+                                SDS or MSDS Safety data sheets (SDS) are important documents that provide critical information about hazardous chemicals, their properties,
+                                and the measures that should be taken to ensure safe handling and use. They are an essential component of a company's chemical management program
+                                and are required by law in many countries.
+
+                                ILO RA:
+                                The International Labour Organisation (ILO) has developed a Risk Assessment Model described as "Control Banding" It is based on the Model developed 
+                                by the UK HSE known as CosshEssentials. Both Agencies adopt the Globally Harmonised System (GHS) for determining chemical hazards. National or Regional
+                                variants exist- CLP in Europe and China, HSIS in Australia
+                                
+                                UN RA:
+                                The International Labour Organisation (ILO) has developed a Risk Assessment Model described as "Control Banding" It is based on the Model developed by the UK HSE
+                                known as CosshEssentials. Both Agencies adopt the Globally Harmonised System (GHS) for determining chemical hazards. National or Regional variants exist- 
+                                CLP in Europe and China, HSIS in Australia
+                                
                                 Regulatory burdens translate to: 1: Lightly regulated, 2: Moderately regulated, 3: Highly regulated, 4: Highly regulated, 5: Extremely regulated.
                                 Handling instructions can be inferred from defaultPpeimages but do not mention the images directly.
                                 The current inventory status is in 'manifest' under 'cur'.
-                                Where applicable, please provide the information as a table.                                 
+                                Where applicable, please provide the information as a table.
                                 Please respond only in {language}. <SDS>{context}</SDS>"""
+                                
             query = st.chat_input(f"Ask me anything about {selected_chemical[0]}")
             # st.session_state.messages.append({"role": "assistant", "content": f"Ask me anything about {selected_chemical}"})
         elif len(selected_chemical) == 2:

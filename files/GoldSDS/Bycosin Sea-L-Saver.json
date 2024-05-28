@@ -1,0 +1,71 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": ">60",
+            "Name": "lubricating oil",
+            "OrderNumber": 1,
+            "SanitizedName": "lubricating oil",
+            "NameForShowing": "lubricating oil",
+            "ProportionForShowing": ">60",
+            "NumericProportion": {
+                "MinValue": 60.01,
+                "MaxValue": 60.01,
+                "RawMinValue": 60.0,
+                "RawMaxValue": 60.0,
+                "MinValueSign": ">",
+                "MaxValueSign": ">",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0096",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0096",
+    "Version": "637648145709004274",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0096",
+    "Key": "01-0096_AUS_EN",
+    "FullKey": "datasets/gold/01-0096_AUS_EN",
+    "AiteLogKey": "01-0096",
+    "AiteS3Key": "xml/01-0096.json",
+    "Name": "Bycosin Sea-L-Saver",
+    "GhsEntities": [
+        {
+            "Category": "Eye Irritation Category 2A",
+            "CategoryCode": "Cat 2A",
+            "Code": "H319",
+            "Phrase": "Causes serious eye irritation."
+        },
+        {
+            "Category": "Chronic Aquatic Hazard Category 3",
+            "CategoryCode": "Cat 3",
+            "Code": "H412",
+            "Phrase": "Harmful to aquatic life with long lasting effects."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H315",
+            "Phrase": "Causes skin irritation."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

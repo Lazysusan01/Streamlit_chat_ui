@@ -1,0 +1,77 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "<30",
+            "Name": "glycol ether",
+            "OrderNumber": 1,
+            "SanitizedName": "glycol ether",
+            "NameForShowing": "glycol ether",
+            "ProportionForShowing": "<30",
+            "NumericProportion": {
+                "MinValue": 29.99,
+                "MaxValue": 29.99,
+                "RawMinValue": 30.0,
+                "RawMaxValue": 30.0,
+                "MinValueSign": "<",
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0039",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0039",
+    "Version": "637648315519853080",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0039",
+    "Key": "01-0039_AUS_EN",
+    "FullKey": "datasets/gold/01-0039_AUS_EN",
+    "AiteLogKey": "01-0039",
+    "AiteS3Key": "xml/01-0039.json",
+    "Name": "RR Street Pyratex Nu Tec",
+    "GhsEntities": [
+        {
+            "Category": "Acute Toxicity (Oral) Category 4",
+            "CategoryCode": "Cat 4",
+            "Code": "H302",
+            "Phrase": "Harmful if swallowed."
+        },
+        {
+            "Category": "Acute Toxicity (Inhalation) Category 3",
+            "CategoryCode": "Cat 3",
+            "Code": "H331",
+            "Phrase": "Toxic if inhaled."
+        },
+        {
+            "Category": "Eye Irritation Category 2A",
+            "CategoryCode": "Cat 2A",
+            "Code": "H319",
+            "Phrase": "Causes serious eye irritation."
+        },
+        {
+            "Category": "Flammable Liquid Category 4",
+            "CategoryCode": "Cat 4",
+            "Code": "H227",
+            "Phrase": "Combustible liquid."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

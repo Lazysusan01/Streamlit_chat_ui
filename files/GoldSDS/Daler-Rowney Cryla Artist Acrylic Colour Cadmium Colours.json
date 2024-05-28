@@ -1,0 +1,985 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "21921",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a21921",
+                "Version": "637643714439339006",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "21921",
+                "Key": "21921_AUS_EN",
+                "FullKey": "datasets/gold/21921_AUS_EN",
+                "AiteLogKey": "21921",
+                "AiteS3Key": "xml/21921.json",
+                "ChemKey": {
+                    "cw": "CK-21921",
+                    "un": [
+                        "CK-UN3179"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC4.1"
+                    ],
+                    "dgs": [
+                        "CK-DGC6.1"
+                    ],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7440-43-9"
+                    ],
+                    "groupCode": [
+                        "CK-G56.5",
+                        "CK-G9159",
+                        "CK-G14088",
+                        "CK-G2942.1",
+                        "CK-G5",
+                        "CK-G5.3",
+                        "CK-G5.16",
+                        "CK-G5.18",
+                        "CK-G2981",
+                        "CK-G00001.2",
+                        "CK-G15706",
+                        "CK-G00001.3",
+                        "CK-G15702",
+                        "CK-G5.14",
+                        "CK-G2942",
+                        "CK-G0103",
+                        "CK-G0101",
+                        "CK-G0102",
+                        "CK-G15536",
+                        "CK-G15555",
+                        "CK-G5.6",
+                        "CK-G00001.1",
+                        "CK-G16159",
+                        "CK-G16069",
+                        "CK-G2942.2",
+                        "CK-G16325",
+                        "CK-G16337"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "cadmium",
+                "CasNumber": "7440-43-9",
+                "Dgc": "4.1",
+                "Dgs": "6.1",
+                "EcNumber": "231-152-8",
+                "PoisonSchedule": "S6",
+                "PackingGroup": "II",
+                "Un": "3179",
+                "GhsEntities": [
+                    {
+                        "Category": "Flammable Solid Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H228",
+                        "Phrase": "Flammable solid."
+                    },
+                    {
+                        "Category": "Chronic Aquatic Hazard Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H410",
+                        "Phrase": "Very toxic to aquatic life with long lasting effects."
+                    },
+                    {
+                        "Category": "Specific target organ toxicity - repeated exposure Category 1",
+                        "CategoryCode": "Cat 1",
+                        "Code": "H372",
+                        "Phrase": "Causes damage to organs through prolonged or repeated exposure."
+                    },
+                    {
+                        "Category": "Carcinogenicity Category 1B",
+                        "CategoryCode": "Cat 1B",
+                        "Code": "H350",
+                        "Phrase": "May cause cancer."
+                    },
+                    {
+                        "Category": "Germ cell mutagenicity Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H341",
+                        "Phrase": "Suspected of causing genetic defects."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Inhalation) Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H330",
+                        "Phrase": "Fatal if inhaled."
+                    }
+                ],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "BoilingPoint": 767.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>Local Exhaust Ventilation recommended.</p>",
+                "MiniStorTrans": "<p>Restrictions on Storage apply. Refer to Full Report.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep locked up.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from living quarters.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep container tightly closed.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from food, drink and animal feeding stuffs.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Flammable.</p><p>Vapours/gas heavier than air.</p> <p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Solid.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Sinks in water.</p>",
+                "MiniFlammability": "R17",
+                "MiniFirstAidEye": "<p>Wash with running water (15 mins). Medical attention.</p>",
+                "MiniFirstAidSkin": "<p>Remove contaminated clothing. Wash with soap &amp; water.</p> <p>For burns: Apply cold water.\u00a0<b>Do NOT</b>\u00a0remove clothes from area. Cover wound.\u00a0<u>NO OINTMENTS</u>.\u00a0</p> <p><u>MEDICAL ATTENTION</u>.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm. If breath shallow, give oxygen. Medical attention.</p>",
+                "MiniAdvDoc": "<p>Decontaminate (Ipecac/lavage/charcoal). CaN2EDTA is preferred chelator.\u00a0</p> <p>Supportive care.</p> <p>\"metal fume fever\". Remove from exposure.</p> <p>Treatment is supportive.</p> <p>Supportive care.</p>",
+                "MiniFireFighting": "<p>Water jets.</p> <p><b>Do NOT</b>\u00a0fight fire with BCF extinguisher.</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Avoid dust.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <p>Sweep shovel to safe place.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water and detergent.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    },
+                    "Flammability": {
+                        "Number": 3,
+                        "ImageName": "Hazard Alert Code/CW_HAC_3.png"
+                    },
+                    "Reactivity": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "BodyContact": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Chronic": {
+                        "Number": 3,
+                        "ImageName": "Hazard Alert Code/CW_HAC_3.png"
+                    },
+                    "AlertCode": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "1X",
+                    "Value": "1X"
+                },
+                "InternationalHazardGraphics": [
+                    "VERTOX.gif"
+                ],
+                "RiskCodes": [],
+                "SpecificGravity": "8.6",
+                "IssueDate": "2018-12-10T00:00:00",
+                "ClpIndexNumber": [
+                    "048-002-00-0",
+                    "048-011-00-X"
+                ],
+                "Suppliers": [],
+                "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                "Use": "As a protective coating for metals to prevent rust; as an alloy with copper to which it imparts durability without impairing electrical conductivity; as a constituent of low melting point alloys; neutron absorber. In high pressure bearing alloys such as cadmium/nickel alloy and `silver alloy, for use in the motor car and aircraft industries. In certain alkaline storage batteries.",
+                "ChemicalFormula": [
+                    "Cd"
+                ],
+                "FirstAidIngestion": "<ul>\n<li>Give a slurry of activated charcoal in water to drink. <strong>NEVER </strong>GIVE AN UNCONSCIOUS PATIENT WATER TO DRINK. </li>\n<li>At least 3 tablespoons in a glass of water should be given. </li>\n<li>Although induction of vomiting may be recommended (<strong>IN CONSCIOUS PERSONS ONLY</strong>), such a first aid measure is dissuaded due to the risk of aspiration of stomach contents. (i) It is better to take the patient to a doctor who can decide on the necessity and method of emptying the stomach. (ii) Special circumstances may however exist; these include non-availability of charcoal and the ready availability of the doctor. </li>\n</ul>\n<p><strong>NOTE:</strong> If vomiting is induced, lean patient forward or place on left side (head-down position, if possible) to maintain open airway and prevent aspiration.</p>\n<p><strong>NOTE:</strong> Wear protective gloves when inducing vomiting.</p>\n<ul>\n<li>REFER FOR MEDICAL ATTENTION WITHOUT DELAY. </li>\n<li>In the mean time, qualified first-aid personnel should treat the patient following observation and employing supportive measures as indicated by the patient's condition. </li>\n<li>If the services of a medical officer or medical doctor are readily available, the patient should be placed in his/her care and a copy of the SDS should be provided. Further action will be the responsibility of the medical specialist. </li>\n<li>If medical attention is not available on the worksite or surroundings send the patient to a hospital together with a copy of the SDS. (ICSC20305/20307) </li>\n</ul>",
+                "FirstAidAdviceToDoctor": "<ul> <li>High acute exposure, to cadmium, produces delayed pulmonary oedema progressing to interstitial fibrosis.\u00a0</li> <li>For acute inhalations, initial presentation simulates metal fume fever (fever, headache, dyspnoea, pleuritic chest pain, conjunctivitis, rhinitis, sore throat, cough) developing 4-12 hours post-exposure. Respiratory failure may ensue in 3-10 days.\u00a0</li> <li>For acute oral exposures, gastroenteritis results with sudden onset of vomiting, diarrhoea and abdominal pain.\u00a0</li> <li>If vomiting is not prominent, use Ipecac/lavage/catharsis in usual manner.\u00a0</li> <li>CaNa2EDTA is the chelator of choice for acute cadmium exposure. British Anti-Lewisite increases nephrotoxicity and therefore is not indicated\u00a0</li> </ul> <p><br /></p> <p>[<i>Ellenhorn and Barceloux: Medical Toxicology</i>]</p> <p><br /></p> <p>\u00a0COMMENTS on HUMAN TOXICITY:</p> <p><br /></p> <p>\u00a0- Between 10 and 50% of inhaled cadmium is adsorbed, the adsorption being greater for smaller particles and fumes; absorption through skin is negligible.</p> <p><br /></p> <p>\u00a0- The half-life of cadmium in the human body is thought to be about around 30 years and it has no known biological function.</p> <p><br /></p> <p>\u00a0Blood and urine cadmium concentrations may be determined.</p> <p><table> <tr> <td> <p>Normal concentrations</p>  </td> <td> <p>Hazardous concentrations</p>  </td> </tr> <tr> <td> <p>Blood &lt;27 nml/l (&lt;3ug/l), non-smokers</p> <p>&lt;54 nmol/l (&lt;6 ug/l), smokers</p>  </td> <td> <p>&gt;180 nmol/l (&gt;20 ug/l)</p>  </td> </tr> <tr> <td> <p>Urine &lt;18 nmol/l (&lt;2 ug/l), non-smokers</p> <p>0.4-1.3 nmol/mmol creatinine</p> <p>&lt;45 nmol/l (&lt;5 ug/l), smokers</p> <p>10-35 nmol/mmol creatinine</p>  </td> <td> <p>&gt;180 nmol/l (&gt;20 ug/l)</p> <p>&gt;4-13 nmol/mmol creatinine</p>  </td> </tr> </table> </p> <p><br /></p> <p><br /></p> <p>\u00a0BIOLOGICAL EXPOSURE INDEX (BEI)</p> <p><br /></p> <p>\u00a0These represent the determinants observed in specimens collected from a healthy worker exposed at the Exposure Standard (ES or TLV):</p> <p><br /></p> <p><table> <tr> <td> <p>Determinant</p>  </td> <td> <p>Sampling time</p>  </td> <td> <p>Index</p>  </td> <td> <p>Comments</p>  </td> </tr> <tr> <td> <p>Cadmium in urine</p>  </td> <td> <p>Not critical</p>  </td> <td> <p>5 ug/g creatinine</p>  </td> <td> <p>B</p>  </td> </tr> <tr> <td> <p>Cadmium in blood</p>  </td> <td> <p>Not critical</p>  </td> <td> <p>5 ug/L</p>  </td> <td> <p>B</p>  </td> </tr> </table> </p> <p><br /></p> <p>B: Background levels occur in specimens collected from subjects NOT exposed</p> <p><br /></p> <p>Copper, magnesium, aluminium, antimony, iron, manganese, nickel, zinc (and their compounds) in welding, brazing, galvanising or smelting operations all give rise to thermally produced particulates of smaller dimension than may be produced if the metals are divided mechanically. Where insufficient ventilation or respiratory protection is available these particulates may produce \"metal fume fever\" in workers from an acute or long term exposure.\u00a0</p> <ul> <li>Onset occurs in 4-6 hours generally on the evening following exposure. Tolerance develops in workers but may be lost over the weekend. (Monday Morning Fever)\u00a0</li> <li>Pulmonary function tests may indicate reduced lung volumes, small airway obstruction and decreased carbon monoxide diffusing capacity but these abnormalities resolve after several months.\u00a0</li> <li>Although mildly elevated urinary levels of heavy metal may occur they do not correlate with clinical effects.\u00a0</li> <li>The general approach to treatment is recognition of the disease, supportive care and prevention of exposure.\u00a0</li> <li>Seriously symptomatic patients should receive chest x-rays, have arterial blood gases determined and be observed for the development of tracheobronchitis and pulmonary edema.\u00a0</li> </ul> <p><br /></p> <p>[Ellenhorn and Barceloux: Medical Toxicology]</p>|* In addition to preplacement and periodic medical examinations, recommended medical surveillance procedures include urinary cadmium and protein determinations and pulmonary function testing.",
+                "FirstAidInhaled": "<ul> <li>If fumes or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Lay patient down. Keep warm and rested.\u00a0</li> <li>Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>Apply artificial respiration if not breathing, preferably with a demand valve resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.\u00a0</li> <li>Transport to hospital, or doctor, without delay.\u00a0</li> </ul>",
+                "FirstAidEye": "<p><br /></p> <p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Immediately hold eyelids apart and flush the eye continuously with running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Continue flushing until advised to stop by the Poisons Information Centre or a doctor, or for at least 15 minutes.\u00a0</li> <li>Transport to hospital or doctor without delay.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0attempt to remove particles attached to or embedded in eye .</span></li>\n<li><span style=\"color:#000000\">Lay victim down, on stretcher if available and pad\u00a0</span><span style=\"color:#000000\"><strong>BOTH\u00a0</strong></span><span style=\"color:#000000\">eyes, make sure dressing does not press on the injured eye by placing thick pads under dressing, above and below the eye.\u00a0</span></li>\n<li><span style=\"color:#000000\">Seek urgent medical assistance, or transport to hospital.\u00a0</span></li>\n</ul>",
+                "FirstAidSkin": "<p>If skin contact occurs:</p> <ul> <li>Immediately remove all contaminated clothing, including footwear.\u00a0</li> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul> <p>In case of burns:</p> <ul> <li>Immediately apply cold water to burn either by immersion or wrapping with saturated clean cloth.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0remove or cut away clothing over burnt areas.\u00a0</font><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0pull away clothing which has adhered to the skin as this can cause further injury.\u00a0</font></li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0break blister or remove solidified material.\u00a0</font></li> <li>Quickly cover wound with dressing or clean cloth to help prevent infection and to ease pain.\u00a0</li> <li>For large burns, sheets, towels or pillow slips are ideal; leave holes for eyes, nose and mouth.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0apply ointments, oils, butter, etc. to a burn under any circumstances.\u00a0</font></li> <li>Water may be given in small quantities if the person is conscious.\u00a0</li> <li>Alcohol is not to be given under any circumstances.\u00a0</li> <li>Reassure.\u00a0</li> <li>Treat for shock by keeping the person warm and in a lying position.\u00a0</li> <li>Seek medical aid and advise medical personnel in advance of the cause and extent of the injury and the estimated time of arrival of the patient.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": true,
+                "FireIncompatibility": "<p>None known.</p>",
+                "FireExtinguishingMedia": "<p>Metal dust fires need to be smothered with sand, inert dry powders.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0USE WATER, CO2 or FOAM.\u00a0</font></p> <ul> <li>Use DRY sand, graphite powder, dry sodium chloride based extinguishers, G-1 or Met L-X to smother fire.\u00a0</li> <li>Confining or smothering material is preferable to applying water as chemical reaction may produce flammable and explosive hydrogen gas.\u00a0</li> <li>Chemical reaction with CO2 may produce flammable and explosive methane.\u00a0</li> <li>If impossible to extinguish, withdraw, protect surroundings and allow fire to burn itself out.\u00a0</li> </ul> <ul> <li><b>DO NOT\u00a0</b>use halogenated fire extinguishing agents.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0disturb burning dust. Explosion may result if dust is stirred into a cloud, by providing oxygen to a large surface of hot metal.\u00a0</font></li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0use water or foam as generation of explosive hydrogen may result.\u00a0</font></li> </ul> <p>With the exception of the metals that burn in contact with air or water (for example, sodium), masses of combustible metals do not represent unusual fire risks because they have the ability to conduct heat away from hot spots so efficiently that the heat of combustion cannot be maintained - this means that it will require a lot of heat to ignite a mass of combustible metal. Generally, metal fire risks exist when sawdust, machine shavings and other metal 'fines' are present.\u00a0</p> <p>Metal powders, while generally regarded as non-combustible:</p> <ul> <li>May burn when metal is finely divided and energy input is high.\u00a0</li> <li>May react explosively with water.\u00a0</li> <li>May be ignited by friction, heat, sparks or flame.\u00a0</li> <li>May\u00a0<b>REIGNITE</b>\u00a0after fire is extinguished.\u00a0</li> <li>Will burn with intense heat.\u00a0</li> </ul> <p>Note:</p> <ul> <li>Metal dust fires are slow moving but intense and difficult to extinguish.\u00a0</li> <li>Containers may explode on heating.\u00a0</li> <li>Dusts or fumes may form explosive mixtures with air.\u00a0</li> <li>Gases generated in fire may be poisonous, corrosive or irritating.\u00a0</li> <li>Hot or burning metals may react violently upon contact with other materials, such as oxidising agents and extinguishing agents used on fires involving ordinary combustibles or flammable liquids.\u00a0</li> <li>Temperatures produced by burning metals can be higher than temperatures generated by burning flammable liquids \u00a0</li> <li>Some metals can continue to burn in carbon dioxide, nitrogen, water, or steam atmospheres in which ordinary combustibles or flammable liquids would be incapable of burning.</li> </ul> <p>Decomposition may produce toxic fumes of:</p> <p>metal oxides</p>|Decomposes on heating and produces toxic fumes of cadmium oxide.",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear full body protective clothing with breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>Fight fire from a safe distance, with adequate cover.\u00a0</li> <li>If safe, switch off electrical equipment until vapour fire hazard removed.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li>Avoid spraying water onto liquid pools.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> </ul>",
+                "MajorSpills": "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Do not use compressed air to remove metal dusts from floors, beams or equipment</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Vacuum cleaners, of flame-proof design, should be used to minimise dust accumulation.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Use non-sparking handling equipment, tools and natural bristle brushes.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Provide grounding and bonding where necessary to prevent accumulation of static charges during metal dust handling and transfer operations</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Cover and reseal partially empty containers.<br /></span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Do not allow chips, fines or dusts to contact water, particularly in enclosed areas.</span></p> <p>If molten:\u00a0</p> <ul> <li>Contain the flow using dry sand or salt flux as a dam.\u00a0</li> <li>All tooling (e.g., shovels or hand tools) and containers which come in contact with molten metal must be preheated or specially coated, rust free and approved for such use.\u00a0</li> <li>Allow the spill to cool before remelting scrap.</li> </ul> <ul> <li>Clear area of personnel and move upwind.\u00a0</li> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">touch or walk through spilled material.\u00a0</font></li> <li>Wear full protective clothing and breathing apparatus.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>No smoking, naked lights or ignition sources.\u00a0</li> <li>Increase ventilation.\u00a0</li> <li>Stop leak if safe to do so.\u00a0</li> <li>Contain or cover with sand, earth or vermiculite.\u00a0</li> <li>Use only spark-free shovels and explosion proof equipment.\u00a0</li> <li>Collect recoverable product into labelled containers for recycling.\u00a0</li> <li>Collect solid residues and seal in labelled drums for disposal.\u00a0</li> <li>Wash area with water and dike for later disposal; prevent runoff into drains.\u00a0</li> <li>After clean up operations, decontaminate and launder all protective clothing and equipment before storing and re-using.\u00a0</li> <li>If contamination of drains or waterways occurs, advise emergency services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Remove all ignition sources.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0touch or walk through spilled material.\u00a0</font></li> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid contact with skin and eyes.\u00a0</li> <li>Prevent dust cloud.\u00a0</li> <li>With clean shovel (preferably non-sparking) place material into clean, dry container and cover loosely.\u00a0</li> <li>Move containers from spill area.\u00a0</li> <li>Control personal contact with the substance, by using protective equipment.\u00a0</li> </ul>",
+                "MolecularWeight": "112.4",
+                "Appearance": "<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal;text-autospace:none'><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Air sensitive.</span></p>|A silver-white, lustrous, soft, malleable and ductile metal. It is insoluble in water, but is soluble in acids.",
+                "VapourPressure": "0.13 @ 394 deg.",
+                "Taste": "Not Available",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "320.9",
+                "Odour": "Not Available",
+                "AutoIgnitionTemperature": "250 (layer); 57",
+                "RelativeVapourDensity": "3.88",
+                "Lel": "Not applicable",
+                "BoilingRange": "767",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "Uel": "Not applicable",
+                "InstabilityConditions": "<ul> <li>Presence of heat source and ignition source\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "CADMIUM CHLORIDE"
+                ],
+                "Adr": {
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "Adn": {
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "SpecialProvision": "274; 802",
+                    "ClassificationCode": "FT2",
+                    "LimitedQuantity": "1 kg",
+                    "EquipmentReg": "PP, EP",
+                    "FirconNumber": "2",
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "Adg": {
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "Dot": {
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "ShippingName": "Flammable solid, toxic, inorganic, n.o.s.",
+                    "PackingGroup": "II"
+                },
+                "Iata": {
+                    "ErgCode": "3P",
+                    "SpecialProvisions": "A3 A803",
+                    "CargoPi": "448",
+                    "CargoMaxQuantity": "50 kg",
+                    "PassCargoPi": "445",
+                    "PassCargoMaxQuantity": "15 kg",
+                    "PcLqTyPi": "Y440",
+                    "PcLqTyMaxQuantity": "1 kg",
+                    "HazardLabel": "Flammable Solid; Toxic",
+                    "IngredientDgcs": [],
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "Flammable solid, toxic, inorganic, n.o.s. *",
+                    "PackingGroup": "II"
+                },
+                "Imdg": {
+                    "Ems": "F-A , S-G",
+                    "SpecialProvisions": "274",
+                    "Lq": "1 kg",
+                    "MarinePollutant": "Marine Pollutant",
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "UnTransportData": {
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "Tdg": {
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "Land": {
+                    "SpecialProvision": "274",
+                    "LimitedQuantity": "1 kg",
+                    "EnvironmentalHazardStatement": "<p>Environmentally hazardous</p>",
+                    "Dgc": "4.1",
+                    "Dgs": "6.1",
+                    "Subrisk": "6.1, Not Applicable",
+                    "Un": "3179",
+                    "ShippingName": "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S.",
+                    "PackingGroup": "II"
+                },
+                "HandlingProcedure": "<p><span style=\"color:black\">For\r\nmolten metals:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Molten metal and water can be an explosive combination. The risk\r\nis greatest when there is sufficient molten metal to entrap or seal off water.\r\nWater and other forms of contamination on or contained in scrap or remelt ingot\r\nare known to have caused explosions in melting operations. While the products\r\nmay have minimal surface roughness and internal voids, there remains the\r\npossibility of moisture contamination or entrapment. If confined, even a few\r\ndrops can lead to violent explosions.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">All tooling, containers, molds and ladles, which come in contact\r\nwith molten metal must be preheated or specially coated, rust free and approved\r\nfor such use.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Any surfaces that may contact molten metal (e.g. concrete) should\r\nbe specially coated</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Drops of molten metal in water (e.g. from plasma arc cutting),\r\nwhile not normally an explosion hazard, can generate enough flammable hydrogen\r\ngas to present an explosion hazard. Vigorous circulation of the water and\r\nremoval of the particles minimise the hazard.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">During\r\nmelting operations, the following minimum guidelines should be observed:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Inspect all materials prior to furnace charging and completely\r\nremove surface contamination such as water, ice, snow, deposits of grease and\r\noil or other surface contamination resulting from weather exposure, shipment,\r\nor storage.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Store materials in dry, heated areas with any cracks or cavities\r\npointed downwards.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Preheat and dry large objects adequately before charging in to a\r\nfurnace containing molten metal. This is typically done by the use of a drying\r\noven or homogenising furnace. The dry cycle should bring the metal temperature\r\nof the coldest item of the batch to 200 degree C (400 deg F) and then hold at\r\nthat temperature for 6 hours.</span></p>\r\n\r\n\r\n\r\n<p><span>\u00a0</span></p> <ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of overexposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0allow material to contact humans, exposed food or food utensils.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid smoking, naked lights or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Working clothes should be laundered separately. Launder contaminated clothing before re-use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul>",
+                "StorageRequirements": "<p class=\"MsoNormal\" style='text-autospace:none'><span style='font-size:10.0pt;\r\nfont-family:\"Arial Unicode MS\",\"sans-serif\";color:black'>Consider storage under\r\ninert gas.</span></p> <p><span style=\"color:#000000\"><strong>FOR MINOR QUANTITIES:</strong></span></p>\n<ul>\n<li><span style=\"color:#000000\">Store in an indoor fireproof cabinet or in a room of noncombustible construction.\u00a0</span></li>\n<li><span style=\"color:#000000\">Provide adequate portable fire-extinguishers in or near the storage area.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\"><strong>FOR PACKAGE STORAGE:</strong></span></p>\n<ul>\n<li><span style=\"color:#000000\">Store in original containers in approved flame-proof area.\u00a0</span></li>\n<li><span style=\"color:#000000\">No smoking, naked lights, heat or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0store in pits, depressions, basements or areas where vapours may be trapped.</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials in a cool, dry, well ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers from exposure to weather and from direct sunlight unless: (a) \u00a0the packages are of metal or plastic construction; (b) \u00a0the packages are securely closed are not opened for any purpose while in the area where they are stored and (c) \u00a0adequate precautions are taken to ensure that rain water, which might become contaminated by the dangerous goods, is collected and disposed of safely.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure proper stock-control measures are maintained to prevent prolonged storage of dangerous goods.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li><b>CARE</b>: Packing of high density product in light weight metal or plastic packages may result in container collapse with product release\u00a0</li> </ul> <ul> <li>Glass container is suitable for laboratory quantities\u00a0</li> </ul> <ul> <li>Heavy gauge metal packages / Heavy gauge metal drums\u00a0</li> </ul> <p>For low viscosity materials and solids:</p> <p>Drums and jerricans must be of the non-removable head type.</p> <p>Where a can is to be used as an inner package, the can must have a screwed enclosure.</p> <p>For materials with a viscosity of at least 2680 cSt. (23 deg. C):</p> <ul> <li>Removable head packaging and\u00a0</li> <li>cans with friction closures may be used.\u00a0</li> </ul> <p>-</p> <p>Where combination packages are used, there must be sufficient inert absorbent material to absorb completely any leakage that may occur, unless the outer packaging is a close fitting moulded plastic box and the substances are not incompatible with the plastic.</p> <p>All combination packages for Packing group I and II must contain cushioning material.</p>",
+                "StorageIncompatability": "<p>The material is described as an electropositive metal.</p> <p>The activity or electromotive series of metals is a listing of the metals in decreasing order of their reactivity with hydrogen-ion sources such as water and acids. In the reaction with a hydrogen-ion source, the metal is oxidised to a metal ion, and the hydrogen ion is reduced to H2. The ordering of the activity series can be related to the standard reduction potential of a metal cation. The more positive the standard reduction potential of the cation, the more difficult it is to oxidise the metal to a hydrated metal cation and the later that metal falls in the series</p> <p>Three notable groups comprise the series</p> <ul> <li>very electropositive metals\u00a0</li> <li>electropositive metals\u00a0</li> <li>electronegative metals\u00a0</li> </ul> <p>Electropositive metals.have electronegativities that fall between 1.4 and 1.9 \u00a0Cations of these metals generally have standard reduction potentials between 0.0 and -1.6 V</p> <p>They:</p> <ul> <li>do not react very readily with water to release hydrogen\u00a0</li> <li>react with H+ (acids)\u00a0</li> </ul> <p>Electropositive metals do not burn in air as readily as do very electropositive metals. The surfaces of these metals will tarnish in the presence of oxygen forming a protective oxide coating. This coating protects the bulk of the metal against further oxidation (the metal is passivated).</p> <p><br /></p> <p>Reaction is reduced in the massive form (sheet, rod, or drop), compared with finely divided forms. The less active metals will not burn in air but:</p> <ul> <li>can react exothermically with oxidising acids to form noxious gases.\u00a0</li> <li>catalyse polymerisation and other reactions, particularly when finely divided\u00a0</li> <li>react with halogenated hydrocarbons (for example, copper dissolves when heated in carbon tetrachloride), sometimes forming explosive compounds.\u00a0</li> <li>Elemental metals may react with azo/diazo compounds to form explosive products\u00a0</li> </ul> <p><br /></p> <ul> <li>Finely divided metal powders develop pyrophoricity when a critical specific surface area is exceeded; this is ascribed to high heat of oxide formation on exposure to air.\u00a0</li> <li>Safe handling is possible in relatively low concentrations of oxygen in an inert gas\u00a0</li> <li>Several pyrophoric metals, stored in glass bottles have ignited when the container is broken on impact. Storage of these materials moist and in metal containers is recommended.\u00a0</li> <li>The reaction residues from various metal syntheses (involving vacuum evaporation and co-deposition with a ligand) are often pyrophoric\u00a0</li> </ul> <p><br /></p> <p>If the surface of the metal is in contact with both oxygen and water, corrosion can occur. In corrosion, the metal acts as an anode and is oxidised.\u00a0</p> <p><br /></p> <p>Many metals may incandesce, react violently, ignite or react explosively upon addition of concentrated nitric acid.</p> <p>Some electropositive metals do not react with nitric acid because they are passivated. \u00a0</p> <p><br /></p> <p>http://www.wou.edu/las/physci/ch412/activity.htm</p> <ul> <li>WARNING: Avoid or control reaction with peroxides. All\u00a0<i>transition meta</i>l peroxides should be considered as potentially explosive. For example transition metal complexes of alkyl hydroperoxides may decompose explosively.\u00a0</li> <li>The pi-complexes formed between chromium(0), vanadium(0) and other transition metals (haloarene-metal complexes) and mono-or poly-fluorobenzene show extreme sensitivity to heat and are explosive.\u00a0</li> <li>Avoid reaction with borohydrides or cyanoborohydrides\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Metals and their oxides or salts may react violently with chlorine trifluoride and bromine trifluoride.\u00a0</span></li>\n<li><span style=\"color:#000000\">These trifluorides are hypergolic oxidisers. They ignite on contact (without external source of heat or ignition) with recognised fuels - contact with these materials, following an ambient or slightly elevated temperature, is often violent and may produce ignition.\u00a0</span></li>\n<li><span style=\"color:#000000\">The state of subdivision may affect the results.\u00a0</span></li>\n</ul> <ul> <li>Many metals may incandesce, react violently, ignite or react explosively upon addition of concentrated nitric acid.\u00a0</li> </ul>|Segregate from strong oxidizers, sulfur, selenium, tellurium, hydrazoic acid.|Reacts with hydrochloric and sulfuric acids to produce hydrogen. (Reaction is slow.)|May react violently with fused ammonium nitrate.|Reacts with nitric acid to produce oxides of nitrogen.|Cadmium slowly oxidizes in moist air at room temperature",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC41.gif",
+                    "DGC/DGC61.gif"
+                ],
+                "TransportIncompatibilities": "<p><br /></p> <p>Class 4.1 - Flammable solids shall not be loaded in the same vehicle or packed in the same freight container with:\u00a0</p> <p><br /></p> <p>Class 1 - Explosives;\u00a0</p> <p><br /></p> <p>Class 2.1 - Flammable gases;\u00a0</p> <p><br /></p> <p>Class 4.2 - Spontaneously combustible substances;\u00a0</p> <p><br /></p> <p>Class 5.1 - Oxidising agents;\u00a0</p> <p><br /></p> <p>Class 5.2 - Organic peroxides;\u00a0</p> <p><br /></p> <p>Class 7 - Radioactive substances.</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1. 2.2, 2.2 (with subrisk 5.1), 2.3, 3, 4.2, 4.3, 5.1, 5.2, 6.1<br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.&nbsp;</font></div> </font> </body></html> <p>Do NOT allow product to come in contact with surface waters or to intertidal areas below the mean high water mark. Do not contaminate water when cleaning equipment or disposing of equipment wash-waters.\u00a0</p> <p>Wastes resulting from use of the product must be disposed of on site or at approved waste sites.</p> <p>Metal-containing inorganic substances generally have negligible vapour pressure and are not expected to partition to air. Once released to surface waters and moist soils their fate depends on solubility and dissociation in water. Environmental processes (such as oxidation and the presence of acids or bases) may transform insoluble metals to more soluble ionic forms. Microbiological processes may also transform insoluble metals to more soluble forms. Such ionic species may bind to dissolved ligands or sorb to solid particles in aquatic or aqueous media. A significant proportion of dissolved/ sorbed metals will end up in sediments through the settling of suspended particles. The remaining metal ions can then be taken up by aquatic organisms.</p> <p>When released to dry soil most metals will exhibit limited mobility and remain in the upper layer; some will leach locally into ground water and/ or surface water ecosystems when soaked by rain or melt ice. Environmental processes may also be important in changing solubilities.\u00a0</p> <p>Even though many metals show few toxic effects at physiological pHs, transformation may introduce new or magnified effects.</p> <p>A metal ion is considered infinitely persistent because it cannot degrade further.</p> <p>The current state of science does not allow for an unambiguous interpretation of various measures of bioaccumulation.</p> <p>The counter-ion may also create health and environmental concerns once isolated from the metal. Under normal physiological conditions the counter-ion may be essentially insoluble and may not be bioavailable.</p> <p>Environmental processes may enhance bioavailability.</p> <p><span style=\"color:black\">\u00a0The importance of cadmium in environmental disease is\r\nillustrated in the outbreak of itai-itai disease caused by the contamination of\r\nrice paddies in Japan by smelter waste. \u00a0Cadmium toxicity affected the\r\nskeletal system of inhabitants of the region resulting in severe bony\r\ndeformities and chronic renal disease. \u00a0Although cadmium exposure has been\r\nimplicated in the pathogenesis of the syndrome, vitamin D deficiencies and\r\nother nutritional deficiencies are also thought to be implicated.\r\n\u00a0(\"Itai-itai\" translates to \"ouch-ouch\" reflecting the\r\naccompanying bone pain). \u00a0Sewage sludge and phosphate fertilisers are often\r\ncontaminated with cadmium which then concentrates in plants grown on\r\ncontaminated soils. \u00a0Compared with other heavy metals cadmium is mobile in\r\nthe aqueous environment and may exist as the hydrated ion, as complexes with\r\ncarbonate, chloride or sulfate or with humic acids. \u00a0Cadmium thus tends to\r\nmove in the environment and is widely distributed. \u00a0It is taken up by\r\norganisms and is bioaccumulated. \u00a0Bioconcentration in the aquatic\r\nenvironment is greatest in invertebrates such as mollusks and crustaceans, followed\r\nby fish and plants. \u00a0However, under reducing conditions, cadmium forms the\r\ninsoluble sulfide and precipitates in the sediment. \u00a0The biological\r\nproduction of sulfide also promotes the formation of cadmium sulfide.\r\n\u00a0Cadmium is one of the most readily absorbed metals in plants grown on\r\ncontaminated soils and the potential for bioaccumulation is substantial.\r\n\u00a0Zinc and calcium are also thought to bioaccumulate with cadmium with a\r\nresultant protective action against its toxic effects.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Significant compartments for soluble cadmium salts are likely to\r\nbe soil and water. Cadmium(II) adsorbs to sediments. Once in an aquatic\r\nenvironment cadmium is highly mobile; its dissolved species are highly labile\r\nand are first to be released, for example, when salinity is increased in\r\nestuaries. In fresh water, cadmium toxicity is influenced by water hardness\r\n(the harder the water, the lower the toxicity). Cadmium can bioaccumulate and\r\nbioconcentrate in the food chain. Biomagnification in terrestrial food chains\r\nis not expected.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Cadmium is more mobile in aquatic environments than most other\r\nheavy metals (e.g., lead). In most natural surface waters, the affinities of\r\ncomplexing ligands for cadmium generally follow the order of humic acids &gt;\r\nCO3 2- &gt; OH- &gt; Cl- &gt; SO4 2-. In unpolluted natural waters, most\r\ncadmium transported in the water column will exist in the dissolved state as\r\nthe hydrated ion Cd(H2O)6 2+. Minor amounts of cadmium are transported with the\r\ncoarse particulates, and only a small fraction is transported with the\r\ncolloids. In unpolluted waters, cadmium can be removed from solution by\r\nexchange of cadmium for calcium in the lattice structure of carbonate minerals.\r\nIn polluted organic-rich waters, adsorption of cadmium by humic substances and\r\nother organic complexing agents plays a dominant role in transport,\r\npartitioning, and remobilization of cadmium. Cadmium concentration in water is\r\ninversely related to the pH and the concentration of organic material in the\r\nwater. Because cadmium exists only in the +2 oxidation state in water, aqueous\r\ncadmium is not strongly influenced by the oxidizing or reducing potential of\r\nthe water. However, under reducing conditions, cadmium may form cadmium\r\nsulfide, which is poorly soluble and tends to precipitate. Free (ionic) cadmium\r\nseems to be the toxic form and becomes much more prevalent at low salinity .\r\nCadmium has a relatively long residence time in aquatic systems. In Lake\r\nMichigan, a mean residence time of 4-10 years was calculated for cadmium\r\ncompared to 22 years calculated for mercury.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Precipitation and sorption to mineral surfaces, hydrous metal\r\noxides, and organic materials are the most important processes for removal of\r\ncadmium to bed sediments. Humic acid is the major component of sediment\r\nresponsible for adsorption. Sorption increases as the pH increases.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Sediment bacteria may also assist in the partitioning of cadmium\r\nfrom water to sediments. Both cadmium-sensitive and cadmium-resistant bacteria\r\nreduced the cadmium concentration in the water column from 1 ppm to between 0.2\r\nand 0.6 ppm, with a corresponding increase in cadmium concentration in the\r\nsediments in the simulated environment. Studies indicate that concentrations of\r\ncadmium in sediments are at least one order of magnitude higher than in the\r\noverlying water. The mode of sorption of cadmium to sediments is important in\r\ndetermining its disposition to remobilize. Cadmium associated with carbonate\r\nminerals, precipitated as stable solid compounds or co-precipitated with\r\nhydrous iron oxides, is less likely to be mobilized by resuspension of\r\nsediments or biological activity. Cadmium that is adsorbed to mineral surfaces\r\nsuch as clay, or to organic materials, is more easily bioaccumulated or\r\nreleased in the dissolved state when the sediment is disturbed. Cadmium may\r\nredissolve from sediments under varying ambient conditions of pH,salinity, and\r\nredox potential. Cadmium is not known to form volatile compounds in the aquatic\r\nenvironment, so partitioning from water to the atmosphere does not occur.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">In soils, pH, oxidation-reduction reactions, and formation of\r\ncomplexes are important factors affecting the mobility of cadmium. Cadmium can\r\nparticipate in exchange reactions on the negatively charged surface of clay\r\nminerals. In acid soils, the reaction is reversible. However, adsorption increases\r\nwith pH and may become irreversible. Cadmium also may precipitate as insoluble\r\ncadmium compounds, or form complexes or chelates by interaction with organic\r\nmatter. Available data suggest that organic matter is more effective than\r\ninorganic constituents in keeping cadmium unavailable. Examples of cadmium\r\ncompounds found in soil are Cd3 (PO4)2, CdCO3, and Cd(OH)2. These compounds are\r\nformed as the pH rises. It has been found that about 90% of cadmium in soils\r\nremains in the top 15 cm.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Aquatic and terrestrial organisms bioaccumulate cadmium. Cadmium\r\nconcentrates in freshwater and marine animals to concentrations hundreds to\r\nthousands of times higher than in the water. Reported bioconcentration factors\r\n(BCFs) range from 113 to 18,000 for invertebrates, from 3 to 4,190 for fresh\r\nwater aquatic organisms, and from 5 to 3,160 for saltwater aquatic organisms .\r\nBioconcentration in fish depends on the pH and the humus content of the water.\r\nCadmium (not an estrogen mimic) has also been shown to cause increased vitellogenesis\r\nin female Atlantic croaker (<i>Micropogonias undulatus</i>), but this is\r\nthought to be caused by direct toxic action on the pituitary, leading to\r\naltered secretion of gonadotropin hormone.Because of their high ability to\r\naccumulate metals, some aquatic plants have been suggested for use in pollution\r\ncontrol. For example, it has been suggested that the rapidly-growing water\r\nhyacinth\u00a0<i>Eichhornia crussipes\u00a0</i>could be used to remove cadmium\r\nfrom domestic and industrial effluents. The data indicate that cadmium\r\nbioaccumulates in all levels of the food chain. Cadmium accumulation has been\r\nreported in grasses and food crops, and in earthworms, poultry, cattle, horses,\r\nand wildlife. The metal burden of a crop depends on uptake by the root system,\r\ndirect foliar uptake and translocation within the plant, and surface deposition\r\nof particulate matter. In general, cadmium accumulates in the leaves of plants\r\nand, therefore, is more of a risk in leafy vegetables grown in contaminated\r\nsoil than in seed or root crops.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Since cadmium accumulates largely in the liver and kidneys of\r\nvertebrates and not in the muscle tissue and intestinal absorption of cadmium\r\nis low, biomagnification through the food chain may not be significant. In a\r\nstudy of marine organisms from the Tyrrhenian Sea, no evidence of cadmium\r\nbiomagnification was found along pelagic or benthic food webs. Although some\r\ndata indicate increased cadmium concentrations in animals at the top of the\r\nfood chain, comparisons among animals at different trophic levels are difficult,\r\nand the data available on biomagnification are not conclusive.\r\n\u00a0Nevertheless, uptake of cadmium from soil by feed crops may result in\r\nhigh levels of cadmium in beef and poultry (especially in the liver and\r\nkidneys). This accumulation of cadmium in the food chain has important\r\nimplications for human exposure to cadmium, whether or not significant\r\nbiomagnification occurs.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Drinking water standards:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">5 ug/l (UK max.)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">3 ug/l (WHO guideline)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Soil Guidelines: Dutch Criteria:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">0.8 mg/kg (target)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">12 mg/kg (intervention)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Air Quality Standards:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">&lt;1-5 ng/m3 (rural areas)</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00a010-20 ng/m3 (urban and industrial areas) \u00a0(WHO\r\nGuidelines)</span></p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p> <p>The material is classified as an\u00a0<b>ecotoxin*</b>\u00a0because the<b><i>\u00a0Fish LC50 (96 hours)\u00a0</i></b>is less than or equal to 0.1 mg/l</p> <p><i>* Classification of Substances as Ecotoxic (Dangerous to the Environment)</i></p> <p><i>\u00a0 Appendix 8, Table 1</i></p> <p><i>Compiler's Guide for the Preparation of International Chemical Safety Cards: 1993 Commission of the European Communities</i></p>|BCF  : 2.18-250000|Fish LC50 (96 h); 4.2-6.9 mg/L|Invertebrate LC50 (96 h): 11 mg/L|Degradation Biological: sig|processes Abiotic: photodeg",
+                "Disposal": "<ul>\n<li><span style=\"color:#000000\">Containers may still present a chemical hazard/ danger when empty.\u00a0</span></li>\n<li><span style=\"color:#000000\">Return to supplier for reuse/ recycling if possible.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Otherwise:</span></p>\n<ul>\n<li><span style=\"color:#000000\">If container can not be cleaned sufficiently well to ensure that residuals do not remain or if the container cannot be used to store the same product, then puncture containers, to prevent re-use, and bury at an authorised landfill.\u00a0</span></li>\n<li><span style=\"color:#000000\">Where possible retain label warnings and SDS and observe all notices pertaining to the product.\u00a0</span></li>\n</ul> <p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Recycle wherever possible.\u00a0</span></li>\n<li><span style=\"color:#000000\">Consult manufacturer for recycling options or consult local or regional waste management authority for disposal if no suitable treatment or disposal facility can be identified.\u00a0</span></li>\n<li><span style=\"color:#000000\">Dispose of by: burial in a land-fill specifically licensed to accept chemical and / or pharmaceutical wastes or Incineration in a licensed apparatus (after admixture with suitable combustible material)\u00a0</span></li>\n<li><span style=\"color:#000000\">Decontaminate empty containers. Observe all label safeguards until containers are cleaned and destroyed.\u00a0</span></li>\n</ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "24h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.001-0.003mg/L",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": ">6mg/l",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": "0.003mg/l",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "0.54-0.62mg/l",
+                        "Source": "4"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.049-0.162mg/l",
+                        "Source": "4"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "Chemical Footprint Project - Chemicals of High Concern List",
+                    "Australia Model Work Health and Safety Regulations - Hazardous chemicals (other than lead) requiring health monitoring",
+                    "Australia Hazardous Chemical Information System (HCIS) - Hazardous Chemicals",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs - Group 1: Carcinogenic to humans",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs"
+                ],
+                "DangerousGoodsCategories": "#sec15Korean_class 2: #sec15Korean_Hazard 2",
+                "Tccl": [
+                    "Restricted chemicals",
+                    "Prohibited chemicals"
+                ],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H315; H319; H350",
+                        "SignalWord": "GHS08; GHS07; Dgr",
+                        "HazardState": "H315; H319; H350"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H400; H410; H330; H341; H350; H361; H372; H250; H335; H301; H319; H314",
+                        "SignalWord": "GHS09; Wng; GHS08; GHS06; Dgr; GHS02; GHS07; GHS05",
+                        "HazardState": "H400; H410; H330; H341; H350; H361; H372; H250; H335; H301; H319; H314"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": "0.19 \u00b5g/L (Water (Fresh))",
+                    "MarineWater": "1.14 \u00b5g/L (Water - Intermittent release)",
+                    "Aqua": " (Water (Fresh)_mar)",
+                    "FreshWaterSediment": "1.8 mg/kg sediment dw (Sediment (Fresh Water))",
+                    "MarineWaterSediment": "0.64 mg/kg sediment dw (Sediment (Fresh Water)_mar)",
+                    "Soil": "0.9 mg/kg soil dw (Soil)",
+                    "Stp": "20 \u00b5g/L (STP)",
+                    "Oral": "0.16 mg/kg food (Oral)"
+                },
+                "Dnel": {
+                    "LwltInhal": {
+                        "Value": "4 \u00b5g/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 4 \u00b5g/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "ScltOral": {
+                        "Value": "1 \u00b5g/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Oral 1 \u00b5g/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Oral",
+                        "Type": "Systemic, Chronic"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Cadmium",
+                        "Teel1": "Not Available",
+                        "Teel2": "Not Available",
+                        "Teel3": "Not Available"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalMgm3": "9 mg/m3",
+                    "OriginalValue": "9 mg/m3",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p><br /></p> <p>The adopted TLVs were recommended to prevent proteinuria, pulmonary oedema and emphysema. Evidence for added risk of carcinoma of the lung and prostate has been reported amongst smelter workers but exposure to other toxic fumes, gases and dusts is a confounding factor. Most of the data on cadmium levels responsible for these observed effects indicated exposures above the former TLV ceiling of 0.1 mg/m3 for cadmium fume. It is anticipated that the total dust recommendation will prevent the development of preclinical kidney dysfunction and that the respirable fraction recommendation will protect the lower respiratory tract from the accumulation of cadmium burden that might directly act on the lung as a carcinogen. It is also expected that the recommendations will protect workers from metal fume fever. The concentration of respirable dust for application of this limit is to be determined from the fraction that penetrates a separator whose size collection efficiency is described by a cumulative log normal function with a median aerodynamic volume of 4.0 um (+-) 0.3 um and with a geometric standard deviation of 1.5 um (+-) 0.1 um, i.e. less than 5 um. Some jurisdictions require that health surveillance be conducted on occupationally exposed workers.</p> <p><br /></p> <p>\u00a0Such surveillance should emphasise</p> <ul> <li>\u00a0demography, occupational and medical history\u00a0</li> <li>health advice, including counselling on additional cadmium burden from smoking\u00a0</li> <li>physical examination with emphasis on the respiratory system\u00a0</li> <li>completion of a standardised respiratory questionnaire\u00a0</li> <li>standardised respiratory function tests such as FEV1, FVC and FEV1/FVC\u00a0</li> <li>urinary cadmium and beta2-microglobulin\u00a0</li> <li>records of personal exposure\u00a0</li> </ul> <p><br /></p> <p>Established occupational exposure limits frequently do not take into consideration reproductive end points that are clearly below the thresholds for other toxic effects. Occupational reproductive guidelines (ORGs) have been suggested as an additional standard. These have been established after a literature search for the reproductive no-observed-adverse effect-level (NOAEL) and the lowest-observed-adverse-effect-level (LOAEL). In addition the US EPA's procedures for risk assessment for hazard identification and dose-response assessment as applied by NIOSH were used in the creation of such limits. Uncertainty factors (UFs) have also been incorporated.</p> <p>These exposure guidelines have been derived from a screening level of risk assessment and should not be construed as unequivocally safe limits. ORGS represent an 8-hour time-weighted average unless specified otherwise.\u00a0</p> <p>CR = Cancer Risk/10000; UF = Uncertainty factor:</p> <p>TLV believed to be adequate to protect reproductive health:</p> <p>LOD: Limit of detection</p> <p>Toxic endpoints have also been identified as:</p> <p>D = Developmental; R = Reproductive; TC = Transplacental carcinogen</p> <p>Jankovic J., Drake F.: A Screening Method for Occupational Reproductive</p> <p>American Industrial Hygiene Association Journal 57: 641-649 (1996)</p> #0.002 mg/m3        NA        NA             8         Yes",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Employees exposed to confirmed human carcinogens should be authorized to do so by the employer, and work in a regulated area.\u00a0</li> <li>Work should be undertaken in an isolated system such as a \"glove-box\" . Employees should wash their hands and arms upon completion of the assigned task and before engaging in other activities not associated with the isolated system.\u00a0</li> <li>Within regulated areas, the carcinogen should be stored in sealed containers, or enclosed in a closed system, including piping systems, with any sample ports or openings closed while the carcinogens are contained within.\u00a0</li> <li>Open-vessel systems are prohibited.\u00a0</li> <li>Each operation should be provided with continuous local exhaust ventilation so that air movement is always from ordinary work areas to the operation.\u00a0</li> <li>Exhaust air should not be discharged to regulated areas, non-regulated areas or the external environment unless decontaminated. Clean make-up air should be introduced in sufficient volume to maintain correct operation of the local exhaust system.\u00a0</li> <li>For maintenance and decontamination activities, authorized employees entering the area should be provided with and required to wear clean, impervious garments, including gloves, boots and continuous-air supplied hood. Prior to removing protective garments the employee should undergo decontamination and be required to shower upon removal of the garments and hood.\u00a0</li> <li>Except for outdoor systems, regulated areas should be maintained under negative pressure (with respect to non-regulated areas).\u00a0</li> <li>Local exhaust ventilation requires make-up air be supplied in equal volumes to replaced air.\u00a0</li> <li>Laboratory hoods must be designed and maintained so as to draw air inward at an average linear face velocity of 0.76 m/sec with a minimum of 0.64 m/sec. Design and construction of the fume hood requires that insertion of any portion of the employees body, other than hands and arms, be disallowed.\u00a0</li> </ul> <p>For large scale or continuous use: \u00a0</p> <ul> <li>Spark-free, earthed ventilation system, venting directly to the outside and separate from usual ventilation systems\u00a0</li> <li>Provide dust collectors with explosion vents\u00a0</li> </ul> <p>Inhalation risk of a pyrophoric material is low however risks of inhalation of combustion products may requires respiratory protection. \u00a0It is recommended that this material be handled in a closed system or in a fume hood</p>",
+                "AcuteInhaled": "<p><br /></p> <p>Inhalation of dusts, generated by the material, during the course of normal handling, may produce severely toxic effects; these may be fatal.</p> <p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p> <p>Pyrophoric compounds may decompose giving rise to potent irritants of the respiratory tract.</p> <p><br /></p> <p>Inhalation of freshly formed metal oxide particles sized below 1.5 microns and generally between 0.02 to 0.05 microns may result in \"metal fume fever\". Symptoms may be delayed for up to 12 hours and begin with the sudden onset of thirst, and a sweet, metallic or foul taste in the mouth. Other symptoms include upper respiratory tract irritation accompanied by coughing and a dryness of the mucous membranes, lassitude and a generalised feeling of malaise. Mild to severe headache, nausea, occasional vomiting, fever or chills, exaggerated mental activity, profuse sweating, diarrhoea, excessive urination and prostration may also occur. Tolerance to the fumes develops rapidly, but is quickly lost. All symptoms usually subside within 24-36 hours following removal from exposure.</p> <p>Cadmium is absorbed more efficiently from the respiratory tract than from the gastrointestinal tract. Three clinical stages are recognised in dog. An acute pulmonary oedema (within 24 hours), proliferative interstitial pneumonitis (3rd-10th day) and permanent lung damage (consisting of perivascular and peribronchial fibrosis) have been identified - a similar sequence (though not permanent damage) is inferred from human autopsy material. The inhalation of 40 mg of cadmium with pulmonary retention of 4 mg is estimated to be fatal in man. Following absorption, organs accumulate low molecular weight proteins (metallothioneins - MTNs) which avidly bind metals such as cadmium, zinc and mercury. Single intravenous doses of cadmium-MTN complex produce necrosis and sloughing of renal tubular cells in rabbits. Renal (kidney) injury is also common amongst workers in cadmium industries exposed both acutely and chronically. Acute massive exposures may result in acute renal necrosis whereas prolonged low level exposures commonly produce renal tubular dysfunction characterised by low grade proteinuria (protein in the urine).</p>",
+                "AcuteEye": "<p>It has either been demonstrated or it is expected that when the material is applied to the eye(s) of animals, it produces severe ocular lesions which are present twenty-four hours or more after instillation.</p> <p>Contact with the eye, by metal dusts, may produce mechanical abrasion or foreign body penetration of the eyeball.</p> <p>Pyrophoric compounds may produce thermal burns on contact with the eye.</p>",
+                "AcuteSkin": "<p><br /></p> <p>Limited evidence exists, or practical experience predicts, that the material either produces inflammation of the skin in a substantial number of individuals following direct contact, and/or produces significant inflammation when applied to the healthy intact skin of animals, for up to four hours, such inflammation being present twenty-four hours or more after the end of the exposure period. Skin irritation may also be present after prolonged or repeated exposure; this may result in a form of contact dermatitis (nonallergic). The dermatitis is often characterised by skin redness (erythema) and swelling (oedema) which may progress to blistering (vesiculation), scaling and thickening of the epidermis. At the microscopic level there may be intercellular oedema of the spongy layer of the skin (spongiosis) and intracellular oedema of the epidermis.</p> <p>Pyrophoric compounds may cause thermal burns of the skin with local effects ranging from redness to swelling and deep burns with tissue destruction. Systemic effects may include primary or secondary shock.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p>",
+                "AcuteIngestion": "<p>Accidental ingestion of the material may be seriously damaging to the health of the individual; animal experiments indicate that ingestion of less than 40 gram may be fatal.</p> <p><br /></p> <p>Pyrophoric compounds may produce gastrointestinal damage resulting from local generation of heat.</p> <p><br /></p> <p>Ingestion of cadmium salts produces prompt vomiting and are not retained. For this reason exposure by this route tends to be less harmful than exposure by inhalation. Although as little as 10-20 mg of soluble cadmium has produced severe toxic syndrome following ingestion, lethal doses probably comprise several hundred milligram by the oral route. Ingestion may cause excessive salivation, nausea, persistent vomiting, diarrhoea and abdominal pain.</p>",
+                "ChronicHealthEffects": "<p>Strong evidence exists that the substance may cause irreversible but non-lethal mutagenic effects following a single exposure.</p> <p>On the basis, primarily, of animal experiments, the material may be regarded as carcinogenic to humans. There is sufficient evidence to provide a strong presumption that human exposure to the material may result in cancer on the basis of:</p> <p>- appropriate long-term animal studies</p> <p>- other relevant information</p><html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Toxic: danger of serious damage to health by prolonged exposure through inhalation and if swallowed.&nbsp;</font></div> </font> </body></html> <p>Serious damage (clear functional disturbance or morphological change which may have toxicological significance) is likely to be caused by repeated or prolonged exposure. As a rule the material produces, or contains a substance which produces severe lesions. Such damage may become apparent following direct application in subchronic (90 day) toxicity studies or following sub-acute (28 day) or chronic (two-year) toxicity tests.</p> <p>Exposure to the material may cause concerns for human fertility, generally on the basis that results in animal studies provide sufficient evidence to cause a strong suspicion of impaired fertility in the absence of toxic effects, or evidence of impaired fertility occurring at around the same dose levels as other toxic effects, but which are not a secondary non-specific consequence of other toxic effects.</p> <p><br /></p> <p>Exposure to the material may cause concerns for humans owing to possible developmental toxic effects, generally on the basis that results in appropriate animal studies provide strong suspicion of developmental toxicity in the absence of signs of marked maternal toxicity, or at around the same dose levels as other toxic effects but which are not a secondary non-specific consequence of other toxic effects.</p> <p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p><br /></p> <p>In chronic cadmium poisoning, bone softening (osteomalacia), radiological decreases in bone density, high levels of calcium in the urine (hyper- calcinuria) and renal stones reflect disturbance in calcium metabolism. Although this disturbance may reflect cadmium induced renal tubular damage there is evidence in rats that direct action on the bone may produce metabolic breakdown of collagen (the main structural protein in bone). Animals sometimes exhibit significant hypertension after chronic exposure to cadmium in drinking water. Epidemiological studies suggest a relationship between airborne cadmium and human cardiovascular disease though this is still equivocal. From a diagnostic point of view the formation of a yellow ring as part of the tooth structure in chronically exposed humans may be significant. Heavy smoking has been reported to considerably increase tissue calcium levels and would appear to increase the risk of cumulative toxic effects. Repeated or prolonged exposure may result in a loss of smell, ulceration of the nose, pulmonary emphysema and mild anaemia. Occupational exposure to cadmium (in the form of the oxide) may increase the risk of prostate, respiratory and genito-urinary cancers in humans. In one follow-up study of an investigation of cadmium-nickel workers and cadmium-copper alloy factory workers, additional cases of nasopharyngeal, colorectal, prostatic and lung-cancer were reported. In a further study of cadmium smelter workers a significant trend was noted for cumulative cadmium exposures and lung cancer mortality. This relationship has not been seen in other follow-up studies. Male rats continuously exposed to cadmium chloride aerosols developed dose-related increases in adenocarcinomas, epidermoid (squamous cell) carcinomas and mucoepidermoid carcinomas of the lung. When introduced through intratracheal instillation, cadmium chloride induced invasive prostatic carcinomas in the rat.</p> <p>Metallic dusts generated by the industrial process give rise to a number of potential health problems. The larger particles, above 5 micron, are nose and throat irritants. Smaller particles however, may cause lung deterioration. Particles of less than 1.5 micron can be trapped in the lungs and, dependent on the nature of the particle, may give rise to further serious health consequences.</p> <p>Metals are widely distributed in the environment and are not biodegradable. Biologically, many metals are essential to living systems and are involved in a variety of cellular, physiological, and structural functions. They often are cofactors of enzymes, and play a role in transcriptional control, muscle contraction, nerve transmission, blood clotting, and oxygen transport and delivery. Although all metals are potentially toxic at some level, some are highly toxic at relatively low levels. Moreover, in some cases the same metal can be essential at low levels and toxic at higher levels, or it may be toxic via one route of entry but not another. Toxic effects of some metals are associated with disruption of functions of essential metals. Metals may have a range of effects, including cancer, neurotoxicity, immunotoxicity, cardiotoxicity, reproductive toxicity, teratogenicity, and genotoxicity. Biological half lives of metals vary greatly, from hours to years. Furthermore, the half life of a given metal varies in different tissues. Lead has a half life of 14 days in soft tissues and 20 years in bone.\u00a0</p> <p>In considering how to evaluate the toxicity of metals of potential concern, a number of aspects of metal toxicity should be kept in mind:\u00a0</p> <p>Different species vary in their responses to different metals; in some cases, humans are more sensitive than rodents. Thus, there is a need for broad-based testing of metals;\u00a0</p> <ul> <li>The route of exposure may affect the dose and site where the metal concentrates, and thus the observed toxic effects;\u00a0</li> <li>Metal-metal interactions can reduce or enhance toxicity; biotransformation can reduce or enhance toxicity;\u00a0</li> <li>It is difficult to predict the toxicity of one metal based on the adverse effects of another; in trying to evaluate the toxicity of one particular metal compound, predictions based on similar compounds of the same metal may be valid.\u00a0</li> </ul> <p><br /></p>",
+                "Toxicity": [
+                    {
+                        "Type": "Inhalation(Rabbit) LC50;",
+                        "Value": "0.028",
+                        "Unit": "mg/L4h",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">63<259",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "28/12/2004",
+                "NextRevisionDate": "2023-12-10T00:00:00",
+                "SignalWord": "Danger",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSFla.gif",
+                    "GHSTox.gif",
+                    "GHSChr.gif",
+                    "GHSEnv.gif"
+                ],
+                "MarinePollutantGraphic": "MARPOLL.gif",
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R26|~R25?|~R41?|~R37/38?",
+                "MiniChronicHealthEffects": "R45(2)|R62(3)|R63(3)|R68(3)|R48/23/25|R33?",
+                "WhmisImages": [
+                    "WHMISF.gif",
+                    "WHMISP.gif",
+                    "WHMIST.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P201",
+                        "Phrase": "Obtain special instructions before use."
+                    },
+                    {
+                        "Code": "P281",
+                        "Phrase": "Use personal protective equipment as required."
+                    },
+                    {
+                        "Code": "P273",
+                        "Phrase": "Avoid release to the environment."
+                    },
+                    {
+                        "Code": "P210",
+                        "Phrase": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking."
+                    },
+                    {
+                        "Code": "P240",
+                        "Phrase": "Ground and bond container and receiving equipment."
+                    },
+                    {
+                        "Code": "P241",
+                        "Phrase": "Use explosion-proof [electrical/ventilating/lighting/\u2026] equipment."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P260",
+                        "Phrase": "Do not breathe dust/fume/gas/mist/vapours/spray."
+                    },
+                    {
+                        "Code": "P271",
+                        "Phrase": "Use only outdoors or in a well-ventilated area."
+                    },
+                    {
+                        "Code": "P284",
+                        "Phrase": "[In case of inadequate ventilation] wear respiratory protection."
+                    },
+                    {
+                        "Code": "P264",
+                        "Phrase": "Wash \u2026 thoroughly after handling."
+                    },
+                    {
+                        "Code": "P270",
+                        "Phrase": "Do not eat, drink or smoke when using this product."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P308+P313",
+                        "Phrase": "IF exposed or concerned:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P391",
+                        "Phrase": "Collect spillage."
+                    },
+                    {
+                        "Code": "P370+P378",
+                        "Phrase": "In case of fire:, Use \u2026 to extinguish."
+                    },
+                    {
+                        "Code": "P304+P340",
+                        "Phrase": "IF INHALED:, Remove person to fresh air and keep comfortable for breathing."
+                    },
+                    {
+                        "Code": "P310",
+                        "Phrase": "Immediately call a POISON CENTER/doctor/\u2026"
+                    },
+                    {
+                        "Code": "P320",
+                        "Phrase": "Specific treatment is urgent (see ... \u00b0n this label)."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P405",
+                        "Phrase": "Store locked up."
+                    },
+                    {
+                        "Code": "P403+P233",
+                        "Phrase": "Store in a well-ventilated place., Keep container tightly closed."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "T+"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S01",
+                        "Phrase": "    Keep locked up.&nbsp;  "
+                    },
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S04",
+                        "Phrase": "    Keep away from living quarters.&nbsp;  "
+                    },
+                    {
+                        "Code": "S05",
+                        "Phrase": "    Keep contents under...&nbsp;  "
+                    },
+                    {
+                        "Code": "S07",
+                        "Phrase": "    Keep container tightly closed.&nbsp;  "
+                    },
+                    {
+                        "Code": "S13",
+                        "Phrase": "    Keep away from food, drink and animal feeding stuffs.&nbsp;  "
+                    },
+                    {
+                        "Code": "S20",
+                        "Phrase": "    When using do not eat or drink.&nbsp;  "
+                    },
+                    {
+                        "Code": "S21",
+                        "Phrase": "    When using do not smoke.&nbsp;  "
+                    },
+                    {
+                        "Code": "S22",
+                        "Phrase": "    Do not breathe dust.&nbsp;  "
+                    },
+                    {
+                        "Code": "S281",
+                        "Phrase": "After contact with skin, wash immediately with detergent and  plenty of water."
+                    },
+                    {
+                        "Code": "S29",
+                        "Phrase": "    Do not empty into drains.&nbsp;  "
+                    },
+                    {
+                        "Code": "S33",
+                        "Phrase": "    Take precautionary measures against static discharges.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S36",
+                        "Phrase": "    Wear suitable protective clothing.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S38",
+                        "Phrase": "    In case of insufficient ventilation, wear suitable respiratory equipment.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S41",
+                        "Phrase": "    In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;  "
+                    },
+                    {
+                        "Code": "S43",
+                        "Phrase": "\nIn case of fire use the extinguishing media detailed in section 5 of this SDS.\n"
+                    },
+                    {
+                        "Code": "S45",
+                        "Phrase": "    In case of accident or if you feel unwell IMMEDIATELY contact Doctor or Poisons Information Centre (show label if possible).&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S53",
+                        "Phrase": "    Avoid exposure - obtain special instructions before use.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S57",
+                        "Phrase": "     Use appropriate container to avoid environmental contamination.  "
+                    },
+                    {
+                        "Code": "S61",
+                        "Phrase": "    Avoid release to the environment. Refer to special instructions/Safety data sheets.&nbsp;  "
+                    },
+                    {
+                        "Code": "S63",
+                        "Phrase": "In case of accident by inhalation: remove casualty to fresh air and keep at rest.\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": true,
+                        "Listed": true,
+                        "Text": "<p><span>Listed in the Europe Regulation (EC) No 1907/2006 - Annex XVII (Restrictions may apply)</span></p>"
+                    },
+                    "Svhc": {
+                        "Listed": true,
+                        "Text": "Listed in the European Chemicals Agency (ECHA) Candidate List of Substances of Very High Concern for Authorisation"
+                    },
+                    "AllReferences": [
+                        "<p><span>Listed in the Europe Regulation (EC) No 1907/2006 - Annex XVII (Restrictions may apply)</span></p>",
+                        "Listed in the European Chemicals Agency (ECHA) Candidate List of Substances of Very High Concern for Authorisation"
+                    ]
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "fan_2.gif",
+                        "Translation": "Local Exhaust Ventilation recommended."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm. If breath shallow, give oxygen. Medical attention."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water (15 mins). Medical attention."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Remove contaminated clothing. Wash with soap &amp; water."
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R26.gif",
+                        "Translation": "Fatal if inhaled."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R39.gif",
+                        "Translation": "Suspected of causing genetic defects."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R45.gif",
+                        "Translation": "May cause cancer."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R48.gif",
+                        "Translation": "Causes damage to organs through prolonged or repeated exposure."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R68.gif",
+                        "Translation": "Suspected of causing genetic defects."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water jets.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSRES.gif",
+                        "Translation": "Respirator"
+                    }
+                ],
+                "ChemicalName": "CADMIUM CHLORIDE",
+                "Nfpa": {
+                    "Toxicity": 3,
+                    "Flammability": 3,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_3_3_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "4+",
+                    "Translation": "Extreme",
+                    "NumericalRating": 5,
+                    "IsSGroup": true
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 1,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "sinks_in_water.gif",
+                        "Translation": "Sinks in water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <ul> <li>Protective gloves eg. Leather gloves or gloves with Leather facing\u00a0</li> </ul> <ul> <li>Wear physical protective gloves, e.g. leather.\u00a0</li> <li>Wear safety footwear.\u00a0</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Employees working with confirmed human carcinogens should be provided with, and be required to wear, clean, full body protective clothing (smocks, coveralls, or long-sleeved shirt and pants), shoe covers and gloves prior to entering the regulated area. [AS/NZS ISO 6529:2006 or national equivalent]\u00a0</li> <li>Employees engaged in handling operations involving carcinogens should be provided with, and required to wear and use half-face filter-type respirators with filters for dusts, mists and fumes, or air purifying canisters or cartridges. A respirator affording higher levels of protection may be substituted. [AS/NZS 1715 or national equivalent]\u00a0</li> <li>Emergency deluge showers and eyewash fountains, supplied with potable water, should be located near, within sight of, and on the same level with locations where direct exposure is likely.\u00a0</li> </ul> <ul> <li>Prior to each exit from an area containing confirmed human carcinogens, employees should be required to remove and leave protective clothing and equipment at the point of exit and at the last exit of the day, to place used clothing and equipment in impervious containers at the point of exit for purposes of decontamination or disposal. The contents of such impervious containers must be identified with suitable labels. \u00a0For maintenance and decontamination activities, authorized employees entering the area should be provided with and required to wear clean, impervious garments, including gloves, boots and continuous-air supplied hood.\u00a0</li> <li>Prior to removing protective garments the employee should undergo decontamination and be required to shower upon removal of the garments and hood.\u00a0</li> </ul> <p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">During repair or maintenance activities the potential exists for\r\nexposures to toxic metal particulate in excess of the occupational standards.\r\nUnder these circumstances, protecting workers can require the use of specific\r\nwork practices or procedures involving the combined use of ventilation, wet and\r\nvacuum cleaning methods, respiratory protection, decontamination, special\r\nprotective clothing, and when necessary, restricted work zones.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Protective over-garments or work clothing must be worn by persons\r\nwho may become contaminated with particulate during activities such as\r\nmachining, furnace rebuilding, air cleaning equipment filter changes,\r\nmaintenance, furnace tending, etc. Contaminated work clothing and over-garments\r\nmust be managed in a controlled manner to prevent secondary exposure to workers\r\nof third parties, to prevent the spread of particulate to other areas, and to\r\nprevent particulate from being taken home by workers.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Personnel who handle and work with <u>molten metal</u> should\r\nutilise primary protective clothing like polycarbonate face shields, fire\r\nresistant tapper's jackets, neck shades (snoods), leggings, spats and similar\r\nequipment to prevent burn injuries. In addition to primary protection,\r\nsecondary or day-to-day work clothing that is fire resistant and sheds metal\r\nsplash is recommended for use with molten metal. Synthetic materials should\r\nnever be worn even as secondary clothing (undergarments).</span></p> <ul>\n<li>Some plastic personal protective equipment (PPE) (e.g. gloves, aprons, overshoes) are not recommended as they may produce static electricity.</li>\n<li>For large scale or continuous use wear tight-weave non-static clothing (no metallic fasteners, cuffs or pockets).</li>\n<li>Non sparking safety or conductive footwear should be considered. Conductive footwear describes a boot or shoe with a sole made from a conductive compound chemically bound to the bottom components, for permanent control to electrically ground the foot an shall dissipate static electricity from the body to reduce the possibility of ignition of volatile compounds. Electrical resistance must range between 0 to 500,000 ohms. Conductive shoes should be stored in lockers close to the room in which they are worn. Personnel who have been issued conductive footwear should not wear them from their place of work to their homes and return.</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": true,
+                    "Carcinogenicity": true,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": true,
+                    "Mutagenicity": true,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "NotSpec",
+            "Name": "cadmium",
+            "OrderNumber": 1,
+            "NameForShowing": "cadmium",
+            "ProportionForShowing": "NotSpec",
+            "CwNumber": "21921",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "balance",
+            "Name": "non-hazardous ingredients",
+            "OrderNumber": 2,
+            "SanitizedName": "non-hazardous ingredients",
+            "NameForShowing": "non-hazardous ingredients",
+            "ProportionForShowing": "balance",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0459",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0459",
+    "Version": "637648110410050950",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0459",
+    "Key": "01-0459_AUS_EN",
+    "FullKey": "datasets/gold/01-0459_AUS_EN",
+    "AiteLogKey": "01-0459",
+    "AiteS3Key": "xml/01-0459.json",
+    "Name": "Daler-Rowney Cryla Artist Acrylic Colour Cadmium Colours",
+    "GhsEntities": [],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

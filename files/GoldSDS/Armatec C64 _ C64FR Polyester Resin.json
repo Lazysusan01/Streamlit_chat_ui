@@ -1,0 +1,1647 @@
+{
+    "Ingredients": [
+        {
+            "Dataset": {
+                "CwNumber": "2055",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a2055",
+                "Version": "637648053200166355",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "2055",
+                "Key": "2055_AUS_EN",
+                "FullKey": "datasets/gold/2055_AUS_EN",
+                "AiteLogKey": "2055",
+                "AiteS3Key": "xml/2055.json",
+                "ChemKey": {
+                    "cw": "CK-2055",
+                    "un": [
+                        "CK-UN2055"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC3"
+                    ],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-100-42-5"
+                    ],
+                    "groupCode": [
+                        "CK-G725.1",
+                        "CK-G9109",
+                        "CK-G16009",
+                        "CK-G835",
+                        "CK-G9151",
+                        "CK-G956.2",
+                        "CK-G0100",
+                        "CK-G82.1",
+                        "CK-G9107",
+                        "CK-G9904",
+                        "CK-G2760",
+                        "CK-G82",
+                        "CK-G0101",
+                        "CK-G00001.1",
+                        "CK-G999"
+                    ],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "styrene",
+                "CasNumber": "100-42-5",
+                "Dgc": "3",
+                "EcNumber": "202-851-5",
+                "PoisonSchedule": "S5",
+                "PackingGroup": "III",
+                "Un": "2055",
+                "GhsEntities": [
+                    {
+                        "Category": "Flammable Liquid Category 3",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H226",
+                        "Phrase": "Flammable liquid and vapour."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Oral) Category 4",
+                        "CategoryCode": "Cat 4",
+                        "Code": "H302",
+                        "Phrase": "Harmful if swallowed."
+                    },
+                    {
+                        "Category": "Acute Toxicity (Inhalation) Category 4",
+                        "CategoryCode": "Cat 4",
+                        "Code": "H332",
+                        "Phrase": "Harmful if inhaled."
+                    },
+                    {
+                        "Category": "Skin Corrosion/Irritation Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H315",
+                        "Phrase": "Causes skin irritation."
+                    },
+                    {
+                        "Category": "Eye Irritation Category 2A",
+                        "CategoryCode": "Cat 2A",
+                        "Code": "H319",
+                        "Phrase": "Causes serious eye irritation."
+                    },
+                    {
+                        "Category": "Carcinogenicity Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H351",
+                        "Phrase": "Suspected of causing cancer."
+                    },
+                    {
+                        "Category": "Reproductive Toxicity Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H361d",
+                        "Phrase": "Suspected of damaging the unborn child."
+                    },
+                    {
+                        "Category": "Specific target organ toxicity - repeated exposure Category 2",
+                        "CategoryCode": "Cat 2",
+                        "Code": "H373",
+                        "Phrase": "May cause damage to organs&nbsp;through prolonged or repeated exposure."
+                    },
+                    {
+                        "Code": "AUH019",
+                        "Phrase": "May form explosive peroxides."
+                    }
+                ],
+                "Flammability": "<p>Flammable.</p>",
+                "FlashPoint": 31.0,
+                "PhysicalState": "<p>Liquid</p>",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "BoilingPoint": 145.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>Local Exhaust Ventilation recommended.</p>",
+                "MiniGloves": "1.PE/EVAL/PE 2.PVA 3.TEFLON",
+                "MiniResp": "Type A Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 & 149:2001, ANSI Z88 or national equivalent)",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p> <p>Restrictions on Storage apply. Refer to Full Report.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Not recommended for interior use on large surface areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep away from food, drink and animal feeding stuffs.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Handle and open container with care.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>Flammable.</p><p>Vapours/gas heavier than air.</p> <p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Not recommended for interior use on large surface areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Liquid.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Floats on water.</p>",
+                "MiniFlammability": "R10<html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">May form explosive peroxides.&nbsp;</font></div> </font> </body></html>",
+                "MiniFirstAidSwallow": "<p>Give water (if conscious). Seek medical advice.</p> <p><b>Do NOT</b>\u00a0give milk or oil.</p> <p><b>Do NOT</b>\u00a0give alcohol.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water.</p>",
+                "MiniFirstAidSkin": "<p>Remove contaminated clothing. Wash with soap &amp; water.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention.</p>",
+                "MiniAdvDoc": "<p>Assess airway and circulation. Consider lavage with cuffed tube. NO adrenalin.</p>",
+                "MiniFireFighting": "<p>Foam.</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <p>Absorb with dry agent.</p> <p>Stop leak if safe to do so.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Not recommended for interior use on large surface areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">To clean the floor and all objects contaminated by this material, use water and detergent.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Flammability": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Reactivity": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "BodyContact": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "Chronic": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    },
+                    "AlertCode": {
+                        "Number": 2,
+                        "ImageName": "Hazard Alert Code/CW_HAC_2.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "3Y",
+                    "Value": "3Y"
+                },
+                "InternationalHazardGraphics": [
+                    "HARMFUL.gif"
+                ],
+                "RiskCodes": [
+                    {
+                        "Code": "R10",
+                        "Phrase": "    Flammable.&nbsp;  "
+                    },
+                    {
+                        "Code": "R19",
+                        "Phrase": "    May form explosive peroxides.&nbsp;  "
+                    },
+                    {
+                        "Code": "R20/22",
+                        "Phrase": "    Harmful by inhalation and if swallowed.&nbsp;  "
+                    },
+                    {
+                        "Code": "R21?",
+                        "Phrase": "\r\n\r\n\r\n\r\nSkin contact may produce health damage*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R33?",
+                        "Phrase": "\r\n\r\n\r\n\r\nCumulative effects may result following exposure*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R36/38",
+                        "Phrase": "    Irritating to eyes and skin.&nbsp;  "
+                    },
+                    {
+                        "Code": "R37?",
+                        "Phrase": "\r\n\r\n\r\n\r\nMay produce discomfort of the respiratory system*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R40(3)",
+                        "Phrase": "\nLimited evidence of a carcinogenic effect.\n"
+                    },
+                    {
+                        "Code": "R48/20",
+                        "Phrase": "    Harmful: danger of serious damage to health by prolonged exposure through inhalation.&nbsp;  "
+                    },
+                    {
+                        "Code": "R63(3)",
+                        "Phrase": "    Possible risk of harm to the unborn child.&nbsp;  "
+                    },
+                    {
+                        "Code": "R65?",
+                        "Phrase": "HARMFUL: may cause lung damage if swallowed"
+                    }
+                ],
+                "SpecificGravity": "0.99 @ 25C",
+                "IssueDate": "2020-12-30T00:00:00",
+                "ClpIndexNumber": [
+                    "601-026-00-0"
+                ],
+                "Suppliers": [],
+                "ShippingName": "STYRENE MONOMER, STABILISED",
+                "Use": "Widely used in polymer manufacture: polystyrene; SBR, ABS, SAN resins and rubber modified polystyrene for plastics; styrene-butadiene rubber latex. Styrene polyesters for GRP, FRP moulding resins; styrene copolymer resins for coatings; chemical intermediate.|<p>The use of a quantity of material in an unventilated or confined space may result in increased exposure and an irritating atmosphere developing. Before starting consider control of exposure by mechanical ventilation.</p>",
+                "ChemicalFormula": [
+                    "C6H5CH=CH2"
+                ],
+                "FirstAidIngestion": "<ul> <li><font color=\"#ff0000\">If swallowed do\u00a0</font><font color=\"#ff0000\"><b>NOT</b></font><font color=\"#ff0000\">\u00a0induce vomiting.\u00a0</font></li> <li>If vomiting occurs, lean patient forward or place on left side (head-down position, if possible) to maintain open airway and prevent aspiration.\u00a0</li> <li>Observe the patient carefully.\u00a0</li> <li>Never give liquid to a person showing signs of being sleepy or with reduced awareness; i.e. becoming unconscious.\u00a0</li> <li>Give water to rinse out mouth, then provide liquid slowly and as much as casualty can comfortably drink.\u00a0</li> <li>Seek medical advice.\u00a0</li> </ul> <ul> <li>Avoid giving milk or oils.\u00a0</li> </ul> <ul> <li>Avoid giving alcohol.\u00a0</li> </ul> <ul> <li>If spontaneous vomiting appears imminent or occurs, hold patient's head down, lower than their hips to help avoid possible aspiration of vomitus.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p><br /></p> <p>For acute or short term repeated exposures to styrene:</p> <p><br /></p> <p><b>INHALATION:</b></p> <ul> <li>\u00a0Severe exposures should have cardiac monitoring to detect arrhythmia.\u00a0</li> <li>Catecholamines, especially epinephrine (adrenaline) should be used cautiously (if at all).\u00a0</li> <li>Aminophylline and inhaled beta-two selective bronchodilators (e.g. salbutamol) are the drugs of choice for treatment of bronchospasm.\u00a0</li> </ul> <p><br /></p> <p><b>INGESTION:</b></p> <ul> <li>\u00a0Ipecac syrup should be given for ingestions exceeding 3ml (styrene)/kg.\u00a0</li> <li>For patients at risk of aspiration because of obtundation, intubation should precede lavage.\u00a0</li> <li>Pneumonitis is a significant risk. Watch the patient closely in an upright (alert patient) or left lateral head-down position (obtunded patient) to reduce aspiration potential. [Ellenhorn and Barceloux: Medical Toxicology]\u00a0</li> </ul> <p><br /></p> <p>BIOLOGICAL EXPOSURE INDEX - BEI</p> <p><br /></p> <p>\u00a0These represent the determinants observed in specimens collected from a healthy worker who has been exposed at the Exposure Standard (ES or TLV):</p> <p><br /></p> <p><table> <tr> <td> <p>Determinant</p>  </td> <td> <p>Index</p>  </td> <td> <p>Sampling Time</p>  </td> <td> <p>Comments</p>  </td> </tr> <tr> <td> <p>1. Mandelic acid in urine</p>  </td> <td> <p>800 mg/gm creatinine</p>  </td> <td> <p>End of shift</p>  </td> <td> <p>NS</p>  </td> </tr> <tr> <td><br /> </td> <td> <p>300 mg/gm creatinine</p>  </td> <td> <p>Prior to next shift</p>  </td> <td> <p>NS</p>  </td> </tr> <tr> <td> <p>2. Phenylglyoxylic acid in urine</p>  </td> <td> <p>240 mg/gm creatinine</p>  </td> <td> <p>End of shift</p>  </td> <td> <p>NS</p>  </td> </tr> <tr> <td><br /> </td> <td> <p>100 mg/gm creatinine</p>  </td> <td> <p>Prior to next shift</p>  </td> <td><br /> </td> </tr> <tr> <td> <p>3. Styrene in venous blood</p>  </td> <td> <p>0.55 mg/L</p>  </td> <td> <p>End of shift</p>  </td> <td> <p>SQ</p>  </td> </tr> <tr> <td><br /> </td> <td> <p>0.02 mg/L</p>  </td> <td> <p>Prior to next shift</p>  </td> <td> <p>SQ</p>  </td> </tr> </table> </p> <p><br /></p> <p>NS: Non-specific determinant; also seen after exposure to other materials.</p> <p><br /></p> <p>\u00a0SQ: Semi-quantitative determinant - Interpretation may be ambiguous; should be used as a screening test or confirmatory test.</p> <p><br /></p> <p>\u00a0B: Background levels occur in specimens collected from subjects\u00a0<b>NOT</b>\u00a0exposed</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Lay patient down. Keep warm and rested.\u00a0</li> <li>Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>Apply artificial respiration if not breathing, preferably with a demand valve resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.\u00a0</li> <li>Transport to hospital, or doctor.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with the eyes:\u00a0</p> <ul> <li>Wash out immediately with fresh running water.\u00a0</li> <li>Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally lifting the upper and lower lids.\u00a0</li> <li>Seek medical attention without delay; if pain persists or recurs seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin contact occurs:</p> <ul> <li>Immediately remove all contaminated clothing, including footwear.\u00a0</li> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "3-4",
+                    "3-4"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": true,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<ul> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> <li>Water spray or fog - Large fires only.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Liquid and vapour are flammable.\u00a0</li> <li>Moderate fire hazard when exposed to heat or flame.\u00a0</li> <li>Vapour forms an explosive mixture with air.\u00a0</li> <li>Moderate explosion hazard when exposed to heat or flame.\u00a0</li> <li>Vapour may travel a considerable distance to source of ignition.\u00a0</li> <li>Heating may cause expansion or decomposition leading to violent rupture of containers.\u00a0</li> <li>On combustion, may emit toxic fumes of carbon monoxide (CO).\u00a0</li> </ul> <p>Combustion products include:</p> <p>carbon monoxide (CO)</p> <p>carbon dioxide (CO2)</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p><b>Contains low boiling substance:\u00a0</b>Closed containers may rupture due to pressure buildup under fire conditions.</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>If safe, switch off electrical equipment until vapour fire hazard removed.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li>Avoid spraying water onto liquid pools.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Chemical Class: aromatic hydrocarbons</p> <p>\u00a0For release onto land: recommended sorbents listed in order of priority.</p> <p><table> <tr> <td> <p>SORBENT</p> <p>TYPE</p>  </td> <td> <p>RANK</p>  </td> <td> <p>APPLICATION</p>  </td> <td> <p>\u00a0COLLECTION</p>  </td> <td> <p>\u00a0LIMITATIONS</p>  </td> </tr> </table> </p> <p>\u00a0LAND SPILL - SMALL</p> <p><table> <tr> <td> <p>Feathers - pillow</p>  </td> <td> <p>1</p>  </td> <td> <p>throw</p>  </td> <td> <p>pitchfork</p>  </td> <td> <p>DGC, RT</p>  </td> </tr> <tr> <td> <p>cross-linked polymer - particulate</p>  </td> <td> <p>2</p>  </td> <td> <p>shovel</p>  </td> <td> <p>shovel</p>  </td> <td> <p>R,W,SS</p>  </td> </tr> <tr> <td> <p>cross-linked polymer- pillow</p>  </td> <td> <p>2</p>  </td> <td> <p>throw</p>  </td> <td> <p>pitchfork</p>  </td> <td> <p>R, DGC, RT</p>  </td> </tr> <tr> <td> <p>sorbent clay - particulate</p>  </td> <td> <p>3</p>  </td> <td> <p>shovel</p>  </td> <td> <p>shovel</p>  </td> <td> <p>R, I, P,\u00a0</p>  </td> </tr> <tr> <td> <p>treated clay/ treated natural organic - particulate</p>  </td> <td> <p>3</p>  </td> <td> <p>shovel</p>  </td> <td> <p>shovel</p>  </td> <td> <p>R, I</p>  </td> </tr> <tr> <td> <p>wood fibre - pillow</p>  </td> <td> <p>4</p>  </td> <td> <p>throw</p>  </td> <td> <p>pitchfork</p>  </td> <td> <p>R, P, DGC, RT</p>  </td> </tr> </table> </p> <p>\u00a0LAND SPILL - MEDIUM</p> <p><table> <tr> <td> <p>cross-linked polymer -particulate</p>  </td> <td> <p>1</p>  </td> <td> <p>blower</p>  </td> <td> <p>skiploader</p>  </td> <td> <p>R, W, SS</p>  </td> </tr> <tr> <td> <p>treated clay/ treated natural organic - particulate</p>  </td> <td> <p>2</p>  </td> <td> <p>blower</p>  </td> <td> <p>skiploader</p>  </td> <td> <p>R, I</p>  </td> </tr> <tr> <td> <p>sorbent clay - particulate</p>  </td> <td> <p>3</p>  </td> <td> <p>blower</p>  </td> <td> <p>skiploader</p>  </td> <td> <p>R, I, P</p>  </td> </tr> <tr> <td> <p>polypropylene - particulate</p>  </td> <td> <p>\u00a03</p>  </td> <td> <p>blower</p>  </td> <td> <p>skiploader</p>  </td> <td> <p>W, SS, DGC</p>  </td> </tr> <tr> <td> <p>feathers - pillow</p>  </td> <td> <p>\u00a03</p>  </td> <td> <p>throw</p>  </td> <td> <p>skiploader</p>  </td> <td> <p>DGC, RT</p>  </td> </tr> <tr> <td> <p>expanded mineral - particulate</p>  </td> <td> <p>\u00a04</p>  </td> <td> <p>blower</p>  </td> <td> <p>skiploader</p>  </td> <td> <p>R, I, W, P, DGC</p>  </td> </tr> </table> </p> <p>\u00a0Legend</p> <p>DGC: Not effective where ground cover is dense</p> <p>R; Not reusable</p> <p>I: Not incinerable</p> <p>P: Effectiveness reduced when rainy</p> <p>RT:Not effective where terrain is rugged</p> <p>SS: Not for use within environmentally sensitive sites</p> <p>W: Effectiveness reduced when windy</p> <p>\u00a0Reference: Sorbents for Liquid Hazardous Substance Cleanup and Control;</p> <p>R.W Melvold et al: Pollution Technology Review No. 150: Noyes Data Corporation 1988</p> <ul> <li>Clear area of personnel and move upwind.\u00a0</li> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water course.\u00a0</li> <li>No smoking, naked lights or ignition sources.\u00a0</li> <li>Increase ventilation.\u00a0</li> <li>Stop leak if safe to do so.\u00a0</li> <li>Water spray or fog may be used to disperse / absorb vapour.\u00a0</li> <li>Contain spill with sand, earth or vermiculite.\u00a0</li> <li>Use only spark-free shovels and explosion proof equipment.\u00a0</li> <li>Collect recoverable product into labelled containers for recycling.\u00a0</li> <li>Absorb remaining product with sand, earth or vermiculite.\u00a0</li> <li>Collect solid residues and seal in labelled drums for disposal.\u00a0</li> <li>Wash area and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise emergency services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Remove all ignition sources.\u00a0</li> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid breathing vapours and contact with skin and eyes.\u00a0</li> <li>Control personal contact with the substance, by using protective equipment.\u00a0</li> <li>Contain and absorb small quantities with vermiculite or other absorbent material.\u00a0</li> <li>Wipe up.\u00a0</li> <li>Collect residues in a flammable waste container.\u00a0</li> </ul>",
+                "MolecularWeight": "104.16",
+                "Appearance": "Colourless flammable liquid; floats on water. Slightly soluble in water. Soluble in alcohol and hydrocarbons. Contains stabilising Inhibitor. Sweet aromatic odour at low concentrations.|Sharp, penetrating odour at high concentrations.",
+                "VapourPressure": "1.27 @ 30C",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "100",
+                "EvaporationRate": "0.49 BuAc=1",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "-31",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not Available",
+                "AutoIgnitionTemperature": "490",
+                "RelativeVapourDensity": "3.6",
+                "FlashRange": "31  (TCC)",
+                "Lel": "1.1",
+                "BoilingRange": "145",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "6.1",
+                "Viscosity": "Not Available",
+                "InstabilityConditions": "<ul> <li>Material contains a stabiliser / polymerisation inhibitor system that provides workable but not indefinite shelf life.\u00a0</li> <li>Storage at higher temperatures and long term storage may result in polymerisation with solidification. \u00a0In larger quantities e.g. 200 l drums, this may result in generation of heat (exotherm) which may release highly irritating hot vapour.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0open hot exotherming drums - cool externally with water to avoid vapour release.</font></li> </ul>",
+                "Synonyms": [
+                    "Styrene"
+                ],
+                "Adr": {
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "Adn": {
+                    "SpecialProvision": "386",
+                    "ClassificationCode": "F1",
+                    "LimitedQuantity": "5 L",
+                    "EquipmentReg": "PP, EX, A",
+                    "FirconNumber": "0",
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "Adg": {
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILISED",
+                    "PackingGroup": "III"
+                },
+                "Dot": {
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "ShippingName": "Styrene monomer, stabilized",
+                    "PackingGroup": "III"
+                },
+                "Iata": {
+                    "ErgCode": "3L",
+                    "SpecialProvisions": "A209",
+                    "CargoPi": "366",
+                    "CargoMaxQuantity": "220 L",
+                    "PassCargoPi": "355",
+                    "PassCargoMaxQuantity": "60 L",
+                    "PcLqTyPi": "Y344",
+                    "PcLqTyMaxQuantity": "10 L",
+                    "HazardLabel": "Flammable Liquid",
+                    "IngredientDgcs": [],
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "Styrene monomer, stabilized",
+                    "PackingGroup": "III"
+                },
+                "Imdg": {
+                    "Ems": "F-E , S-D",
+                    "SpecialProvisions": "386",
+                    "Lq": "5 L",
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "UnTransportData": {
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "Tdg": {
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "Land": {
+                    "SpecialProvision": "386",
+                    "LimitedQuantity": "5 L",
+                    "Dgc": "3",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "2055",
+                    "ShippingName": "STYRENE MONOMER, STABILIZED",
+                    "PackingGroup": "III"
+                },
+                "HandlingProcedure": "<ul> <li>Containers, even those that have been emptied, may contain explosive vapours.\u00a0</li> <li>Do NOT cut, drill, grind, weld or perform similar operations on or near containers.\u00a0</li> </ul> <p><b>Contains low boiling substance:</b></p> <p>Storage in sealed containers may result in pressure buildup causing violent rupture of containers not rated appropriately.</p> <ul> <li>Check for bulging containers.\u00a0</li> <li>Vent periodically\u00a0</li> <li>Always release caps or seals slowly to ensure slow dissipation of vapours\u00a0</li> </ul> <ul> <li><font color=\"#ff0000\"><b>DO NOT USE</b></font><font color=\"#ff0000\">\u00a0brass or copper containers / stirrers</font></li> </ul> <ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0allow clothing wet with material to stay in contact with skin</font></li> </ul> <p>The substance is a peroxidisable vinyl monomer that may exothermically polymerise as a result of decomposition of accumulated peroxides; that is, the peroxides initiate very energetic polymerisation of the bulk monomer</p> <p>Purchases of peroxidisable chemicals should be restricted to ensure that the chemical is used completely before it can become peroxidised.</p> <ul> <li>A responsible person should maintain an inventory of peroxidisable chemicals or annotate the general chemical inventory to indicate which chemicals are subject to peroxidation. \u00a0An expiration date should be determined. The chemical should either be treated to remove peroxides or disposed of before this date.\u00a0</li> <li>The person or laboratory receiving the chemical should record a receipt date on the bottle. The individual opening the container should add an opening date.\u00a0</li> <li>Unopened containers received from the supplier should be safe to store for 18 months.\u00a0</li> <li>Opened containers of inhibited material should not be stored for more than 12 months; they should\u00a0<b>NOT\u00a0</b>be stored under an inert atmosphere. Generally, storage of inhibited vinyl monomers should be under air rather than nitrogen or other inert atmosphere, because customary inhibitors are phenolic compounds, which require oxygen for their action. Most vinyl monomers may be polymerized without removal of inhibitor by proper adjustment of initiator concentration, thus making the isolation of the more hazardous uninhibited material unnecessary.\u00a0</li> <li>Opened containers of uninhibited material (&gt;500 g) should not be stored for more than 24 hours; \u00a0small samples (less than 10 g) may be stored longer than 24 hours with discretion. Generally storage of uninhibited vinyl monomers should be under nitrogen and below room temperatures. For storage in excess of 24 hours, a suitable inhibitor should be added, and its name and quantity should be placed on the label.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of overexposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid smoking, naked lights or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid generation of static electricity.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0use plastic buckets.\u00a0</span></li>\n<li><span style=\"color:#000000\">Earth all lines and equipment.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use spark-free tools when handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions.\u00a0</span></li>\n</ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers in approved flammable liquid storage area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials in a cool, dry, well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0store in pits, depressions, basements or areas where vapours may be trapped.\u00a0</span></li>\n<li><span style=\"color:#000000\">No smoking, naked lights, heat or ignition sources.\u00a0</span></li>\n<li><span style=\"color:#000000\">Storage areas should be clearly identified, well illuminated, clear of obstruction and accessible only to trained and authorised personnel - adequate security must be provided so that unauthorised personnel do not have access.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store according to applicable regulations for flammable materials for storage tanks, containers, piping, buildings, rooms, cabinets, allowable quantities and minimum storage distances.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use non-sparking ventilation systems, approved explosion proof equipment and intrinsically safe electrical systems.\u00a0</span></li>\n<li><span style=\"color:#000000\">Have appropriate extinguishing capability in storage area (e.g. portable fire extinguishers - dry chemical, foam or carbon dioxide) and flammable gas detectors.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep adsorbents for leaks and spills readily available.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li>Observe manufacturer's storage and handling recommendations contained within this SDS.</li>\n</ul>\n<p><span style=\"color:#000000\">In addition, for \u00a0tank storages (where appropriate):</span></p>\n<ul>\n<li><span style=\"color:#000000\">Store in grounded, properly designed and approved vessels and away from incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#000000\">For bulk storages, consider use of floating roof or nitrogen blanketed vessels; where venting to atmosphere is possible, equip storage tank vents with flame arrestors; inspect tank vents during winter conditions for vapour/ ice build-up.\u00a0</span></li>\n<li><span style=\"color:#000000\">Storage tanks should be above ground and diked to hold entire contents.\u00a0</span></li>\n</ul> <p>Easily peroxidisable.\u00a0</p> <ul> <li>Products formed as a result of peroxidation are not only safety hazards but may chemically alter the chemical behavior of the parent compound.\u00a0</li> <li>Should have a warning label affixed bearing the date of receipt in the laboratory and the date on which the container label is first opened, or laboratory synthesised materials are the responsibility of the individual chemist.\u00a0</li> <li><font color=\"#ff0000\"><b>WARNING</b></font><font color=\"#ff0000\">:</font>This product may form peroxides which themselves are not themselves particularly hazardous but which on decomposition may initiate explosive polymerisation of the bulk monomer (Trommsdorf effect).\u00a0</li> <li>Should be evaluated every 12 months, redated if safe or else discarded.\u00a0</li> <li>Quantities of uninhibited monomers exceeding 500 ml should not be stored for more than 24 hours.\u00a0</li> <li>The oxidation of iodide to iodine or the conversion of colourless ferrothiocyanate to red ferrithiocyanate by peroxides are simple and convenient tests for most peroxides.\u00a0</li> <li>Before distilling or evaporating a suitable polymerisation inhibitor should be added.\u00a0</li> <li>Leave at least 10% bottoms.\u00a0</li> <li>Use a shield when evaporating or distilling mixtures which may contain peroxidisable compounds.\u00a0</li> <li>Store away from heat and light.\u00a0</li> <li>Particular attention should be paid to the adequacy of the closure on storage containers.\u00a0</li> </ul> <p>Peroxides may be removed by;</p> <ul> <li>passing the material over a column of ordinary activated alumina (care should be taken in disposal of the activated alumina);\u00a0</li> <li>shaking with a concentrated solution of ferrous salt (provided the carrier solvent is water-insoluble);\u00a0</li> <li>agitation with an approximately equimolar mixture of ferrous sulfate and sodium bisulfate;\u00a0</li> <li>commercial quantities may be treated with a 5% solution of aqueous sodium carbonate.\u00a0</li> </ul> <p>\u00a0Jackson et al: Control of Peroxizable Compounds; Safety in the Chemical Laboratory, Journal of Chemical Education; Vol 47, 1970, pp A175-A188</p> <ul> <li>When solvents have been freed from peroxides by percolation through a column of activated alumina, the adsorbed peroxides must promptly be desorbed by treatment with polar solvents, methanol or water, which must in turn be discarded safely.***\u00a0</li> </ul> <ul> <li>Storage requires stabilising inhibitor content and dissolved oxygen content to be monitored. \u00a0Refer to manufacturer's recommended levels.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0overfill containers so as to maintain free head space above product.\u00a0</font></li> <li>Blanketing or sparging with nitrogen or oxygen free gas will deactivate stabiliser.\u00a0</li> </ul> <p>Inhibitor level should be regularly checked to maintain stability</p>",
+                "SuitableContainer": "<ul> <li>Packing as supplied by manufacturer.\u00a0</li> <li>Plastic containers may only be used if approved for flammable liquid.\u00a0</li> <li>Check that containers are clearly labelled and free from leaks.\u00a0</li> </ul> <ul> <li>For low viscosity materials (i) : Drums and jerry cans must be of the non-removable head type. (ii) : Where a can is to be used as an inner package, the can must have a screwed enclosure.\u00a0</li> <li>For materials with a viscosity of at least 2680 cSt. (23 deg. C)\u00a0</li> <li>For manufactured product having a viscosity of at least 250 cSt. (23 deg. C)\u00a0</li> <li>Manufactured product that requires stirring before use and having a viscosity of at least 20 cSt (25 deg. C): (i) Removable head packaging; (ii) Cans with friction closures and (iii) low pressure tubes and cartridges may be used.</li> </ul> <ul> <li>Where combination packages are used, and the inner packages are of glass, there must be sufficient inert cushioning material in contact with inner and outer packages\u00a0</li> <li>In addition, where inner packagings are glass and contain liquids of packing group I there must be sufficient inert absorbent to absorb any spillage, unless the outer packaging is a close fitting moulded plastic box and the substances are not incompatible with the plastic.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>For alkyl aromatics:</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>The alkyl side chain of aromatic rings can undergo oxidation by\r\nseveral mechanisms. The most common and dominant one is the attack by oxidation\r\nat benzylic carbon as the intermediate formed is stabilised by resonance\r\nstructure of the ring.</span></p>\r\n\r\n\r\n\r\n<ul type=\"disc\">\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Following\r\n     reaction with oxygen and under the influence of sunlight, a hydroperoxide\r\n     at the alpha-position to the aromatic ring, is the primary oxidation\r\n     product formed (provided a hydrogen atom is initially available at this\r\n     position) - this product is often short-lived but may be stable dependent\r\n     on the nature of the aromatic substitution; &nbsp;a secondary C-H bond is\r\n     more easily attacked than a primary C-H bond whilst a tertiary C-H bond is\r\n     even more susceptible to attack by oxygen</span></li>\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Monoalkylbenzenes\r\n     may subsequently form monocarboxylic acids; alkyl naphthalenes mainly\r\n     produce the corresponding naphthalene carboxylic acids.</span></li>\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Oxidation in the\r\n     presence of transition metal salts not only accelerates but also\r\n     selectively decomposes the hydroperoxides.</span></li>\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Hock-rearrangement\r\n     by the influence of strong acids converts the hydroperoxides to\r\n     hemiacetals. Peresters formed from the hydroperoxides undergo Criegee rearrangement\r\n     easily.</span></li>\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Alkali metals\r\n     accelerate the oxidation while CO2 as co-oxidant enhances the selectivity.</span></li>\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Microwave\r\n     conditions give improved yields of the oxidation products.</span></li>\r\n <li class=\"MsoNormal\" style='color:black;line-height:normal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\"'>Photo-oxidation\r\n     products may occur following reaction with hydroxyl radicals and NOx -\r\n     these may be components of photochemical smogs.</span></li>\r\n</ul>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Oxidation of Alkylaromatics: T.S.S Rao and Shubhra Awasthi:\r\nE-Journal of Chemistry Vol 4, No. 1, pp 1-13 January 2007</span></p> <ul> <li>Vigorous reactions, sometimes amounting to explosions, can result from the contact between aromatic rings and strong oxidising agents.\u00a0</li> <li>Aromatics can react exothermically with bases and with diazo compounds.\u00a0</li> </ul> <p><font color=\"#ff0000\"><b>WARNING</b></font><font color=\"#ff0000\">:</font></p> <p>\u00a0May decompose violently or explosively on contact with other substances.\u00a0</p> <ul> <li>This substance, or one of its components, is one of the relatively few compounds which are described as \"endothermic\" i.e. heat is absorbed into the compound, rather than released from it, during its formation.\u00a0</li> <li>The majority of endothermic compounds are thermodynamically unstable and may decompose explosively under various circumstances of initiation.\u00a0</li> <li>Many but not all endothermic compounds have been involved in decompositions, reactions and explosions and, in general, compounds with significantly positive values of standard heats of formation, may be considered suspect on stability grounds.\u00a0</li> </ul> <p>BRETHERICK L.: Handbook of Reactive Chemical Hazards</p> <ul> <li>Contamination with polymerisation catalysts - peroxides, persulfates, oxidising agents - also strong acids, strong alkalies, will cause polymerisation with exotherm - generation of heat.\u00a0</li> <li>Polymerisation of large quantities may be violent - even explosive.\u00a0</li> </ul> <ul> <li>Avoid any contamination of this material as it is very reactive and any contamination is potentially hazardous\u00a0</li> </ul> <p>Styrene:\u00a0</p> <ul> <li>requires inhibition with adequate levels of substituted phenol (such as tert-butylcatechol to prevent polymerisation - material that has had inhibitor removed, e.g.is uninhibited, must be refrigerated and used within 24 hours, i.e. not stored; contact with alkali solutions or glycols will remove inhibitor and render material unstable on storage\u00a0</li> <li>polymerisation may cause container to explode\u00a0</li> <li>polymerisation may be caused by elevated temperatures (above 66 deg C.), butyl lithium, peroxides, UV light, or sunlight\u00a0</li> <li>reacts violently with chlorosulfonic acid, strong oxidisers, sulfuric acid, xenon tetrafluoride\u00a0</li> <li>is incompatible with acids, rust, catalysts for vinyl polymerisation, 2,5-dimethyl-2,5-di(tert-butylperox)hexane, peroxides, metals salts (e.g., aluminium chloride, copper chlorate, manganese nitrate, etc.)\u00a0</li> <li>corrodes copper and its alloys\u00a0</li> <li>attacks some plastics, rubber or coatings\u00a0</li> <li>flow or agitation may generate electrostatic charges due to low conductivity\u00a0</li> <li>uninhibited monomer vapour may block vents and confined spaces by forming solid polymer\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC3.gif"
+                ],
+                "TransportIncompatibilities": "<p>Class 3 - Flammable liquids shall not be loaded in the same vehicle or packed in the same vehicle or packed in the same freight container with:</p> <p>Class 1 - Explosives;</p> <p>Class 2.1 - Flammable gases (where both flammable liquids and flammable gases are in bulk);</p> <p>Class 2.3 - Poisonous gases;</p> <p>Class 4.2 - Spontaneously combustible substances;</p> <p>Class 5.1 - Oxidising agents;</p> <p>Class 5.2 - Organic peroxides;</p> <p>Class 7 - Radioactive substances.</p>",
+                "TransportPrecautions": "<p>Transportation precautions: <br />\u2022 Documentation covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Use flameproof or intrinsically safe electrical equipment<br />\u2022 Ensure all ignition sources are identified and eliminated or reduced where there is any likelihood of an incident due to a spill or release of fire risk dangerous goods.\u00a0 <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Class 2.1. 2.2, 2.2 (with subrisk 5.1), 2.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1<br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<p><span style=\"color:black\">For aromatic hydrocarbons:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Within an aromatic series, acute\r\ntoxicity increases with increasing alkyl substitution on the aromatic nucleus.\r\nFor example, there is an increase in toxicity as alkylation of the naphthalene\r\nstructure increases. The order of most toxic to least in a study using grass\r\nshrimp (Palaemonetes pugio) and brown shrimp (Penaeus aztecus) was\r\ndimethylnaphthalenes &gt; methylnaphthalenes &gt;naphthalenes.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Studies conclude that the\r\ntoxicity of an oil appears to be a function of its di-aromatic and tri-aromatic\r\nhydrocarbons, which includes three-ring hydrocarbons such as phenanthrene.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">The heavier (4-, 5-, and 6-ring)\r\nPAHs are more persistent than the lighter (2- and 3-ring) PAHs and tend to have\r\ngreater carcinogenic and other chronic impact potential. PAHs in general are\r\nmore frequently associated with chronic risks. These risks include cancer and\r\noften are the result of exposures to complex mixtures of chronic-risk aromatics\r\n(such as PAHs, alkyl PAHs, benzenes, and alkyl benzenes), rather than exposures\r\nto low levels of a single compound.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Anthracene is a phototoxic PAH .\r\nUV light greatly increases the toxicity of anthracene to bluegill sunfish. .\r\nBenchmarks developed in the absence of UV light may be under-protective, and\r\nbiological resources in strong sunlight are at more risk than those that are\r\nnot.</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Volatile furandiones and\r\naldehydes are significant atmospheric oxidation products of aromatic compounds.\r\nHighly acidic dicarboxylic acids produced by the reactions between furandiones\r\nand water were shown to rapidly acidify an aqueous phase</span></p>\r\n\r\n\r\n\r\n<p><span>\u00a0</span></p> <p><span style=\"color:black\">for\r\nstyrene:</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">log Kow\u00a0\r\n: 2.95-3.05</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Koc\u00a0 :\r\n270-550</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Half-life\r\n(hr) air\u00a0 : 3.5-9</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Half-life\r\n(hr) H2O surface water\u00a0 : 3</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Henry's\r\natm m3 /mol: 2.81E-03</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">BOD 5 :\r\n0.55-2.45,65%</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">COD\u00a0 :\r\n2.80-2.88</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">ThOD\u00a0 :\r\n3.07</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">BCF\u00a0 :\r\n13.5</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Nitrification\r\ninhibition\u00a0 : 75% inhibited at 175mg/l</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Transport:\r\n</span></b><span style=\"color:black\">Styrene is expected to volatilise from surface waters as predicted\r\nby its Henry's Law constant. The chemical is also removed from waters by\r\nadsorption onto soils and sediments. Under certain conditions, styrene may\r\nleach through soil (particularly sandy soils) and enter ground water</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Transformation/\r\nPersistence:</span></b></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Air:</span></b><span style=\"color:black\"> In the atmosphere, styrene reacts with both hydroxyl radicals and\r\nozone with estimated half-lives of 3.5 and 9 hours, respectively. The chemical\r\nis also degraded in the presence of NOX and natural sunlight. Styrene\r\ncontributes to the formation of photochemical smog due to indirect\r\nphotochemical reactions. Smog chamber experiments with simulated sunlight and\r\nauto exhaust as a source of styrene, showed a 55% disappearance of styrene in 2\r\nhours .</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Soil:</span></b><span style=\"color:black\"> Biodegradation is the major route of removal of styrene from\r\nsoils. Microbes isolated from landfill soil degraded 95% of the styrene present\r\nin 16 weeks</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Water: </span></b><span style=\"color:black\">Styrene rapidly volatilises from surface water with estimated\r\nhalf-lives from a river or pond of 0.6 days and 13 days, respectively. Microbes\r\nisolated from unadapted sewage sludge degraded 42% of the styrene present in 5\r\ndays while the microbial degradation with adapted sewage sludge was 80% in 5\r\ndays\u00a0 <b>Biota: </b>Based on the fish bioconcentration factor of 13.5\r\n(goldfish) and the water solubility of styrene, the chemical is not likely to\r\naccumulate in biological organisms.</span></p>\r\n\r\n\r\n\r\n<p><b><span style=\"color:black\">Ecotoxicity:\r\n</span></b><span style=\"color:black\">Styrene is moderately toxic to aquatic organisms with toxicity\r\nvalues in the range of &gt;1 mg/L to 100 mg/L. Styrene is expected to have low\r\ntoxicity towards terrestrial animals</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Fish LC50\r\n(96 h): Lepomis macrochirus (blue gill) 25 mg/l; Pimephales promelas (fathead\r\nminnow) 46.4 mg/l (soft water); Carassius auratus (goldfish) 64.74 mg/l;\r\nLebistes reticulatus (guppy) 74.83 mg/l</span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">Daphnia\r\nmagna LC50 (48 h): 23 mg/l; (24 h): 27 mg/l</span></p> <p>Substances containing unsaturated carbons are ubiquitous in indoor environments. They result from many sources (see below). Most are reactive with environmental ozone and many produce stable products which are thought to adversely affect human health.The potential for surfaces in an enclosed space to facilitate reactions should be considered.</p> <p><table> <tr> <td> <p>Source of unsaturated substances</p>  </td> <td> <p>Unsaturated substances (Reactive Emissions)</p>  </td> <td> <p>Major Stable Products produced following reaction with ozone.</p>  </td> </tr> <tr> <td> <p>Occupants (exhaled breath, ski oils, personal care products)</p>  </td> <td> <p>Isoprene, nitric oxide, squalene, unsaturated sterols, oleic acid and other unsaturated fatty acids, unsaturated oxidation products</p>  </td> <td> <p>Methacrolein, methyl vinyl ketone, nitrogen dioxide, acetone, 6MHQ, geranyl acetone, 4OPA, formaldehyde, nonanol, decanal, 9-oxo-nonanoic acid, azelaic acid, nonanoic acid.</p>  </td> </tr> <tr> <td> <p>Soft woods, wood flooring, including cypress, cedar and silver fir boards, houseplants</p>  </td> <td> <p>Isoprene, limonene, alpha-pinene, other terpenes and sesquiterpenes</p>  </td> <td> <p>Formaldehyde, 4-AMC, pinoaldehyde, pinic acid, pinonic acid, formic acid, methacrolein, methyl vinyl ketone, SOAs including ultrafine particles</p>  </td> </tr> <tr> <td> <p>Carpets and carpet backing</p>  </td> <td> <p>4-Phenylcyclohexene, 4-vinylcyclohexene, styrene, 2-ethylhexyl acrylate, unsaturated fatty acids and esters</p>  </td> <td> <p>Formaldehyde, acetaldehyde, benzaldehyde, hexanal, nonanal, 2-nonenal</p>  </td> </tr> <tr> <td> <p>Linoleum and paints/polishes containing linseed oil</p>  </td> <td> <p>Linoleic acid, linolenic acid</p>  </td> <td> <p>Propanal, hexanal, nonanal, 2-heptenal, 2-nonenal, 2-decenal, 1-pentene-3-one, propionic acid, n-butyric acid</p>  </td> </tr> <tr> <td> <p>Latex paint</p>  </td> <td> <p>\u00a0Residual monomers</p>  </td> <td> <p>Formaldehyde\u00a0</p>  </td> </tr> <tr> <td> <p>Certain cleaning products, polishes, waxes, air fresheners</p>  </td> <td> <p>\u00a0Limonene, alpha-pinene, terpinolene, alpha-terpineol, linalool, linalyl acetate and other terpenoids, longifolene and other sesquiterpenes</p>  </td> <td> <p>\u00a0Formaldehyde, acetaldehyde, glycoaldehyde, formic acid, acetic acid, hydrogen and organic peroxides, acetone, benzaldehyde, 4-hydroxy-4-methyl-5-hexen-1-al, 5-ethenyl-dihydro-5-methyl-2(3H)-furanone, 4-AMC, SOAs including ultrafine particles</p>  </td> </tr> <tr> <td> <p>Natural rubber adhesive</p>  </td> <td> <p>\u00a0Isoprene, terpenes</p>  </td> <td> <p>\u00a0Formaldehyde, methacrolein, methyl vinyl ketone</p>  </td> </tr> <tr> <td> <p>Photocopier toner, printed paper, styrene polymers</p>  </td> <td> <p>\u00a0Styrene</p>  </td> <td> <p>\u00a0Formaldehyde, benzaldehyde</p>  </td> </tr> <tr> <td> <p>Environmental tobacco smoke</p>  </td> <td> <p>\u00a0Styrene, acrolein, nicotine</p>  </td> <td> <p>\u00a0Formaldehyde, benzaldehyde, hexanal, glyoxal, N-methylformamide, nicotinaldehyde, cotinine</p>  </td> </tr> <tr> <td> <p>Soiled clothing, fabrics, bedding</p>  </td> <td> <p>\u00a0Squalene, unsaturated sterols, oleic acid and other saturated fatty acids</p>  </td> <td> <p>\u00a0Acetone, geranyl acetone, 6MHO, 40PA, formaldehyde, nonanal, decanal, 9-oxo-nonanoic acid, azelaic acid, nonanoic acid</p>  </td> </tr> <tr> <td> <p>Soiled particle filters</p>  </td> <td> <p>\u00a0Unsaturated fatty acids from plant waxes, leaf litter, and other vegetative debris; soot; diesel particles</p>  </td> <td> <p>\u00a0Formaldehyde, nonanal, and other aldehydes; azelaic acid; nonanoic acid; 9-oxo-nonanoic acid and other oxo-acids; compounds with mixed functional groups (=O, -OH, and -COOH)</p>  </td> </tr> <tr> <td> <p>Ventilation ducts and duct liners</p>  </td> <td> <p>\u00a0Unsaturated fatty acids and esters, unsaturated oils, neoprene</p>  </td> <td> <p>\u00a0C5 to C10 aldehydes</p>  </td> </tr> <tr> <td> <p>\u00a0\"Urban grime\"</p>  </td> <td> <p>\u00a0Polycyclic aromatic hydrocarbons</p>  </td> <td> <p>\u00a0Oxidized polycyclic aromatic hydrocarbons</p>  </td> </tr> <tr> <td> <p>Perfumes, colognes, essential oils (e.g. lavender, eucalyptus, tea tree)</p>  </td> <td> <p>Limonene, alpha-pinene, linalool, linalyl acetate, terpinene-4-ol, gamma-terpinene</p>  </td> <td> <p>\u00a0Formaldehyde, 4-AMC, acetone, 4-hydroxy-4-methyl-5-hexen-1-al, 5-ethenyl-dihydro-5-methyl-2(3H) furanone, SOAs including ultrafine particles</p>  </td> </tr> <tr> <td> <p>Overall home emissions</p>  </td> <td> <p>\u00a0Limonene, alpha-pinene, styrene</p>  </td> <td> <p>\u00a0Formaldehyde, 4-AMC, pinonaldehyde, acetone, pinic acid, pinonic acid, formic acid, benzaldehyde, SOAs including ultrafine particles</p>  </td> </tr> </table> </p> <p>\u00a0Abbreviations: 4-AMC, 4-acetyl-1-methylcyclohexene; 6MHQ, 6-methyl-5-heptene-2-one, 4OPA, 4-oxopentanal, SOA, Secondary Organic Aerosols</p> <p>Reference: Charles J Weschler; Environmental Helath Perspectives, Vol 114, October 2006</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "AirPersistence": "LOW (Half-life = 0.3 days)",
+                "WaterPersistence": "HIGH (Half-life = 210 days)",
+                "BioaccumulationPotential": "LOW (BCF = 77)",
+                "MobilityInSoil": "LOW (KOC = 517.8)",
+                "Disposal": "<ul>\n<li><span style=\"color:#000000\">Containers may still present a chemical hazard/ danger when empty.\u00a0</span></li>\n<li><span style=\"color:#000000\">Return to supplier for reuse/ recycling if possible.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Otherwise:</span></p>\n<ul>\n<li><span style=\"color:#000000\">If container can not be cleaned sufficiently well to ensure that residuals do not remain or if the container cannot be used to store the same product, then puncture containers, to prevent re-use, and bury at an authorised landfill.\u00a0</span></li>\n<li><span style=\"color:#000000\">Where possible retain label warnings and SDS and observe all notices pertaining to the product.\u00a0</span></li>\n</ul> <p>Legislation addressing waste disposal requirements may differ by country, \u00a0state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. If it has been contaminated, it may be possible to reclaim the product by filtration, distillation or some other means. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Recycle wherever possible.\u00a0</span></li>\n<li><span style=\"color:#000000\">Consult manufacturer for recycling options or consult local or regional waste management authority for disposal if no suitable treatment or disposal facility can be identified.\u00a0</span></li>\n<li><span style=\"color:#000000\">Dispose of by: burial in a land-fill specifically licensed to accept chemical and / or pharmaceutical wastes or Incineration in a licensed apparatus (after admixture with suitable combustible material).\u00a0</span></li>\n<li><span style=\"color:#000000\">Decontaminate empty containers. Observe all label safeguards until containers are cleaned and destroyed.\u00a0</span></li>\n</ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "72h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "1.4mg/l",
+                        "Source": "1"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": "4.02mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "48h",
+                        "Species": "<p>Crustacea</p>",
+                        "Value": "4.7mg/l",
+                        "Source": "1"
+                    },
+                    {
+                        "EndPoint": "NOEC(ECx)",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.063mg/l",
+                        "Source": "1"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "0.72mg/l",
+                        "Source": "1"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "Australia Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) - Schedule 5",
+                    "Australia Hazardous Chemical Information System (HCIS) - Hazardous Chemicals",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs - Group 2A: Probably carcinogenic to humans",
+                    "International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs",
+                    "Chemical Footprint Project - Chemicals of High Concern List"
+                ],
+                "DangerousGoodsCategories": "#sec15Korean_class 4: #sec15Korean_Hazard 4",
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H226; H304; H315; H319; H332; H335; H372; H412",
+                        "SignalWord": "GHS02; GHS08; GHS07; Dgr",
+                        "HazardState": "H226; H304; H315; H319; H332; H335; H372; H412"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H226; H304; H315; H319; H335; H372; H412; H351; H360; H302; H331; H341; H370; H312",
+                        "SignalWord": "GHS02; GHS08; GHS07; Dgr; Wng; GHS06; GHS04",
+                        "HazardState": "H226; H304; H315; H319; H335; H372; H412; H351; H360; H302; H331; H341; H370; H312"
+                    },
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": "0.028 mg/L (Water (Fresh))",
+                    "MarineWater": "0.014 mg/L (Water - Intermittent release)",
+                    "Aqua": "0.04 mg/L (Water (Fresh)_mar)",
+                    "FreshWaterSediment": "0.418 mg/kg sediment dw (Sediment (Fresh Water))",
+                    "MarineWaterSediment": "0.307 mg/kg sediment dw (Sediment (Fresh Water)_mar)",
+                    "Soil": "0.146 mg/kg soil dw (Soil)",
+                    "Stp": "5 mg/L (STP)",
+                    "Oral": " (Oral)"
+                },
+                "Dnel": {
+                    "SwltDerm": {
+                        "Value": "406 mg/kg bw/day",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 406 mg/kg bw/day (Systemic, Chronic)",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "SwltInhal": {
+                        "Value": "85 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 85 mg/m\u00b3 (Systemic, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "LwltInhal": {
+                        "Value": "100 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 100 mg/m\u00b3 (Local, Chronic)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "SwstInhal": {
+                        "Value": "100 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 100 mg/m\u00b3 (Systemic, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Acute"
+                    },
+                    "LwstInhal": {
+                        "Value": "100 mg/m\u00b3",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Inhalation 100 mg/m\u00b3 (Local, Acute)",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    },
+                    "ScltDerm": {
+                        "Value": "343 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Dermal 343 mg/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltInhal": {
+                        "Value": "1 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 1 mg/m\u00b3 (Systemic, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "ScltOral": {
+                        "Value": "2.1 mg/kg bw/day",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Oral 2.1 mg/kg bw/day (Systemic, Chronic) *</i>",
+                        "Route": "Oral",
+                        "Type": "Systemic, Chronic"
+                    },
+                    "LcltInhal": {
+                        "Value": "1 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 1 mg/m\u00b3 (Local, Chronic) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Chronic"
+                    },
+                    "ScstInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 10 mg/m\u00b3 (Systemic, Acute) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Systemic, Acute"
+                    },
+                    "LcstInhal": {
+                        "Value": "10 mg/m\u00b3",
+                        "ForGeneralPopulation": true,
+                        "FormattedValue": "<i>Inhalation 10 mg/m\u00b3 (Local, Acute) *</i>",
+                        "Route": "Inhalation",
+                        "Type": "Local, Acute"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Styrene",
+                        "Teel1": "Not Available",
+                        "Teel2": "Not Available",
+                        "Teel3": "Not Available"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "#85 mg/m3   NAD  0.3   -<p>for styrene:</p> <p>Odour Threshold: 0.017 to 1.9 with a geometric average threshold of 0.32 ppm.</p> <p>NOTE:Detector tubes measuring styrene at greater than 10 ppm are available.</p> <p>The recommended TLV-TWA and STEL is based on the influence of styrene exposure on the central and peripheral nervous systems At the TWA, total daily styrene exposure to the standard 70 kg medium-frame man who inhales 10 m3 and who retains 70% of the inspired compound is 21 mg/kg with 0.5 mg/kg absorbed through the skin. The total absorbed dose can be increased six-fold with physical work and increased respiration rate.</p> <p>Measurement of styrene and its metabolites in the urine can be an indication of recent exposure though this approach may be limited by factors such as the influence of alcohol consumption on styrene pharmodynamics. Exposure at or below the TLV-TWA is thought to protect the worker against the significant risks of narcosis, neuropathies and irritation although other findings suggest that neuro-optical effects are significant amongst workers exposed at 4 ppm.</p> <p>Odour Safety Factor(OSF)</p> <p>OSF=63 (STYRENE)</p> <p><br /></p> <p>For p-tert-butylcatechol:</p> <p>CEL TWA: 5 mg/m3 \u00a0 [compare WEEL-TWA*]</p> <p>(CEL = Chemwatch Exposure Limit)</p> <p>4-tert-Butylcatechol is severely irritating, can cause allergic dermatitis and can depigment skin. The American Industrial Hygiene Association has recommended a Workplace Exposure Level (WEEL) for an 8-hr time weighted average (TWA) of 5 mg/m3 to protect against acute irritant effects. Oral effects are only slight and generally reversible.\u00a0</p> <p><br /></p> <p>Established occupational exposure limits frequently do not take into consideration reproductive end points that are clearly below the thresholds for other toxic effects. Occupational reproductive guidelines (ORGs) have been suggested as an additional standard. These have been established after a literature search for reproductive no-observed-adverse effect-level (NOAEL) and the lowest-observed-adverse-effect-level (LOAEL). In addition the US EPA's procedures for risk assessment for hazard identification and dose-response assessment as applied by NIOSH were used in the creation of such limits. Uncertainty factors (UFs) have also been incorporated.</p> <p>These exposure guidelines have been derived from a screening level of risk assessment and should not be construed as unequivocally safe limits. ORGS represent an 8-hour time-weighted average unless specified otherwise.\u00a0</p> <p>CR = Cancer Risk/10000; UF = Uncertainty factor:</p> <p>TLV believed to be adequate to protect reproductive health:</p> <p>LOD: Limit of detection</p> <p>Toxic endpoints have also been identified as:</p> <p>D = Developmental; R = Reproductive; TC = Transplacental carcinogen</p> <p>Jankovic J., Drake F.: A Screening Method for Occupational Reproductive</p> <p>American Industrial Hygiene Association Journal 57: 641-649 (1996)</p> <p>Exposed individuals are reasonably expected to be warned, by smell, that the Exposure Standard is being exceeded.</p> <p>Odour Safety Factor (OSF) is determined to fall into either Class A or B.</p> <p>The Odour Safety Factor (OSF) is defined as:</p> <p>OSF= Exposure Standard (TWA) ppm/ Odour Threshold Value (OTV) ppm</p> <p>Classification into classes follows:\u00a0</p> <p><table> <tr> <td> <p>Class</p>  </td> <td> <p>OSF</p>  </td> <td> <p>Description</p>  </td> </tr> <tr> <td> <p>A</p>  </td> <td> <p>550</p>  </td> <td> <p>Over 90% of exposed individuals are aware by smell that the Exposure Standard (TLV-TWA for example) is being reached, even when distracted by working activities</p>  </td> </tr> <tr> <td> <p>B</p>  </td> <td> <p>26-550</p>  </td> <td> <p>As \"A\" for 50-90% of persons being distracted</p>  </td> </tr> <tr> <td> <p>C</p>  </td> <td> <p>1-26</p>  </td> <td> <p>As \"A\" for less than 50% of persons being distracted</p>  </td> </tr> <tr> <td> <p>D</p>  </td> <td> <p>0.18-1</p>  </td> <td> <p>10-50% of persons aware of being tested perceive by smell that the Exposure Standard is being reached</p>  </td> </tr> <tr> <td> <p>E</p>  </td> <td> <p>&lt;0.18</p>  </td> <td> <p>As \"D\" for less than 10% of persons aware of being tested</p>  </td> </tr> </table> </p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.</p> <p><br /></p> <p>For flammable liquids and flammable gases, local exhaust ventilation or a process enclosure ventilation system may be required. Ventilation equipment should be explosion-resistant.</p> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>solvent, vapours, degreasing etc., evaporating from tank (in still air).</p>  </td> <td> <p>0.25-0.5 m/s</p> <p>(50-100 f/min.)</p>  </td> </tr> <tr> <td> <p>aerosols, fumes from pouring operations, intermittent container filling, low speed conveyer transfers, welding, spray drift, plating acid fumes, pickling (released at low velocity into zone of active generation)</p>  </td> <td> <p>0.5-1 m/s</p> <p>(100-200 f/min.)</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)\u00a0</p>  </td> <td> <p>1-2.5 m/s</p> <p>(200-500 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.\u00a0</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2 m/s (200-400 f/min.) for extraction of solvents generated in a tank 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Inhalation of vapours or aerosols (mists, fumes), generated by the material during the course of normal handling, may be harmful.</p> <p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>The acute toxicity of inhaled alkylbenzenes is best described by central nervous system depression. As a rule, these compounds may also act as general anaesthetics.</p> <p>Systemic poisoning produced by general anaesthesia is characterised by lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting and sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness and respiratory depression and arrest. Cardiac arrest may result from cardiovascular collapse. Bradycardia, and hypotension may also be produced.</p> <p>Inhaled alkylbenzene vapours cause death in animals at air levels that are relatively similar (typically LC50s are in the range 5000 -8000 ppm for 4 to 8 hour exposures). It is likely that acute inhalation exposure to alkylbenzenes resembles that to general anaesthetics.</p> <p>Alkylbenzenes are not generally toxic other than at high levels of exposure. This may be because their metabolites have a low order of toxicity and are easily excreted. There is little or no evidence to suggest that metabolic pathways can become saturated leading to spillover to alternate pathways. Nor is there evidence that toxic reactive intermediates, which may produce subsequent toxic or mutagenic effects, are formed</p> <p>Central nervous system (CNS) depression is seen at styrene exposures exceeding 50 ppm, whilst headache, fatigue, nausea and dizziness are reported consistently at exposures of 100 ppm.\u00a0</p> <p>Eye and throat irritation occurred in human volunteers exposed to 376 ppm styrene for 1 hour and was accompanied by increased nasal secretion at exposures of 800 ppm for 4 hours. At the end of an 8-hour workshift, workers exposed to 212 ppm styrene had higher urinary levels of alanine-aminopeptidase and N-acetyl-glucosaminidase than unexposed workers, indicating potential renal effects of styrene .</p> <p>Evidence exists that 5% to 10% reductions in sensory nerve conduction occur at 100 ppm and that slowed reaction times occur after exposure to 50 ppm. Exposure at 370 ppm produces unpleasant subjective symptoms and signs of neurological impairment. High vapour concentrations may have a toxic and anaesthetic effect which may lead to unconsciousness or death. Exposure at 1000 ppm can rapidly lead to unconsciousness whilst exposure to 10000 ppm may cause death in less than one hour. Simple reaction times were increased and coordination decreased amongst volunteers inhaling 350 ppm (via mouth tube) for 30 minutes. Controlled inhalation studies with 300 ppm (via mouth tube) for one hour found reduced ocular tracking abilities but no changes in balance or coordination.</p> <p>In humans exposed to styrene vapor, pulmonary retention is approximately 66% of the administered concentration.</p> <p>Following inhalation exposure, styrene is preferentially distributed to adipose tissue. Fat levels in rats were 10-times greater than levels in observed organs after exposure to 50-2000 ppm for 5 hours.</p> <p>Urinary excretion is the major route of elimination of styrene. In humans, the main urinary metabolites are mandelic acid and phenylglyoxylic acid; rats also excrete hippuric acid and glucuronide. Human volunteers exposed by inhalation to 50 to 200 parts per million (ppm) showed biphasic urinary elimination of mandelic acid with a half-life for the first phase of 4 hours and for the second phase of 25 hours. Urinary metabolite concentrations have been correlated with exposure concentrations in humans.</p> <p>If exposure to highly concentrated vapour atmosphere is prolonged this may lead to narcosis, unconsciousness, even coma and unless resuscitated - death.</p>",
+                "AcuteEye": "<p><br /></p> <p>The vapour when concentrated has pronounced eye irritation effects and this gives some warning of high vapour concentrations. If eye irritation occurs seek to reduce exposure with available control measures, or evacuate area.</p> <p>Evidence exists, or practical experience predicts, that the material may cause severe eye irritation in a substantial number of individuals and/or may produce significant ocular lesions which are present twenty-four hours or more after instillation into the eye(s) of experimental animals. Eye contact may cause significant inflammation with pain. Corneal injury may occur; permanent impairment of vision may result unless treatment is prompt and adequate. Repeated or prolonged exposure to irritants may cause inflammation characterised by a temporary redness (similar to windburn) of the conjunctiva (conjunctivitis); temporary impairment of vision and/or other transient eye damage/ulceration may occur.</p>",
+                "AcuteSkin": "<p>The material produces moderate skin irritation; evidence exists, or practical experience predicts, that the material either</p> <ul> <li>\u00a0produces moderate inflammation of the skin in a substantial number of individuals following direct contact, and/or\u00a0</li> <li>produces significant, but moderate, inflammation when applied to the healthy intact skin of animals (for up to four hours), such inflammation being present twenty-four hours or more after the end of the exposure period.\u00a0</li> </ul> <p>\u00a0Skin irritation may also be present after prolonged or repeated exposure; this may result in a form of contact dermatitis (nonallergic). The dermatitis is often characterised by skin redness (erythema) and swelling (oedema) which may progress to blistering (vesiculation), scaling and thickening of the epidermis. At the microscopic level there may be intercellular oedema of the spongy layer of the skin (spongiosis) and intracellular oedema of the epidermis.</p> <p>Skin contact with the material may damage the health of the individual; systemic effects may result following absorption.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p> <p>Dermal absorption of styrene has been shown to be significantly less than absorption by the respiratory tract</p>",
+                "AcuteIngestion": "<p>Accidental ingestion of the material may be harmful; animal experiments indicate that ingestion of less than 150 gram may be fatal or may produce serious damage to the health of the individual.</p> <p>Styrene is absorbed into the body following oral or inhalation exposure. Complete absorption occurred in fasted rats given a total of 3.147 mg styrene by gavage in an aqueous solution. A peak blood level of 6 micrograms/mL was reached within minutes. Following oral administration of 20 mg/kg of radiolabeled styrene to rats, the highest organ levels were found in the kidney, liver, and pancreas.</p> <p>Styrene is presumed to be metabolised to styrene oxide which is then converted to styrene glycol. Styrene glycol is metabolised to either mandelic acid or to benzoic acid and then hippuric acid. Mandelic acid is also metabolized to phenylglyoxylic acid. Minor metabolic pathways include the conjugation of styrene oxide with glutathione and the formation of vinyl phenol.</p> <p>Following an oral dose of 50 mg/kg radiolabeled styrene to rats, 95% of the label was recovered in the urine, 1% in expired air, and 4% in the feces over 72-hours</p>",
+                "ChronicHealthEffects": "<p>On the basis, primarily, of animal experiments, concern has been expressed that the material may produce carcinogenic or mutagenic effects; in respect of the available information, however, there presently exists inadequate data for making a satisfactory assessment.</p><html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Harmful: danger of serious damage to health by prolonged exposure through inhalation.&nbsp;</font></div> </font> </body></html> <p>Serious damage (clear functional disturbance or morphological change which may have toxicological significance) is likely to be caused by repeated or prolonged exposure. As a rule the material produces, or contains a substance which produces severe lesions. Such damage may become apparent following direct application in subchronic (90 day) toxicity studies or following sub-acute (28 day) or chronic (two-year) toxicity tests.</p> <p><br /></p> <p>Exposure to the material may cause concerns for humans owing to possible developmental toxic effects, generally on the basis that results in appropriate animal studies provide strong suspicion of developmental toxicity in the absence of signs of marked maternal toxicity, or at around the same dose levels as other toxic effects but which are not a secondary non-specific consequence of other toxic effects.</p> <p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p>Exposure to styrene may aggravate central nervous system disorders, chronic respiratory disease, skin disease, kidney disease and liver disease.</p> <p>Workers engaged in the manufacture of styrene polymers with exposure to generally &lt;1 ppm for 1-36 years had low erythrocyte counts and altered liver enzyme profiles. Blood and liver effects do not appear to be of concern for human exposures to styrene. Occupational studies in humans show styrene to be a neurotoxicant.\u00a0</p> <p>Occupational styrene exposure causes central and peripheral nervous system effects. It causes a reversible decrease in colour discrimination and in some studies effects on hearing have been reported.</p> <p>Neuro-optic pathways have been shown to be particularly vulnerable to organic solvent exposure and studies support the proposition that styrene exposure can induce dose-dependent colour vision loss. In the fibre-glass reinforced plastics industry, visual colour impairment was detected were exposure was above 4 ppm. Campagna D. et al, Neurotoxicology, 17(2), pp 367-374, 1996</p> <p>Studies of effects of styrene on the haematopoietic and immune systems, liver and kidney, in exposed workers, do not reveal consistent changes. Central nervous system effects of styrene in rats, guinea pigs and rabbits, have been reported. Styrene exposure causes liver and lung toxicity in mice and nasal toxicity in rats and mice.</p> <p>Chromosomal abnormalities (micronucleii, chromosome gaps or breaks, nuclear bridges and unscheduled DNA synthesis in peripheral lymphocytes) have been recorded in workers exposed to styrene. Such aberrations however are not always apparent in epidemiological studies and the status of styrene as a DNA effector is equivocal.</p> <p>Death due to cancers among workers exposed to styrene is statistically unremarkable.</p> <p>The dominant first metabolite of styrene is styrene-7,8-epoxide which binds covalently to DNA and shows activity in various in-vitro and in-vivo assays for genetic effects where it induces dose-related responses of chromosomal damage at low concentrations. Styrene-7,8-oxide is detected in the blood of workers exposed to styrene. Adducts in haemoglobin and DNA, DNA single-strand breaks/ alkali-labile sites as well as significant increases in the frequency of chromosomal damage have been found in workers exposed to styrene in the reinforced plastics industry.</p> <p>In humans there is little evidence for an association between workplace exposure to styrene and spontaneous abortions, malformations or decreased male fecundity.</p> <p>Spontaneous abortions amongst female worker, exposed to styrene, has been reported in some studies. \u00a0This finding has not been substantiated in other studies. Increased congenital malformations, embryonic foetal deaths or reduced birth weights have also been reported but simultaneous exposure to other substances makes the link to styrene conjectural. In rats, there is some evidence for reduced sperm count and peripubertal animals may be more sensitive than adult animals. Styrene crosses the placenta in rats and mice. It increases prenatal death at doses levels causing decreased maternal weight gain. Decreased pup weight, postnatal developmental delays as well as neurobehavioral and neurochemical abnormalities have been reported in rats exposed to styrene during pre- or postnatal development. The potential for developmental toxicity appears to be much higher for styrene-7,8-oxide, a metabolite.</p> <p>Rats given weekly doses of styrene by gavage at 500 mg/kg for 102 weeks showed liver, kidney, and stomach lesions; no effects were seen in mice. Reduced weight gain and increased liver and kidney weights occurred in rats receiving 285 or 475 mg/kg/day for 185 days but no effects at 95 mg/kg/day . Male and female rats were given 0, 1000, or 2000 mg/kg and male and female mice were given 0, 150, or 300 mg/kg by gavage for 78 weeks . Reduced body weight occurred in both treated male rat groups, high-dose female rats, and both treated female mouse groups. In another study, male and female mice were treated weekly with 1350 mg/kg . At 20 weeks, mortality was 50% and 20% for males and females, respectively accompanied by liver necrosis, splenic hypoplasia, and lung congestion. Male and female mice were exposed to 0, 62.5, 125, 250, or 500 ppm styrene for 6 hours/day, 5 days/week for 13 weeks . In both sexes the liver to body weight ratio was increased at the two highest doses; histopathology of the respiratory tract revealed metaplasia and degeneration of the olfactory epithelium of the nasal cavity at the lowest dose, necrosis at higher concentrations, and bronchiolar regeneration at all concentrations. Male and female rats exposed to 0, 125, 500, 1000, or 1500 ppm on the same schedule had increased liver to body weight ratios at the three highest levels in males and the two highest levels in females; degeneration of the olfactory epithelium occurred in both sexes at \u00a0around 1000 ppm. Pathological changes were observed in the respiratory mucosa of rats following exposure to 1000 ppm 4 hours/day, 5 days/week for 3 weeks\u00a0</p> <p>Chromosomal abnormalities (micronucleii, chromosome gaps or breaks, nuclear bridges and unscheduled DNA synthesis in peripheral lymphocytes) have been recorded in workers exposed to styrene. Such aberrations however are not always apparent in epidemiological studies and the status of styrene as a DNA effector is equivocal.</p> <p>Death due to cancers among workers exposed to styrene is statistically unremarkable.</p> <p>The dominant first metabolite of styrene is styrene-7,8-epoxide which binds covalently to DNA and shows activity in various in-vitro and in-vivo assays for genetic effects where it induces dose-related responses of chromosomal damage at low concentrations. Styrene-7,8-oxide is detected in the blood of workers exposed to styrene. Adducts in haemoglobin and DNA, DNA single-strand breaks/ alkali-labile sites as well as significant increases in the frequency of chromosomal damage have been found in workers exposed to styrene in the reinforced plastics industry.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "dermal (rat) LD50:",
+                        "Value": ">2000",
+                        "Unit": "mg/kg",
+                        "Source": 1
+                    },
+                    {
+                        "Type": "Oral(Mouse) LD50;",
+                        "Value": "316",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    },
+                    {
+                        "Type": "Inhalation(Mouse) LC50;",
+                        "Value": "6.8",
+                        "Unit": "mg/l4h",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [
+                    {
+                        "Value": "Skin (rabbit): 500 mg - mild",
+                        "IsFromGalleria": false
+                    },
+                    {
+                        "Value": "Eye (rabbit): 100 mg/24h - moderate",
+                        "IsFromGalleria": false
+                    },
+                    {
+                        "Value": "Skin (rabbit): 500 mg - mild",
+                        "IsFromGalleria": false
+                    },
+                    {
+                        "Value": "Eye (rabbit): 100 mg/24h - moderate",
+                        "IsFromGalleria": false
+                    }
+                ],
+                "InitialDate": "17/06/2005",
+                "NextRevisionDate": "2025-12-30T00:00:00",
+                "SignalWord": "Warning",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSFla.gif",
+                    "GHSHar.gif",
+                    "GHSChr.gif"
+                ],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R20/22|~R36/38|~HAG41|~R21?|~R37?|~R65?",
+                "MiniChronicHealthEffects": "R40(3)|R63(3)|R48/20|R33?",
+                "WhmisImages": [
+                    "WHMISF.gif",
+                    "WHMIST.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P201",
+                        "Phrase": "Obtain special instructions before use."
+                    },
+                    {
+                        "Code": "P281",
+                        "Phrase": "Use personal protective equipment as required."
+                    },
+                    {
+                        "Code": "P264",
+                        "Phrase": "Wash \u2026 thoroughly after handling."
+                    },
+                    {
+                        "Code": "P280",
+                        "Phrase": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/\u2026"
+                    },
+                    {
+                        "Code": "P210",
+                        "Phrase": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking."
+                    },
+                    {
+                        "Code": "P233",
+                        "Phrase": "Keep container tightly closed."
+                    },
+                    {
+                        "Code": "P240",
+                        "Phrase": "Ground and bond container and receiving equipment."
+                    },
+                    {
+                        "Code": "P241",
+                        "Phrase": "Use explosion-proof [electrical/ventilating/lighting/\u2026] equipment."
+                    },
+                    {
+                        "Code": "P242",
+                        "Phrase": "Use non-sparking tools."
+                    },
+                    {
+                        "Code": "P243",
+                        "Phrase": "Take action to prevent static discharges."
+                    },
+                    {
+                        "Code": "P271",
+                        "Phrase": "Use only outdoors or in a well-ventilated area."
+                    },
+                    {
+                        "Code": "P270",
+                        "Phrase": "Do not eat, drink or smoke when using this product."
+                    },
+                    {
+                        "Code": "P260",
+                        "Phrase": "Do not breathe dust/fume/gas/mist/vapours/spray."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P308+P313",
+                        "Phrase": "IF exposed or concerned:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P305+P351+P338",
+                        "Phrase": "IF IN EYES:, Rinse cautiously with water for several minutes., Remove contact lenses, if present and easy to do. Continue rinsing."
+                    },
+                    {
+                        "Code": "P337+P313",
+                        "Phrase": "If eye irritation persists:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P303+P361+P353",
+                        "Phrase": "IF ON SKIN (or hair):, Take off immediately all contaminated clothing., Rinse skin with water [or shower]."
+                    },
+                    {
+                        "Code": "P370+P378",
+                        "Phrase": "In case of fire:, Use alcohol resistant foam or normal protein foam to extinguish."
+                    },
+                    {
+                        "Code": "P304+P340",
+                        "Phrase": "IF INHALED:, Remove person to fresh air and keep comfortable for breathing."
+                    },
+                    {
+                        "Code": "P301+P312",
+                        "Phrase": "IF SWALLOWED:, Call a POISON CENTRE/doctor/\u2026 if you feel unwell."
+                    },
+                    {
+                        "Code": "P330",
+                        "Phrase": "Rinse mouth."
+                    },
+                    {
+                        "Code": "P302+P352",
+                        "Phrase": "IF ON SKIN:, Wash with plenty of water and detergent."
+                    },
+                    {
+                        "Code": "P321",
+                        "Phrase": "Specific treatment (see ... \u00b0n this label)."
+                    },
+                    {
+                        "Code": "P332+P313",
+                        "Phrase": "If skin irritation occurs:, Get medical advice/attention."
+                    },
+                    {
+                        "Code": "P362",
+                        "Phrase": "Take off contaminated clothing."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P405",
+                        "Phrase": "Store locked up."
+                    },
+                    {
+                        "Code": "P403+P235",
+                        "Phrase": "Store in a well-ventilated place., Keep cool."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "Xn"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S13",
+                        "Phrase": "    Keep away from food, drink and animal feeding stuffs.&nbsp;  "
+                    },
+                    {
+                        "Code": "S18",
+                        "Phrase": "    Handle and open container with care.&nbsp;  "
+                    },
+                    {
+                        "Code": "S23",
+                        "Phrase": "    Do not breathe gas/fumes/vapour/spray.&nbsp;  "
+                    },
+                    {
+                        "Code": "S26",
+                        "Phrase": "    In case of contact with eyes, rinse with plenty of water and contact Doctor or Poisons Information Centre.&nbsp;  "
+                    },
+                    {
+                        "Code": "S281",
+                        "Phrase": "After contact with skin, wash immediately with detergent and  plenty of water."
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S36",
+                        "Phrase": "    Wear suitable protective clothing.&nbsp;  "
+                    },
+                    {
+                        "Code": "S37",
+                        "Phrase": "    Wear suitable gloves.&nbsp;  "
+                    },
+                    {
+                        "Code": "S38",
+                        "Phrase": "    In case of insufficient ventilation, wear suitable respiratory equipment.&nbsp;  "
+                    },
+                    {
+                        "Code": "S39",
+                        "Phrase": "    Wear eye/face protection.&nbsp;  "
+                    },
+                    {
+                        "Code": "S40",
+                        "Phrase": "    To clean the floor and all objects contaminated by this material, use water.&nbsp;  "
+                    },
+                    {
+                        "Code": "S43",
+                        "Phrase": "\nIn case of fire use the extinguishing media detailed in section 5 of this SDS.\n"
+                    },
+                    {
+                        "Code": "S45",
+                        "Phrase": "    In case of accident or if you feel unwell IMMEDIATELY contact Doctor or Poisons Information Centre (show label if possible).&nbsp;  "
+                    },
+                    {
+                        "Code": "S46",
+                        "Phrase": "If swallowed, seek medical advice immediately and show this container or label."
+                    },
+                    {
+                        "Code": "S52",
+                        "Phrase": "    Not recommended for interior use on large surface areas.&nbsp;  "
+                    },
+                    {
+                        "Code": "S53",
+                        "Phrase": "    Avoid exposure - obtain special instructions before use.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    },
+                    {
+                        "Code": "S64",
+                        "Phrase": "If swallowed, rinse mouth with water (only if the person is conscious).\r\n"
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": true,
+                        "Listed": true,
+                        "Text": "<p><span>Listed in the Europe Regulation (EC) No 1907/2006 - Annex XVII (Restrictions may apply)</span></p>"
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": [
+                        "<p><span>Listed in the Europe Regulation (EC) No 1907/2006 - Annex XVII (Restrictions may apply)</span></p>"
+                    ]
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "fan_spark_proof.gif",
+                        "Translation": "    Flammable.&nbsp;  "
+                    },
+                    {
+                        "ImageName": "no_spark.gif",
+                        "Translation": "    Flammable.&nbsp;  "
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm. If breathing shallow, give oxygen. Medical attention."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water."
+                    },
+                    {
+                        "ImageName": "WASH_BODY.gif",
+                        "Translation": "Remove contaminated clothing. Wash with soap &amp; water."
+                    }
+                ],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R20.gif",
+                        "Translation": "Harmful if inhaled."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R22.gif",
+                        "Translation": "Harmful if swallowed."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R33.gif",
+                        "Translation": "May cause damage to organs&nbsp;through prolonged or repeated exposure."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R36.gif",
+                        "Translation": "Causes serious eye irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R38.gif",
+                        "Translation": "Causes skin irritation."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R40.gif",
+                        "Translation": "Suspected of causing cancer."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R48.gif",
+                        "Translation": "May cause damage to organs&nbsp;through prolonged or repeated exposure."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R63.gif",
+                        "Translation": "Suspected of damaging the unborn child."
+                    }
+                ],
+                "RiskPhysicalImages": [
+                    {
+                        "ImageName": "RiskCodes/R10.gif",
+                        "Translation": "Flammable liquid and vapour."
+                    },
+                    {
+                        "ImageName": "RiskCodes/R19.gif",
+                        "Translation": "May form explosive peroxides."
+                    }
+                ],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_foam.gif",
+                        "Translation": "Foam"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Foam.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSBTS.gif",
+                        "Translation": "Boots"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSHR.gif",
+                        "Translation": "Half-Respirator"
+                    }
+                ],
+                "ChemicalName": "Styrene",
+                "Nfpa": {
+                    "Toxicity": 2,
+                    "Flammability": 3,
+                    "Reactivity": 2,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_2_3_2_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "4",
+                    "Translation": "Very High",
+                    "NumericalRating": 4,
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 1,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Liquid.gif",
+                        "Translation": "Liquid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "floats_on_water.gif",
+                        "Translation": "Floats on water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>Wear chemical protective gloves, e.g. PVC.\u00a0</li> <li>Wear safety footwear or safety gumboots, e.g. Rubber\u00a0</li> </ul> <p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Overalls.\u00a0</li> <li>PVC Apron.\u00a0</li> <li>PVC protective suit may be required if exposure severe.\u00a0</li> <li>Eyewash unit.\u00a0</li> <li>Ensure there is ready access to a safety shower.\u00a0</li> </ul> <ul>\n<li>Some plastic personal protective equipment (PPE) (e.g. gloves, aprons, overshoes) are not recommended as they may produce static electricity.</li>\n<li>For large scale or continuous use wear tight-weave non-static clothing (no metallic fasteners, cuffs or pockets).</li>\n<li>Non sparking safety or conductive footwear should be considered. Conductive footwear describes a boot or shoe with a sole made from a conductive compound chemically bound to the bottom components, for permanent control to electrically ground the foot an shall dissipate static electricity from the body to reduce the possibility of ignition of volatile compounds. Electrical resistance must range between 0 to 500,000 ohms. Conductive shoes should be stored in lockers close to the room in which they are worn. Personnel who have been issued conductive footwear should not wear them from their place of work to their homes and return.</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<ul>\n<li><span style=\"color:black\">Cartridge respirators should never be used for emergency ingress or in areas of unknown vapour concentrations or oxygen content.</span></li>\n<li><span style=\"color:black\">The wearer must be warned to leave the contaminated area immediately on detecting any odours through the respirator. The odour may indicate that the mask is not functioning properly, that the vapour concentration is too high, or that the mask is not properly fitted. Because of these limitations, only restricted use of cartridge respirators is considered appropriate.</span></li>\n<li><span>Cartridge performance is affected by humidity. Cartridges should be changed after 2 hr of continuous use unless it is determined that the humidity is less than 75%, in which case, cartridges can be used for 4 hr. Used cartridges should be discarded daily, regardless of the length of time used</span></li>\n</ul>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": true,
+                    "Carcinogenicity": true,
+                    "SkinIrritation": true,
+                    "Reproductivity": true,
+                    "SeriousEyeDamage": true,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": true,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": [
+                    {
+                        "IndexType": "PE/EVAL/PE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "PVA",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "TEFLON",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NATURAL RUBBER",
+                        "Rat": "C"
+                    },
+                    {
+                        "IndexType": "NITRILE",
+                        "Rat": "C"
+                    },
+                    {
+                        "IndexType": "NITRILE+PVC",
+                        "Rat": "C"
+                    },
+                    {
+                        "IndexType": "PVC",
+                        "Rat": "C"
+                    },
+                    {
+                        "IndexType": "SARANEX-23",
+                        "Rat": "C"
+                    }
+                ]
+            },
+            "Proportion": "40-<60",
+            "Name": "styrene",
+            "OrderNumber": 1,
+            "RepresentativeProportion": {
+                "Proportion": 59.89,
+                "IsAverage": false,
+                "FormattedProportion": "59.9"
+            },
+            "NameForShowing": "styrene",
+            "ProportionForShowing": "40-<60",
+            "CwNumber": "2055",
+            "NumericProportion": {
+                "MinValue": 40.0,
+                "MaxValue": 59.99,
+                "RawMinValue": 40.0,
+                "RawMaxValue": 60.0,
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Dataset": {
+                "CwNumber": "35230",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a35230",
+                "Version": "637643804822080548",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "35230",
+                "Key": "35230_AUS_EN",
+                "FullKey": "datasets/gold/35230_AUS_EN",
+                "AiteLogKey": "35230",
+                "AiteS3Key": "xml/35230.json",
+                "ChemKey": {
+                    "cw": "CK-35230",
+                    "un": [],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-Not avail.",
+                        "CK-Not avail"
+                    ],
+                    "groupCode": [],
+                    "gc": [
+                        "CK-GC835291",
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "unsaturated polyester resin",
+                "CasNumber": "Not avail.",
+                "GhsEntities": [],
+                "PhysicalState": "Divided Solid",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniEngineeringControls": "<p>General Exhaust Ventilation adequate.</p>",
+                "MiniGloves": "Leather Gloves.",
+                "MiniResp": "<p>Particulate. (AS/NZS 1716 &amp; 1715, EN 143:2000 &amp; 149:001, ANSI Z88 or national equivalent)</p>",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p>",
+                "MiniFireExp": "<p>Toxic smoke/fumes in a fire.</p>",
+                "MiniAppearance": "<p>Solid.</p> <p><b>Does not</b>\u00a0mix with water.</p>",
+                "MiniFlammability": "<p>Combustible.</p>",
+                "MiniFirstAidSwallow": "<p>Rinse mouth with water.</p>",
+                "MiniFirstAidEye": "<p>Wash with running water. For discomfort seek medical advice.</p>",
+                "MiniFirstAidSkin": "<p><span style=\"color:#000000\">Wash with soap<br /></span></p> <p>For burns: Apply cold water.\u00a0<b>Do NOT</b>\u00a0remove clothes from area. Cover wound.\u00a0<u>NO OINTMENTS</u>.\u00a0</p> <p><u>MEDICAL ATTENTION</u>.</p>",
+                "MiniFirstAidInhaled": "<p>Fresh air. Rest, keep warm.</p>",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Foam.</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Avoid dust.</p> <p>Sweep shovel to safe place.</p>",
+                "MiniGlass": "<p>Consider chemical goggles.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Reactivity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "BodyContact": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": true,
+                    "RawValue": "None"
+                },
+                "InternationalHazardGraphics": [],
+                "RiskCodes": [],
+                "SpecificGravity": "#01notavail",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "None",
+                "Use": "In the hand lay-up and spray-up of fibre glass reinforced laminates and mouldings.  Also used in castings. Usually mixed with peroxide catalyst immediately before use or as used.|Generates heat (exotherm) as it cures (hardens). In large mass exotherm may cause styrene vapour generation.",
+                "ChemicalFormula": [],
+                "FirstAidIngestion": "<ul> <li>Immediately give a glass of water.\u00a0</li> <li>First aid is not generally required. If in doubt, contact a Poisons Information Centre or a doctor.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul> <li>If fumes, aerosols or combustion products are inhaled remove from contaminated area.\u00a0</li> <li>Other measures are usually unnecessary.\u00a0</li> </ul>",
+                "FirstAidEye": "<p>If this product comes in contact with eyes:\u00a0</p> <ul> <li>Wash out immediately with water.\u00a0</li> <li>If irritation continues, seek medical attention.\u00a0</li> <li>Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.\u00a0</li> </ul>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul> <p>In case of burns:</p> <ul> <li>Immediately apply cold water to burn either by immersion or wrapping with saturated clean cloth.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0remove or cut away clothing over burnt areas.\u00a0</font><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0pull away clothing which has adhered to the skin as this can cause further injury.\u00a0</font></li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0break blister or remove solidified material.\u00a0</font></li> <li>Quickly cover wound with dressing or clean cloth to help prevent infection and to ease pain.\u00a0</li> <li>For large burns, sheets, towels or pillow slips are ideal; leave holes for eyes, nose and mouth.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0apply ointments, oils, butter, etc. to a burn under any circumstances.\u00a0</font></li> <li>Water may be given in small quantities if the person is conscious.\u00a0</li> <li>Alcohol is not to be given under any circumstances.\u00a0</li> <li>Reassure.\u00a0</li> <li>Treat for shock by keeping the person warm and in a lying position.\u00a0</li> <li>Seek medical aid and advise medical personnel in advance of the cause and extent of the injury and the estimated time of arrival of the patient.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<ul> <li><font color=\"#ff0000\">Do NOT direct a solid stream of water or foam into burning molten material; this may cause spattering and spread the fire.</font></li> </ul> <ul> <li>Foam.\u00a0</li> <li>Dry chemical powder.\u00a0</li> <li>BCF (where regulations permit).\u00a0</li> <li>Carbon dioxide.\u00a0</li> <li>Water spray or fog - Large fires only.\u00a0</li> </ul>",
+                "FireExplosionHazard": "<ul>\n<li>Combustible solid which burns but propagates flame with difficulty; it is estimated that most organic dusts are combustible (circa 70%) - according to the circumstances under which the combustion process occurs, such materials may cause fires and / or dust explosions. </li>\n<li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions). </li>\n<li>Avoid generating dust, particularly clouds of dust in a confined or unventilated space as dusts may form an explosive mixture with air, and any source of ignition, i.e. flame or spark, will cause fire or explosion. Dust clouds generated by the fine grinding of the solid are a particular hazard; accumulations of fine dust (420 micron or less) may burn rapidly and fiercely if ignited - particles exceeding this limit will generally not form flammable dust clouds; once initiated, however, larger particles up to 1400 microns diameter will contribute to the propagation of an explosion. </li>\n<li>In the same way as gases and vapours, dusts in the form of a cloud are only ignitable over a range of concentrations; in principle, the concepts of lower explosive limit (LEL) and upper explosive limit (UEL) are applicable to dust clouds but only the LEL is of practical use; - this is because of the inherent difficulty of achieving homogeneous dust clouds at high temperatures (for dusts the LEL is often called the \"Minimum Explosible Concentration\", MEC). </li>\n<li>When processed with flammable liquids/vapors/mists,ignitable (hybrid) mixtures may be formed with combustible dusts. Ignitable mixtures will increase the rate of explosion pressure rise and the Minimum Ignition Energy (the minimum amount of energy required to ignite dust clouds - MIE) will be lower than the pure dust in air mixture. The Lower Explosive Limit (LEL) of the vapour/dust mixture will be lower than the individual LELs for the vapors/mists or dusts. </li>\n<li>A dust explosion may release of large quantities of gaseous products; this in turn creates a subsequent pressure rise of explosive force capable of damaging plant and buildings and injuring people. </li>\n<li>Usually the initial or primary explosion takes place in a confined space such as plant or machinery, and can be of sufficient force to damage or rupture the plant. If the shock wave from the primary explosion enters the surrounding area, it will disturb any settled dust layers, forming a second dust cloud, and often initiate a much larger secondary explosion. All large scale explosions have resulted from chain reactions of this type. </li>\n<li>Dry dust can be charged electrostatically by turbulence, pneumatic transport, pouring, in exhaust ducts and during transport. </li>\n<li>Build-up of electrostatic charge may be prevented by bonding and grounding. </li>\n<li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting. </li>\n<li>All movable parts coming in contact with this material should have a speed of less than 1-meter/sec.\u00a0 </li>\n<li>A sudden release of statically charged materials from storage or process equipment, particularly at elevated temperatures and/ or pressure, may result in ignition especially in the absence of an apparent ignition source. </li>\n<li>One important effect of the particulate nature of powders is that the surface area and surface structure (and often moisture content) can vary widely from sample to sample, depending of how the powder was manufactured and handled; this means that it is virtually impossible to use flammability data published in the literature for dusts (in contrast to that published for gases and vapours). </li>\n<li>Autoignition temperatures are often quoted for dust clouds (minimum ignition temperature (MIT)) and dust layers (layer ignition temperature (LIT)); LIT generally falls as the thickness of the layer increases.</li>\n</ul> <p>Combustion products include:</p> <p>carbon monoxide (CO)</p> <p>carbon dioxide (CO2)</p> <p>aldehydes</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p><br /></p> <p><b>NOTE:</b>\u00a0Burns with intense heat. Produces melting, flowing, burning liquid and dense acrid black smoke.</p> <p>May emit corrosive fumes.</p> <p><b>CARE</b>: Contamination of heated / molten liquid with water may cause violent steam explosion, with scattering of hot contents.</p>",
+                "FireFighting": "<ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li><b>DO NOT</b>\u00a0approach containers suspected to be hot.\u00a0</li> <li>Cool fire exposed containers with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> <li>Equipment should be thoroughly decontaminated after use.\u00a0</li> </ul>",
+                "MajorSpills": "<p>Moderate hazard.</p> <ul> <li><font color=\"#ff0000\"><b>CAUTION</b></font><font color=\"#ff0000\">:\u00a0</font>Advise personnel in area.\u00a0</li> <li>Alert Emergency Services and tell them location and nature of hazard.\u00a0</li> <li>Control personal contact by wearing protective clothing.\u00a0</li> <li>Prevent, by any means available, spillage from entering drains or water courses.\u00a0</li> <li>Recover product wherever possible.\u00a0</li> <li><b>IF DRY:\u00a0</b>Use dry clean up procedures and avoid generating dust. \u00a0Collect residues and place in sealed plastic bags or other containers for disposal.\u00a0<b>IF WET:</b>\u00a0 Vacuum/shovel up and place in labelled containers for disposal.\u00a0</li> <li><b>ALWAYS:</b>\u00a0 Wash area down with large amounts of water and prevent runoff into drains.\u00a0</li> <li>If contamination of drains or waterways occurs, advise Emergency Services.\u00a0</li> </ul>",
+                "MinorSpills": "<ul> <li>Clean up all spills immediately.\u00a0</li> <li>Avoid breathing dust and contact with skin and eyes.\u00a0</li> <li>Wear protective clothing, gloves, safety glasses and dust respirator.\u00a0</li> <li>Use dry clean up procedures and avoid generating dust.\u00a0</li> <li>Sweep up, shovel up or\u00a0</li> <li>Vacuum up (consider explosion-proof machines designed to be grounded during storage and use).\u00a0</li> <li>Place spilled material in clean, dry, sealable, labelled container.\u00a0</li> </ul> <p><br /></p> <p><br /></p>",
+                "MolecularWeight": "Not applicable.",
+                "Appearance": "<p>Family of products which vary in their physical properties as a result of variations in production. Data presented here is for typical family member.</p>|Solid; does not mix well with water.",
+                "VapourPressure": "Negligible",
+                "Taste": "Not Available",
+                "VolatileComponent": "Negligible",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "Not available.",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not available.",
+                "AutoIgnitionTemperature": "Not Available",
+                "FlashRange": "Not Available",
+                "Lel": "Not available",
+                "BoilingRange": "Not Available",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not available",
+                "InstabilityConditions": "<p>Product is considered stable and hazardous polymerisation will not occur.</p>|CARE: Dissolving in reactive monomer is a potentially hazardous process.",
+                "Synonyms": [
+                    "Not Available"
+                ],
+                "HandlingProcedure": "<ul>\n<li><span style=\"color:#000000\">Avoid all personal contact, including inhalation.\u00a0</span></li>\n<li><span style=\"color:#000000\">Wear protective clothing when risk of exposure occurs.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use in a well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Prevent concentration in hollows and sumps.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0enter confined spaces until atmosphere has been checked.\u00a0</span></li>\n<li><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0allow material to contact humans, exposed food or food utensils.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid contact with incompatible materials.\u00a0</span></li>\n<li><span style=\"color:#ff0000\">When handling,\u00a0</span><span style=\"color:#ff0000\"><strong>DO NOT</strong></span><span style=\"color:#ff0000\">\u00a0eat, drink or smoke.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed when not in use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Avoid physical damage to containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Always wash hands with soap and water after handling.\u00a0</span></li>\n<li><span style=\"color:#000000\">Work clothes should be laundered separately. Launder contaminated clothing before re-use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Use good occupational work practice.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n<li><span style=\"color:#000000\">Atmosphere should be regularly checked against established exposure standards to ensure safe working conditions are maintained.\u00a0</span></li>\n</ul> <ul> <li>Organic powders when finely divided over a range of concentrations regardless of particulate size or shape and suspended in air or some other oxidizing medium may form explosive dust-air mixtures and result in a fire or dust explosion (including secondary explosions)\u00a0</li> <li>Minimise airborne dust and eliminate all ignition sources. Keep away from heat, hot surfaces, sparks, and flame.\u00a0</li> <li>Establish good housekeeping practices.\u00a0</li> <li>Remove dust accumulations on a regular basis by vacuuming or gentle sweeping to avoid creating dust clouds.\u00a0</li> <li>Use continuous suction at points of dust generation to capture and minimise the accumulation of dusts. Particular attention should be given to overhead and hidden horizontal surfaces to minimise the probability of a \"secondary\" explosion. According to NFPA Standard 654, dust layers 1/32 in.(0.8 mm) thick can be sufficient to warrant immediate cleaning of the area.\u00a0</li> <li>Do not use air hoses for cleaning.\u00a0</li> <li>Minimise dry sweeping to avoid generation of dust clouds. Vacuum dust-accumulating surfaces and remove to a chemical disposal area. Vacuums with explosion-proof motors should be used.\u00a0</li> <li>Control sources of static electricity. \u00a0Dusts or their packages may accumulate static charges, and static discharge can be a source of ignition.\u00a0</li> <li>Solids handling systems must be designed in accordance with applicable standards (e.g. NFPA including 654 and 77) and other national guidance.\u00a0</li> <li>Do not empty directly into flammable solvents or in the presence of flammable vapors.\u00a0</li> <li>The operator, the packaging container and all equipment must be grounded with electrical bonding and grounding systems. Plastic bags and plastics cannot be grounded, and antistatic bags do not completely protect against development of static charges.\u00a0</li> </ul> <p>Empty containers may contain residual dust which has the potential to accumulate following settling. Such dusts may explode in the presence of an appropriate ignition source.</p> <ul> <li><font color=\"#ff0000\">Do NOT cut, drill, grind or weld such containers.\u00a0</font></li> <li>In addition ensure such activity is not performed near full, partially empty or empty containers without appropriate workplace safety authorisation or permit.\u00a0</li> </ul>",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry area protected from environmental extremes.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>\n<p><span style=\"color:#000000\">For major quantities:</span></p>\n<ul>\n<li><span style=\"color:#000000\">Consider storage in bunded \u00a0areas - ensure storage areas are isolated from sources of community water (including stormwater, ground water, lakes and streams}.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure that accidental discharge to air or water is the subject of a contingency disaster management plan; this may require consultation with local authorities.\u00a0</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Lined metal can, lined metal pail/ can.\u00a0</li> <li>Plastic pail.\u00a0</li> <li>Polyliner drum.\u00a0</li> <li>Packing as recommended by manufacturer.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<ul> <li>Avoid reaction with oxidising agents\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [],
+                "TransportIncompatibilities": "<p>No restrictions.\u00a0</p>",
+                "TransportPrecautions": "#Prec_trans0_1",
+                "Disposal": "<p>Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws operating in their area. In some areas, certain wastes must be tracked.</p> <p>A Hierarchy of Controls seems to be common - the user should investigate:</p> <ul> <li>Reduction\u00a0</li> <li>Reuse\u00a0</li> <li>Recycling\u00a0</li> <li>Disposal (if all else fails)\u00a0</li> </ul> <p>This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use. Shelf life considerations should also be applied in making decisions of this type. Note that properties of a material may change in use, and recycling or reuse may not always be appropriate. In most instances the supplier of the material should be consulted.</p> <ul> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">allow wash water from cleaning or process equipment to enter drains.\u00a0</font></li> <li>It may be necessary to collect all wash water for treatment before disposal.\u00a0</li> <li>In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.\u00a0</li> <li>Where in doubt contact the responsible authority.\u00a0</li> </ul> <ul>\n<li><span style=\"color:#000000\">Recycle wherever possible.\u00a0</span></li>\n<li><span style=\"color:#000000\">Consult manufacturer for recycling options or consult local or regional waste management authority for disposal if no suitable treatment or disposal facility can be identified.\u00a0</span></li>\n<li><span style=\"color:#000000\">Dispose of by: burial in a land-fill specifically licensed to accept chemical and / or pharmaceutical wastes or Incineration in a licensed apparatus (after admixture with suitable combustible material)\u00a0</span></li>\n<li><span style=\"color:#000000\">Decontaminate empty containers. Observe all label safeguards until containers are cleaned and destroyed.\u00a0</span></li>\n</ul>",
+                "Ecotox": [],
+                "IsPure": true,
+                "Regulations": [],
+                "Tccl": [],
+                "ClInventories": [],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {},
+                "Teel": [],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>Sensory irritants are chemicals that produce temporary and undesirable side-effects on the eyes, nose or throat. Historically occupational exposure standards for these irritants have been based on observation of workers' responses to various airborne concentrations. Present day expectations require that nearly every individual should be protected against even minor sensory irritation and exposure standards are established using uncertainty factors or safety factors of 5 to 10 or more. On occasion animal no-observable-effect-levels (NOEL) are used to determine these limits where human results are unavailable. An additional approach, typically used by the TLV committee (USA) in determining respiratory standards for this group of chemicals, has been to assign ceiling values (TLV C) to rapidly acting irritants and to assign short-term exposure limits (TLV STELs) when the weight of evidence from irritation, bioaccumulation and other endpoints combine to warrant such a limit. In contrast the MAK Commission (Germany) uses a five-category system based on intensive odour, local irritation, and elimination half-life. However this system is being replaced to be consistent with the European Union (EU) Scientific Committee for Occupational Exposure Limits (SCOEL); this is more closely allied to that of the USA.</p> <p>OSHA (USA) concluded that exposure to sensory irritants can:</p> <ul> <li>cause inflammation\u00a0</li> <li>cause increased susceptibility to other irritants and infectious agents\u00a0</li> <li>lead to permanent injury or dysfunction\u00a0</li> <li>permit greater absorption of hazardous substances and\u00a0</li> <li>acclimate the worker to the irritant warning properties of these substances thus increasing the risk of overexposure.\u00a0</li> </ul> <p><br /></p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Local exhaust ventilation is required where solids are handled as powders or crystals; even when particulates are relatively large, a certain proportion will be powdered by mutual friction.\u00a0</li> <li>Exhaust ventilation should be designed to prevent accumulation and recirculation of particulates in the workplace.\u00a0</li> <li>If in spite of local exhaust an adverse concentration of the substance in air could occur, respiratory protection should be considered. Such protection might consist of:\u00a0</li> </ul> <p>(a): particle dust respirators, if necessary, combined with an absorption cartridge;</p> <p>(b): filter respirators with absorption cartridge or canister of the right type;</p> <p>(c): fresh-air hoods or masks</p> <ul> <li>Build-up of electrostatic charge on the dust particle, may be prevented by bonding and grounding.\u00a0</li> <li>Powder handling equipment such as dust collectors, dryers and mills may require additional protection measures such as explosion venting.\u00a0</li> </ul> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to efficiently remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>direct spray, spray painting in shallow booths, drum filling, conveyer loading, crusher dusts, gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> <tr> <td> <p>grinding, abrasive blasting, tumbling, high speed wheel generated dusts (released at high initial velocity into zone of very high rapid air motion).</p>  </td> <td> <p>2.5-10 m/s (500-2000 f/min.)</p>  </td> </tr> </table> </p> <p>Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 4-10 m/s (800-2000 f/min) for extraction of crusher dusts generated 2 metres distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>Persons with impaired respiratory function, airway diseases and conditions such as emphysema or chronic bronchitis, may incur further disability if excessive concentrations of particulate are inhaled.</p> <p>If prior damage to the circulatory or nervous systems has occurred or if kidney damage has been sustained, proper screenings should be conducted on individuals who may be exposed to further risk if handling and use of the material result</p> <p>in excessive exposures.</p> <p><br /></p> <p>Inhalation hazard is increased at higher temperatures.</p> <p>Not normally a hazard due to non-volatile nature of product</p> <ul> <li>Usually handled as molten liquid which requires worker thermal protection and increases hazard of vapour exposure.\u00a0</li> <li><font color=\"#ff0000\"><b>CAUTION:</b></font><font color=\"#ff0000\">\u00a0Vapours may be irritating.</font></li> </ul>",
+                "AcuteEye": "<p>Although the material is not thought to be an irritant (as classified by EC Directives), direct contact with the eye may cause transient discomfort characterised by tearing or conjunctival redness (as with windburn). Slight abrasive damage may also result. The material may produce foreign body irritation in certain individuals.</p>",
+                "AcuteSkin": "<p>The material is not thought to produce adverse health effects or skin irritation following contact (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable gloves be used in an occupational setting.</p>",
+                "AcuteIngestion": "<p>The material has\u00a0<font color=\"#ff0000\"><b>NOT</b></font>\u00a0been classified by EC Directives or other classification systems as \"harmful by ingestion\". This is because of the lack of corroborating animal or human evidence. The material may still be damaging to the health of the individual, following ingestion, especially where pre-existing organ (e.g liver, kidney) damage is evident. Present definitions of harmful or toxic substances are generally based on doses producing mortality rather than those producing morbidity (disease, ill-health). Gastrointestinal tract discomfort may produce nausea and vomiting. In an occupational setting however, ingestion of insignificant quantities is not thought to be cause for concern.</p><p>High molecular weight material; on single acute exposure would be expected to pass through gastrointestinal tract with little change / absorption. Occasionally accumulation of the solid material within the alimentary tract may result in formation of a bezoar (concretion), producing discomfort.</p>",
+                "ChronicHealthEffects": "<p>Long-term exposure to the product is not thought to produce chronic effects adverse to health (as classified by EC Directives using animal models); nevertheless exposure by all routes should be minimised as a matter of course.</p> <p><br /></p> <p>Long term exposure to high dust concentrations may cause changes in lung function (i.e. pneumoconiosis) caused by particles less than 0.5 micron penetrating and remaining in the lung. A prime symptom is breathlessness. Lung shadows show on X-ray.</p>",
+                "Toxicity": [],
+                "Irritation": [],
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "NzCodes": [],
+                "Pictograms": [],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS SUBSTANCE. According to NOHSC Criteria, and ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS CHEMICAL. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~R37?",
+                "WhmisImages": [],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [],
+                "PrecautionaryCodesResponse": [],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [],
+                "SafetyCodes": [],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": false,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "open_window.gif",
+                        "Translation": "General Exhaust Ventilation adequate."
+                    }
+                ],
+                "FirstAidImages": [
+                    {
+                        "ImageName": "BED.gif",
+                        "Translation": "Fresh air. Rest, keep warm."
+                    },
+                    {
+                        "ImageName": "EYE_WASH.gif",
+                        "Translation": "Wash with running water. For discomfort seek medical advice."
+                    }
+                ],
+                "RiskHealthImages": [],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "fire_ext_foam.gif",
+                        "Translation": "Foam."
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Foam.</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSDMK.gif",
+                        "Translation": "Dust Mask"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_0_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 0,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Solid.gif",
+                        "Translation": "Solid."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Safety glasses with side shields.</span></li>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<p><span style=\"color:black\">The selection of suitable gloves does not only depend on the material, but also on further marks of quality which vary from manufacturer to manufacturer. Where the chemical is a preparation of several substances, the resistance of the glove material can not be calculated in advance and has therefore to be checked prior to the application.</span></p>\n<p><span style=\"color:black\">The exact break through time for substances has to be obtained from the manufacturer of the protective gloves and has to be observed when making a final choice.</span></p>\n<p><span style=\"color:black\">Personal hygiene is a key element of effective hand care. Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p>\n<p><span style=\"color:black\">Suitability and durability of glove type is dependent on usage. Important factors in the selection of gloves include:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">frequency and duration of contact,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">chemical resistance of glove material,</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">glove thickness and</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">dexterity</span></p>\n<p><span style=\"color:black\">Select gloves tested to a relevant standard (e.g. Europe EN 374, US F739, AS/NZS 2161.1 or national equivalent).</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When prolonged or frequently repeated contact may occur, a glove with a protection class of 5 or higher (breakthrough time greater than 240 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">When only brief contact is expected, a glove with a protection class of 3 or higher (breakthrough time greater than 60 minutes according to EN 374, AS/NZS 2161.10.1 or national equivalent) is recommended.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Some glove polymer types are less affected by movement and this should be taken into account when considering gloves for long-term use.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Contaminated gloves should be replaced.</span></p>\n<p><span style=\"color:black\">As defined in ASTM F-739-96 in any application,\u00a0 gloves are rated as:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Excellent when breakthrough time &gt; 480 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Good when breakthrough time &gt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Fair when breakthrough time &lt; 20 min</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Poor when glove material degrades</span></p>\n<p><span style=\"color:black\">For general applications, gloves with a thickness typically greater than 0.35 mm, are recommended.</span></p>\n<p><span style=\"color:black\">It should be emphasised that glove thickness is not necessarily a good predictor of glove resistance to a specific chemical, as the permeation efficiency of the glove will be dependent on the exact composition of the glove material. Therefore, glove selection should also be based on consideration of the task requirements and knowledge of breakthrough times.</span></p>\n<p><span style=\"color:black\">Glove thickness may also vary depending on the glove manufacturer, the glove type and the glove model. Therefore, the manufacturers\u2019 technical data should always be taken into account to ensure selection of the most appropriate glove for the task.</span></p>\n<p><span style=\"color:black\">Note: Depending on the activity being conducted, gloves of varying thickness may be required for specific tasks. For example:</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thinner gloves (down to 0.1 mm or less) may be required where a high degree of manual dexterity is needed. However, these gloves are only likely to give short duration protection and would normally be just for single use applications, then disposed of.</span></p>\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></span><span style=\"color:black\">Thicker gloves (up to 3 mm or more) may be required where there is a mechanical (as well as a chemical) risk i.e. where there is abrasion or puncture potential</span></p>\n<p><span style=\"color:black\">Gloves must only be worn on clean hands. After using gloves, hands should be washed and dried thoroughly. Application of a non-perfumed moisturiser is recommended.</span></p> <ul> <li>When handling hot materials wear heat resistant, elbow length gloves.\u00a0</li> <li>Rubber gloves are not recommended when handling hot objects, materials</li> </ul> <ul> <li>Protective gloves eg. Leather gloves or gloves with Leather facing\u00a0</li> </ul> <p>Experience indicates that the following polymers are suitable as glove materials for protection against undissolved, dry solids, where abrasive particles are not present.</p>\n<ul>\n<li>polychloroprene. </li>\n<li>nitrile rubber. </li>\n<li>butyl rubber. </li>\n<li>fluorocaoutchouc. </li>\n<li>polyvinyl chloride. </li>\n</ul>\n<p>Gloves should be examined for wear and/ or degradation constantly.</p>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>When handling hot or molten liquids, wear trousers or overalls outside of boots, to avoid spills entering boots.\u00a0</li> </ul> <ul> <li>Usually handled as molten liquid which requires worker thermal protection and increases hazard of vapour exposure.\u00a0</li> <li><font color=\"#ff0000\"><b>CAUTION:</b></font><font color=\"#ff0000\">\u00a0Vapours may be irritating.</font></li> </ul> <ul>\n<li>Overalls.\u00a0</li>\n<li>P.V.C apron.\u00a0</li>\n<li>Barrier cream.\u00a0</li>\n<li>Skin cleansing cream.\u00a0</li>\n<li>Eye wash unit.\u00a0</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Respirators may be necessary when engineering and administrative\r\ncontrols do not adequately prevent exposures. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">The decision to use respiratory protection should be based on\r\nprofessional judgment that takes into account toxicity information, exposure\r\nmeasurement data, and frequency and likelihood of the worker's exposure -\r\nensure users are not subject to high thermal loads which may result in heat\r\nstress or distress due to personal protective equipment (powered, positive\r\nflow, full face apparatus may be an option). </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Published occupational exposure limits, where they exist, will\r\nassist in determining the adequacy of the selected respiratory protection.\r\nThese may be government mandated or vendor recommended. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Certified respirators will be useful for protecting workers from\r\ninhalation of particulates when properly selected and fit tested as part of a\r\ncomplete respiratory protection program. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Where protection from nuisance\u00a0 levels of dusts are desired, use\r\ntype N95 (US) or type P1 (EN143) dust masks. Use respirators and components\r\ntested and approved under appropriate government standards such as NIOSH (US)\r\nor CEN (EU)\u00a0 </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Use approved positive flow mask if significant quantities of dust\r\nbecomes airborne. </span></p>\r\n\r\n\r\n\r\n<p><span style=\"color:black\">\u00b7<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n</span></span><span style=\"color:black\">Try to avoid creating dust conditions. </span></p>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "NotSpec",
+            "Name": "unsaturated polyester resin",
+            "OrderNumber": 2,
+            "NameForShowing": "unsaturated polyester resin",
+            "ProportionForShowing": "NotSpec",
+            "CwNumber": "35230",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0753",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0753",
+    "Version": "637648312849463986",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0753",
+    "Key": "01-0753_AUS_EN",
+    "FullKey": "datasets/gold/01-0753_AUS_EN",
+    "AiteLogKey": "01-0753",
+    "AiteS3Key": "xml/01-0753.json",
+    "Name": "Armatec C64 / C64FR Polyester Resin",
+    "Dgc": "3",
+    "PackingGroup": "III",
+    "Un": "1866",
+    "GhsEntities": [
+        {
+            "Category": "Flammable Liquid Category 3",
+            "CategoryCode": "Cat 3",
+            "Code": "H226",
+            "Phrase": "Flammable liquid and vapour."
+        },
+        {
+            "Category": "Acute Toxicity (Oral) Category 4",
+            "CategoryCode": "Cat 4",
+            "Code": "H302",
+            "Phrase": "Harmful if swallowed."
+        },
+        {
+            "Category": "Skin Corrosion/Irritation Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H315",
+            "Phrase": "Causes skin irritation."
+        },
+        {
+            "Category": "Eye Irritation Category 2A",
+            "CategoryCode": "Cat 2A",
+            "Code": "H319",
+            "Phrase": "Causes serious eye irritation."
+        },
+        {
+            "Category": "Acute Toxicity (Inhalation) Category 4",
+            "CategoryCode": "Cat 4",
+            "Code": "H332",
+            "Phrase": "Harmful if inhaled."
+        },
+        {
+            "Category": "Carcinogenicity Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H351",
+            "Phrase": "Suspected of causing cancer."
+        },
+        {
+            "Category": "Reproductive Toxicity Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H361d",
+            "Phrase": "Suspected of damaging the unborn child."
+        },
+        {
+            "Category": "Specific target organ toxicity - repeated exposure Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H373",
+            "Phrase": "May cause damage to organs&nbsp;through prolonged or repeated exposure."
+        },
+        {
+            "Code": "AUH019",
+            "Phrase": "May form explosive peroxides."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

@@ -6,7 +6,7 @@ from Homepage import get_credentials, ask_claude
 
 from PIL import Image
 
-st.set_page_config(page_title="PDF Viewer", page_icon=":file_folder:", layout="wide")
+st.set_page_config(page_title="PDF Uploader", page_icon=":file_folder:", layout="wide")
 # upload pdf button 
 col1, col2= st.columns([0.6,0.4])
 sidebar_image = Image.open("CW_logo.png")
@@ -26,6 +26,7 @@ sidebar_styles = """
     align: center;
 }
 """
+st.markdown(f"<style>{sidebar_styles}</style>", unsafe_allow_html=True)
 with col1:
     st.header("Upload PDF")
     pdf_file = st.file_uploader("Upload a PDF file", type=["pdf"])    

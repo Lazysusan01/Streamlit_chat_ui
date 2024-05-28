@@ -1,0 +1,63 @@
+{
+    "Ingredients": [
+        {
+            "Name": "no ingredeint information supplied",
+            "OrderNumber": 1,
+            "SanitizedName": "no ingredeint information supplied",
+            "NameForShowing": "no ingredeint information supplied",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0228",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0228",
+    "Version": "637648164295333863",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0228",
+    "Key": "01-0228_AUS_EN",
+    "FullKey": "datasets/gold/01-0228_AUS_EN",
+    "AiteLogKey": "01-0228",
+    "AiteS3Key": "xml/01-0228.json",
+    "Name": "Kop-Coat Thixotropic Glue Part B",
+    "GhsEntities": [
+        {
+            "Category": "Skin Corrosion/Irritation Category 2",
+            "CategoryCode": "Cat 2",
+            "Code": "H315",
+            "Phrase": "Causes skin irritation."
+        },
+        {
+            "Category": "Serious Eye Damage/Eye Irritation Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H318",
+            "Phrase": "Causes serious eye damage."
+        },
+        {
+            "Category": "Flammable Liquid Category 3",
+            "CategoryCode": "Cat 3",
+            "Code": "H226",
+            "Phrase": "Flammable liquid and vapour."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}

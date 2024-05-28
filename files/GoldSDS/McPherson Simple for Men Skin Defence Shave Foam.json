@@ -1,0 +1,1328 @@
+{
+    "Ingredients": [
+        {
+            "Proportion": "10-30",
+            "Name": "surfactants",
+            "OrderNumber": 1,
+            "SanitizedName": "surfactants",
+            "NameForShowing": "surfactants",
+            "ProportionForShowing": "10-30",
+            "NumericProportion": {
+                "MinValue": 10.0,
+                "MaxValue": 30.0,
+                "RawMinValue": 10.0,
+                "RawMaxValue": 30.0,
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "<10",
+            "Name": "lubricant",
+            "OrderNumber": 2,
+            "SanitizedName": "lubricant",
+            "NameForShowing": "lubricant",
+            "ProportionForShowing": "<10",
+            "NumericProportion": {
+                "MinValue": 9.99,
+                "MaxValue": 9.99,
+                "RawMinValue": 10.0,
+                "RawMaxValue": 10.0,
+                "MinValueSign": "<",
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "<5",
+            "Name": "foaming agents",
+            "OrderNumber": 3,
+            "SanitizedName": "foaming agents",
+            "NameForShowing": "foaming agents",
+            "ProportionForShowing": "<5",
+            "NumericProportion": {
+                "MinValue": 4.99,
+                "MaxValue": 4.99,
+                "RawMinValue": 5.0,
+                "RawMaxValue": 5.0,
+                "MinValueSign": "<",
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Dataset": {
+                "CwNumber": "10000",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a10000",
+                "Version": "637646972051005407",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "10000",
+                "Key": "10000_AUS_EN",
+                "FullKey": "datasets/gold/10000_AUS_EN",
+                "AiteLogKey": "10000",
+                "AiteS3Key": "xml/10000.json",
+                "ChemKey": {
+                    "cw": "CK-10000",
+                    "un": [],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-7732-18-5"
+                    ],
+                    "groupCode": [],
+                    "gc": [
+                        "CK-GC0"
+                    ]
+                },
+                "Name": "water",
+                "CasNumber": "7732-18-5",
+                "EcNumber": "231-791-2",
+                "GhsEntities": [],
+                "PhysicalState": "<p>Liquid</p>",
+                "RawWaterSolubility": "mixes",
+                "WaterSolubility": 0,
+                "BoilingPoint": 100.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniGloves": "1.BUTYL 2.NEOPRENE 3.VITON",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p>",
+                "MiniFireExp": "<p>Vapours/gas heavier than air.</p>",
+                "MiniAppearance": "<p>Liquid.</p> <p>Mixes with water.</p>",
+                "MiniFirstAidSkin": "Not Available",
+                "MiniAdvDoc": "<p>Treat symptomatically.</p>",
+                "MiniFireFighting": "<p>Water spray/ fog.\u00a0</p>",
+                "MiniSpillDisposal": "<p>Absorb with dry agent.</p> <p>Stop leak if safe to do so.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Flammability": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Reactivity": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "BodyContact": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": true,
+                    "RawValue": "None"
+                },
+                "InternationalHazardGraphics": [],
+                "RiskCodes": [],
+                "SpecificGravity": "1.000 @ 3.9 degC",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "Not Available"
+                ],
+                "Suppliers": [],
+                "ShippingName": "None",
+                "Use": "Suspending agent, solvent, diluent, carbonated beverages, hydration tile processing, paper coatings, moderator in nuclear reactors, debarking logs, filtration, industrial coolant, washing, sulfur mining,|hydrolysis, Portland cement, hydraulic systems, power source, steam generation, food industry, source of hydrogen by electrolysis and thermochemical decomposition.|Distilled water for use in secondary batteries in critical applications is required to meet AS 2668-1983",
+                "ChemicalFormula": [
+                    "H2O"
+                ],
+                "FirstAidIngestion": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>Treat symptomatically.</p>",
+                "FirstAidInhaled": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FirstAidEye": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FirstAidSkin": "<ul> <li>Generally not applicable.</li> </ul>",
+                "CsclReferenceNumber": [
+                    "Not Available"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<p>None known.</p>",
+                "FireExtinguishingMedia": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FireExplosionHazard": "<ul> <li>Generally not applicable.</li> </ul>",
+                "FireFighting": "<ul> <li>Generally not applicable.</li> </ul>",
+                "MajorSpills": "<p>Clean up all spills immediately.</p>",
+                "MinorSpills": "<p>Clean up all spills immediately.</p>",
+                "MolecularWeight": "18.02",
+                "Appearance": "Colourless, odourless, tasteless liquid. Polar liquid. Allotropic forms are ice and steam. Viscosity @ 20 deg. C. is 0.01002 poise.",
+                "VapourPressure": "2.33 @ 20 degC.",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "100",
+                "PhAs1PercentSolution": "7",
+                "EvaporationRate": "Slow",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "0",
+                "Odour": "Not Available",
+                "RelativeVapourDensity": ">1",
+                "PhAsSupplied": "7",
+                "Lel": "Not applicable",
+                "BoilingRange": "100",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "Not applicable",
+                "PhSolutionPercent": "7",
+                "Viscosity": "Not Available",
+                "InstabilityConditions": "<p>Product is considered stable and hazardous polymerisation will not occur.</p>",
+                "Synonyms": [
+                    "WATER"
+                ],
+                "HandlingProcedure": "Avoid prolonged skin contact.|1na",
+                "StorageRequirements": "<ul>\n<li><span style=\"color:#000000\">Store in original containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Keep containers securely sealed.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store in a cool, dry, well-ventilated area.\u00a0</span></li>\n<li><span style=\"color:#000000\">Store away from incompatible materials and foodstuff containers.\u00a0</span></li>\n<li><span style=\"color:#000000\">Protect containers against physical damage and check regularly for leaks.\u00a0</span></li>\n<li><span style=\"color:#000000\">Observe manufacturer's storage and handling recommendations contained within this SDS.</span></li>\n</ul>",
+                "SuitableContainer": "<ul> <li>Polyethylene or polypropylene container.\u00a0</li> <li>Packing as recommended by manufacturer.\u00a0</li> <li>Check all containers are clearly labelled and free from leaks.\u00a0</li> </ul>",
+                "StorageIncompatability": "<p>None known</p>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [],
+                "TransportIncompatibilities": "<p>No restrictions.\u00a0</p>",
+                "TransportPrecautions": "#Prec_trans0_1",
+                "AirPersistence": "LOW",
+                "WaterPersistence": "LOW",
+                "Disposal": "<ul> <li>Generally not applicable.</li> </ul>",
+                "Ecotox": [],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "1"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H318; H226; H314; H301; H411",
+                        "SignalWord": "GHS05; GHS07; Dgr; GHS02; Wng; GHS06",
+                        "HazardState": "H318; H226; H314; H301; H411"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {},
+                "Teel": [],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>No exposure limits set by NOHSC or ACGIH</p>",
+                "EngineeringControls": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteInhaled": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteEye": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteSkin": "<ul> <li>Generally not applicable.</li> </ul>",
+                "AcuteIngestion": "<ul> <li>Generally not applicable.</li> </ul>",
+                "ChronicHealthEffects": "Prolonged skin contact may cause skin reactions and susceptibility to skin infections.|55nonchron",
+                "Toxicity": [
+                    {
+                        "Type": "Oral(Rat) LD50;",
+                        "Value": ">90000",
+                        "Unit": "mg/kg",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "30/01/2003",
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "NzCodes": [],
+                "Pictograms": [],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS SUBSTANCE. According to NOHSC Criteria, and ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "DANGEROUS GOODS. NON-HAZARDOUS CHEMICAL. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "WhmisImages": [],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [],
+                "PrecautionaryCodesResponse": [],
+                "PrecautionaryCodesStorage": [],
+                "PrecautionaryCodesDisposal": [],
+                "DangerIndicators": [],
+                "SafetyCodes": [],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": false,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [],
+                "FirstAidImages": [],
+                "RiskHealthImages": [],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [],
+                "HagFireFighting": [
+                    "<p>Water spray/ fog.\u00a0</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGLS.gif",
+                        "Translation": "Glasses"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    }
+                ],
+                "ChemicalName": "WATER",
+                "Nfpa": {
+                    "Toxicity": 0,
+                    "Flammability": 0,
+                    "Reactivity": 0,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_0_0_0_0.png",
+                "RiskAssessmentHazardRating": {
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 2,
+                    "Toxic": 2,
+                    "Oxidizer": 2,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "Liquid.gif",
+                        "Translation": "Liquid."
+                    },
+                    {
+                        "ImageName": "mixes_with_water.gif",
+                        "Translation": "Mixes with water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "PpeRespirator": [
+                    "<ul> <li>Generally not applicable.</li> </ul>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": false,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": [
+                    {
+                        "IndexType": "BUTYL",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NEOPRENE",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "VITON",
+                        "Rat": "A"
+                    },
+                    {
+                        "IndexType": "NATURAL RUBBER",
+                        "Rat": "C"
+                    },
+                    {
+                        "IndexType": "PVA",
+                        "Rat": "C"
+                    }
+                ]
+            },
+            "Proportion": ">60",
+            "Name": "water",
+            "OrderNumber": 4,
+            "NameForShowing": "water",
+            "ProportionForShowing": ">60",
+            "CwNumber": "10000",
+            "NumericProportion": {
+                "MinValue": 60.01,
+                "MaxValue": 60.01,
+                "RawMinValue": 60.0,
+                "RawMaxValue": 60.0,
+                "MinValueSign": ">",
+                "MaxValueSign": ">",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Dataset": {
+                "CwNumber": "1075-1",
+                "IsFullDataset": true,
+                "Vendor": "-1",
+                "DocumentNumber": "a1075-1",
+                "Version": "637648056155083443",
+                "DatasetType": 3,
+                "Country": {
+                    "Name": "Australia",
+                    "Code": "AUS",
+                    "Region": 2
+                },
+                "Language": {
+                    "Name": "English",
+                    "Code": "EN"
+                },
+                "CredoKey": "1075-1",
+                "Key": "1075-1_AUS_EN",
+                "FullKey": "datasets/gold/1075-1_AUS_EN",
+                "AiteLogKey": "1075-1",
+                "AiteS3Key": "xml/1075-1.json",
+                "ChemKey": {
+                    "cw": "CK-1075-1",
+                    "un": [
+                        "CK-UN1075"
+                    ],
+                    "na": [
+                        "CK-NA0000"
+                    ],
+                    "dgc": [
+                        "CK-DGC2.1"
+                    ],
+                    "dgs": [],
+                    "dgs2": [],
+                    "cas": [
+                        "CK-68476-85-7.",
+                        "CK-68476-85-7",
+                        "CK-68476-86-8.",
+                        "CK-68476-86-8"
+                    ],
+                    "groupCode": [
+                        "CK-G9153",
+                        "CK-G9109",
+                        "CK-G0110",
+                        "CK-G8370",
+                        "CK-G15522",
+                        "CK-G14416",
+                        "CK-G00001.2",
+                        "CK-G1072",
+                        "CK-G00001.3",
+                        "CK-G0100",
+                        "CK-G9107",
+                        "CK-G9154",
+                        "CK-G9216",
+                        "CK-G0103",
+                        "CK-G2760",
+                        "CK-G0102",
+                        "CK-G15035",
+                        "CK-G16270"
+                    ],
+                    "gc": [
+                        "CK-GC518"
+                    ]
+                },
+                "Name": "hydrocarbon propellant",
+                "CasNumber": "68476-85-7.",
+                "Dgc": "2.1",
+                "Un": "1075",
+                "GhsEntities": [
+                    {
+                        "Category": "Flammable Gas Category 1A",
+                        "CategoryCode": "Cat 1A",
+                        "Code": "H220",
+                        "Phrase": "Extremely flammable gas."
+                    },
+                    {
+                        "Category": "Gas under Pressure (Liquefied gas)",
+                        "Code": "H280",
+                        "Phrase": "Contains gas under pressure; may explode if heated."
+                    },
+                    {
+                        "Category": "Specific target organ toxicity - single exposure Category 3 (narcotic effects)",
+                        "CategoryCode": "Cat 3",
+                        "Code": "H336",
+                        "Phrase": "May cause drowsiness or dizziness."
+                    },
+                    {
+                        "Code": "AUH044",
+                        "Phrase": "Risk of explosion if heated under confinement."
+                    }
+                ],
+                "Flammability": "<p>HIGHLY FLAMMABLE.</p>",
+                "FlashPoint": -81.0,
+                "PhysicalState": "Liquified Gas",
+                "RawWaterSolubility": "Immiscible",
+                "WaterSolubility": 2,
+                "BoilingPoint": -20.0,
+                "GasGroup": "Not Available",
+                "CnNumber": [],
+                "MiniResp": "Type AX Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 & 149:2001, ANSI Z88 or national equivalent)",
+                "MiniStorTrans": "<p>Store in cool, dry, protected area.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep out of reach of children.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Keep container in a well ventilated place.&nbsp;</font></div> </font> </body></html>",
+                "MiniFireExp": "<p>HIGHLY FLAMMABLE.</p><p>Vapours/gas heavier than air.</p> <p>Toxic smoke/fumes in a fire.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Risk of explosion if heated under confinement.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;</font></div> </font> </body></html>",
+                "MiniAppearance": "<p>Gas.</p> <p><b>Does not</b>\u00a0mix with water.</p> <p>Floats on water.</p>",
+                "MiniFlammability": "R03<html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Extremely flammable.&nbsp;</font></div> </font> </body></html> <p>Combustible.</p>",
+                "MiniFirstAidSwallow": "<p><b>Do NOT</b>\u00a0give milk or oil.</p> <p><b>Do NOT</b>\u00a0give alcohol.</p>",
+                "MiniFirstAidSkin": "<p><span style=\"color:#000000\">Wash with soap<br /></span></p> <p>For cold burns, immerse in cold water. Wash with water, apply dressing.</p>\n<p>MEDICAL ATTENTION.</p>",
+                "MiniAdvDoc": "<p>Evaluate for respiratory distress.</p> <p>Consider lavage with cuffed tube.</p> <p>NO adrenalin.</p>",
+                "MiniFireFighting": "<p>Keep containers cool.</p> <p>Water spray/ fog.\u00a0</p>",
+                "MiniSpillDisposal": "<p>Eliminate ignition sources.</p> <p>Consider evacuation.</p> <p>Prevent from entering drains.</p> <p>Contain spillage by any means.</p> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Use only in well ventilated areas.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Take precautionary measures against static discharges.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">Dispose of this material and its container at hazardous or special waste collection point.&nbsp;</font></div> </font> </body></html> <html><head><title></title> </head> <body bgcolor=\"#ffffff\" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5> <font size=2 color=\"#000000\" face=\"Arial\"> <div><font color=\"#000000\">This material and its container must be disposed of in a safe way.&nbsp;</font></div> </font> </body></html>",
+                "MiniGlass": "<p>Consider full face-shield.</p>",
+                "HazardBars": {
+                    "Toxicity": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Flammability": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    },
+                    "Reactivity": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    },
+                    "BodyContact": {
+                        "Number": 1,
+                        "ImageName": "Hazard Alert Code/CW_HAC_1.png"
+                    },
+                    "Chronic": {
+                        "Number": 0,
+                        "ImageName": "Hazard Alert Code/CW_HAC_0.png"
+                    },
+                    "AlertCode": {
+                        "Number": 4,
+                        "ImageName": "Hazard Alert Code/CW_HAC_4.png"
+                    }
+                },
+                "Hazchem": {
+                    "IsEmpty": false,
+                    "RawValue": "2YE",
+                    "Value": "2YE"
+                },
+                "InternationalHazardGraphics": [
+                    "EXPLOS.gif"
+                ],
+                "RiskCodes": [
+                    {
+                        "Code": "R3",
+                        "Phrase": "    Extreme risk of explosion by shock, fire, friction or other sources of ignition.&nbsp;  "
+                    },
+                    {
+                        "Code": "R12",
+                        "Phrase": "    Extremely flammable.&nbsp;  "
+                    },
+                    {
+                        "Code": "R20/22?",
+                        "Phrase": "\r\n\r\n\r\n\r\nInhalation and/or ingestion may produce health damage*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R33?",
+                        "Phrase": "\r\n\r\n\r\n\r\nCumulative effects may result following exposure*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R37?",
+                        "Phrase": "\r\n\r\n\r\n\r\nMay produce discomfort of the respiratory system*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R44",
+                        "Phrase": "    Risk of explosion if heated under confinement.&nbsp;  "
+                    },
+                    {
+                        "Code": "R66?",
+                        "Phrase": "\r\n\r\n\r\n\r\nRepeated exposure potentially causes skin dryness and cracking*.&nbsp;\r\n\r\n"
+                    },
+                    {
+                        "Code": "R67",
+                        "Phrase": "    Vapours may cause drowsiness and dizziness.&nbsp;  "
+                    }
+                ],
+                "SpecificGravity": "0.6 as liquid",
+                "IssueDate": "2017-06-27T00:00:00",
+                "ClpIndexNumber": [
+                    "649-202-00-6",
+                    "649-203-00-1"
+                ],
+                "Suppliers": [],
+                "ShippingName": "PETROLEUM GASES, LIQUEFIED",
+                "Use": "Used as an aerosol propellant.|<p>The use of a quantity of material in an unventilated or confined space may result in increased exposure and an irritating atmosphere developing. Before starting consider control of exposure by mechanical ventilation.</p>",
+                "ChemicalFormula": [
+                    "Mixture: C3H6 ; C3H8; C4H8; C4H10",
+                    "C4H10"
+                ],
+                "FirstAidIngestion": "<ul> <li>Avoid giving milk or oils.\u00a0</li> </ul> <ul> <li>Avoid giving alcohol.\u00a0</li> </ul> <ul> <li>Not considered a normal route of entry.</li> </ul> <ul> <li>If spontaneous vomiting appears imminent or occurs, hold patient's head down, lower than their hips to help avoid possible aspiration of vomitus.\u00a0</li> </ul>",
+                "FirstAidAdviceToDoctor": "<p>For acute or short term repeated exposures to petroleum distillates or related hydrocarbons:\u00a0</p> <ul> <li>Primary threat to life, from pure petroleum distillate ingestion and/or inhalation, is respiratory failure.\u00a0</li> <li>Patients should be quickly evaluated for signs of respiratory distress (e.g. cyanosis, tachypnoea, intercostal retraction, obtundation) and given oxygen. Patients with inadequate tidal volumes or poor arterial blood gases (pO2 50 mm Hg) should be intubated.\u00a0</li> <li>Arrhythmias complicate some hydrocarbon ingestion and/or inhalation and electrocardiographic evidence of myocardial injury has been reported; intravenous lines and cardiac monitors should be established in obviously symptomatic patients. The lungs excrete inhaled solvents, so that hyperventilation improves clearance.\u00a0</li> <li>A chest x-ray should be taken immediately after stabilisation of breathing and circulation to document aspiration and detect the presence of pneumothorax.\u00a0</li> <li>Epinephrine (adrenalin) is not recommended for treatment of bronchospasm because of potential myocardial sensitisation to catecholamines. Inhaled cardioselective bronchodilators (e.g. Alupent, Salbutamol) are the preferred agents, with aminophylline a second choice.\u00a0</li> <li>Lavage is indicated in patients who require decontamination; ensure use of cuffed endotracheal tube in adult patients. [Ellenhorn and Barceloux: Medical Toxicology]\u00a0</li> </ul> <p>For frost-bite caused by liquefied petroleum gas:</p> <ul> <li>If part has not thawed, place in warm water bath (41-46 C) for 15-20 minutes, until the skin turns pink or red.\u00a0</li> <li>Analgesia may be necessary while thawing.\u00a0</li> <li>If there has been a massive exposure, the general body temperature must be depressed, and the patient must be immediately rewarmed by whole-body immersion, in a bath at the above temperature.\u00a0</li> <li>Shock may occur during rewarming.\u00a0</li> <li>Administer tetanus toxoid booster after hospitalization.\u00a0</li> <li>Prophylactic antibiotics may be useful.\u00a0</li> <li>The patient may require anticoagulants and oxygen.\u00a0</li> </ul> <p>[Shell Australia 22/12/87]</p> <p><span style=\"color:#000000\">For gas exposures:</span></p>\n<p><span style=\"color:#000000\">--------------------------------------------------------------</span></p>\n<p><span style=\"color:#000000\">BASIC TREATMENT</span></p>\n<p><span style=\"color:#000000\">--------------------------------------------------------------</span></p>\n<ul>\n<li><span style=\"color:#000000\">Establish a patent airway with suction where necessary.\u00a0</span></li>\n<li><span style=\"color:#000000\">Watch for signs of respiratory insufficiency and assist ventilation as necessary.\u00a0</span></li>\n<li><span style=\"color:#000000\">Administer oxygen by non-rebreather mask at 10 to 15 l/min.\u00a0</span></li>\n<li><span style=\"color:#000000\">Monitor and treat, where necessary, for pulmonary oedema .\u00a0</span></li>\n<li><span style=\"color:#000000\">Monitor and treat, where necessary, for shock.\u00a0</span></li>\n<li><span style=\"color:#000000\">Anticipate seizures.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">--------------------------------------------------------------</span></p>\n<p><span style=\"color:#000000\">ADVANCED TREATMENT</span></p>\n<p><span style=\"color:#000000\">--------------------------------------------------------------</span></p>\n<ul>\n<li><span style=\"color:#000000\">Consider orotracheal or nasotracheal intubation for airway control in unconscious patient or where respiratory arrest has occurred.\u00a0</span></li>\n<li><span style=\"color:#000000\">Positive-pressure ventilation using a bag-valve mask might be of use.\u00a0</span></li>\n<li><span style=\"color:#000000\">Monitor and treat, where necessary, for arrhythmias.\u00a0</span></li>\n<li><span style=\"color:#000000\">Start an IV D5W TKO. If signs of hypovolaemia are present use lactated Ringers solution. \u00a0Fluid overload might create complications.\u00a0</span></li>\n<li><span style=\"color:#000000\">Drug therapy should be considered for pulmonary oedema.\u00a0</span></li>\n<li><span style=\"color:#000000\">Hypotension with signs of hypovolaemia requires the cautious administration of fluids. \u00a0Fluid overload might create complications.\u00a0</span></li>\n<li><span style=\"color:#000000\">Treat seizures with diazepam.\u00a0</span></li>\n<li><span style=\"color:#000000\">Proparacaine hydrochloride should be used to assist eye irrigation.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">BRONSTEIN, A.C. and CURRANCE, P.L.</span></p>\n<p><span style=\"color:#000000\">EMERGENCY CARE FOR HAZARDOUS MATERIALS EXPOSURE: \u00a02nd Ed. 1994</span></p>",
+                "FirstAidInhaled": "<ul> <li>Following exposure to gas, remove the patient from the gas source or contaminated area.\u00a0</li> <li>NOTE: Personal Protective Equipment (PPE), including positive pressure self-contained breathing apparatus may be required to assure the safety of the rescuer.\u00a0</li> <li>Prostheses such as false teeth, which may block the airway, should be removed, where possible, prior to initiating first aid procedures.\u00a0</li> <li>If the patient is not breathing spontaneously, administer rescue breathing.\u00a0</li> <li>If the patient does not have a pulse, administer CPR.\u00a0</li> <li>If medical oxygen and appropriately trained personnel are available, administer 100% oxygen.\u00a0</li> <li>Summon an emergency ambulance. If an ambulance is not available, contact a physician, hospital, or Poison Control Centre for further instruction.\u00a0</li> <li>Keep the patient warm, comfortable and at rest while awaiting medical care.\u00a0</li> <li><font color=\"#ff0000\"><b>MONITOR THE BREATHING AND PULSE, CONTINUOUSLY.</b></font></li> <li>\u00a0 Administer rescue breathing (preferably with a demand-valve resuscitator, bag-valve mask-device, or pocket mask as trained) or CPR if necessary.\u00a0</li> </ul>",
+                "FirstAidEye": "<ul> <li>If product comes in contact with eyes remove the patient from gas source or contaminated area.\u00a0</li> <li>Take the patient to the nearest eye wash, shower or other source of clean water.\u00a0</li> <li>Open the eyelid(s) wide to allow the material to evaporate.\u00a0</li> <li>Gently rinse the affected eye(s) with clean, cool water for at least 15 minutes. \u00a0Have the patient lie or sit down and tilt the head back. \u00a0Hold the eyelid(s) open and pour water slowly over the eyeball(s) at the inner corners, letting the water run out of the outer corners.\u00a0</li> <li>The patient may be in great pain and wish to keep the eyes closed. \u00a0It is important that the material is rinsed from the eyes to prevent further damage.\u00a0</li> <li>Ensure that the patient looks up, and side to side as the eye is rinsed in order to better reach all parts of the eye(s)\u00a0</li> <li>Transport to hospital or doctor.\u00a0</li> <li>Even when no pain persists and vision is good, a doctor should examine the eye as delayed damage may occur.\u00a0</li> <li>If the patient cannot tolerate light, protect the eyes with a clean, loosely tied bandage.\u00a0</li> <li>Ensure verbal communication and physical contact with the patient.\u00a0</li> </ul> <p><b>DO NOT</b>\u00a0allow the patient to rub the eyes</p> <p><b>DO NOT\u00a0</b>allow the patient to tightly shut the eyes</p> <p><b>DO NOT</b>\u00a0introduce oil or ointment into the eye(s) without medical advice</p> <p><b>DO NOT</b>\u00a0use hot or tepid water.</p>",
+                "FirstAidSkin": "<p>If skin or hair contact occurs:</p> <ul> <li>Flush skin and hair with running water (and soap if available).\u00a0</li> <li>Seek medical attention in event of irritation.\u00a0</li> </ul> <p>In case of cold burns (frost-bite):</p> <ul> <li>Move casualty into warmth before thawing the affected part; if feet are affected carry if possible\u00a0</li> <li>Bathe the affected area immediately in luke-warm water (not more than 35 deg C) for 10 to 15 minutes, immersing if possible and without rubbing\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0apply hot water or radiant heat.\u00a0</font></li> <li>Apply a clean, dry, light dressing of \"fluffed-up\" dry gauze bandage\u00a0</li> <li>If a limb is involved, raise and support this to reduce swelling\u00a0</li> <li>If an adult is involved and where intense pain occurs provide pain killers such as paracetomol\u00a0</li> <li>Transport to hospital, or doctor\u00a0</li> <li>Subsequent blackening of the exposed tissue indicates potential of necrosis, which may require amputation.\u00a0</li> </ul>",
+                "CsclReferenceNumber": [
+                    "9-1697"
+                ],
+                "IshlReferenceNumber": [
+                    "Not Available"
+                ],
+                "IsInPrtrList": false,
+                "FireIncompatibility": "<ul> <li>Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may result\u00a0</li> </ul>",
+                "FireExtinguishingMedia": "<p><font color=\"#ff0000\"><b>DO NOT EXTINGUISH BURNING GAS UNLESS LEAK CAN BE STOPPED SAFELY:</b></font></p> <p><font color=\"#ff0000\"><b>OTHERWISE: LEAVE GAS TO BURN.</b></font></p> <p><b>FOR SMALL FIRE:</b></p> <ul> <li>Dry chemical, CO2 or water spray to extinguish gas (only if absolutely necessary and safe to do so).\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0use water jets.\u00a0</font></li> </ul> <p><b>FOR LARGE FIRE:</b></p> <ul> <li>Cool cylinder by direct flooding quantities of water onto upper surface until well after fire is out.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0direct water at source of leak or venting safety devices as icing may occur.</font></li> </ul>",
+                "FireExplosionHazard": "Liquid vapourizes rapidly on release and spreads steadily along the ground.|43gasflam<p>Combustion products include:</p> <p>carbon monoxide (CO)</p> <p>carbon dioxide (CO2)</p> <p><span style=\"color:#000000\">other pyrolysis products typical of burning organic material.</span></p> <p><b>Contains low boiling substance:\u00a0</b>Closed containers may rupture due to pressure buildup under fire conditions.</p>",
+                "FireFighting": "<p>FOR FIRES INVOLVING MANY GAS CYLINDERS:\u00a0</p> <ul> <li>To stop the flow of gas, specifically trained personnel may inert the atmosphere to reduce oxygen levels thus allowing the capping of leaking container(s).\u00a0</li> <li>Reduce the rate of flow and inject an inert gas, if possible, before completely stopping the flow to prevent flashback.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT extinguish the fire until the supply is shut off</b></font>\u00a0otherwise an explosive re-ignition may occur.\u00a0</li> <li>If the fire is extinguished and the flow of gas continues, used increased ventilation to prevent build-up, of explosive atmosphere.\u00a0</li> <li>Use non-sparking tools to close container valves.\u00a0</li> <li>Be CAUTIOUS of a Boiling Liquid Evaporating Vapour Explosion,\u00a0<i>BLEVE,</i>\u00a0if fire is impinging on surrounding containers.\u00a0</li> <li>Direct 2500 litre/min (500 gpm) water stream onto containers above liquid level with the assistance remote monitors.\u00a0</li> </ul> <p>--------------------------------------------------------------</p> <p>GENERAL</p> <p>--------------------------------------------------------------</p> <ul> <li>Alert Fire Brigade and tell them location and nature of hazard.\u00a0</li> <li>May be violently or explosively reactive.\u00a0</li> <li>Wear breathing apparatus plus protective gloves.\u00a0</li> <li>Consider evacuation\u00a0</li> <li>Fight fire from a safe distance, with adequate cover.\u00a0</li> <li>If safe, switch off electrical equipment until vapour fire hazard removed.\u00a0</li> <li>Use water delivered as a fine spray to control fire and cool adjacent area.\u00a0</li> <li><font color=\"#ff0000\"><b>DO NOT\u00a0</b></font><font color=\"#ff0000\">approach cylinders suspected to be hot.\u00a0</font></li> <li>Cool fire-exposed cylinders with water spray from a protected location.\u00a0</li> <li>If safe to do so, remove containers from path of fire.\u00a0</li> </ul> <p>--------------------------------------------------------------</p> <p>FIRE FIGHTING PROCEDURES:</p> <p>--------------------------------------------------------------</p> <ul> <li>The only safe way to extinguish a flammable gas fire is to stop the flow of gas.\u00a0</li> <li>If the flow cannot be stopped, allow the entire contents of the cylinder to burn while cooling the cylinder and surroundings with water from a suitable distance.\u00a0</li> <li>Extinguishing the fire without stopping the gas flow may permit the formation of ignitable or explosive mixtures with air. These mixtures may propagate to a source of ignition.\u00a0</li> </ul> <p>--------------------------------------------------------------</p> <p>SPECIAL HAZARDS</p> <p>--------------------------------------------------------------</p> <ul> <li>Excessive pressures may develop in a gas cylinder exposed in a fire; this may result in explosion.\u00a0</li> <li>Cylinders with pressure relief devices may release their contents as a result of fire and the released gas may constitute a further source of hazard for the fire-fighter.\u00a0</li> <li>Cylinders without pressure-relief valves have no provision for controlled release and are therefore more likely to explode if exposed to fire.\u00a0</li> </ul> <p>--------------------------------------------------------------</p> <p>FIRE FIGHTING REQUIREMENTS:</p> <p>--------------------------------------------------------------</p> <p><br /></p> <p>The need for proximity, entry and flash-over protection and special protective clothing should be determined for each incident, by a competent fire-fighting safety professional.</p>",
+                "MajorSpills": "WARNING: The gas does not have any odour warning properties and presents a hazard as an asphyxiant.|67gasflam<ul> <li>Remove leaking cylinders to a safe place.\u00a0</li> <li>Fit vent pipes. Release pressure under safe, controlled conditions\u00a0</li> <li>Burn issuing gas at vent pipes.\u00a0</li> </ul> <ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0exert excessive pressure on valve;\u00a0</font><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0attempt to operate damaged valve.</font></li> </ul>",
+                "MinorSpills": "WARNING: The gas does not have any odour warning properties and presents a hazard as an asphyxiant.|66gasflam",
+                "MolecularWeight": "Not available",
+                "Appearance": "Colourless odourless liquefied gas, vapourises rapidly on release to air. Material is only liquid while under pressure: becoming a gas on release. Vapourisation absorbs large amounts of heat and severe chilling with cold burns may occur on direct contact with eyes / skin. Specially deodourised for aerosol use, the gas has no warning properties of exposure and being a simple asphyxiant unconsciousness, coma and even death can rapidly follow in an oxygen deficient atmosphere. Gas air mixes are highly flammable / explosive.",
+                "VapourPressure": "607.95 (liquid)",
+                "Taste": "Not Available",
+                "SurfaceTension": "Not Available",
+                "VolatileComponent": "100",
+                "EvaporationRate": "Fast",
+                "OdourThreshold": "Not Available",
+                "MeltingRange": "-188",
+                "Odour": "Not Available",
+                "DecompositionTemperature": "Not Available",
+                "AutoIgnitionTemperature": "431",
+                "RelativeVapourDensity": "approx. 1.8",
+                "FlashRange": "-81",
+                "Lel": "1.5",
+                "BoilingRange": "-20 approx",
+                "Oxidising": "Not Available",
+                "Explosive": "Not Available",
+                "TotalVoc": "Not Available",
+                "Uel": "10.0",
+                "InstabilityConditions": "<ul>\n<li><span style=\"color:#000000\">Unstable in the presence of incompatible materials.</span></li>\n<li><span style=\"color:#000000\">Product is considered stable.</span></li>\n<li><span style=\"color:#000000\">Hazardous polymerisation will not occur.</span></li>\n</ul>",
+                "Synonyms": [
+                    "PETROLEUM GASES, LIQUEFIED",
+                    "Petroleum gases, liquefied, sweetened"
+                ],
+                "Adr": {
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "PETROLEUM GASES, LIQUEFIED"
+                },
+                "Adn": {
+                    "SpecialProvision": "274; 392; 583; 639; 662; 674",
+                    "ClassificationCode": "2F",
+                    "LimitedQuantity": "0",
+                    "EquipmentReg": "PP, EX, A",
+                    "FirconNumber": "1",
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "PETROLEUM GASES, LIQUEFIED"
+                },
+                "Adg": {
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "PETROLEUM GASES, LIQUEFIED"
+                },
+                "Dot": {
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "ShippingName": "Petroleum gases, liquefied or Liquefied petroleum gas"
+                },
+                "Iata": {
+                    "ErgCode": "10L",
+                    "SpecialProvisions": "A1",
+                    "CargoPi": "200",
+                    "CargoMaxQuantity": "150 kg",
+                    "PassCargoPi": "Forbidden",
+                    "PassCargoMaxQuantity": "Forbidden",
+                    "PcLqTyPi": "Forbidden",
+                    "PcLqTyMaxQuantity": "Forbidden",
+                    "HazardLabel": "Flammable Gas",
+                    "IngredientDgcs": [],
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "Petroleum gases, liquefied"
+                },
+                "Imdg": {
+                    "Ems": "F-D , S-U",
+                    "SpecialProvisions": "392",
+                    "Lq": "0",
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "PETROLEUM GASES, LIQUEFIED"
+                },
+                "MexicoTransportData": {
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "PETROLEUM GASES, LIQUEFIED"
+                },
+                "UnTransportData": {
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "PETROLEUM GASES, LIQUEFIED"
+                },
+                "Tdg": {
+                    "Dgc": "2.1",
+                    "Subrisk": "Not Applicable, Not Applicable",
+                    "Un": "1075",
+                    "ShippingName": "LIQUEFIED PETROLEUM GASES; or PETROLEUM GASES, LIQUEFIED"
+                },
+                "HandlingProcedure": "<ul> <li>Containers, even those that have been emptied, may contain explosive vapours.\u00a0</li> <li>Do NOT cut, drill, grind, weld or perform similar operations on or near containers.\u00a0</li> </ul> <ul> <li>Electrostatic discharge may be generated during pumping - this may result in fire.\u00a0</li> <li>Ensure electrical continuity by bonding and grounding (earthing) all equipment.\u00a0</li> <li>Restrict line velocity during pumping in order to avoid generation of electrostatic discharge (&lt;=1 m/sec until fill pipe submerged to twice its diameter, then &lt;= 7 m/sec).\u00a0</li> <li>Avoid splash filling.\u00a0</li> <li>Do NOT use compressed air for filling discharging or handling operations.\u00a0</li> </ul> <p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Consider use in closed pressurised systems, fitted with\r\ntemperature, pressure and safety relief valves which are vented for safe\r\ndispersal. Use only properly specified equipment which is suitable for this\r\nproduct, its supply pressure and temperature \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>The tubing network design connecting gas cylinders to the delivery\r\nsystem should include appropriate pressure indicators and vacuum or suction\r\nlines. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Fully-welded types of pressure gauges, where the bourdon tube\r\nsensing element is welded to the gauge body, are recommended. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Before connecting gas cylinders, ensure manifold is mechanically\r\nsecure and does not containing another gas.\u00a0 Before disconnecting gas cylinder,\r\nisolate supply line segment proximal to cylinder, remove trapped gas in supply\r\nline with aid of vacuum pump \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>When connecting or replacing cylinders take care to avoid airborne\r\nparticulates violently ejected when system pressurises. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Consider the use of doubly-contained piping; diaphragm or bellows\r\nsealed, soft seat valves; backflow prevention devices; flash arrestors; and\r\nflow monitoring or limiting devices. Gas cabinets, with appropriate exhaust\r\ntreatment, are recommended, as is automatic monitoring of the secondary\r\nenclosures and work areas for release. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Use a pressure reducing regulator when connecting cylinder to\r\nlower pressure (&lt;100 psig) piping or systems \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Use a check valve or trap in the discharge line to prevent\r\nhazardous back-flow into the cylinder \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Check regularly for spills or leaks.\u00a0 Keep valves tightly closed\r\nbut do not apply extra leverage to hand wheels or cylinder keys. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Open valve slowly. If valve is resistant to opening then contact\r\nyour supervisor \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Valve protection caps must remain in place must remain in place\r\nunless container is secured with valve outlet piped to use point. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Never insert a pointed object (e.g hooks) into cylinder cap\r\nopenings as a means to open cap or move cylinder. Such action can inadvertently\r\nturn the valve and gas a gas leak. Use an adjustable strap instead of wrench to\r\nfree an over-tight or rusted cap. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>A bubble of gas may buildup behind the outlet dust cap during\r\ntransportation, after prolonged storage, due to defective cylinder valve or if\r\na dust cap is inserted without adequate evacuation of gas from the line. When\r\nloosening dust cap, preferably stand cylinder in a suitable enclosure and take\r\ncap off slowly. Never face the dust cap directly when removing it; point cap\r\naway from any personnel or any object that may pose a hazard. under negative\r\npressure (relative to atmospheric gas) \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Suck back of water into the container must be prevented. Do not\r\nallow backfeed into the container. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Do NOT drag, slide or roll cylinders - use a suitable hand truck\r\nfor cylinder movement \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:red'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Test for leakage with brush and detergent -</span><b><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";color:red'>\r\nNEVER</span></b><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:red'> use a naked flame.\u00a0 \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:red'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:red'>Do NOT heat cylinder by any means to increase the discharge rate of\r\nproduct from cylinder. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Leaking gland nuts may be tightened if necessary. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>If a cylinder valve will not close completely, remove the cylinder\r\nto a well ventilated location (e.g. outside) and, when empty, tag as FAULTY and\r\nreturn to supplier. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Obtain a work permit before attempting any repairs.\u00a0 \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:red'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:red'>DO NOT attempt repair work on lines, vessels under pressure. \u00a0\u00a0\u00a0\u00a0</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\r\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;\r\ntext-autospace:none'><span style='font-size:12.0pt;font-family:Symbol;\r\ncolor:black'>\u00b7<span style='font:7.0pt \"Times New Roman\"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span style='font-size:10.0pt;font-family:\"Arial Unicode MS\",\"sans-serif\";\r\ncolor:black'>Atmospheres must be tested and O.K. before work resumes after\r\nleakage. \u00a0\u00a0\u00a0\u00a0\u00a0</span></p> <ul> <li>Avoid generation of static electricity. Earth all lines and equipment.\u00a0</li> </ul> <ul> <li><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0transfer gas from one cylinder to another.</font></li> </ul>",
+                "StorageRequirements": "<ul> <li>Store in an upright position.\u00a0</li> </ul> <ul> <li>Outside or detached storage is preferred.\u00a0</li> </ul> <ul> <li>Store below 38 deg. C.\u00a0</li> </ul> <ul> <li>Cylinders should be stored in a purpose-built compound with good ventilation, preferably in the open.\u00a0</li> <li>Such compounds should be sited and built in accordance with statutory requirements.\u00a0</li> <li>The storage compound should be kept clear and access restricted to authorised personnel only.\u00a0</li> <li>Cylinders stored in the open should be protected against rust and extremes of weather.\u00a0</li> <li>Cylinders in storage should be properly secured to prevent toppling or rolling.\u00a0</li> <li>Cylinder valves should be closed when not in use.\u00a0</li> <li>Where cylinders are fitted with valve protection this should be in place and properly secured.\u00a0</li> <li>Gas cylinders should be segregated according to the requirements of the Dangerous Goods Act(s).\u00a0</li> <li>Cylinders containing flammable gases should be stored away from other combustible materials. Alternatively a fire-resistant partition may be used.\u00a0</li> <li>Check storage areas for flammable or hazardous concentrations of gases prior to entry.\u00a0</li> <li>Preferably store full and empty cylinders separately.\u00a0</li> <li>Full cylinders should be arranged so that the oldest stock is used first.\u00a0</li> <li>Cylinders in storage should be checked periodically for general condition and leakage.\u00a0</li> <li>Protect cylinders against physical damage. Move and store cylinders correctly as instructed for their manual handling.\u00a0</li> </ul> <p><br /></p> <p><b>NOTE:</b>\u00a0A 'G' size cylinder is usually too heavy for an inexperienced operator to raise or lower.</p>",
+                "SuitableContainer": "<ul> <li>Cylinder:\u00a0</li> <li>Ensure the use of equipment rated for cylinder pressure.\u00a0</li> <li>Ensure the use of compatible materials of construction.\u00a0</li> <li>Valve protection cap to be in place until cylinder is secured, connected.\u00a0</li> <li>Cylinder must be properly secured either in use or in storage.\u00a0</li> <li>Cylinder valve must be closed when not in use or when empty.\u00a0</li> <li>Segregate full from empty cylinders.\u00a0</li> </ul> <p><br /></p> <p><font color=\"#ff0000\"><b>WARNING:</b></font>\u00a0Suckback into cylinder may result in rupture. Use back-flow preventive device in piping.</p>",
+                "StorageIncompatability": "<p>Butane/ isobutane</p> <ul> <li>reacts violently with strong oxidisers\u00a0</li> <li>reacts with acetylene, halogens and nitrous oxides\u00a0</li> <li>is incompatible with chlorine dioxide, conc. nitric acid and some plastics\u00a0</li> <li>may generate electrostatic charges, due to low conductivity, in flow or \u00a0when agitated - these may ignite the vapour.\u00a0</li> </ul> <p>Segregate from nickel carbonyl in the presence of oxygen, heat (20-40 C)</p> <p>Propane:</p> <ul> <li>reacts violently with strong oxidisers, barium peroxide, chlorine dioxide, dichlorine oxide, fluorine etc.\u00a0</li> <li>liquid attacks some plastics, rubber and coatings\u00a0</li> <li>may accumulate static charges which may ignite its vapours\u00a0</li> </ul> <ul> <li>Compressed gases may contain a large amount of kinetic energy over and above that potentially available from the energy of reaction produced by the gas in chemical reaction with other substances\u00a0</li> </ul> <ul> <li>Avoid reaction with oxidising agents\u00a0</li> </ul>",
+                "IsCombustibleLiquid": false,
+                "IsUnNumberValid": true,
+                "DgDiamondImages": [
+                    "DGC/DGC21.gif"
+                ],
+                "TransportIncompatibilities": "<p>Class 2.1 - Flammable gases shall not be loaded in the same vehicle or packed in the same freight container with:\u00a0\u00a0\u00a0</p>\n<p>Class 1 - Explosives;\u00a0\u00a0\u00a0</p>\n<p>Class 3 - Flammable liquids (where both flammable liquids and flammable gases are in bulk);\u00a0\u00a0\u00a0</p>\n<p>Class 4.1 - Flammable solids;\u00a0\u00a0\u00a0</p>\n<p>Class 4.2 - Spontaneously combustible substances;\u00a0\u00a0\u00a0</p>\n<p>Class 4.3 - Dangerous when wet substances;\u00a0\u00a0\u00a0</p>\n<p>Class 5.1 - Oxidising agents;\u00a0\u00a0\u00a0</p>\n<p>Class 5.2 - Organic peroxides;\u00a0\u00a0\u00a0</p>\n<p>Class 7 - Radioactive substances.\u00a0\u00a0\u00a0</p>\n<p>Avoid transport on vehicles where the load space is not separated from the driver's compartment. \u00a0\u00a0\u00a0\u00a0</p>\n<ul>\n<li>Ensure vehicle driver is aware of the potential hazards of the load and knows what to do in the event of an accident or an emergency. \u00a0\u00a0\u00a0\u00a0</li>\n<li>Before transporting product containers ensure that they are firmly secured. \u00a0\u00a0\u00a0\u00a0</li>\n<li>Ensure that the cylinder valve is closed and not leaking. \u00a0\u00a0\u00a0\u00a0</li>\n<li>Ensure that the valve outlet cap nut or plug (where provided) is correctly fitted. Ensure that the valve protection device (where provided) is correctly fitted. \u00a0\u00a0\u00a0\u00a0</li>\n<li>Ensure adequate ventilation. \u00a0\u00a0\u00a0\u00a0</li>\n<li>Ensure compliance with applicable regulations.\u00a0 \u00a0</li>\n</ul>",
+                "TransportPrecautions": "<p>Transportation precautions:\u00a0 <br />\u2022 Documentation must be included covering all dangerous goods carried on the vehicle<br />\u2022 The transport unit must be placarded and marked in accordance with relevant transporting requirements. <br />\u2022 Personal protective equipment must be in sufficient quantities and suitable for use by the driver of the vehicle and where required for escape purposes, any other persons travelling in the vehicle.<br />\u2022 Vehicles transporting dangerous goods need to be equipped with sufficient and adequate fire protection systems and emergency equipment to handle spillages. <br />\u2022 Cylinders exposed to fire may vent and release flammable gases through pressure relief devices. <br />\u2022 Containers may explode when heated.\u00a0 <br />\u2022 Likely to be incompatible however refer to SDS for further details: <br />Class 2.2 (subrisk 5.1), 2.3, 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 8 <br />\u2022 If applicable, use appropriate types of segregation devices to isolate incompatible dangerous goods:<br />\u2022 Incompatible for transport with foodstuffs (including stock feed). <br />\u2022 Routes for road vehicles should avoid heavily populated or environmentally sensitive areas, congested crossings or a concentration of people <br />\u2022 Vehicle exhaust or hot engine components must be shielded to ensure cargo temperatures cannot be raised.</p>",
+                "Environment": "<p>for Petroleum Hydrocarbon Gases:</p> <p><b>Environmental fate:</b></p> <p>The environmental fate characteristics of petroleum hydrocarbon gases are governed by these physical-chemical attributes. All components of these gases will partition to the air where interaction with hydroxyl radicals is an important fate process. Hydrocarbons having molecular weights represented in these streams are inherently biodegradable, but their tendency to partition to the atmosphere would prevent their biotic degradation in water and soils. However, if higher molecular weight fractions of these streams enter the aquatic or terrestrial environment, biodegradation may be an important fate mechanism.</p> <p>The majority of components making up hydrocarbon gases typically have low melting and boiling points. They also have high vapor pressures and low octanol/water partition coefficients. The aqueous solubilities of these substances vary, and range from approximately 22 parts per million to several hundred parts per million. The environmental fate characteristics of refinery gases are governed by these physical-chemical attributes. Components of the hydrocarbon gas streams will partition to the air, and photodegradation reactions will be an important fate process for many of the hydrocarbon components. The hydrocarbons in these mixtures are inherently biodegradable, but due to their tendency to partition to the atmosphere, biodegradation is not anticipated to be an important fate mechanisms. However, if released to water or soil, some of the higher molecular weight fractions may become available for microbial attack. The inorganic gases are chemically stable and may be lost to the atmosphere or simply become involved in the environmental recycling of their atoms. Some show substantial water solubility, but their volatility eventually causes these gases to enter the atmosphere.</p> <p>Substances in Refinery Gases that volatilise to air may undergo a gas-phase oxidation reaction with photochemically produced hydroxyl radicals (OH-). Atmospheric oxidation as a result of hydroxyl radical attack is not direct photochemical degradation, but rather indirect degradation Indirect photodegradation of the hydrocarbon components in Refinery Gases can be an important fate process for these constituents. In general, half lives decrease with increasing carbon chain length. Half lives for this fraction of Refinery Gases ranged from 960 days (methane) to 0.16 days (butadiene). The constituents of the C5- C6 hydrocarbon fraction have photodegradation half-lives of approximately two days.</p> <p>The hydrocarbon and non-hydrocarbon constituents in Refinery Gases do not contain the functional groups or chemical linkages known to undergo hydrolysis reactions. Therefore hydrolysis will not play an important role in the environmental fate for the components in Refinery Gas streams.\u00a0</p> <p>Biodegradation of the hydrocarbon components in refinery gases may occur in soil and water. Gaseous hydrocarbons are widespread in nature and numerous types of microbes have evolved which are capable of oxidizing these substances as their sole energy source . Although volatilization is the predominant behavior for these gases, sufficient aqueous solubility and bioavailability is exhibited by these compounds. The use of gaseous carbon sources for cell growth is common among autotrophic organisms . Higher chain length hydrocarbons typical of naphtha streams also are known to inherently biodegrade in the environment\u00a0</p> <p><b>Ecotoxicity:</b></p> <p>Acute LC/EC50 values for the hydrocarbon components of these gas streams ranged roughly from 1 to 100 mg/L.</p> <p>Although the LC/EC50 data for the individual gases illustrate the potential toxicity to aquatic organisms, aqueous concentrations from releases of these gases would likely not persist in the aquatic environment for a sufficient duration to elicit toxicity. Based on a simple conceptual exposure model analysis, emissions of petroleum hydrocarbon gases to the atmosphere would not likely result in acutely toxic concentrations in adjacent water bodies because such emissions will tend to remain in the atmosphere.</p> <p>Several of the constituents in refinery gases were shown to be highly hazardous to aquatic organisms in laboratory toxicity tests where exposure concentrations can be maintained over time. Hydrogen sulfide was shown to be the most toxic constituent to fish (LC50 ranged 0.007 to 0.2 mg/L) and invertebrates (EC50 ranged 0.022 to 1.07 mg/L), although several LC/EC50 values for ammonia also were below 1 mg/l for these organisms (0.083 to 4.6 mg/L and 0.53 to 22.8 mg/L, respectively).\u00a0</p> <p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>For isobutane:</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Refrigerant Gas: Saturated Hydrocarbons have zero ozone depletion\r\npotential (ODP) and will photodegrade under atmospheric conditions.\r\n&nbsp;[Calor Gas]</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Environmental Fate</span></b></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Terrestrial fate:&nbsp;</span></b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";color:black'>&nbsp;An\r\nestimated Koc value of 35 suggests that isobutane will have very high mobility\r\nin soil. Its very high Henry's Law constant, 4.08 atm-cu m/mole, (calculated\r\nfrom its vapor pressure and water solubility, high vapor pressure, 2611 mm Hg\r\nat 25 deg C, and low adsorptivity to soil indicate that volatilisation will be\r\nan important fate process from both moist and dry soil surfaces. Isobutane is\r\nbiodegradable, especially under acclimated conditions, and may biodegrade in\r\nsoil.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Aquatic fate:</span></b><span lang=\"EN-US\" style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";color:black'>&nbsp;The estimated Koc value\r\nsuggests that isobutane would not adsorb to sediment and particulate matter in\r\nthe water column. Additional evidence that isobutane is not removed to sediment\r\nhas been obtained from microcosm experiments. Isobutane will readily volatilise\r\nfrom water based on its estimated Henry's Law constant of 4.08 atm-cu m/mole.\r\nEstimated half-lives for a model river and model lake are 2.2 hr and 3.0 days,\r\nrespectively. An estimated BCF value of 74 based on the log Kow suggests that\r\nisobutane will not bioconcentrate in aquatic organisms.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Results indicate that gas exchange is the dominant removal\r\nmechanism for isobutane gases from the water column following a hypothetical\r\ninput. The volatilisation half-lives for isobutane from the water columns in\r\nnatural estuaries are estimated to be 4.4 and 6.8 days at 20 and 10 deg C,\r\nrespectively.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Isobutane also biodegrades in the microcosm at a rate that is\r\nslower than for n-butane and falls between propane and ethane in\r\nsusceptibility. Biodegradation of isobutane initially occurs with a half-lives\r\nof 16-26 days at 20 deg C and 33-139 days at 10 deg C, significantly slower\r\nthan the loss predicted by gas exchange from typical natural estuaries.\r\nHowever, after a lag of 2-4 weeks, the biodegradation rate increases markedly\r\nso that in the case of chronic inputs, biodegradation can become the dominant\r\nremoval mechanism.</span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:\r\nnormal'><b><span lang=\"EN-US\" style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\ncolor:black'>Atmospheric fate:</span></b><span lang=\"EN-US\" style='font-size:\r\n10.0pt;font-family:\"Arial\",\"sans-serif\";color:black'>: Isobutane is a gas at\r\nordinary temperatures. It is degraded in the atmosphere by reaction with\r\nphotochemically-produced hydroxyl radicals; the half-life for this reaction in\r\nair is 6.9 days, assuming a hydroxyl radical concn of 5x105 radicals per cubic\r\ncm. When isobutane was exposed to sunlight for 6 hr in a tedlar bag filled with\r\nLos Angeles air, 6% of the isobutane degraded The air contained 4529 ppb-C\r\nhydrocarbons and 870 ppb of NOX. The tropospheric loss of volatile hydrocarbons\r\nsuch as isobutane by wet and dry deposition are believed to be of minor\r\nimportance. Indeed, isobutane assimilated into precipitation may evaporate\r\nduring transport as well as being reemitted into the atmosphere after\r\ndeposition. Isobutane is a contributor to the production of PAN (peroxyacyl\r\nnitrates) under photochemical smog conditions</span></p> <p>For propane:</p> <p><b>Environmental Fate</b></p> <p><b>Terrestrial fate:</b>: An estimated Koc value of 460 determined from a log Kow of 2.36 indicates that propane is expected to have moderate mobility in soil. Volatilisation of propane from moist soil surfaces is expected to be an important fate process given an estimated Henry's Law constant of 7.07x10-1 atm-cu m/mole, derived from its vapor pressure, 7150 mm Hg, and water solubility, 62.4 mg/L. Propane is expected to volatilise from dry soil surfaces based upon its vapor pressure. Using cell suspensions of microorganisms isolated from soil and water, propane was oxidised to acetone within 24 hours, suggesting that biodegradation may be an important fate process in soil and sediment.\u00a0</p> <p><b>Aquatic fate:\u00a0</b>The estimated Koc value indicates that propane is expected to adsorb to suspended solids and sediment. Volatilisation from water surfaces is expected based upon an estimated Henry's Law constant. Using this Henry's Law constant volatilisation half-lives for a model river and model lake are estimated to be 41 minutes and 2.6 days, respectively. \u00a0An estimated BCF of 13.1 using log Kow suggests the potential for bioconcentration in aquatic organisms is low. After 192 hr, the trace concentration of propane contained in gasoline remained unchanged for both a sterile control and a mixed culture sample collected from ground water contaminated with gasoline. This indicates that biodegradation may not be an important fate process in water.\u00a0</p> <p><b>Atmospheric fate</b>:: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere and vapour pressure, propane is expected to exist solely as a gas in the ambient atmosphere. Gas-phase propane is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 14 days, calculated from its rate constant of 1.15x10-12 cu cm/molecule-sec at 25 deg C. Propane does not contain chromophores that absorb at wavelengths &gt;290 nm and therefore is not expected to be susceptible to direct photolysis by sunlight.</p> <p><font color=\"#ff0000\"><b>DO NOT</b></font><font color=\"#ff0000\">\u00a0discharge into sewer or waterways.</font></p>",
+                "Disposal": "<ul> <li>Evaporate or incinerate residue at an approved site.\u00a0</li> <li>Return empty containers to supplier.\u00a0</li> <li>Ensure damaged or non-returnable cylinders are gas-free before disposal.\u00a0</li> </ul>",
+                "Ecotox": [
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "7.71mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": "24.11mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "7.71mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50(ECx)",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "7.71mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "LC50",
+                        "TestDuration": "96h",
+                        "Species": "Fish",
+                        "Value": "24.11mg/l",
+                        "Source": "2"
+                    },
+                    {
+                        "EndPoint": "EC50",
+                        "TestDuration": "96h",
+                        "Species": "Algae or other aquatic plants",
+                        "Value": "7.71mg/l",
+                        "Source": "2"
+                    }
+                ],
+                "IsPure": true,
+                "Regulations": [
+                    "Australian Inventory of Industrial Chemicals (AIIC)",
+                    "Australia Hazardous Chemical Information System (HCIS) - Hazardous Chemicals",
+                    "Chemical Footprint Project - Chemicals of High Concern List"
+                ],
+                "Tccl": [],
+                "ClInventories": [
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H220; H340; H280; H350; H360; H332; H373; H224; H370",
+                        "SignalWord": "GHS02; GHS08; GHS04; Dgr; GHS07",
+                        "HazardState": "H220; H340; H280; H350; H360; H332; H373; H224; H370"
+                    },
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H220; H340; H350; H224; H304; H315; H336; H361; H411",
+                        "SignalWord": "GHS02; GHS08; GHS04; Dgr; GHS09; GHS07",
+                        "HazardState": "H220; H340; H350; H224; H304; H315; H336; H361; H411"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H220; H340; H350; H280; H336; H360; H373; H332; H224; H302; H304; H315; H411",
+                        "SignalWord": "GHS02; GHS08; GHS04; Dgr; GHS07; GHS09",
+                        "HazardState": "H220; H340; H350; H280; H336; H360; H373; H332; H224; H302; H304; H315; H411"
+                    },
+                    {
+                        "Harmonization": "1",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    },
+                    {
+                        "Harmonization": "2",
+                        "HazardClassCategory": "H304",
+                        "SignalWord": "GHS08; Dgr",
+                        "HazardState": "H304"
+                    }
+                ],
+                "NationalInventories": {
+                    "Aics": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Dsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Iecsc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Euinv": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Encs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Keci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nzioc": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Piccs": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tsca": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Ndsl": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Tcsi": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Insq": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Nci": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    },
+                    "Arips": {
+                        "AllIngredientsPresentInList": true,
+                        "IngredientsNotInList": [],
+                        "Value": "<p>Yes</p>"
+                    }
+                },
+                "Oel": [
+                    {
+                        "Source": "Australia Exposure Standards",
+                        "Twa": "Not Available",
+                        "TlvValue": "Not Available",
+                        "Stel": "Not Available",
+                        "StelValue": "Not Available",
+                        "Peak": "Not Available",
+                        "Notes": "Not Available"
+                    }
+                ],
+                "Pnec": {
+                    "FreshWater": "Not Available",
+                    "MarineWater": "Not Available",
+                    "Aqua": "Not Available",
+                    "FreshWaterSediment": "Not Available",
+                    "MarineWaterSediment": "Not Available",
+                    "Soil": "Not Available",
+                    "Stp": "Not Available",
+                    "Oral": "Not Available"
+                },
+                "Dnel": {
+                    "SwltDerm": {
+                        "Value": "23.4 mg/kg bw/day",
+                        "ForGeneralPopulation": false,
+                        "FormattedValue": "Dermal 23.4 mg/kg bw/day (Systemic, Chronic)",
+                        "Route": "Dermal",
+                        "Type": "Systemic, Chronic"
+                    }
+                },
+                "Teel": [
+                    {
+                        "Name": "Liquified petroleum gas; (L.P.G.)",
+                        "Teel1": "65,000 ppm",
+                        "Teel2": "2.30E+05 ppm",
+                        "Teel3": "4.00E+05 ppm"
+                    }
+                ],
+                "Idlh": {
+                    "OriginalValue": "Not Available",
+                    "RevisedValue": "Not Available"
+                },
+                "ExposureStandards": "<p>For butane:</p> <p>Odour Threshold Value: 2591 ppm (recognition)</p> <p>Butane in common with other homologues in the straight chain saturated aliphatic hydrocarbon series is not characterised by its toxicity but by its narcosis-inducing effects at high concentrations. The TLV is based on analogy with pentane by comparing their lower explosive limits in air. It is concluded that this limit will protect workers against the significant risk of drowsiness and other narcotic effects.</p> <p>Odour Safety Factor(OSF)</p> <p>OSF=0.22 (n-BUTANE)</p> <p><br /></p> #32ethane <p>For propane</p> <p>Odour Safety Factor(OSF)</p> <p>OSF=0.16 (PROPANE)</p> <p><br /></p> <p>Exposed individuals are\u00a0<b>NOT</b>\u00a0reasonably expected to be warned, by smell, that the Exposure Standard is being exceeded.</p> <p><br /></p> <p>\u00a0Odour Safety Factor (OSF) is determined to fall into either Class C, D or E.</p> <p><br /></p> <p>\u00a0The Odour Safety Factor (OSF) is defined as:</p> <p><br /></p> <p>\u00a0OSF= Exposure Standard (TWA) ppm/ Odour Threshold Value (OTV) ppm</p> <p><br /></p> <p>\u00a0Classification into classes follows:</p> <p><table> <tr> <td> <p>Class</p>  </td> <td> <p>OSF</p>  </td> <td> <p>Description</p>  </td> </tr> <tr> <td> <p>A</p>  </td> <td> <p>550</p>  </td> <td> <p>Over 90% of exposed individuals are aware by smell that the Exposure Standard (TLV-TWA for example) is being reached, even when distracted by working activities</p>  </td> </tr> <tr> <td> <p>B</p>  </td> <td> <p>26-550</p>  </td> <td> <p>As \"A\" for 50-90% of persons being distracted</p>  </td> </tr> <tr> <td> <p>C</p>  </td> <td> <p>1-26</p>  </td> <td> <p>As \"A\" for less than 50% of persons being distracted</p>  </td> </tr> <tr> <td> <p>D</p>  </td> <td> <p>0.18-1</p>  </td> <td> <p>10-50% of persons aware of being tested perceive by smell that the Exposure Standard is being reached</p>  </td> </tr> <tr> <td> <p>E</p>  </td> <td> <p>&lt;0.18</p>  </td> <td> <p>As \"D\" for less than 10% of persons aware of being tested</p>  </td> </tr> </table> </p>",
+                "EngineeringControls": "<p>Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to provide this high level of protection.</p> <p>The basic types of engineering controls are:</p> <p>Process controls which involve changing the way a job activity or process is done to reduce the risk.</p> <p>Enclosure and/or isolation of emission source which keeps a selected hazard \"physically\" away from the worker and ventilation that strategically \"adds\" and \"removes\" air in the work environment. Ventilation can remove or dilute an air contaminant if designed properly. The design of a ventilation system must match the particular process and chemical or contaminant in use.</p> <p>Employers may need to use multiple types of controls to prevent employee overexposure.\u00a0</p> <p><br /></p> <ul> <li>Areas where cylinders are stored require good ventilation and, if enclosed need discrete/ controlled exhaust ventilation.\u00a0</li> <li>Vented gas is flammable, and may spread from its origin. Vent path must not contain ignition sources, pilot lights, naked flames.\u00a0</li> <li>Secondary containment and exhaust gas treatment may be required by certain jurisdictions.\u00a0</li> <li>Local exhaust ventilation (explosion proof) is usually required in workplaces.\u00a0</li> <li>Consideration should be given to the use of doubly-contained piping; diaphragm or bellows-sealed, soft-seat valves; backflow prevention devices; flash arrestors and flow- monitoring or limiting devices.\u00a0</li> <li>Automated controls should ensure that workplace atmospheres do not exceed 25% of the lower explosive limit (LEL) (if available).\u00a0</li> <li>Monitor the work area and secondary containments for release of gas.\u00a0</li> <li>Automated alerting systems with automatic shutdown of gas-flow may be appropriate and may in fact be mandatory in certain jurisdictions.\u00a0</li> <li>Respiratory protection in the form of air-supplied or self-contained breathing equipment must be worn if the oxygen concentration in the workplace air is less than 19%.\u00a0</li> <li>Cartridge respirators\u00a0<b>DO NOT</b>\u00a0give protection and may result in rapid suffocation.\u00a0</li> </ul> <p>Air contaminants generated in the workplace possess varying \"escape\" velocities which, in turn, determine the \"capture velocities\" of fresh circulating air required to effectively remove the contaminant.</p> <p><table> <tr> <td> <p>Type of Contaminant:</p>  </td> <td> <p>Air Speed:</p>  </td> </tr> <tr> <td> <p>gas discharge (active generation into zone of rapid air motion)</p>  </td> <td> <p>1-2.5 m/s (200-500 f/min.)</p>  </td> </tr> </table> </p> <p>\u00a0Within each range the appropriate value depends on:</p> <p><table> <tr> <td> <p>Lower end of the range</p>  </td> <td> <p>Upper end of the range</p>  </td> </tr> <tr> <td> <p>1: Room air currents minimal or favourable to capture</p>  </td> <td> <p>1: Disturbing room air currents</p>  </td> </tr> <tr> <td> <p>2: Contaminants of low toxicity or of nuisance value only.</p>  </td> <td> <p>2: Contaminants of high toxicity</p>  </td> </tr> <tr> <td> <p>3: Intermittent, low production.</p>  </td> <td> <p>3: High production, heavy use</p>  </td> </tr> <tr> <td> <p>4: Large hood or large air mass in motion</p>  </td> <td> <p>4: Small hood-local control only</p>  </td> </tr> </table> </p> <p>Simple theory shows that air velocity falls rapidly with distance away from the opening of a simple extraction pipe. Velocity generally decreases with the square of distance from the extraction point (in simple cases). Therefore the air speed at the extraction point should be adjusted, accordingly, after reference to distance from the contaminating source. The air velocity at the extraction fan, for example, should be a minimum of 1-2.5 m/s (200-500 f/min.) for extraction of gases discharged 2 meters distant from the extraction point. Other mechanical considerations, producing performance deficits within the extraction apparatus, make it essential that theoretical air velocities are multiplied by factors of 10 or more when extraction systems are installed or used.</p>",
+                "AcuteInhaled": "<p>Inhalation of vapours may cause drowsiness and dizziness. This may be accompanied by narcosis, reduced alertness, loss of reflexes, lack of coordination and vertigo.</p> <p>Inhalation of vapours or aerosols (mists, fumes), generated by the material during the course of normal handling, may be damaging to the health of the individual.</p> <p>Limited evidence or practical experience suggests that the material may produce irritation of the respiratory system, in a significant number of individuals, following inhalation. In contrast to most organs, the lung is able to respond to a chemical insult by first removing or neutralising the irritant and then repairing the damage. The repair process, which initially evolved to protect mammalian lungs from foreign matter and antigens, may however, produce further lung damage resulting in the impairment of gas exchange, the primary function of the lungs. Respiratory tract irritation often results in an inflammatory response involving the recruitment and activation of many cell types, mainly derived from the vascular system.</p> <p>No health effects were seen in humans exposed at 1,000 ppm isobutane for up to 8 hours or 500 ppm for 8 hours/day for 10 days. Isobutane can have anaesthetic and asphyxiant effects at high concentrations, well above the lower explosion limit of 1.8% (18,000 ppm).</p> <p>Butane is a simple asphyxiant and is mildly anaesthetic at high concentrations (20-25%). 10000 ppm for 10 minutes causes drowsiness.</p> <p>Narcotic effects may be accompanied by exhilaration, dizziness, headache, nausea, confusion, incoordination and unconsciousness in severe cases</p> <p>Some aliphatic hydrocarbons produce axonal neuropathies. Isoparaffinic hydrocarbons produce injury to the kidneys of male rats. When albino rats were exposed to isoparaffins at 21.4 mg/l for 4 hours, all animals experienced weakness, tremors, salivation, mild to moderate convulsions, chromodacryorrhoea and ataxia within the first 24 hours. Symptoms disappeared after 24 hours.</p> <p>Several studies have evaluated sensory irritation in laboratory animals or odor or sensory response in humans. When evaluated by a standard procedure to assess upper airway irritation, isoparaffins did not produce sensory irritation in mice exposed to up to 400 ppm isoparaffin in air. Human volunteers were exposed for six hours to 100 ppm isoparaffin. The subjects were given a self-administered questionnaire to evaluate symptoms, which included dryness of the mucous membranes, loss of appetite, nausea, vomiting, diarrhea, fatigue, headache, dizziness, feeling of inebriation, visual disturbances, tremor, muscular weakness, impairment of coordination or paresthesia. No symptoms associated with solvent exposure were observed. With a human expert panel, odour from liquid imaging copier emissions became weakly discernible at approximately 50 ppm.\u00a0</p> <p>Numerous long-term exposures have been conducted in animals with only one major finding observed. Renal tubular damage has been found in kidneys of male rats upon repeated exposures to isoparaffins. It does not occur in mice or in female rats. This male rat nephropathy has been observed with a number of hydrocarbons, including wholly vaporized unleaded gasoline. The phenomenon has been attributed to reversible binding of hydrocarbon to alpha2-globulin. Since humans do not synthesize alpha2-globulin or a similar protein, the finding is not considered to be of biological significance to man. No clinically significant renal abnormalities have been found in refinery workers exposed to hydrocarbons.</p> <p>When evaluated for developmental toxicity in rats, isoparaffins were neither embryotoxic nor teratogenic. Isoparaffins were consistently negative on standard bacterial genotoxicity assays. They were also non-genotoxic in\u00a0<i>in vivo</i>\u00a0mammalian testing for somatic or germ cell mutations (mouse micronucleus test and rat dominant lethal assay, respectively).</p> <p>Mullin et al: Jnl Applied Toxicology 10, pp 136-142, 2006</p> <p>The paraffin gases C1-4 are practically nontoxic below the lower flammability limit, 18,000 to 50,000 ppm; above this, low to moderate incidental effects such as CNS depression and irritation occur, but are completely reversible upon cessation of the exposure.</p> <p>Common, generalised symptoms associated with non-toxic gas inhalation include :</p> <ul> <li>central nervous system effects such as headache, confusion, dizziness, progressive stupor, coma and seizures;\u00a0</li> <li>respiratory system complications may include tachypnoea and dyspnoea;\u00a0</li> <li>cardiovascular effects may include circulatory collapse and arrhythmias;\u00a0</li> <li>gastrointestinal effects may also be present and may include mucous membrane irritation and nausea and vomiting.\u00a0</li> </ul> <p>Acute effects from inhalation of high concentrations of vapour are pulmonary irritation, including coughing, with nausea; central nervous system depression - characterised by headache and dizziness, increased reaction time, fatigue and loss of co-ordination</p> <p>Central nervous system (CNS) depression may include nonspecific discomfort, symptoms of giddiness, headache, dizziness, nausea, anaesthetic effects, slowed reaction time, slurred speech and may progress to unconsciousness. \u00a0Serious poisonings may result in respiratory depression and may be fatal.</p> <p><br /></p> <p>Material is highly volatile and may quickly form a concentrated atmosphere in confined or unventilated areas. The vapour \u00a0 may displace and replace air in breathing zone, acting as a simple asphyxiant. This may happen with little warning of overexposure.</p> <p>The use of a quantity of material in an unventilated or confined space may result in increased exposure and an irritating atmosphere developing. Before starting consider control of exposure by mechanical ventilation.</p> <p>Hydrocarbons may sensitise the heart to adrenalin and other circulatory catecholamines; as a result cardiac arrhythmias and ventricular fibrillation may occur. Abrupt collapse may produce traumatic injury. Central nervous system (CNS) depression may be evident early. Symptoms of moderate poisoning may include giddiness, headache, dizziness and nausea. Serious poisonings may result in respiratory depression and may be fatal.</p> <p>\u00a0The paraffin gases C1-4 are practically non-toxic below their lower flammability limits (18000-50000 ppm). Above this level, incidental effects include CNS depression and irritation but these are reversible upon cessation of the exposure. The C3 and iso-C5 hydrocarbons show increasing narcotic properties; branching of the chain also enhances the effect. The C4 hydrocarbons appear to be more highly neurotoxic than the C3 and C5 members. Several fatalities due to voluntary inhalation of butane have been reported, possibly due to central, respiratory and circulatory effects resulting from anaesthesia, laryngeal oedema, chemical pneumonia or the combined effects of cardiac toxicity and increased sympathomimetic effects.</p> <p>\u00a0Inhalation of petroleum gases may produce narcosis, due in part to olefinic impurities. Displacement of oxygen in the air may cyanosis. If present in sufficient quantity these gases may reduce the oxygen level to below 18% producing asphyxiation. Symptoms include rapid respiration, mental dullness, lack of coordination, poor judgement, nausea and vomiting. The onset of cyanosis may lead to unconsciousness and death.</p>",
+                "AcuteEye": "<p><br /></p> <p>Although the material is not thought to be an irritant (as classified by EC Directives), direct contact with the eye may produce transient discomfort characterised by tearing or conjunctival redness (as with windburn).</p> <p>Instillation of isoparaffins into rabbit eyes produces only slight irritation.</p> <p>Direct contact with the eye may not cause irritation because of the extreme volatility of the gas; however concentrated atmospheres may produce irritation after brief exposures..</p>",
+                "AcuteSkin": "<p>The material is not thought to produce adverse health effects or skin irritation following contact (as classified by EC Directives using animal models). Nevertheless, good hygiene practice requires that exposure be kept to a minimum and that suitable gloves be used in an occupational setting.</p> <p>Repeated exposure may cause skin cracking, flaking or drying following normal handling and use.</p> <p>Dermally, isoparaffins have produced slight to moderate irritation in animals and humans under occluded patch conditions where evaporation cannot freely occur. However, they are not irritating in non-occluded tests, which are a more realistic simulation of human exposure. They have not been found to be sensitisers in guinea pig or human patch testing. However, occasional rare idiosyncratic sensitisation reactions in humans have been reported.</p> <p>Open cuts, abraded or irritated skin should not be exposed to this material</p> <p>Entry into the blood-stream through, for example, cuts, abrasions, puncture wounds or lesions, may produce systemic injury with harmful effects. Examine the skin prior to the use of the material and ensure that any external damage is suitably protected.</p> <p>Vapourising liquid causes rapid cooling and contact may cause cold burns, frostbite, even through normal gloves. Frozen skin tissues are painless and appear waxy and yellow. \u00a0Signs and symptoms of frost-bite may include \"pins and needles\", paleness followed by numbness, a hardening an stiffening of the skin, a progression of colour changes in the affected area, (first white, then mottled and blue and eventually black; on recovery, red, hot, painful and blistered).</p>",
+                "AcuteIngestion": "<p>Overexposure is unlikely in this form.</p> <p>Considered an unlikely route of entry in commercial/industrial environments\u00a0</p>",
+                "ChronicHealthEffects": "<p>Limited evidence suggests that repeated or long-term occupational exposure may produce cumulative health effects involving organs or biochemical systems.</p> <p>Principal route of occupational exposure to the gas is by inhalation.\u00a0</p> <p>Repeated or prolonged exposure to mixed hydrocarbons may produce  narcosis with dizziness, weakness, irritability, concentration and/or  memory loss, tremor in the fingers and tongue, vertigo, olfactory  disorders, constriction of visual field, paraesthesias of the  extremities, weight loss and anaemia and degenerative changes in the  liver and kidney. Chronic exposure by petroleum workers, to the lighter  hydrocarbons, has been associated with visual disturbances, damage to  the central nervous system, peripheral neuropathies (including numbness  and paraesthesias), psychological and neurophysiological deficits, bone  marrow toxicities (including hypoplasia possibly due to benzene) and  hepatic and renal involvement. Chronic dermal exposure to petroleum  hydrocarbons may result in defatting which produces localised  dermatoses. Surface cracking and erosion may also increase  susceptibility to infection by microorganisms. One epidemiological study  of petroleum refinery workers has reported elevations in standard  mortality ratios for skin cancer along with a dose-response relationship  indicating an association between routine workplace exposure to  petroleum or one of its constituents and skin cancer, particularly  melanoma. Other studies have been unable to confirm this finding.<br />Hydrocarbon  solvents are liquid hydrocarbon fractions derived from petroleum  processing streams, containing only carbon and hydrogen atoms, with  carbon numbers ranging from approximately C5-C20 and boiling between  approximately 35-370 deg C. Many of the hydrocarbon solvents have  complex and variable compositions with constituents of 4 types, alkanes  (normal paraffins, isoparaffins, and cycloparaffins) and aromatics  (primarily alkylated one- and two-ring species). Despite the  compositional complexity, most hydrocarbon solvent constituents have  similar toxicological properties, and the overall toxicological hazards  can be characterized in generic terms. Hydrocarbon solvents can cause  chemical pneumonitis if aspirated into the lung, and those that are  volatile can cause acute CNS effects and/or ocular and respiratory  irritation at exposure levels exceeding occupational recommendations.  Otherwise, there are few toxicologically important effects. The  exceptions, n-hexane and naphthalene, have unique toxicological  properties<br /><br />Animal studies:<br />No deaths or treatment related  signs of toxicity were observed in rats exposed to light alkylate  naphtha (paraffinic hydrocarbons) at concentrations of 668, 2220 and  6646 ppm for 6 hrs/day, 5 days/wk for 13 weeks. Increased liver weights  and kidney toxicity (male rats) was observed in high dose animals.  Exposure to pregnant rats at concentrations of 137, 3425 and 6850 ppm  did not adversely affect reproduction or cause maternal or foetal  toxicity. Lifetime skin painting studies in mice with similar naphthas  have shown weak or no carcinogenic activity following prolonged and  repeated exposure.\u00a0 Similar<br />naphthas/distillates, when tested at  nonirritating dose levels, did not show any significant carcinogenic  activity indicating that this tumorigenic response is likely related to  chronic irritation and not to dose. The mutagenic potential of naphthas  has been reported to be largely negative in a variety of mutagenicity  tests.\u00a0 The exact relationship between these results and human health is  not known. Some components of this product have been shown to produce a  species specific, sex hormonal dependent kidney lesion in male rats  from repeated oral or inhalation exposure. Subsequent research has shown  that the kidney damage develops via the formation of a  alpha-2u-globulin, a mechanism unique to the male rat.\u00a0 Humans do not  form alpha-2u-globulin, therefore, the kidney effects resulting from  this mechanism are not relevant in human.</p>",
+                "Toxicity": [
+                    {
+                        "Type": "Inhalation(Rat) LC50;",
+                        "Value": "658",
+                        "Unit": "mg/l4h",
+                        "Source": 2
+                    }
+                ],
+                "Irritation": [],
+                "InitialDate": "10/06/2005",
+                "NextRevisionDate": "2022-06-27T00:00:00",
+                "SignalWord": "Danger",
+                "NzCodes": [],
+                "Pictograms": [
+                    "GHSFla.gif",
+                    "GHSGas.gif",
+                    "GHSHar.gif"
+                ],
+                "HazardousNatureStatement": [
+                    {
+                        "SdsFormat": "local",
+                        "Value": "HAZARDOUS SUBSTANCE. DANGEROUS GOODS. According to the Criteria of NOHSC, and the ADG Code."
+                    },
+                    {
+                        "SdsFormat": "ghs",
+                        "Value": "HAZARDOUS CHEMICAL. DANGEROUS GOODS. According to the WHS Regulations and the ADG Code."
+                    }
+                ],
+                "MiniAcuteHealthEffects": "~HAG41|~R67|~R37?|~R20/22?|~LBAC1|~LBAC2",
+                "MiniChronicHealthEffects": "R33?|R66?",
+                "WhmisImages": [
+                    "WHMISG.gif",
+                    "WHMISF.gif"
+                ],
+                "ClassificationSource": "[1]",
+                "PrecautionaryCodesGeneral": [],
+                "PrecautionaryCodesPrevention": [
+                    {
+                        "Code": "P261",
+                        "Phrase": "Avoid breathing gas"
+                    },
+                    {
+                        "Code": "P271",
+                        "Phrase": "Use only outdoors or in a well-ventilated area."
+                    }
+                ],
+                "PrecautionaryCodesResponse": [
+                    {
+                        "Code": "P304+P340",
+                        "Phrase": "IF INHALED:, Remove person to fresh air and keep comfortable for breathing."
+                    },
+                    {
+                        "Code": "P312",
+                        "Phrase": "Call a POISON CENTRE/doctor/\u2026 if you feel unwell."
+                    }
+                ],
+                "PrecautionaryCodesStorage": [
+                    {
+                        "Code": "P410+P403",
+                        "Phrase": "Protect from sunlight., Store in a well-ventilated place."
+                    },
+                    {
+                        "Code": "P403+P233",
+                        "Phrase": "Store in a well-ventilated place., Keep container tightly closed."
+                    },
+                    {
+                        "Code": "P405",
+                        "Phrase": "Store locked up."
+                    }
+                ],
+                "PrecautionaryCodesDisposal": [
+                    {
+                        "Code": "P501",
+                        "Phrase": "Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation."
+                    }
+                ],
+                "DangerIndicators": [
+                    "E"
+                ],
+                "SafetyCodes": [
+                    {
+                        "Code": "S02",
+                        "Phrase": "    Keep out of reach of children.&nbsp;  "
+                    },
+                    {
+                        "Code": "S09",
+                        "Phrase": "    Keep container in a well ventilated place.&nbsp;  "
+                    },
+                    {
+                        "Code": "S23",
+                        "Phrase": "    Do not breathe gas/fumes/vapour/spray.&nbsp;  "
+                    },
+                    {
+                        "Code": "S33",
+                        "Phrase": "    Take precautionary measures against static discharges.&nbsp;  "
+                    },
+                    {
+                        "Code": "S35",
+                        "Phrase": "    This material and its container must be disposed of in a safe way.&nbsp;  "
+                    },
+                    {
+                        "Code": "S41",
+                        "Phrase": "    In case of fire and/or explosion, DO NOT BREATHE FUMES.&nbsp;  "
+                    },
+                    {
+                        "Code": "S43",
+                        "Phrase": "\nIn case of fire use the extinguishing media detailed in section 5 of this SDS.\n"
+                    },
+                    {
+                        "Code": "S51",
+                        "Phrase": "    Use only in well ventilated areas.&nbsp;  "
+                    },
+                    {
+                        "Code": "S56",
+                        "Phrase": "    Dispose of this material and its container at hazardous or special waste collection point.&nbsp;  "
+                    }
+                ],
+                "RiskCodesSource": "[1]",
+                "IsHazardous": true,
+                "ReachReferences": {
+                    "AnnexXIV": {
+                        "Listed": false
+                    },
+                    "AnnexXVII": {
+                        "ListedForIngredient": false,
+                        "Listed": false
+                    },
+                    "Svhc": {
+                        "Listed": false
+                    },
+                    "AllReferences": []
+                },
+                "RiskLabelsImages": [
+                    {
+                        "ImageName": "no_spark.gif",
+                        "Translation": "    Extremely flammable.&nbsp;  "
+                    }
+                ],
+                "FirstAidImages": [],
+                "RiskHealthImages": [
+                    {
+                        "ImageName": "RiskCodes/R67.gif",
+                        "Translation": "May cause drowsiness or dizziness."
+                    }
+                ],
+                "RiskPhysicalImages": [],
+                "MiniEmergencyImages": [
+                    {
+                        "ImageName": "evacuate.gif",
+                        "Translation": "Consider evacuation."
+                    },
+                    {
+                        "ImageName": "fire_ext_water.gif",
+                        "Translation": "Water"
+                    }
+                ],
+                "HagFireFighting": [
+                    "<p>Water spray/ fog.\u00a0</p>"
+                ],
+                "GhsPpeImages": [
+                    {
+                        "ImageName": "PPE/GHS/GHSGLV.gif",
+                        "Translation": "Gloves"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSOVE.gif",
+                        "Translation": "Overall"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSBTS.gif",
+                        "Translation": "Boots"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSHR.gif",
+                        "Translation": "Half-Respirator"
+                    },
+                    {
+                        "ImageName": "PPE/GHS/GHSGGL.gif",
+                        "Translation": "Goggles"
+                    }
+                ],
+                "ChemicalName": "PETROLEUM GASES, LIQUEFIED",
+                "Nfpa": {
+                    "Toxicity": 1,
+                    "Flammability": 4,
+                    "Reactivity": 4,
+                    "Special": "0"
+                },
+                "NfpaImage": "NFPA/NfpaDiamondGraphic_200x200_1_4_4_0.png",
+                "RiskAssessmentHazardRating": {
+                    "Rating": "2",
+                    "Translation": "Moderate",
+                    "NumericalRating": 2,
+                    "IsSGroup": false
+                },
+                "PersonsAtRisk": [],
+                "SafeStorageWithOtherChemicals": {
+                    "Flammable": 2,
+                    "Explosive": 1,
+                    "Toxic": 2,
+                    "Oxidizer": 1,
+                    "Chronic": 2,
+                    "Harmful": 2,
+                    "Corrosive": 2
+                },
+                "MiniAppearanceImages": [
+                    {
+                        "ImageName": "gas.gif",
+                        "Translation": "Gas."
+                    },
+                    {
+                        "ImageName": "doesnt_mix_with_water.gif",
+                        "Translation": "Does not\u00a0mix with water."
+                    },
+                    {
+                        "ImageName": "floats_on_water.gif",
+                        "Translation": "Floats on water."
+                    }
+                ],
+                "PpeEye": [
+                    "<ul>\n<li><span style=\"color:#000000\">Chemical goggles.</span></li>\n<li><span style=\"color:#000000\">Full face shield may be required for supplementary but never for primary protection of eyes.</span></li>\n<li><span style=\"color:#000000\">Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task. This should include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience. Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available. In the event of chemical exposure, begin eye irrigation immediately and remove contact lens as soon as practicable. Lens should be removed at the first signs of eye redness or irritation - lens should be removed in a clean environment only after workers have washed hands thoroughly. [CDC NIOSH Current Intelligence Bulletin 59], [AS/NZS 1336 or national equivalent]</span></li>\n</ul>"
+                ],
+                "PpeHandsFeet": [
+                    "<ul> <li>When handling sealed and suitably insulated cylinders wear cloth or leather gloves.\u00a0</li> </ul> <ul> <li>Insulated gloves:\u00a0</li> </ul> <p>NOTE: Insulated gloves should be loose fitting so that may be removed quickly if liquid is spilled upon them. Insulated gloves are not made to permit hands to be placed in the liquid; they provide only short-term protection from accidental contact with the liquid.</p>"
+                ],
+                "PpeOther": [
+                    "<ul> <li>The clothing worn by process operators insulated from earth may develop static charges far higher (up to 100 times) than the minimum ignition energies for various flammable gas-air mixtures. This holds true for a wide range of clothing materials including cotton.\u00a0</li> <li>Avoid dangerous levels of charge by ensuring a low resistivity of the surface material worn outermost.\u00a0</li> </ul> <p>BRETHERICK: Handbook of Reactive Chemical Hazards.</p> <ul>\n<li><span style=\"color:#000000\">Protective overalls, closely fitted at neck and wrist.\u00a0</span></li>\n<li><span style=\"color:#000000\">Eye-wash unit.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\"><strong>IN CONFINED SPACES:</strong></span></p>\n<ul>\n<li><span style=\"color:#000000\">Non-sparking protective boots\u00a0</span></li>\n<li><span style=\"color:#000000\">Static-free clothing.\u00a0</span></li>\n<li><span style=\"color:#000000\">Ensure availability of lifeline.\u00a0</span></li>\n</ul>\n<p><span style=\"color:#000000\">Staff should be trained in all aspects of rescue work.</span></p>\n<p><span style=\"color:#000000\">Rescue gear: Two sets of SCBA breathing apparatus Rescue Harness, lines etc.</span></p> <ul>\n<li>Some plastic personal protective equipment (PPE) (e.g. gloves, aprons, overshoes) are not recommended as they may produce static electricity.</li>\n<li>For large scale or continuous use wear tight-weave non-static clothing (no metallic fasteners, cuffs or pockets).</li>\n<li>Non sparking safety or conductive footwear should be considered. Conductive footwear describes a boot or shoe with a sole made from a conductive compound chemically bound to the bottom components, for permanent control to electrically ground the foot an shall dissipate static electricity from the body to reduce the possibility of ignition of volatile compounds. Electrical resistance must range between 0 to 500,000 ohms. Conductive shoes should be stored in lockers close to the room in which they are worn. Personnel who have been issued conductive footwear should not wear them from their place of work to their homes and return.</li>\n</ul>"
+                ],
+                "PpeRespirator": [
+                    "<ul>\n<li><span style=\"color:black\">Cartridge respirators should never be used for emergency ingress or in areas of unknown vapour concentrations or oxygen content.</span></li>\n<li><span style=\"color:black\">The wearer must be warned to leave the contaminated area immediately on detecting any odours through the respirator. The odour may indicate that the mask is not functioning properly, that the vapour concentration is too high, or that the mask is not properly fitted. Because of these limitations, only restricted use of cartridge respirators is considered appropriate.</span></li>\n<li><span>Cartridge performance is affected by humidity. Cartridges should be changed after 2 hr of continuous use unless it is determined that the humidity is less than 75%, in which case, cartridges can be used for 4 hr. Used cartridges should be discarded daily, regardless of the length of time used</span></li>\n</ul> <ul> <li>Positive pressure, full face, air-supplied breathing apparatus should be used for work in enclosed spaces if a leak is suspected or the primary containment is to be opened (e.g. for a cylinder change)\u00a0</li> <li>Air-supplied breathing apparatus is required where release of gas from primary containment is either suspected or demonstrated.\u00a0</li> </ul>"
+                ],
+                "ToxicityCategories": {
+                    "AcuteToxicity": false,
+                    "Carcinogenicity": false,
+                    "SkinIrritation": false,
+                    "Reproductivity": false,
+                    "SeriousEyeDamage": false,
+                    "StotSingleExposure": true,
+                    "RespiratorySkinSensitisation": false,
+                    "StotRepeatedExposure": false,
+                    "Mutagenicity": false,
+                    "AspirationHazard": false
+                },
+                "GloveSelection": []
+            },
+            "Proportion": "<10",
+            "Name": "hydrocarbon propellant",
+            "OrderNumber": 5,
+            "NameForShowing": "hydrocarbon propellant",
+            "ProportionForShowing": "<10",
+            "CwNumber": "1075-1",
+            "NumericProportion": {
+                "MinValue": 9.99,
+                "MaxValue": 9.99,
+                "RawMinValue": 10.0,
+                "RawMaxValue": 10.0,
+                "MinValueSign": "<",
+                "MaxValueSign": "<",
+                "IsValidNumericValue": true
+            },
+            "MiniOrderIndex": 0
+        },
+        {
+            "Proportion": "balance",
+            "Name": "other nonhazardous ingredients",
+            "OrderNumber": 6,
+            "SanitizedName": "other nonhazardous ingredients",
+            "NameForShowing": "other nonhazardous ingredients",
+            "ProportionForShowing": "balance",
+            "NumericProportion": {
+                "IsValidNumericValue": false
+            },
+            "MiniOrderIndex": 0
+        }
+    ],
+    "CwNumber": "01-0397",
+    "IsFullDataset": false,
+    "Vendor": "-1",
+    "DocumentNumber": "a01-0397",
+    "Version": "637648145739790167",
+    "DatasetType": 4,
+    "Country": {
+        "Name": "Australia",
+        "Code": "AUS",
+        "Region": 2
+    },
+    "Language": {
+        "Name": "English",
+        "Code": "EN"
+    },
+    "CredoKey": "01-0397",
+    "Key": "01-0397_AUS_EN",
+    "FullKey": "datasets/gold/01-0397_AUS_EN",
+    "AiteLogKey": "01-0397",
+    "AiteS3Key": "xml/01-0397.json",
+    "Name": "McPherson Simple for Men Skin Defence Shave Foam",
+    "Dgc": "2.1",
+    "Un": "1950",
+    "GhsEntities": [
+        {
+            "Category": "Aerosols Category 1",
+            "CategoryCode": "Cat 1",
+            "Code": "H222+H229",
+            "Phrase": "Extremely flammable aerosol., Pressurised container: May burst if heated."
+        },
+        {
+            "Code": "AUH044",
+            "Phrase": "Risk of explosion if heated under confinement."
+        }
+    ],
+    "WaterSolubility": 0,
+    "IssueDate": "0001-01-01T00:00:00",
+    "IsInPrtrList": false,
+    "IsCombustibleLiquid": false,
+    "IsUnNumberValid": false,
+    "IsPure": false,
+    "NextRevisionDate": "0001-01-01T00:00:00",
+    "IsHazardous": false
+}
