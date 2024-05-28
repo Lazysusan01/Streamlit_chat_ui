@@ -132,9 +132,8 @@ def main():
                                 variants exist- CLP in Europe and China, HSIS in Australia
                                 
                                 UN RA:
-                                The International Labour Organisation (ILO) has developed a Risk Assessment Model described as "Control Banding" It is based on the Model developed by the UK HSE
-                                known as CosshEssentials. Both Agencies adopt the Globally Harmonised System (GHS) for determining chemical hazards. National or Regional variants exist- 
-                                CLP in Europe and China, HSIS in Australia
+                                The United Nations (UN) Dangerous Goods Codes have been developed to regulate Transport and Storage of chemicals on Land. Similar systems have been 
+                                adopted for Air (IATA) and Water (IMDG) Transport and Storage. Various countries / jurisdictions have local variants (e.g ADG in Australia, DOT in the USA, ADR throughout Europe)
                                 
                                 Regulatory burdens translate to: 1: Lightly regulated, 2: Moderately regulated, 3: Highly regulated, 4: Highly regulated, 5: Extremely regulated.
                                 Handling instructions can be inferred from defaultPpeimages but do not mention the images directly.
