@@ -6,33 +6,68 @@ from dotenv import load_dotenv
 import boto3
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 from PIL import Image
+import requests
 
+
+role_name  = "AWSSSMRoleForEC2"
 def get_credentials():
     try:
-        #     try:
+        # Try to get credentials from EC2 instance metadata
+        token_response = requests.put(
+            "http://169.254.169.254/latest/api/token",
+            headers={"X-aws-ec2-metadata-token-ttl-seconds": "21600"}
+        )
+        if token_response.status_code == 200:
+            token = token_response.text
+            credentials_response = requests.get(
+                "http://169.254.169.254/latest/meta-data/iam/security-credentials/",
+                headers={"X-aws-ec2-metadata-token": token}
+            )
+            role_name = credentials_response.text
+            credentials_response = requests.get(
+                f"http://169.254.169.254/latest/meta-data/iam/security-credentials/{role_name}",
+                headers={"X-aws-ec2-metadata-token": token}
+            )
+            if credentials_response.status_code == 200:
+                credentials = credentials_response.json()
+                print("Using AWS credentials from EC2 instance metadata")
+                return {
+                    "aws_access_key": credentials['AccessKeyId'],
+                    "aws_secret_key": credentials['SecretAccessKey'],
+                    "aws_session_token": credentials['Token'],
+                }
+    except Exception as e:
+        print(f"Error fetching credentials from EC2 instance metadata: {e}")
+
+    try:
+        # Try to get credentials from the boto3 session profile
         session = boto3.Session(profile_name='nicomcgill')
-        # Retrieve temporary credentials from the session
         credentials = session.get_credentials()
         current_credentials = credentials.get_frozen_credentials()
         if current_credentials:
-            print("Using AWS credentials from the session profile")
-        return {
-            "aws_access_key": current_credentials.access_key,
-            "aws_secret_key": current_credentials.secret_key,
-            "aws_session_token": current_credentials.token,
-        }
-    except:
-        load_dotenv()
-        aws_access_key = os.getenv("aws_access_key_id")
-        aws_secret_key = os.getenv("aws_secret_access_key")
-        aws_session_token = os.getenv("aws_session_token")
-        if aws_access_key:
-            print("Using AWS credentials from the environment variables")
+            print("Using AWS credentials from the boto3 session profile")
+            return {
+                "aws_access_key": current_credentials.access_key,
+                "aws_secret_key": current_credentials.secret_key,
+                "aws_session_token": current_credentials.token,
+            }
+    except Exception as e:
+        print(f"Error fetching credentials from boto3 session profile: {e}")
+
+    # Fallback to environment variables
+    load_dotenv()
+    aws_access_key = os.getenv("aws_access_key_id")
+    aws_secret_key = os.getenv("aws_secret_access_key")
+    aws_session_token = os.getenv("aws_session_token")
+    if aws_access_key and aws_secret_key:
+        print("Using AWS credentials from the environment variables")
         return {
             "aws_access_key": aws_access_key,
             "aws_secret_key": aws_secret_key,
             "aws_session_token": aws_session_token,
         }
+
+    raise Exception("No AWS credentials found")
 
 def ask_claude(system_prompt, messages, credentials):
 #   get_boto3_credentials() or
