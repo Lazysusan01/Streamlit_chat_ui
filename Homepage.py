@@ -97,7 +97,7 @@ def main():
     st.sidebar.image(sidebar_image)
     # Select Language and chemicals
     language = st.sidebar.selectbox("Select a language", ["English", "French", "Spanish", "Uwu","Pirate"])
-    st.sidebar.title("Select a chemical or select two to compare:")
+    # st.sidebar.title("Select a chemical or select two to compare:")
     # Styling the sidebar
     sidebar_styles = """
     /* Sidebar styles */
@@ -130,9 +130,9 @@ def main():
             chemical_content[filename] = content    
     
     with st.chat_message("assistant"):
-        st.write("Welcome to the Chemwatch SDS Chatbot. Please select a chemical(s).")
+        st.write("Welcome to the Chemwatch SDS Chatbot. Please select a chemical or select two to compare them.")
         
-    selected_chemical = st.sidebar.multiselect("Chemical(s)", filenames, max_selections=2)
+    selected_chemical = st.multiselect("Chemical(s)", filenames, max_selections=2)
     
     if selected_chemical:
         if "messages" not in st.session_state:
