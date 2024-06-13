@@ -8,7 +8,6 @@ from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 from PIL import Image
 import requests
 
-
 role_name  = "AWSSSMRoleForEC2"
 def get_credentials():
     try:
